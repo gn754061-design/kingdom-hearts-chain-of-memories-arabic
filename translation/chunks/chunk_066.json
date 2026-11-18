@@ -1,0 +1,848 @@
+{
+ "chunk": 66,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyCharacterHadesLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHadesLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHadesLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHadesLine3",
+   "en": "Hades can’t stand{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHadesLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHadesLine4",
+   "en": "Hercules.  He tricked{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHadesLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHadesLine5",
+   "en": "Cloud into challenging{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHadesLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHadesLine6",
+   "en": "Hercules to the death,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHadesLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHadesLine7",
+   "en": "but we put an end to{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHadesLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHadesLine8",
+   "en": "his plotting.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine0",
+   "en": "A curious girl who fell{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine1",
+   "en": "down the rabbit hole{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine2",
+   "en": "into Wonderland.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine4",
+   "en": "Alice was falsely{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine5",
+   "en": "accused of stealing the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine6",
+   "en": "Queen of Hearts’s{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine7",
+   "en": "memory and put on trial,{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine8",
+   "en": "but we intervened and{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine9",
+   "en": "helped her clear her{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAliceLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAliceLine10",
+   "en": "name.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterQueenOfHeartsLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterQueenOfHeartsLine0",
+   "en": "A selfish ruler who{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterQueenOfHeartsLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterQueenOfHeartsLine1",
+   "en": "commands an army of{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterQueenOfHeartsLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterQueenOfHeartsLine2",
+   "en": "card soldiers.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterQueenOfHeartsLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterQueenOfHeartsLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterQueenOfHeartsLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterQueenOfHeartsLine4",
+   "en": "A Heartless stole the{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterQueenOfHeartsLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterQueenOfHeartsLine5",
+   "en": "Queen’s memory, but{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterQueenOfHeartsLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterQueenOfHeartsLine6",
+   "en": "she accused Alice and{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterQueenOfHeartsLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterQueenOfHeartsLine7",
+   "en": "put her on trial.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWhiteRabbitLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWhiteRabbitLine0",
+   "en": "A loyal retainer of the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWhiteRabbitLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWhiteRabbitLine1",
+   "en": "Queen of Hearts.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWhiteRabbitLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWhiteRabbitLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWhiteRabbitLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWhiteRabbitLine3",
+   "en": "He always carries out{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWhiteRabbitLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWhiteRabbitLine4",
+   "en": "the Queen’s orders, no{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWhiteRabbitLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWhiteRabbitLine5",
+   "en": "matter what they may{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWhiteRabbitLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWhiteRabbitLine6",
+   "en": "be.{END}",
+   "max_units": 22,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfHeartsLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfHeartsLine0",
+   "en": "Guards in the service{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfHeartsLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfHeartsLine1",
+   "en": "of the Queen of Hearts.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfHeartsLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfHeartsLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfHeartsLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfHeartsLine3",
+   "en": "They fear her temper{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfHeartsLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfHeartsLine4",
+   "en": "and will do anything{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfHeartsLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfHeartsLine5",
+   "en": "she orders.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfSpadesLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfSpadesLine0",
+   "en": "Guards in the service{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfSpadesLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfSpadesLine1",
+   "en": "of the Queen of Hearts.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfSpadesLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfSpadesLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfSpadesLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfSpadesLine3",
+   "en": "They fear her temper{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfSpadesLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfSpadesLine4",
+   "en": "and will do anything{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCardOfSpadesLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCardOfSpadesLine5",
+   "en": "she orders.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCheshireCatLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCheshireCatLine0",
+   "en": "A mysterious, grinning{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCheshireCatLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCheshireCatLine1",
+   "en": "cat who always talks in{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCheshireCatLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCheshireCatLine2",
+   "en": "riddles.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCheshireCatLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCheshireCatLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCheshireCatLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCheshireCatLine4",
+   "en": "He appears when you{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCheshireCatLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCheshireCatLine5",
+   "en": "least expect it, and{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCheshireCatLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCheshireCatLine6",
+   "en": "disappears whenever{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCheshireCatLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCheshireCatLine7",
+   "en": "he pleases.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSebastianLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSebastianLine0",
+   "en": "Triton’s music director{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSebastianLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSebastianLine1",
+   "en": "and Ariel’s guardian.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSebastianLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSebastianLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSebastianLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSebastianLine3",
+   "en": "Sebastian is constantly{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSebastianLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSebastianLine4",
+   "en": "scolding Ariel for her{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSebastianLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSebastianLine5",
+   "en": "escapades, but only{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSebastianLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSebastianLine6",
+   "en": "because he worries for{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSebastianLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSebastianLine7",
+   "en": "her safety.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterFlounderLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterFlounderLine0",
+   "en": "A young fish.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterFlounderLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterFlounderLine1",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterFlounderLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterFlounderLine2",
+   "en": "He’s not exactly brave,{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterFlounderLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterFlounderLine3",
+   "en": "but Flounder is Ariel’s{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterFlounderLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterFlounderLine4",
+   "en": "most loyal friend.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterFlounderLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterFlounderLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterFlounderLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterFlounderLine6",
+   "en": "Ursula kidnapped{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterFlounderLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterFlounderLine7",
+   "en": "Flounder as part of her{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterFlounderLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterFlounderLine8",
+   "en": "plan to trick Ariel and{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 81,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyEnemyCardVexenLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardVexenLine7",
+   "en": "· Immune to ice{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardVexenLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardVexenLine8",
+   "en": "· Stunned by fire{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine0",
+   "en": "■ Double Sleight{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine1",
+   "en": "Use stocked cards and{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine2",
+   "en": "sleights twice in a row.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine3",
+   "en": "However, during versus{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine4",
+   "en": "battles it bumps up the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine5",
+   "en": "reload counter.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine7",
+   "en": "Duration:  3 sleights{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine8",
+   "en": "· Resistant to fire, ice,{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine9",
+   "en": "  lightning, and special{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine10",
+   "en": "  attacks{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine11",
+   "en": "· Weak against physical{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardMarluxiaLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardMarluxiaLine12",
+   "en": "  attacks{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardTranquilDarknessLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardTranquilDarknessLine0",
+   "en": "A room where only a{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardTranquilDarknessLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardTranquilDarknessLine1",
+   "en": "few Heartless appear.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardGuardedTroveLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardGuardedTroveLine0",
+   "en": "A room where{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardGuardedTroveLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardGuardedTroveLine1",
+   "en": "treasure is guarded{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardGuardedTroveLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardGuardedTroveLine2",
+   "en": "by Heartless.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardSleepingDarknessLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardSleepingDarknessLine0",
+   "en": "A room where{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardSleepingDarknessLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardSleepingDarknessLine1",
+   "en": "Heartless are drowsy{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardSleepingDarknessLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardSleepingDarknessLine2",
+   "en": "and easy to ambush.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMomentsReprieveLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMomentsReprieveLine0",
+   "en": "A room where you can{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMomentsReprieveLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMomentsReprieveLine1",
+   "en": "save your progress.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardFeebleDarknessLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardFeebleDarknessLine0",
+   "en": "A room where{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardFeebleDarknessLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardFeebleDarknessLine1",
+   "en": "Heartless with weak{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardFeebleDarknessLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardFeebleDarknessLine2",
+   "en": "cards appear.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardCalmBountyLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardCalmBountyLine0",
+   "en": "A room containing{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardCalmBountyLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardCalmBountyLine1",
+   "en": "treasure.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardFalseBountyLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardFalseBountyLine0",
+   "en": "A room where only one{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardFalseBountyLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardFalseBountyLine1",
+   "en": "treasure chest is real.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardFalseBountyLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardFalseBountyLine2",
+   "en": "Opening the wrong{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardFalseBountyLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardFalseBountyLine3",
+   "en": "chest triggers a battle.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMoogleRoomLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMoogleRoomLine0",
+   "en": "A room where cards can{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMoogleRoomLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMoogleRoomLine1",
+   "en": "be traded with moogles{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMoogleRoomLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMoogleRoomLine2",
+   "en": "at the Moogle Shop.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardSorcerousWakingLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardSorcerousWakingLine0",
+   "en": "A room where magic{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardSorcerousWakingLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardSorcerousWakingLine1",
+   "en": "cards are more{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardSorcerousWakingLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardSorcerousWakingLine2",
+   "en": "effective.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMartialWakingLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMartialWakingLine0",
+   "en": "A room where attack{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMartialWakingLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMartialWakingLine1",
+   "en": "cards are more{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMartialWakingLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMartialWakingLine2",
+   "en": "effective.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardAlchemicWakingLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardAlchemicWakingLine0",
+   "en": "A room where item{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardAlchemicWakingLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardAlchemicWakingLine1",
+   "en": "cards are more{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardAlchemicWakingLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardAlchemicWakingLine2",
+   "en": "effective.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMeetingGroundLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMeetingGroundLine0",
+   "en": "A room where a friend{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMeetingGroundLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMeetingGroundLine1",
+   "en": "card appears at the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMeetingGroundLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMeetingGroundLine2",
+   "en": "beginning of all battles{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMeetingGroundLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMeetingGroundLine3",
+   "en": "(if your friends are{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMeetingGroundLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMeetingGroundLine4",
+   "en": "with you).{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMinglingWorldsLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMinglingWorldsLine0",
+   "en": "A room where anything{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardMinglingWorldsLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardMinglingWorldsLine1",
+   "en": "could happen.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardStrongInitiativeLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardStrongInitiativeLine0",
+   "en": "A room where striking{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardStrongInitiativeLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardStrongInitiativeLine1",
+   "en": "first in the field does{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardStrongInitiativeLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardStrongInitiativeLine2",
+   "en": "additional damage to{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardStrongInitiativeLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardStrongInitiativeLine3",
+   "en": "Heartless.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardLastingDazeLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardLastingDazeLine0",
+   "en": "A room where striking{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardLastingDazeLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardLastingDazeLine1",
+   "en": "first in the field stuns{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardLastingDazeLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardLastingDazeLine2",
+   "en": "all Heartless that join{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardLastingDazeLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardLastingDazeLine3",
+   "en": "the battle.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardStagnantSpaceLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardStagnantSpaceLine0",
+   "en": "A room where the{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardStagnantSpaceLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardStagnantSpaceLine1",
+   "en": "Heartless move slowly.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardPremiumRoomLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardPremiumRoomLine0",
+   "en": "A room where victory{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardPremiumRoomLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardPremiumRoomLine1",
+   "en": "often leads to Premium{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardPremiumRoomLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardPremiumRoomLine2",
+   "en": "Bonuses.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardWhiteRoomLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardWhiteRoomLine0",
+   "en": "A room where only{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardWhiteRoomLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardWhiteRoomLine1",
+   "en": "White Mushrooms{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardWhiteRoomLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardWhiteRoomLine2",
+   "en": "appear.  But what{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardWhiteRoomLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardWhiteRoomLine3",
+   "en": "happens when you help{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

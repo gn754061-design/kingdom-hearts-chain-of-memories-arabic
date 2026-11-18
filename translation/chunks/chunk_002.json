@@ -1,0 +1,848 @@
+{
+ "chunk": 2,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 140,
+ "items": [
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043AB0",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043AB0",
+   "en": "Stop enemies from breaking\nitem cards you use.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043B0E",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043B0E",
+   "en": "Become invisible and reduce\nyour chances of being hit.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043B7C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043B7C",
+   "en": "Absorb enemy HP when\nstriking with attack cards.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043BDE",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043BDE",
+   "en": "Decrease the values of all\ncards by 1.{END}",
+   "max_units": 51,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043C2C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043C2C",
+   "en": "Hide the cards you hold from\nhostile eyes.{END}",
+   "max_units": 51,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043C82",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043C82",
+   "en": "Reload without incrementing\nthe reload counter.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043CE2",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043CE2",
+   "en": "Decrease damage from\nenemies' physical attacks.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043D42",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043D42",
+   "en": "Restore some HP every time\nyou use a friend card.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043DA6",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043DA6",
+   "en": "Activate a random enemy\ncard effect.{END}",
+   "max_units": 51,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043DF0",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043DF0",
+   "en": "Stop enemies from breaking\nCure abilities you use.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043E56",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043E56",
+   "en": "Subtract 2 from the reload\ncounter.{END}",
+   "max_units": 51,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043E9E",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043E9E",
+   "en": "Forfeit magic card use to\npower up summon cards.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043F00",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043F00",
+   "en": "Cause enemies' HP to\ngradually drop.{END}",
+   "max_units": 51,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043F4A",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043F4A",
+   "en": "Slightly extend the range\nof attack cards.{END}",
+   "max_units": 51,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043FA0",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043FA0",
+   "en": "Boost the power of attack\ncards when low on HP.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044000",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044000",
+   "en": "Halve the damage from\nenemies' magical attacks.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044060",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044060",
+   "en": "Gradually restore HP.{END}",
+   "max_units": 51,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904408C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904408C",
+   "en": "Break an opponent's enemy\ncard without fail.{END}",
+   "max_units": 51,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090440E6",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090440E6",
+   "en": "Retain 1 HP after a critical\nhit (unless only 1 HP is left).{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044160",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044160",
+   "en": "Sacrifice reload speed to\npower up attack cards.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090441C2",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090441C2",
+   "en": "Keep cards used in sleights\navailable for reloading.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904422C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904422C",
+   "en": "Revive automatically when\nyour HP reach 0.{END}",
+   "max_units": 51,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044282",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044282",
+   "en": "Use stocked cards and\nsleights twice in a row.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090442E0",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090442E0",
+   "en": "Devalue the enemy's card\nwhen you lose a card break.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904434A",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904434A",
+   "en": "Riku's strength increases\nwhen wielding dark power.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090443B2",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090443B2",
+   "en": "A magical land full of\neccentric residents.{END}",
+   "max_units": 51,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904440A",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904440A",
+   "en": "A legendary arena where\nheroes test their might.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904446C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904446C",
+   "en": "A bustling desert city\nwith a grand palace.{END}",
+   "max_units": 51,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090444C4",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090444C4",
+   "en": "A terrifying town of\ntricks and treats.{END}",
+   "max_units": 51,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044514",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044514",
+   "en": "Inside the belly of the\ngiant whale.{END}",
+   "max_units": 51,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904455E",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904455E",
+   "en": "Undersea kingdom\nprotected by King Triton.{END}",
+   "max_units": 51,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090445B4",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090445B4",
+   "en": "Inside Captain Hook’s\npirate ship.{END}",
+   "max_units": 51,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090445FA",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090445FA",
+   "en": "A once peaceful castle\nruined by Maleficent.{END}",
+   "max_units": 51,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044654",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044654",
+   "en": "A quiet wood resided by\nfriendly fellows.{END}",
+   "max_units": 51,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090446A8",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090446A8",
+   "en": "A mysterious town\nbetween light and dark.{END}",
+   "max_units": 51,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090446FC",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090446FC",
+   "en": "Serene islands where\nSora and Riku were born.{END}",
+   "max_units": 51,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044758",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044758",
+   "en": "The castle's top floor,\nwhere Marluxia awaits.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090447B6",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090447B6",
+   "en": "A haven for those whose\nhomes fell to darkness.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044816",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044816",
+   "en": "Where the darkness in\nRiku's heart―and Ansem―\nare free.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044886",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044886",
+   "en": "A room where many\nHeartless appear.{END}",
+   "max_units": 51,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090448CE",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090448CE",
+   "en": "A room where only a few\nHeartless appear.{END}",
+   "max_units": 51,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044922",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044922",
+   "en": "A room where treasure is\nguarded by Heartless.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044980",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044980",
+   "en": "A room where Heartless\nattack relentlessly.{END}",
+   "max_units": 51,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090449D8",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090449D8",
+   "en": "A room where Heartless are\ndrowsy and easy to ambush.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044A44",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044A44",
+   "en": "A room where you can save\nyour progress.{END}",
+   "max_units": 51,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044A96",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044A96",
+   "en": "A room where Heartless\nwith weak cards appear.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044AF4",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044AF4",
+   "en": "A room where Heartless\nwith strong cards appear.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044B56",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044B56",
+   "en": "A room containing treasure.{END}",
+   "max_units": 51,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044B8E",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044B8E",
+   "en": "A room where only one\ntreasure chest is real.{END}",
+   "max_units": 51,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044BEA",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044BEA",
+   "en": "A room where cards can be\ntraded with moogles.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044C48",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044C48",
+   "en": "A room where magic cards\nare more effective.{END}",
+   "max_units": 51,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044CA2",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044CA2",
+   "en": "A room where attack cards\nare more effective.{END}",
+   "max_units": 51,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044CFE",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044CFE",
+   "en": "A room where item cards are\nmore effective.{END}",
+   "max_units": 51,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044D56",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044D56",
+   "en": "A room where friend cards\nappear at battle's start.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044DBE",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044DBE",
+   "en": "A room where anything\ncould happen.{END}",
+   "max_units": 51,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044E06",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044E06",
+   "en": "A room where striking first\ndoes additional damage.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044E6E",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044E6E",
+   "en": "A room where striking first\nstuns all foes.{END}",
+   "max_units": 51,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044EC6",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044EC6",
+   "en": "A room where the Heartless\nmove slowly.{END}",
+   "max_units": 51,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044F16",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044F16",
+   "en": "A room where victory often\nleads to Premium Bonuses.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044F80",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044F80",
+   "en": "A room where only White\nMushrooms appear.{END}",
+   "max_units": 51,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09044FD4",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09044FD4",
+   "en": "A room where only Black\nFunguses appear.{END}",
+   "max_units": 51,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09045026",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09045026",
+   "en": "A room where untold stories\nunfold.{END}",
+   "max_units": 51,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904506E",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904506E",
+   "en": "A room where untold stories\nunfold.{END}",
+   "max_units": 51,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090450B6",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090450B6",
+   "en": "A room where untold stories\nunfold.{END}",
+   "max_units": 51,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090450FE",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090450FE",
+   "en": "A room containing special\ntreasure.{END}",
+   "max_units": 51,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09045146",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09045146",
+   "en": "NO TEXT{END}",
+   "max_units": 51,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090381F8",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090381F8",
+   "en": "Unleash a powerful three-\nhit combo upon the enemy.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038260",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038260",
+   "en": "· Three attack cards of\n  differing types\n· Total value 10-15{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090382DC",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090382DC",
+   "en": "Rocket across the field,\nstriking down any enemies\nin the way.{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903835A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903835A",
+   "en": "Press the A Button for up\nto six additional attacks.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

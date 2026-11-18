@@ -1,0 +1,848 @@
+{
+ "chunk": 55,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 146,
+ "items": [
+  {
+   "id": "event_text:gEvent187Text02",
+   "pool": "event_text",
+   "symbol": "gEvent187Text02",
+   "en": "Well, well.\nYou’ve changed.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent187Text03",
+   "pool": "event_text",
+   "symbol": "gEvent187Text03",
+   "en": "Last time we met you were\nafraid of the darkness, but\nnot anymore.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent187Text04",
+   "pool": "event_text",
+   "symbol": "gEvent187Text04",
+   "en": "How can you tell?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent187Text05",
+   "pool": "event_text",
+   "symbol": "gEvent187Text05",
+   "en": "Because I’m you.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent187Text06",
+   "pool": "event_text",
+   "symbol": "gEvent187Text06",
+   "en": "No, I’M me.{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent187Text07",
+   "pool": "event_text",
+   "symbol": "gEvent187Text07",
+   "en": "“I’m me,” he says.{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent187Text08",
+   "pool": "event_text",
+   "symbol": "gEvent187Text08",
+   "en": "It must be nice, being real.\nA fake like me could never get\naway with saying that.{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent187Text09",
+   "pool": "event_text",
+   "symbol": "gEvent187Text09",
+   "en": "That’s right, I’m a phony!\nThe way I look, the way I feel,\neverything!{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent187Text10",
+   "pool": "event_text",
+   "symbol": "gEvent187Text10",
+   "en": "I thought by finding some new\nstrength I could be someone,\nsomeone who’s not you!{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent187Text11",
+   "pool": "event_text",
+   "symbol": "gEvent187Text11",
+   "en": "But nothing changes…\nI’m still just empty!{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent187Text12",
+   "pool": "event_text",
+   "symbol": "gEvent187Text12",
+   "en": "Everything about me is\nborrowed.\n\nAs long as you’re around, I’ll\nnever be anything better than\na shadow!{END}",
+   "max_units": 114,
+   "units": 114,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent188Text00",
+   "pool": "event_text",
+   "symbol": "gEvent188Text00",
+   "en": "So…this is the end.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent188Text01",
+   "pool": "event_text",
+   "symbol": "gEvent188Text01",
+   "en": "Figures.  But I’m not afraid.\nGood riddance to an artificial\nlife.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent188Text02",
+   "pool": "event_text",
+   "symbol": "gEvent188Text02",
+   "en": "I never had a real heart.\nEven what I’m feeling now is\nprobably fake.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent188Text03",
+   "pool": "event_text",
+   "symbol": "gEvent188Text03",
+   "en": "What are you feeling?{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent188Text04",
+   "pool": "event_text",
+   "symbol": "gEvent188Text04",
+   "en": "What happens when someone\nwho’s not real dies?  Where\nwill my heart go?{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent188Text05",
+   "pool": "event_text",
+   "symbol": "gEvent188Text05",
+   "en": "That is, if it doesn’t disappear\ncompletely…{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent188Text06",
+   "pool": "event_text",
+   "symbol": "gEvent188Text06",
+   "en": "It’ll go somewhere.\nProbably the same place my\nheart will go.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent188Text07",
+   "pool": "event_text",
+   "symbol": "gEvent188Text07",
+   "en": "Heh…\nHow original.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent188Text08",
+   "pool": "event_text",
+   "symbol": "gEvent188Text08",
+   "en": "Oh, well.{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text00",
+   "pool": "event_text",
+   "symbol": "gEvent189Text00",
+   "en": "You’re Naminé?{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text01",
+   "pool": "event_text",
+   "symbol": "gEvent189Text01",
+   "en": "Yes.{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text02",
+   "pool": "event_text",
+   "symbol": "gEvent189Text02",
+   "en": "So…that was you.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text03",
+   "pool": "event_text",
+   "symbol": "gEvent189Text03",
+   "en": "Huh?{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text04",
+   "pool": "event_text",
+   "symbol": "gEvent189Text04",
+   "en": "Nothing, never mind.{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text05",
+   "pool": "event_text",
+   "symbol": "gEvent189Text05",
+   "en": "Please…come this way.{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text06",
+   "pool": "event_text",
+   "symbol": "gEvent189Text06",
+   "en": "Hey!  It’s Sora!{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text07",
+   "pool": "event_text",
+   "symbol": "gEvent189Text07",
+   "en": "What did you do to him?{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text08",
+   "pool": "event_text",
+   "symbol": "gEvent189Text08",
+   "en": "Nothing, he’s just sleeping.\nHe has to, to get his memory\nback.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent189Text09",
+   "pool": "event_text",
+   "symbol": "gEvent189Text09",
+   "en": "Tell me what happened.{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text10",
+   "pool": "event_text",
+   "symbol": "gEvent189Text10",
+   "en": "I see…{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text11",
+   "pool": "event_text",
+   "symbol": "gEvent189Text11",
+   "en": "Sora chose to forget about\nthis castle and get back his\nold memories.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent189Text12",
+   "pool": "event_text",
+   "symbol": "gEvent189Text12",
+   "en": "You have a decision to make,\ntoo.{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text13",
+   "pool": "event_text",
+   "symbol": "gEvent189Text13",
+   "en": "Why?  No one’s been messing\nwith my memories.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text14",
+   "pool": "event_text",
+   "symbol": "gEvent189Text14",
+   "en": "It’s not about your memories.\nIt’s about your darkness.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text15",
+   "pool": "event_text",
+   "symbol": "gEvent189Text15",
+   "en": "In your heart is darkness, and\nin that darkness is Ansem.\n\nRight now, he’s at bay…{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent189Text16",
+   "pool": "event_text",
+   "symbol": "gEvent189Text16",
+   "en": "…but eventually he’ll awaken,\nand he’ll conquer you when he\ndoes.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent189Text17",
+   "pool": "event_text",
+   "symbol": "gEvent189Text17",
+   "en": "Before that happens, let me\nlock your heart tight.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text18",
+   "pool": "event_text",
+   "symbol": "gEvent189Text18",
+   "en": "I can make it so Ansem never\nescapes.{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text19",
+   "pool": "event_text",
+   "symbol": "gEvent189Text19",
+   "en": "And what happens to me if I\nlet you do that?  Will I forget\neverything, like Sora?{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent189Text20",
+   "pool": "event_text",
+   "symbol": "gEvent189Text20",
+   "en": "I will, won’t I…{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text21",
+   "pool": "event_text",
+   "symbol": "gEvent189Text21",
+   "en": "The darkness in your heart\nwill be sealed along with your\nmemory.\nYou’ll stop remembering the\ndarkness.{END}",
+   "max_units": 112,
+   "units": 112,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent189Text22",
+   "pool": "event_text",
+   "symbol": "gEvent189Text22",
+   "en": "You can go back to the way\nyou used to be.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text23",
+   "pool": "event_text",
+   "symbol": "gEvent189Text23",
+   "en": "It’s your choice, Riku.\nSo…choose.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text24",
+   "pool": "event_text",
+   "symbol": "gEvent189Text24",
+   "en": "Sora looks like he hasn’t got a\ncare in the world.  Will I sleep\nthat well?{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent189Text25",
+   "pool": "event_text",
+   "symbol": "gEvent189Text25",
+   "en": "Yes.{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text26",
+   "pool": "event_text",
+   "symbol": "gEvent189Text26",
+   "en": "Sora always did as he pleased.\n\n\nIt doesn't matter what we\nwere doing―he'd still go off\nand leave me with all the work.{END}",
+   "max_units": 129,
+   "units": 129,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent189Text27",
+   "pool": "event_text",
+   "symbol": "gEvent189Text27",
+   "en": "Take the raft we were gonna\nuse to leave the islands.\nThat was all me.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent189Text28",
+   "pool": "event_text",
+   "symbol": "gEvent189Text28",
+   "en": "I’ve made up my mind.\nWhen this slacker wakes up,\nI’m gonna tell him off good.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent189Text29",
+   "pool": "event_text",
+   "symbol": "gEvent189Text29",
+   "en": "I told him to take care of Kairi,\nand here he is taking a nap!{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text30",
+   "pool": "event_text",
+   "symbol": "gEvent189Text30",
+   "en": "But I can't chew him out if I've\nbeen sleeping, too.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text31",
+   "pool": "event_text",
+   "symbol": "gEvent189Text31",
+   "en": "Keep your lock.\nI’d rather just finish Ansem\noff once and for all.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent189Text32",
+   "pool": "event_text",
+   "symbol": "gEvent189Text32",
+   "en": "But if the darkness he wields\ngets the better of you…{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text33",
+   "pool": "event_text",
+   "symbol": "gEvent189Text33",
+   "en": "I’ll make that darkness show\nme the way.{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text34",
+   "pool": "event_text",
+   "symbol": "gEvent189Text34",
+   "en": "That’s true.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text35",
+   "pool": "event_text",
+   "symbol": "gEvent189Text35",
+   "en": "Why do I get the feeling you\nknew I’d say that?{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text36",
+   "pool": "event_text",
+   "symbol": "gEvent189Text36",
+   "en": "I didn’t know.  I hoped.{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text37",
+   "pool": "event_text",
+   "symbol": "gEvent189Text37",
+   "en": "I want you to face the\ndarkness, because you’re the\none who can.{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent189Text38",
+   "pool": "event_text",
+   "symbol": "gEvent189Text38",
+   "en": "So that’s why you came to me\nin the light.  As Kairi.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text39",
+   "pool": "event_text",
+   "symbol": "gEvent189Text39",
+   "en": "You knew?!{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent189Text40",
+   "pool": "event_text",
+   "symbol": "gEvent189Text40",
+   "en": "I knew as soon as I met you.\nSomehow you…smell the same.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent189Text41",
+   "pool": "event_text",
+   "symbol": "gEvent189Text41",
+   "en": "Look after Sora.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent190Text00",
+   "pool": "event_text",
+   "symbol": "gEvent190Text00",
+   "en": "So, you decided not to go to\nsleep, huh?{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent190Text01",
+   "pool": "event_text",
+   "symbol": "gEvent190Text01",
+   "en": "How’d you know that?{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent190Text02",
+   "pool": "event_text",
+   "symbol": "gEvent190Text02",
+   "en": "DiZ told me.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent190Text03",
+   "pool": "event_text",
+   "symbol": "gEvent190Text03",
+   "en": "You know him?{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent190Text04",
+   "pool": "event_text",
+   "symbol": "gEvent190Text04",
+   "en": "I’m not really sure.\nI can’t help feeling that I met\nhim somewhere before…{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent190Text05",
+   "pool": "event_text",
+   "symbol": "gEvent190Text05",
+   "en": "Hey, Voice.  DiZ.\nWho are you?{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent190Text06",
+   "pool": "event_text",
+   "symbol": "gEvent190Text06",
+   "en": "Nobody…or anybody.\nIt all depends on whether you\nchoose to believe in me or not.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent190Text07",
+   "pool": "event_text",
+   "symbol": "gEvent190Text07",
+   "en": "Boy, you really like pushing\ndecisions on other people.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

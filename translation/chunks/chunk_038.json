@@ -1,0 +1,848 @@
+{
+ "chunk": 38,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 175,
+ "items": [
+  {
+   "id": "event_text:gEvent042Text03",
+   "pool": "event_text",
+   "symbol": "gEvent042Text03",
+   "en": "Let Naminé handle this.\nIn the meantime, Axel, you\nknow what to do.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent042Text04",
+   "pool": "event_text",
+   "symbol": "gEvent042Text04",
+   "en": "No, I don’t.\nMaybe you could spell it out\nfor me.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent042Text05",
+   "pool": "event_text",
+   "symbol": "gEvent042Text05",
+   "en": "Rid us of our traitor.{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent042Text06",
+   "pool": "event_text",
+   "symbol": "gEvent042Text06",
+   "en": "Done.\nThere’s no taking that order\nback later.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent043Text00",
+   "pool": "event_text",
+   "symbol": "gEvent043Text00",
+   "en": "A card made of memories from\nthe other side of your heart…\n\nI wonder what it does?{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent043Text01",
+   "pool": "event_text",
+   "symbol": "gEvent043Text01",
+   "en": "Only one way to find out.\nBesides, it’s the only card we\nhave left.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent044Text00",
+   "pool": "event_text",
+   "symbol": "gEvent044Text00",
+   "en": "Gawrsh…\nWhere are we, Sora?{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text01",
+   "pool": "event_text",
+   "symbol": "gEvent044Text01",
+   "en": "Hmm…{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent044Text02",
+   "pool": "event_text",
+   "symbol": "gEvent044Text02",
+   "en": "I dunno…\nI’ve never been here.{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text03",
+   "pool": "event_text",
+   "symbol": "gEvent044Text03",
+   "en": "Me neither.{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent044Text04",
+   "pool": "event_text",
+   "symbol": "gEvent044Text04",
+   "en": "But that can’t be right!\n\n\nUp until now we’ve only been\nto places in Sora's memory.{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent044Text05",
+   "pool": "event_text",
+   "symbol": "gEvent044Text05",
+   "en": "Maybe so, but I definitely\ndon’t remember this.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text06",
+   "pool": "event_text",
+   "symbol": "gEvent044Text06",
+   "en": "Maybe you forgot this town\njust like the other stuff.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text07",
+   "pool": "event_text",
+   "symbol": "gEvent044Text07",
+   "en": "This is terrible.\nOur memories are practically\ngone.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent044Text08",
+   "pool": "event_text",
+   "symbol": "gEvent044Text08",
+   "en": "We’ll be okay.\nSee, look at this…{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text09",
+   "pool": "event_text",
+   "symbol": "gEvent044Text09",
+   "en": "Naminé’s good luck charm!{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent044Text10",
+   "pool": "event_text",
+   "symbol": "gEvent044Text10",
+   "en": "There’s a special memory that\ngoes with this.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text11",
+   "pool": "event_text",
+   "symbol": "gEvent044Text11",
+   "en": "One night, when Naminé and I\nwere little, there was this\nmeteor shower.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent044Text12",
+   "pool": "event_text",
+   "symbol": "gEvent044Text12",
+   "en": "Naminé started crying.\nShe said, “What if a shooting\nstar hits the islands?”{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent044Text13",
+   "pool": "event_text",
+   "symbol": "gEvent044Text13",
+   "en": "So I said, “If a shooting star\ncomes this way, I’ll hit it right\nback into outer space!”{END}",
+   "max_units": 95,
+   "units": 95,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent044Text14",
+   "pool": "event_text",
+   "symbol": "gEvent044Text14",
+   "en": "I was swinging this toy sword\naround the whole time.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text15",
+   "pool": "event_text",
+   "symbol": "gEvent044Text15",
+   "en": "Naminé just smiled and said,\n“Thanks.”  And then she gave\nme this.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent044Text16",
+   "pool": "event_text",
+   "symbol": "gEvent044Text16",
+   "en": "Sora, I’m so sorry.\nAll this, because of me…{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text17",
+   "pool": "event_text",
+   "symbol": "gEvent044Text17",
+   "en": "Naminé said she had it ever\nsince she was a baby.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text18",
+   "pool": "event_text",
+   "symbol": "gEvent044Text18",
+   "en": "And she gave it to you?\nWow…{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text19",
+   "pool": "event_text",
+   "symbol": "gEvent044Text19",
+   "en": "Yeah.\nSo I promised her…{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text20",
+   "pool": "event_text",
+   "symbol": "gEvent044Text20",
+   "en": "“From now on, I’ll bring you\ngood luck.  I'll keep you safe.”{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent044Text21",
+   "pool": "event_text",
+   "symbol": "gEvent044Text21",
+   "en": "I really let her down…{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent045Text00",
+   "pool": "event_text",
+   "symbol": "gEvent045Text00",
+   "en": "What’s the matter?{END}",
+   "max_units": 55,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent045Text01",
+   "pool": "event_text",
+   "symbol": "gEvent045Text01",
+   "en": "I feel kind of funny.{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent045Text02",
+   "pool": "event_text",
+   "symbol": "gEvent045Text02",
+   "en": "I’m sure I don’t know this\nplace, but it’s starting to feel\nreal familiar…{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent045Text03",
+   "pool": "event_text",
+   "symbol": "gEvent045Text03",
+   "en": "Then you must’ve been here\nbefore.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent045Text04",
+   "pool": "event_text",
+   "symbol": "gEvent045Text04",
+   "en": "That’s just it.  I never have.{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent045Text05",
+   "pool": "event_text",
+   "symbol": "gEvent045Text05",
+   "en": "Maybe it’s like with Naminé.\nYou forgot other stuff, so\nnow you remember this place.{END}",
+   "max_units": 91,
+   "units": 91,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent045Text06",
+   "pool": "event_text",
+   "symbol": "gEvent045Text06",
+   "en": "No…it’s different.{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent045Text07",
+   "pool": "event_text",
+   "symbol": "gEvent045Text07",
+   "en": "With Naminé, the memories of\nus together sort of came\ndrifting back piece by piece.{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent045Text08",
+   "pool": "event_text",
+   "symbol": "gEvent045Text08",
+   "en": "But here, there are no\nmemories.  Everything feels\nfamiliar, that's all.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent045Text09",
+   "pool": "event_text",
+   "symbol": "gEvent045Text09",
+   "en": "Does it, now?{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent045Text10",
+   "pool": "event_text",
+   "symbol": "gEvent045Text10",
+   "en": "A question, then, Sora…{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent045Text11",
+   "pool": "event_text",
+   "symbol": "gEvent045Text11",
+   "en": "Which is more real to you:\nyour memories of Naminé, or\nthe familiarity you feel here?{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent045Text12",
+   "pool": "event_text",
+   "symbol": "gEvent045Text12",
+   "en": "Naminé, of course!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent045Text13",
+   "pool": "event_text",
+   "symbol": "gEvent045Text13",
+   "en": "Whatever I feel here is just\nsome trick of yours!{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent045Text14",
+   "pool": "event_text",
+   "symbol": "gEvent045Text14",
+   "en": "Ha ha ha…\nThe memory’s wiles are cruel.\n\nIn its silence, we forget.\nAnd in its perversion, it binds\nour hearts firmly.{END}",
+   "max_units": 128,
+   "units": 128,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent045Text15",
+   "pool": "event_text",
+   "symbol": "gEvent045Text15",
+   "en": "I don’t have time for your\nriddles!{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent045Text16",
+   "pool": "event_text",
+   "symbol": "gEvent045Text16",
+   "en": "Then recall that this place\nwas made from another side\nof your memory.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent045Text17",
+   "pool": "event_text",
+   "symbol": "gEvent045Text17",
+   "en": "Yes, the other side of your\nheart knows this place.  The\nother side remembers.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent045Text18",
+   "pool": "event_text",
+   "symbol": "gEvent045Text18",
+   "en": "You’re wrong!\nI don’t know this place!{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent045Text19",
+   "pool": "event_text",
+   "symbol": "gEvent045Text19",
+   "en": "If you remain bound by the\nchains of memory, and refuse\nto believe your heart…\n…then you may as well throw\nyour heart away.{END}",
+   "max_units": 132,
+   "units": 132,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent045Text20",
+   "pool": "event_text",
+   "symbol": "gEvent045Text20",
+   "en": "You’re no Keyblade master,\nno master of anything―just a\nslave to twisted memories.{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent045Text21",
+   "pool": "event_text",
+   "symbol": "gEvent045Text21",
+   "en": "Just like my Riku.\nYou're not fit to exist.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent045Text22",
+   "pool": "event_text",
+   "symbol": "gEvent045Text22",
+   "en": "YOUR Riku?{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent045Text23",
+   "pool": "event_text",
+   "symbol": "gEvent045Text23",
+   "en": "You’re so full of it!\nYOU’RE the one who changed\nRiku, aren’t you?{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent045Text24",
+   "pool": "event_text",
+   "symbol": "gEvent045Text24",
+   "en": "Every word you’ve said is a\nlie!  I’d never throw away my\nheart!{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent045Text25",
+   "pool": "event_text",
+   "symbol": "gEvent045Text25",
+   "en": "I’m gonna take you down and\nsave Riku and Naminé.\n\nTHAT’S what’s in my heart!{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent046Text00",
+   "pool": "event_text",
+   "symbol": "gEvent046Text00",
+   "en": "Urrgh…\nSuch strength, even at the\nmercy of your memory…\nYou ARE dangerous!\nYou must be exterminated!{END}",
+   "max_units": 109,
+   "units": 109,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent046Text01",
+   "pool": "event_text",
+   "symbol": "gEvent046Text01",
+   "en": "Fine, whatever!\nJust put Riku back the way he\nwas!{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent046Text02",
+   "pool": "event_text",
+   "symbol": "gEvent046Text02",
+   "en": "Put him back?\nFool of a boy!  Even now you\nunderstand nothing.{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent046Text03",
+   "pool": "event_text",
+   "symbol": "gEvent046Text03",
+   "en": "The Riku you speak of has but\none fate―to sink into the\nemptiness of darkness.\nAnd you will share that fate,\nSora!{END}",
+   "max_units": 123,
+   "units": 123,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent046Text04",
+   "pool": "event_text",
+   "symbol": "gEvent046Text04",
+   "en": "If you continue to seek the\ngirl Naminé, the shackles will\ntighten…\nYou’ll lose your heart and\nbecome Marluxia’s pawn!{END}",
+   "max_units": 127,
+   "units": 127,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent046Text05",
+   "pool": "event_text",
+   "symbol": "gEvent046Text05",
+   "en": "Marluxia?\nWho’s that, and what do they\nhave to do with Nami―{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent046Text06",
+   "pool": "event_text",
+   "symbol": "gEvent046Text06",
+   "en": "Gaah?!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent046Text07",
+   "pool": "event_text",
+   "symbol": "gEvent046Text07",
+   "en": "Axel!{END}",
+   "max_units": 53,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent046Text08",
+   "pool": "event_text",
+   "symbol": "gEvent046Text08",
+   "en": "Hey, Sora.\nSorry to cut in right when he\nwas getting to the juicy bits.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent046Text09",
+   "pool": "event_text",
+   "symbol": "gEvent046Text09",
+   "en": "Unnngh…\nAxel, wh…why…?{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent046Text10",
+   "pool": "event_text",
+   "symbol": "gEvent046Text10",
+   "en": "You sure love to talk.\nIt’s about time you shut up―\nforever.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent046Text11",
+   "pool": "event_text",
+   "symbol": "gEvent046Text11",
+   "en": "No…  Don’t do it…!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent046Text12",
+   "pool": "event_text",
+   "symbol": "gEvent046Text12",
+   "en": "We're nobodies, Vexen.\nWe've got no one to be―but\nwe still “are.”{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent046Text13",
+   "pool": "event_text",
+   "symbol": "gEvent046Text13",
+   "en": "So look on the bright side.\nYou're off the hook.\n\nNow you can be nothing\ninstead of just being nobody.{END}",
+   "max_units": 111,
+   "units": 111,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent046Text14",
+   "pool": "event_text",
+   "symbol": "gEvent046Text14",
+   "en": "M-Mercy, Axel!\nI don’t want to…go yet…{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent046Text15",
+   "pool": "event_text",
+   "symbol": "gEvent046Text15",
+   "en": "NOW you can tell me I don’t\nrespect my elders.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

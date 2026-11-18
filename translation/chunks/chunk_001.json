@@ -1,0 +1,848 @@
+{
+ "chunk": 1,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 133,
+ "items": [
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042080",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042080",
+   "en": "Attack:  D     Swing Speed:  B\nCB Recovery:  B     (Physical){END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090420FC",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090420FC",
+   "en": "Attack:  C+   Swing Speed:  A\nCB Recovery:  B     (Physical){END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042176",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042176",
+   "en": "Attack:  C+   Swing Speed:  B\nCB Recovery:  ★    (Physical){END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090421EE",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090421EE",
+   "en": "Attack:  C     Swing Speed:  B\nCB Recovery:  A     (Physical){END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904226A",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904226A",
+   "en": "Attack:  C+   Swing Speed:  ★\nCB Recovery:  B     (Physical){END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090422E4",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090422E4",
+   "en": "Attack:  D+   Swing Speed:  A\nCB Recovery:  A     (Physical){END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904235E",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904235E",
+   "en": "Attack:  C+   Swing Speed:  C\nCB Recovery:  A   (Lightning){END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090423D6",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090423D6",
+   "en": "Attack:  B     Swing Speed:  C\nCB Recovery:  B      (Neutral){END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042452",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042452",
+   "en": "Attack:  C+   Swing Speed:  C\nCB Recovery:  A     (Physical){END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090424CC",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090424CC",
+   "en": "Attack:  B     Swing Speed:  D\nCB Recovery:  A            (Fire){END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904254E",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904254E",
+   "en": "Attack:  C     Swing Speed:  A\nCB Recovery:  B     (Physical){END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090425CA",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090425CA",
+   "en": "Attack:  B     Swing Speed:  A\nCB Recovery:  C     (Physical){END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042646",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042646",
+   "en": "Attack:  B+   Swing Speed:  B\nCB Recovery:  B     (Physical){END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090426C0",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090426C0",
+   "en": "Attack:  A     Swing Speed:  C\nCB Recovery:  A      (Neutral){END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904273C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904273C",
+   "en": "Attack:  B+   Swing Speed:  ★\nCB Recovery:  ★             (Ice){END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090427BC",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090427BC",
+   "en": "Attack:  A     Swing Speed:  A\nCB Recovery:  C             (Fire){END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042840",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042840",
+   "en": "Attack:  ★     Swing Speed:  B\nCB Recovery:  B     (Physical){END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090428BC",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090428BC",
+   "en": "Halt enemy movement for a\nset time period.{END}",
+   "max_units": 51,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042912",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042912",
+   "en": "Simba's roar inflicts damage\non enemies in front of him.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042984",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042984",
+   "en": "Bambi bounds around and\ndrops HP recovery items.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090429E6",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090429E6",
+   "en": "Dumbo douses enemies over\na set time period.{END}",
+   "max_units": 51,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042A40",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042A40",
+   "en": "Tinker Bell restores HP over\na set time period.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042AA0",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042AA0",
+   "en": "Cloud unleashes two\nsuccessive sword attacks.{END}",
+   "max_units": 51,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042AFC",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042AFC",
+   "en": "Quickload all attack cards\nwith no charge time.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042B5C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042B5C",
+   "en": "Quickload all attack cards\nand magic cards.{END}",
+   "max_units": 51,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042BB4",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042BB4",
+   "en": "Randomize the values of\ncards you use.{END}",
+   "max_units": 51,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042C02",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042C02",
+   "en": "Reload cards instantly.{END}",
+   "max_units": 51,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042C32",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042C32",
+   "en": "Alter gravity to increase\njumping ability.{END}",
+   "max_units": 51,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042C88",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042C88",
+   "en": "Automatically reload cards\nwhen they run out.{END}",
+   "max_units": 51,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042CE4",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042CE4",
+   "en": "Increase the swing speed\nof attack cards.{END}",
+   "max_units": 51,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042D38",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042D38",
+   "en": "Copy the enemy card your\nopponent is using.{END}",
+   "max_units": 51,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042D90",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042D90",
+   "en": "Stop enemies from breaking\nattack cards you use.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042DF2",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042DF2",
+   "en": "Use cards even while\nstaggering from damage.{END}",
+   "max_units": 51,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042E4C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042E4C",
+   "en": "Increase running speed.{END}",
+   "max_units": 51,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042E7C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042E7C",
+   "en": "Obliterate enemies with the\nfinishing blow of a combo.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042EEA",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042EEA",
+   "en": "Conceal your stocked cards\nfrom opponents.{END}",
+   "max_units": 51,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042F40",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042F40",
+   "en": "Inflict fire damage.{END}",
+   "max_units": 51,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042F6A",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042F6A",
+   "en": "Inflict ice damage.{END}",
+   "max_units": 51,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042F92",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042F92",
+   "en": "Inflict lightning damage.{END}",
+   "max_units": 51,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042FC6",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042FC6",
+   "en": "Restore HP.{END}",
+   "max_units": 51,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09042FDE",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09042FDE",
+   "en": "Deal damage relative to the\nenemy's remaining HP.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043042",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043042",
+   "en": "Blow away nearby enemies\nand inflict damage.{END}",
+   "max_units": 51,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904309C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904309C",
+   "en": "Genie casts Thundara,\nGravira, or Stopra.{END}",
+   "max_units": 51,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090430F0",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090430F0",
+   "en": "Mushu breathes fire at the\nenemy, inflicting damage.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904315A",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904315A",
+   "en": "Quickload available attack\ncards with no charge time.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090431C6",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090431C6",
+   "en": "Quickload all attack cards\nand reset reload counter.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043230",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043230",
+   "en": "Quickload available magic\ncards with no charge time.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904329A",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904329A",
+   "en": "Quickload all magic cards and\nreset reload counter.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043302",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043302",
+   "en": "Quickload attack and magic\ncards and reset counter.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904336A",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904336A",
+   "en": "Donald randomly casts Fire,\nBlizzard, Thunder, or Cure.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090433DA",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090433DA",
+   "en": "Goofy swings his shield at\nthe enemy.{END}",
+   "max_units": 51,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043426",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043426",
+   "en": "Aladdin swings his sword at\nthe enemy.{END}",
+   "max_units": 51,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043474",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043474",
+   "en": "Ariel whirls across the field,\nstriking many enemies.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090434E0",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090434E0",
+   "en": "Jack casts Fire, Blizzard,\nThunder, or Gravity.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043540",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043540",
+   "en": "Peter Pan attacks with his\ndagger.{END}",
+   "max_units": 51,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043586",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043586",
+   "en": "The Beast plows through\nanyone in Sora's path.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090435E4",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090435E4",
+   "en": "Increase the values of all\ncards by 1.{END}",
+   "max_units": 51,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043632",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043632",
+   "en": "Add an extra hit to normal\ncombos.{END}",
+   "max_units": 51,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043678",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043678",
+   "en": "Reverse the values of all\ncards: 1 → 9, 2 → 8, etc.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090436E0",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090436E0",
+   "en": "Attract fallen cards and\nitems for easy retrieval.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043746",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043746",
+   "en": "Deflect frontal physical\nattacks and nullify damage.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090437B0",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090437B0",
+   "en": "Increase damage when\nhitting enemies from behind.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043814",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043814",
+   "en": "Make any normal attack as\nstrong as a finishing blow.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043880",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043880",
+   "en": "Change the values of all\ncards to 0.{END}",
+   "max_units": 51,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090438CA",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090438CA",
+   "en": "Increase the strength of\nFire abilities.{END}",
+   "max_units": 51,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_0904391C",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_0904391C",
+   "en": "Increase the strength of\nBlizzard abilities.{END}",
+   "max_units": 51,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043976",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043976",
+   "en": "Increase the strength of\nThunder abilities.{END}",
+   "max_units": 51,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_090439CE",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_090439CE",
+   "en": "Increase the potency of\nCure abilities.{END}",
+   "max_units": 51,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043A1E",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043A1E",
+   "en": "Forfeit summon card use to\npower up magic cards.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_description_text:gCardDescriptionTextUs_09043A80",
+   "pool": "card_description_text",
+   "symbol": "gCardDescriptionTextUs_09043A80",
+   "en": "Reload while in motion.{END}",
+   "max_units": 51,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 93,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886AA42",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886AA42",
+   "en": "―or the road to darkness?{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886AA76",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886AA76",
+   "en": "Neither.{END}",
+   "max_units": 25,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886AA88",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886AA88",
+   "en": "I'm taking the middle road.{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886AAC0",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886AAC0",
+   "en": "You mean the twilit road{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886AAF2",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886AAF2",
+   "en": "to nightfall?{END}",
+   "max_units": 25,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886AB0E",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886AB0E",
+   "en": "No…{END}",
+   "max_units": 25,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886AB16",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886AB16",
+   "en": "The road to dawn.{END}",
+   "max_units": 25,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886AB3A",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886AB3A",
+   "en": " {END}",
+   "max_units": 25,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLogoJupiterText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLogoJupiterText",
+   "en": "*J{END}",
+   "max_units": 27,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLogoSquareEnixText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLogoSquareEnixText",
+   "en": "*S{END}",
+   "max_units": 27,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLogoDisneyText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLogoDisneyText",
+   "en": "*D{END}",
+   "max_units": 27,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollFinalExecutiveProducerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollFinalExecutiveProducerNamesText",
+   "en": "Yoichi Wada{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollJupiterCorporationExecutiveProducerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollJupiterCorporationExecutiveProducerNamesText",
+   "en": "Makoto Nakayama (Jupiter Corporation){END}",
+   "max_units": 42,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollExecutiveProducerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollExecutiveProducerText",
+   "en": "@Executive Producer{END}",
+   "max_units": 27,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollJupiterCorporationProducerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollJupiterCorporationProducerNamesText",
+   "en": "Hatao Ogata (Jupiter Corporation){END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnJupiterCorporationText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnJupiterCorporationText",
+   "en": "<Jupiter Corporation>{END}",
+   "max_units": 27,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAllStaffFansText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAllStaffFansText",
+   "en": "...and ALL SQUARE ENIX + DISNEY STAFF & FANS{END}",
+   "max_units": 49,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks6NamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks6NamesText",
+   "en": "Hiroshi Takemoto   Atsushi Fukuda{END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names18Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names18Text",
+   "en": "Yosuke Ikeda   Ayako Kizaki{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names17Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names17Text",
+   "en": "Kazuyoshi Tashiro   Yoshinori Kamei{END}",
+   "max_units": 40,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names16Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names16Text",
+   "en": "Miyako Kibe   Makiko Noda{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names15Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names15Text",
+   "en": "Izumi Tsukushi   Hidemi Matsuzuka{END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names14Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names14Text",
+   "en": "Kazuhiro Nakata   Hiroyuki Ando{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names13Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names13Text",
+   "en": "Ryo Hasegawa   Kengo Naka{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names12Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names12Text",
+   "en": "Keiko Matsuda   Masami Imamura{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names11Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names11Text",
+   "en": "Tatsuo Heianzan   Hiroyuki Mashita{END}",
+   "max_units": 39,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names10Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names10Text",
+   "en": "Hiromichi Morita   Koji Ida{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names9Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names9Text",
+   "en": "Takeo Kujiraoka   Hideo Kubota{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names8Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names8Text",
+   "en": "Toshiaki Matsumoto   Mai Okauchi{END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names7Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names7Text",
+   "en": "Eri Dobashi   Daiju Komatsu{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names6Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names6Text",
+   "en": "Takashi Wakou   Mayumi Okamoto{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names5Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names5Text",
+   "en": "Toshihiko Nakai   Masahiro Saito{END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names4Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names4Text",
+   "en": "Kazuhiro Ookawa   Sayoko Hoshino{END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names3Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names3Text",
+   "en": "Takashi Oota   Shinichi Matsuda{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names2Text",
+   "en": "Yusuke Takano   Kenji Kadonishi{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks5Names1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks5Names1Text",
+   "en": "Hiroshi Harata   Takeshi Endo{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks4NamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks4NamesText",
+   "en": "Hideki Imaizumi   Katsumi Miyazaki{END}",
+   "max_units": 39,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks3Names5Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks3Names5Text",
+   "en": "Jin Saburi{END}",
+   "max_units": 27,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks3Names4Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks3Names4Text",
+   "en": "Gosuke Yonezawa (DENTSU INC.){END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks3Names3Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks3Names3Text",
+   "en": "Kentaro Kawai (DENTSU INC.){END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks3Names2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks3Names2Text",
+   "en": "Taku Nishida (LANSDALE INC.){END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks3Names1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks3Names1Text",
+   "en": "Hiroshi Emori (LE BLEU CO., LTD.){END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks2Names3Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks2Names3Text",
+   "en": "Hidenobu Okita (TOSHIBA EMI){END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks2Names2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks2Names2Text",
+   "en": "Akira Miyake (TOSHIBA EMI){END}",
+   "max_units": 31,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks2Names1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks2Names1Text",
+   "en": "Utada Skingg Teruzane (U3 MUSIC){END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpecialThanks1Names1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpecialThanks1Names1Text",
+   "en": "Disney Character Voices{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnSpecialThanksText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnSpecialThanksText",
+   "en": "<Special Thanks>{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollPresidentCooNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollPresidentCooNamesText",
+   "en": "Ichiro Otobe{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollPresidentCooText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollPresidentCooText",
+   "en": "@President & COO{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSalesNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSalesNamesText",
+   "en": "Alaine C. DeLeon   Traci Jones{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSalesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSalesText",
+   "en": "@Sales{END}",
+   "max_units": 27,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMarketingNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMarketingNamesText",
+   "en": "Fernando Bustamante   Patrick H. Cervantes{END}",
+   "max_units": 47,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMarketingText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMarketingText",
+   "en": "@Marketing{END}",
+   "max_units": 27,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMarketingCommunicationsNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMarketingCommunicationsNamesText",
+   "en": "Sonia Im   Felice Wu{END}",
+   "max_units": 27,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMarketingCommunicationsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMarketingCommunicationsText",
+   "en": "@Marketing Communications{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCustomerSupportNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCustomerSupportNamesText",
+   "en": "Ryan Riley   Anthony Montana{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCustomerSupportText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCustomerSupportText",
+   "en": "@Customer Support{END}",
+   "max_units": 27,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSquareEnixIncLocalizationManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSquareEnixIncLocalizationManagerNamesText",
+   "en": "Yutaka Sano{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaTranslatorsNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaTranslatorsNamesText",
+   "en": "Frederick K. Hashi   Kazuo M. Tanaka{END}",
+   "max_units": 41,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaTranslatorsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaTranslatorsText",
+   "en": "@QA Translators{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductAnalystsNames5Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductAnalystsNames5Text",
+   "en": "Francis M. Vita{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductAnalystsNames4Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductAnalystsNames4Text",
+   "en": "Jason Sanders   Jonathan Shipley{END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductAnalystsNames3Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductAnalystsNames3Text",
+   "en": "Bernard Lee   Erin Nakagawa{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductAnalystsNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductAnalystsNames2Text",
+   "en": "Eric Y. Kwan   Timothy Law{END}",
+   "max_units": 31,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductAnalystsNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductAnalystsNames1Text",
+   "en": "Carmelo Cabezo   David T. Doan{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductAnalystsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductAnalystsText",
+   "en": "@Product Analysts{END}",
+   "max_units": 27,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLeadProductAnalystNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLeadProductAnalystNamesText",
+   "en": "Keith P. Martz{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLeadProductAnalystText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLeadProductAnalystText",
+   "en": "@Lead Product Analyst{END}",
+   "max_units": 27,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSeniorLeadProductAnalystNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSeniorLeadProductAnalystNamesText",
+   "en": "Jonathan Cooperson{END}",
+   "max_units": 27,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSeniorLeadProductAnalystText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSeniorLeadProductAnalystText",
+   "en": "@Senior Lead Product Analyst{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

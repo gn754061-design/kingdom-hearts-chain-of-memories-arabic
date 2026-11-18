@@ -1,0 +1,848 @@
+{
+ "chunk": 8,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 83,
+ "items": [
+  {
+   "id": "common_text:gNoChoiceText",
+   "pool": "common_text",
+   "symbol": "gNoChoiceText",
+   "en": "No{END}",
+   "max_units": 19,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gNewGameSlotMenuText",
+   "pool": "common_text",
+   "symbol": "gNewGameSlotMenuText",
+   "en": "Select a file to use.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gSioBtlConnectText",
+   "pool": "common_text",
+   "symbol": "gSioBtlConnectText",
+   "en": "Challenge your friend\nto a card battle!\nA Button . . . Ready{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "common_text:gSioChgConnectText",
+   "pool": "common_text",
+   "symbol": "gSioChgConnectText",
+   "en": "Press the A Button when ready.{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:common_text_006",
+   "pool": "common_text",
+   "symbol": "common_text_006",
+   "en": "Learned {END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLeaveWorldText",
+   "pool": "common_text",
+   "symbol": "gLeaveWorldText",
+   "en": "Leave this world?{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gMsChargeConfirmText",
+   "pool": "common_text",
+   "symbol": "gMsChargeConfirmText",
+   "en": "Trade in for points?{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gDeckErrorCpText",
+   "pool": "common_text",
+   "symbol": "gDeckErrorCpText",
+   "en": "You don't have enough\nCP to equip this deck.{END}",
+   "max_units": 50,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gDeleteCardConfirmText",
+   "pool": "common_text",
+   "symbol": "gDeleteCardConfirmText",
+   "en": "Delete this card?{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyChooseEntryText",
+   "pool": "common_text",
+   "symbol": "gJiminyChooseEntryText",
+   "en": "Choose an entry.{END}",
+   "max_units": 21,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuStoryName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuStoryName",
+   "en": "Story{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuCardIndexName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuCardIndexName",
+   "en": "Card Index{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuCharactersName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuCharactersName",
+   "en": "Characters{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gMapQuickSaveConfirmText",
+   "pool": "common_text",
+   "symbol": "gMapQuickSaveConfirmText",
+   "en": "Quick Save your game?{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLevelUpHpBoostText",
+   "pool": "common_text",
+   "symbol": "gLevelUpHpBoostText",
+   "en": "HP Boost{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLevelUpRaiseSoraHpText",
+   "pool": "common_text",
+   "symbol": "gLevelUpRaiseSoraHpText",
+   "en": "Raise Sora's HP.{END}",
+   "max_units": 21,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLvupMsgHpText",
+   "pool": "common_text",
+   "symbol": "gLvupMsgHpText",
+   "en": "HP{END}",
+   "max_units": 19,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLvupMsgIncreasedText",
+   "pool": "common_text",
+   "symbol": "gLvupMsgIncreasedText",
+   "en": "increased by{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLevelUpCpBoostText",
+   "pool": "common_text",
+   "symbol": "gLevelUpCpBoostText",
+   "en": "CP Boost{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLevelUpRaiseSoraCpText",
+   "pool": "common_text",
+   "symbol": "gLevelUpRaiseSoraCpText",
+   "en": "Raise Sora's CP.{END}",
+   "max_units": 21,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLvupMsgCpText",
+   "pool": "common_text",
+   "symbol": "gLvupMsgCpText",
+   "en": "CP{END}",
+   "max_units": 19,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLevelUpRaiseRikuHpText",
+   "pool": "common_text",
+   "symbol": "gLevelUpRaiseRikuHpText",
+   "en": "Raise Riku's HP.{END}",
+   "max_units": 21,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLevelUpAttackBoostText",
+   "pool": "common_text",
+   "symbol": "gLevelUpAttackBoostText",
+   "en": "Attack Boost{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLevelUpRaiseRikuApText",
+   "pool": "common_text",
+   "symbol": "gLevelUpRaiseRikuApText",
+   "en": "Raise Riku's AP.{END}",
+   "max_units": 21,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLvupMsgApText",
+   "pool": "common_text",
+   "symbol": "gLvupMsgApText",
+   "en": "AP{END}",
+   "max_units": 19,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLevelUpDarknessBoostText",
+   "pool": "common_text",
+   "symbol": "gLevelUpDarknessBoostText",
+   "en": "Darkness Boost{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLevelUpRaiseRikuDpText",
+   "pool": "common_text",
+   "symbol": "gLevelUpRaiseRikuDpText",
+   "en": "Raise Riku's DP.{END}",
+   "max_units": 21,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gLvupMsgDpText",
+   "pool": "common_text",
+   "symbol": "gLvupMsgDpText",
+   "en": "DP{END}",
+   "max_units": 19,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:common_text_030",
+   "pool": "common_text",
+   "symbol": "common_text_030",
+   "en": " became a premium card!{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:common_text_031",
+   "pool": "common_text",
+   "symbol": "common_text_031",
+   "en": "Press the A Button\nwhen ready.{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gSioBtlWaitingText",
+   "pool": "common_text",
+   "symbol": "gSioBtlWaitingText",
+   "en": "Waiting for opponent...{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gSioBtlReadyText",
+   "pool": "common_text",
+   "symbol": "gSioBtlReadyText",
+   "en": "Ready to battle?\nA Button . . . Continue{END}",
+   "max_units": 46,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gSioSavingText",
+   "pool": "common_text",
+   "symbol": "gSioSavingText",
+   "en": "Saving..{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gSioSaveCompleteText",
+   "pool": "common_text",
+   "symbol": "gSioSaveCompleteText",
+   "en": "Save complete.{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gSioErrorText",
+   "pool": "common_text",
+   "symbol": "gSioErrorText",
+   "en": "Link Failure.\nPlease turn the power OFF, check\nGame Boy Advance Game Link cable\nconnections and try again.{END}",
+   "max_units": 114,
+   "units": 114,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "common_text:gSioChgWaitingText",
+   "pool": "common_text",
+   "symbol": "gSioChgWaitingText",
+   "en": "Waiting for partner..{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gSioChgSwapConfirmText",
+   "pool": "common_text",
+   "symbol": "gSioChgSwapConfirmText",
+   "en": "Press the A Button\nto swap cards.{END}",
+   "max_units": 39,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gSioChgSwappingText",
+   "pool": "common_text",
+   "symbol": "gSioChgSwappingText",
+   "en": "Swapping cards...{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gSioChgSwapCompleteText",
+   "pool": "common_text",
+   "symbol": "gSioChgSwapCompleteText",
+   "en": "Card swap complete.\nSaving…{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gSioChgFailedPointsText",
+   "pool": "common_text",
+   "symbol": "gSioChgFailedPointsText",
+   "en": "Card swap failed.\nIncorrect moogle points.{END}",
+   "max_units": 48,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gSioChgFailedFullText",
+   "pool": "common_text",
+   "symbol": "gSioChgFailedFullText",
+   "en": "Card swap failed.\nYou can't hold any more\ncards.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "common_text:gWorldNameTraverseTown",
+   "pool": "common_text",
+   "symbol": "gWorldNameTraverseTown",
+   "en": "Traverse Town{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameWonderland",
+   "pool": "common_text",
+   "symbol": "gWorldNameWonderland",
+   "en": "Wonderland{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameOlympusColiseum",
+   "pool": "common_text",
+   "symbol": "gWorldNameOlympusColiseum",
+   "en": "Olympus Coliseum{END}",
+   "max_units": 21,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameAgrabah",
+   "pool": "common_text",
+   "symbol": "gWorldNameAgrabah",
+   "en": "Agrabah{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameHalloweenTown",
+   "pool": "common_text",
+   "symbol": "gWorldNameHalloweenTown",
+   "en": "Halloween Town{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameMonstro",
+   "pool": "common_text",
+   "symbol": "gWorldNameMonstro",
+   "en": "Monstro{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameAtlantica",
+   "pool": "common_text",
+   "symbol": "gWorldNameAtlantica",
+   "en": "Atlantica{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameNeverLand",
+   "pool": "common_text",
+   "symbol": "gWorldNameNeverLand",
+   "en": "Never Land{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameHollowBastion",
+   "pool": "common_text",
+   "symbol": "gWorldNameHollowBastion",
+   "en": "Hollow Bastion{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldName100AcreWood",
+   "pool": "common_text",
+   "symbol": "gWorldName100AcreWood",
+   "en": "100 Acre Wood{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameTwilightTown",
+   "pool": "common_text",
+   "symbol": "gWorldNameTwilightTown",
+   "en": "Twilight Town{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameDestinyIslands",
+   "pool": "common_text",
+   "symbol": "gWorldNameDestinyIslands",
+   "en": "Destiny Islands{END}",
+   "max_units": 20,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameCastleOblivion",
+   "pool": "common_text",
+   "symbol": "gWorldNameCastleOblivion",
+   "en": "Castle Oblivion{END}",
+   "max_units": 20,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameKingdomKey",
+   "pool": "common_text",
+   "symbol": "gCardNameKingdomKey",
+   "en": "Kingdom Key{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameThreeWishes",
+   "pool": "common_text",
+   "symbol": "gCardNameThreeWishes",
+   "en": "Three Wishes{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameCrabclaw",
+   "pool": "common_text",
+   "symbol": "gCardNameCrabclaw",
+   "en": "Crabclaw{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNamePumpkinhead",
+   "pool": "common_text",
+   "symbol": "gCardNamePumpkinhead",
+   "en": "Pumpkinhead{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameFairyHarp",
+   "pool": "common_text",
+   "symbol": "gCardNameFairyHarp",
+   "en": "Fairy Harp{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameWishingStar",
+   "pool": "common_text",
+   "symbol": "gCardNameWishingStar",
+   "en": "Wishing Star{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameSpellbinder",
+   "pool": "common_text",
+   "symbol": "gCardNameSpellbinder",
+   "en": "Spellbinder{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameMetalChocobo",
+   "pool": "common_text",
+   "symbol": "gCardNameMetalChocobo",
+   "en": "Metal Chocobo{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameOlympia",
+   "pool": "common_text",
+   "symbol": "gCardNameOlympia",
+   "en": "Olympia{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameLionheart",
+   "pool": "common_text",
+   "symbol": "gCardNameLionheart",
+   "en": "Lionheart{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameLadyLuck",
+   "pool": "common_text",
+   "symbol": "gCardNameLadyLuck",
+   "en": "Lady Luck{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameDivineRose",
+   "pool": "common_text",
+   "symbol": "gCardNameDivineRose",
+   "en": "Divine Rose{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameOathkeeper",
+   "pool": "common_text",
+   "symbol": "gCardNameOathkeeper",
+   "en": "Oathkeeper{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameOblivion",
+   "pool": "common_text",
+   "symbol": "gCardNameOblivion",
+   "en": "Oblivion{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameUltimaWeapon",
+   "pool": "common_text",
+   "symbol": "gCardNameUltimaWeapon",
+   "en": "Ultima Weapon{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameDiamondDust",
+   "pool": "common_text",
+   "symbol": "gCardNameDiamondDust",
+   "en": "Diamond Dust{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

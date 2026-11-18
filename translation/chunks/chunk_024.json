@@ -1,0 +1,848 @@
+{
+ "chunk": 24,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 143,
+ "items": [
+  {
+   "id": "event_text:gEvent116Text03",
+   "pool": "event_text",
+   "symbol": "gEvent116Text03",
+   "en": "I think you mighta ruffled her\nfeathers, Donald.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text04",
+   "pool": "event_text",
+   "symbol": "gEvent116Text04",
+   "en": "Tink, what are you doing!\nYou weren’t supposed to bring\nthe pirates WITH you!{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent116Text05",
+   "pool": "event_text",
+   "symbol": "gEvent116Text05",
+   "en": "Stay back, pirates, or this will\nbe the last fight you pick!{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text06",
+   "pool": "event_text",
+   "symbol": "gEvent116Text06",
+   "en": "Don’t be so rude!\nWe’re not pirates!  We’re only\nhere because…because…{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent116Text07",
+   "pool": "event_text",
+   "symbol": "gEvent116Text07",
+   "en": "Umm…why are we here, Sora?{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent116Text08",
+   "pool": "event_text",
+   "symbol": "gEvent116Text08",
+   "en": "How am I supposed to know,\nDonald?{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text09",
+   "pool": "event_text",
+   "symbol": "gEvent116Text09",
+   "en": "Goofy, what do you think?{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent116Text10",
+   "pool": "event_text",
+   "symbol": "gEvent116Text10",
+   "en": "Gawrsh, beats me.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent116Text11",
+   "pool": "event_text",
+   "symbol": "gEvent116Text11",
+   "en": "Okay, okay, I get the picture.\nSora, Donald, and Goofy,\nright?{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent116Text12",
+   "pool": "event_text",
+   "symbol": "gEvent116Text12",
+   "en": "I guess pirates wouldn’t get\nlost on their own ship.\nAnd you’re dressed funny.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent116Text13",
+   "pool": "event_text",
+   "symbol": "gEvent116Text13",
+   "en": "There you go again!{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent116Text14",
+   "pool": "event_text",
+   "symbol": "gEvent116Text14",
+   "en": "Wait, so if you thought we\nwere pirates…{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text15",
+   "pool": "event_text",
+   "symbol": "gEvent116Text15",
+   "en": "This must be a pirate ship!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent116Text16",
+   "pool": "event_text",
+   "symbol": "gEvent116Text16",
+   "en": "That’s right.  You’re trapped\ninside the notorious Captain\nHook’s vessel.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent116Text17",
+   "pool": "event_text",
+   "symbol": "gEvent116Text17",
+   "en": "Well, if we’re trapped, that\nmeans you are, too!{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text18",
+   "pool": "event_text",
+   "symbol": "gEvent116Text18",
+   "en": "Me?  Don’t be silly.\nNo one can capture Peter Pan!{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text19",
+   "pool": "event_text",
+   "symbol": "gEvent116Text19",
+   "en": "I’m just lying low until it’s time\nto make my move.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text20",
+   "pool": "event_text",
+   "symbol": "gEvent116Text20",
+   "en": "Uh, what move is that?{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent116Text21",
+   "pool": "event_text",
+   "symbol": "gEvent116Text21",
+   "en": "The pirates kidnapped my\nfriend Wendy.  She’s got to be\nsomewhere on this ship.{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent116Text22",
+   "pool": "event_text",
+   "symbol": "gEvent116Text22",
+   "en": "I didn’t expect there to be so\nmany watchmen, though.\n\nI sent Tink to look for a way\naround…{END}",
+   "max_units": 101,
+   "units": 101,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent116Text23",
+   "pool": "event_text",
+   "symbol": "gEvent116Text23",
+   "en": "…but all she found was you.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent116Text24",
+   "pool": "event_text",
+   "symbol": "gEvent116Text24",
+   "en": "I bet I know what Tink had in\nmind!{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text25",
+   "pool": "event_text",
+   "symbol": "gEvent116Text25",
+   "en": "If we all make a big enough\nracket, we can distract the\npirates!{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent116Text26",
+   "pool": "event_text",
+   "symbol": "gEvent116Text26",
+   "en": "Gawrsh, you musta read her\nmind!{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text27",
+   "pool": "event_text",
+   "symbol": "gEvent116Text27",
+   "en": "So how ’bout it?\nLet’s work together, at least\nuntil we get above deck.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent116Text28",
+   "pool": "event_text",
+   "symbol": "gEvent116Text28",
+   "en": "Well, why not?  Of course, I\ncould save Wendy myself, if I\nwanted to.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent116Text29",
+   "pool": "event_text",
+   "symbol": "gEvent116Text29",
+   "en": "But you guys look like you’d be\nstuck without me.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text30",
+   "pool": "event_text",
+   "symbol": "gEvent116Text30",
+   "en": "Don’t you have any manners?{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent117Text00",
+   "pool": "event_text",
+   "symbol": "gEvent117Text00",
+   "en": "There she is!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent117Text01",
+   "pool": "event_text",
+   "symbol": "gEvent117Text01",
+   "en": "Peter?\nPeter Pan!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent117Text02",
+   "pool": "event_text",
+   "symbol": "gEvent117Text02",
+   "en": "Wendy, are you okay?\nI’ve come to rescue you with\nmy three assistants!{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent117Text03",
+   "pool": "event_text",
+   "symbol": "gEvent117Text03",
+   "en": "C’mon, let’s get off this ship\nand go explore Never Land!\nWe’ll never grow up!{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent117Text04",
+   "pool": "event_text",
+   "symbol": "gEvent117Text04",
+   "en": "Listen, Peter.\nThere’s something I’ve got to\ntell you.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent117Text05",
+   "pool": "event_text",
+   "symbol": "gEvent117Text05",
+   "en": "I want to go home to London.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent117Text06",
+   "pool": "event_text",
+   "symbol": "gEvent117Text06",
+   "en": "What are you talking about?{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent117Text07",
+   "pool": "event_text",
+   "symbol": "gEvent117Text07",
+   "en": "Stay here in Never Land, and\nyou can be a kid forever.\nEvery day’ll be an adventure!{END}",
+   "max_units": 91,
+   "units": 91,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent117Text08",
+   "pool": "event_text",
+   "symbol": "gEvent117Text08",
+   "en": "If you go back to London,\nyou’ll stop being a kid.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent117Text09",
+   "pool": "event_text",
+   "symbol": "gEvent117Text09",
+   "en": "You’ll grow up and we’ll never\nsee each other again!{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent117Text10",
+   "pool": "event_text",
+   "symbol": "gEvent117Text10",
+   "en": "I know, Peter. \nBut…I still want to go home.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent117Text11",
+   "pool": "event_text",
+   "symbol": "gEvent117Text11",
+   "en": "I came to rescue you!\nAnd you don’t care if you ever\nsee me again!{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent117Text12",
+   "pool": "event_text",
+   "symbol": "gEvent117Text12",
+   "en": "No, you don’t understand!{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent117Text13",
+   "pool": "event_text",
+   "symbol": "gEvent117Text13",
+   "en": "Suit yourself!  And while\nyou’re at it, rescue yourself!\nI’m leaving.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent117Text14",
+   "pool": "event_text",
+   "symbol": "gEvent117Text14",
+   "en": "Hey, wait a minute―{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent117Text15",
+   "pool": "event_text",
+   "symbol": "gEvent117Text15",
+   "en": "There he goes.{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent117Text16",
+   "pool": "event_text",
+   "symbol": "gEvent117Text16",
+   "en": "Peter…{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent117Text17",
+   "pool": "event_text",
+   "symbol": "gEvent117Text17",
+   "en": "Not very thoughtful, is he?\nWhat do we do now?{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent117Text18",
+   "pool": "event_text",
+   "symbol": "gEvent117Text18",
+   "en": "Hey, I’ve got an idea!  Why\ndon’t we think of something\nafter we get to the deck?{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent117Text19",
+   "pool": "event_text",
+   "symbol": "gEvent117Text19",
+   "en": "What kind of idea is that?\nBut you do have a point…{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent117Text20",
+   "pool": "event_text",
+   "symbol": "gEvent117Text20",
+   "en": "Well, there’s still trouble\nwaiting outside.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent117Text21",
+   "pool": "event_text",
+   "symbol": "gEvent117Text21",
+   "en": "Wendy, you stay here.\nWe’ll try to create a\ndistraction.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent117Text22",
+   "pool": "event_text",
+   "symbol": "gEvent117Text22",
+   "en": "Okay, I understand.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent117Text23",
+   "pool": "event_text",
+   "symbol": "gEvent117Text23",
+   "en": "Maybe if you stay here, Peter\nwill change his mind and come\nback.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent118Text00",
+   "pool": "event_text",
+   "symbol": "gEvent118Text00",
+   "en": "Whew!\nWe finally made it out!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent118Text01",
+   "pool": "event_text",
+   "symbol": "gEvent118Text01",
+   "en": "There you are, you rascals!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent118Text02",
+   "pool": "event_text",
+   "symbol": "gEvent118Text02",
+   "en": "I’ll teach you to stow away on\nCaptain Hook’s vessel!{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent118Text03",
+   "pool": "event_text",
+   "symbol": "gEvent118Text03",
+   "en": "Friends of Peter Pan, I’ll\nwager!{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent118Text04",
+   "pool": "event_text",
+   "symbol": "gEvent118Text04",
+   "en": "Are we his friends?{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent118Text05",
+   "pool": "event_text",
+   "symbol": "gEvent118Text05",
+   "en": "He sure didn’t seem to think\nso.{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent118Text06",
+   "pool": "event_text",
+   "symbol": "gEvent118Text06",
+   "en": "Yeah, the way he took off like\nthat.  He even ditched Wendy.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent118Text07",
+   "pool": "event_text",
+   "symbol": "gEvent118Text07",
+   "en": "I’m not finished talking yet!\nHow dare you ignore me and\nplot behind my back!{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent118Text08",
+   "pool": "event_text",
+   "symbol": "gEvent118Text08",
+   "en": "Uncivilized brats!\nYou’re in cahoots with Peter\nPan, no mistake!{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent118Text09",
+   "pool": "event_text",
+   "symbol": "gEvent118Text09",
+   "en": "If you say so.\nEither way, you’re gonna let\nus off this ship.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent118Text10",
+   "pool": "event_text",
+   "symbol": "gEvent118Text10",
+   "en": "And Wendy’s coming with us.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent118Text11",
+   "pool": "event_text",
+   "symbol": "gEvent118Text11",
+   "en": "Think again, you scallywags!\nHook’s one step ahead of you!{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent118Text12",
+   "pool": "event_text",
+   "symbol": "gEvent118Text12",
+   "en": "Wendy!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent118Text13",
+   "pool": "event_text",
+   "symbol": "gEvent118Text13",
+   "en": "Any trouble, and Wendy swims\nwith the sharks!{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent118Text14",
+   "pool": "event_text",
+   "symbol": "gEvent118Text14",
+   "en": "You wouldn’t!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent118Text15",
+   "pool": "event_text",
+   "symbol": "gEvent118Text15",
+   "en": "Believe me, I’d rather not.\nAfter all, I need Wendy to lure\nout that blasted Peter Pan!{END}",
+   "max_units": 94,
+   "units": 94,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent118Text16",
+   "pool": "event_text",
+   "symbol": "gEvent118Text16",
+   "en": "Then I’ll just have to take the\nbait, you old codfish!{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent118Text17",
+   "pool": "event_text",
+   "symbol": "gEvent118Text17",
+   "en": "Peter!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

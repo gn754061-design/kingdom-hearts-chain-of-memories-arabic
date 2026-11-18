@@ -1,0 +1,848 @@
+{
+ "chunk": 68,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine3",
+   "en": "her Heartless once{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine4",
+   "en": "before.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine6",
+   "en": "She stole Belle’s heart{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine7",
+   "en": "to perfect her dark{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine8",
+   "en": "powers, though Belle{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine9",
+   "en": "had seen through her{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine10",
+   "en": "plan.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDragonMaleficentLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDragonMaleficentLine0",
+   "en": "Maleficent’s dragon{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDragonMaleficentLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDragonMaleficentLine1",
+   "en": "form.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDragonMaleficentLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDragonMaleficentLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDragonMaleficentLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDragonMaleficentLine3",
+   "en": "Her own sorcery{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDragonMaleficentLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDragonMaleficentLine4",
+   "en": "mingled with the vast{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDragonMaleficentLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDragonMaleficentLine5",
+   "en": "powers of darkness{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDragonMaleficentLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDragonMaleficentLine6",
+   "en": "made Maleficent a{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDragonMaleficentLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDragonMaleficentLine7",
+   "en": "fearful opponent.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPigletLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPigletLine0",
+   "en": "Pooh’s closest friend.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPigletLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPigletLine1",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPigletLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPigletLine2",
+   "en": "Piglet is very shy, and{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPigletLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPigletLine3",
+   "en": "when he’s surprised he{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPigletLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPigletLine4",
+   "en": "covers his eyes with{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPigletLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPigletLine5",
+   "en": "his floppy ears.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOwlLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOwlLine0",
+   "en": "The wisest animal in the{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOwlLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOwlLine1",
+   "en": "Hundred Acre Wood.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOwlLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOwlLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOwlLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOwlLine3",
+   "en": "Sometimes he talks so{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOwlLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOwlLine4",
+   "en": "much his friends fall{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOwlLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOwlLine5",
+   "en": "asleep.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRooLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRooLine0",
+   "en": "A feisty kangaroo{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRooLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRooLine1",
+   "en": "who’s full of energy.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRooLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRooLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRooLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRooLine3",
+   "en": "Little Roo wants to{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRooLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRooLine4",
+   "en": "learn to bounce as high{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRooLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRooLine5",
+   "en": "as Tigger.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterEeyoreLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterEeyoreLine0",
+   "en": "A gloomy donkey whose{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterEeyoreLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterEeyoreLine1",
+   "en": "tail keeps falling off{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterEeyoreLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterEeyoreLine2",
+   "en": "and getting lost.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterEeyoreLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterEeyoreLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterEeyoreLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterEeyoreLine4",
+   "en": "Eeyore is timid and{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterEeyoreLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterEeyoreLine5",
+   "en": "always a little down,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterEeyoreLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterEeyoreLine6",
+   "en": "and likes to take things{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterEeyoreLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterEeyoreLine7",
+   "en": "slow.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTiggerLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTiggerLine0",
+   "en": "The one and only.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTiggerLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTiggerLine1",
+   "en": "Cheerful Tigger loves{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTiggerLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTiggerLine2",
+   "en": "to bounce all day long.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTiggerLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTiggerLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTiggerLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTiggerLine4",
+   "en": "Sometimes his energy is{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTiggerLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTiggerLine5",
+   "en": "too much for the{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTiggerLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTiggerLine6",
+   "en": "others, but he always{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTiggerLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTiggerLine7",
+   "en": "means well.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRabbitLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRabbitLine0",
+   "en": "A diligent gardener{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRabbitLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRabbitLine1",
+   "en": "who’s always busy with{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRabbitLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRabbitLine2",
+   "en": "his vegetables.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRabbitLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRabbitLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRabbitLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRabbitLine4",
+   "en": "Sometimes Rabbit is a{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRabbitLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRabbitLine5",
+   "en": "bit short-tempered,{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRabbitLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRabbitLine6",
+   "en": "especially when Tigger{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRabbitLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRabbitLine7",
+   "en": "bounces around in his{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRabbitLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRabbitLine8",
+   "en": "garden.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGuardArmorLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGuardArmorLine0",
+   "en": "A Heartless that{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGuardArmorLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGuardArmorLine1",
+   "en": "haunts Traverse Town.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGuardArmorLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGuardArmorLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGuardArmorLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGuardArmorLine3",
+   "en": "It appeared when the{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGuardArmorLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGuardArmorLine4",
+   "en": "bells rang to wreak{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGuardArmorLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGuardArmorLine5",
+   "en": "havoc on the town.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessParasiteCageLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessParasiteCageLine0",
+   "en": "A Heartless that{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessParasiteCageLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessParasiteCageLine1",
+   "en": "dwelled inside Monstro.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessParasiteCageLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessParasiteCageLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessParasiteCageLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessParasiteCageLine3",
+   "en": "The Parasite Cage is{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessParasiteCageLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessParasiteCageLine4",
+   "en": "quite the gourmand and{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

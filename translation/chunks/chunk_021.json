@@ -1,0 +1,848 @@
+{
+ "chunk": 21,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 141,
+ "items": [
+  {
+   "id": "event_text:gEvent102Text18",
+   "pool": "event_text",
+   "symbol": "gEvent102Text18",
+   "en": "Guess we’ll have to get to the\nbottom of this ourselves!{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text00",
+   "pool": "event_text",
+   "symbol": "gEvent103Text00",
+   "en": "There she is!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent103Text01",
+   "pool": "event_text",
+   "symbol": "gEvent103Text01",
+   "en": "This is all my fault.  I wish I’d \nnever taken Daddy’s trident.{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text02",
+   "pool": "event_text",
+   "symbol": "gEvent103Text02",
+   "en": "I should’ve known things\nwould turn out this way.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text03",
+   "pool": "event_text",
+   "symbol": "gEvent103Text03",
+   "en": "She DID steal it!{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent103Text04",
+   "pool": "event_text",
+   "symbol": "gEvent103Text04",
+   "en": "Pipe down!\nSomebody’s comin’!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text05",
+   "pool": "event_text",
+   "symbol": "gEvent103Text05",
+   "en": "No need to worry, child.\nYou did the right thing.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text06",
+   "pool": "event_text",
+   "symbol": "gEvent103Text06",
+   "en": "Why, I’m sure you’d do\nanything in the world to help\nyour little friend.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent103Text07",
+   "pool": "event_text",
+   "symbol": "gEvent103Text07",
+   "en": "Poor Flounder has been swept\naway to the human world.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text08",
+   "pool": "event_text",
+   "symbol": "gEvent103Text08",
+   "en": "That’s no place for a little\nfish.\n\nWhy, if we don’t hurry, you\nmight not have a friend to\nsave…{END}",
+   "max_units": 106,
+   "units": 106,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent103Text09",
+   "pool": "event_text",
+   "symbol": "gEvent103Text09",
+   "en": "No!{END}",
+   "max_units": 52,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent103Text10",
+   "pool": "event_text",
+   "symbol": "gEvent103Text10",
+   "en": "Besides, you’re not GIVING\nme the trident, dear―just\nletting me borrow it for a bit.{END}",
+   "max_units": 91,
+   "units": 91,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent103Text11",
+   "pool": "event_text",
+   "symbol": "gEvent103Text11",
+   "en": "You can save Flounder!\nLend me the trident, and I’ll\nhelp you!{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent103Text12",
+   "pool": "event_text",
+   "symbol": "gEvent103Text12",
+   "en": "But…Daddy needs the trident\nto defend Atlantica.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text13",
+   "pool": "event_text",
+   "symbol": "gEvent103Text13",
+   "en": "I need time to think, Ursula.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent103Text14",
+   "pool": "event_text",
+   "symbol": "gEvent103Text14",
+   "en": "Well, it’s all the same to me.{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent103Text15",
+   "pool": "event_text",
+   "symbol": "gEvent103Text15",
+   "en": "Just remember, your little\nfriend is dodging fishhooks\nwhile you twiddle your fins.{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent103Text16",
+   "pool": "event_text",
+   "symbol": "gEvent103Text16",
+   "en": "Well, you can come see me\nonce you’ve made up your mind.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text17",
+   "pool": "event_text",
+   "symbol": "gEvent103Text17",
+   "en": "What am I going to do?{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent103Text18",
+   "pool": "event_text",
+   "symbol": "gEvent103Text18",
+   "en": "Don’t trust Ursula, that’s for\nsure.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text19",
+   "pool": "event_text",
+   "symbol": "gEvent103Text19",
+   "en": "How long have you been\nlistening?{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text20",
+   "pool": "event_text",
+   "symbol": "gEvent103Text20",
+   "en": "Oh, long enough.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent103Text21",
+   "pool": "event_text",
+   "symbol": "gEvent103Text21",
+   "en": "It doesn’t matter.\nSora’s right!  Don’t trust that\nsea witch!{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent103Text22",
+   "pool": "event_text",
+   "symbol": "gEvent103Text22",
+   "en": "Ursula’s up to no good.\nIt’s written all over her face.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text23",
+   "pool": "event_text",
+   "symbol": "gEvent103Text23",
+   "en": "Then we all agree!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent103Text24",
+   "pool": "event_text",
+   "symbol": "gEvent103Text24",
+   "en": "The problem is, I don’t have\na clue where Flounder is.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text25",
+   "pool": "event_text",
+   "symbol": "gEvent103Text25",
+   "en": "Ursula’s the only one who can\nhelp.{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text26",
+   "pool": "event_text",
+   "symbol": "gEvent103Text26",
+   "en": "What about us?{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent103Text27",
+   "pool": "event_text",
+   "symbol": "gEvent103Text27",
+   "en": "Let’s go talk to Ursula.\nYou shouldn’t have to do this\nby yourself.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent103Text28",
+   "pool": "event_text",
+   "symbol": "gEvent103Text28",
+   "en": "Really?\nYou’ll come with me?{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent103Text29",
+   "pool": "event_text",
+   "symbol": "gEvent103Text29",
+   "en": "You bet!  I know how it feels\nto have friends in trouble.\nLet’s get going!{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent104Text00",
+   "pool": "event_text",
+   "symbol": "gEvent104Text00",
+   "en": "My, so many guests!{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent104Text01",
+   "pool": "event_text",
+   "symbol": "gEvent104Text01",
+   "en": "Have you made up your mind,\nmy dear?{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent104Text02",
+   "pool": "event_text",
+   "symbol": "gEvent104Text02",
+   "en": "I’ll do anything for Flounder.\nBut I need proof I can trust\nyou.{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent104Text03",
+   "pool": "event_text",
+   "symbol": "gEvent104Text03",
+   "en": "You said we could save\nFlounder if I gave you the\ntrident.  Well, prove it!{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent104Text04",
+   "pool": "event_text",
+   "symbol": "gEvent104Text04",
+   "en": "But of course!  See?{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent104Text05",
+   "pool": "event_text",
+   "symbol": "gEvent104Text05",
+   "en": "Ariel!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent104Text06",
+   "pool": "event_text",
+   "symbol": "gEvent104Text06",
+   "en": "I knew something was fishy!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent104Text07",
+   "pool": "event_text",
+   "symbol": "gEvent104Text07",
+   "en": "There you have it.  If you\nwant your precious Flounder\nback, give me the trident!{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent104Text08",
+   "pool": "event_text",
+   "symbol": "gEvent104Text08",
+   "en": "Ha ha!  Mine at last!{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent104Text09",
+   "pool": "event_text",
+   "symbol": "gEvent104Text09",
+   "en": "Now I’m ruler of all the seas!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent104Text10",
+   "pool": "event_text",
+   "symbol": "gEvent104Text10",
+   "en": "Let Flounder go!{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent104Text11",
+   "pool": "event_text",
+   "symbol": "gEvent104Text11",
+   "en": "But of course!\nI’m feeling generous.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent104Text12",
+   "pool": "event_text",
+   "symbol": "gEvent104Text12",
+   "en": "Which reminds me…{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent104Text13",
+   "pool": "event_text",
+   "symbol": "gEvent104Text13",
+   "en": "You always wanted to see\nother worlds, didn’t you?{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent104Text14",
+   "pool": "event_text",
+   "symbol": "gEvent104Text14",
+   "en": "Well, dear, I know just the\nworld to send you to!{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent104Text15",
+   "pool": "event_text",
+   "symbol": "gEvent104Text15",
+   "en": "Unfortunately, this will be a\none-way trip!{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent105Text00",
+   "pool": "event_text",
+   "symbol": "gEvent105Text00",
+   "en": "The sea and all its denizens\nshall grovel before me!{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent106Text00",
+   "pool": "event_text",
+   "symbol": "gEvent106Text00",
+   "en": "Please don’t be mad, Ariel.\nUrsula tricked me.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent106Text01",
+   "pool": "event_text",
+   "symbol": "gEvent106Text01",
+   "en": "Flounder, as long as you’re \nsafe, nothing else matters.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent106Text02",
+   "pool": "event_text",
+   "symbol": "gEvent106Text02",
+   "en": "Now all we have to do is\nreturn the trident and\neverything will be okay.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent106Text03",
+   "pool": "event_text",
+   "symbol": "gEvent106Text03",
+   "en": "But what if the king finds out\nyou’re the one who took it in\nthe first place?{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent106Text04",
+   "pool": "event_text",
+   "symbol": "gEvent106Text04",
+   "en": "I’ll be grounded for ages…{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent106Text05",
+   "pool": "event_text",
+   "symbol": "gEvent106Text05",
+   "en": "Ariel!  Ariel! \nWhere are you, girl?{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent106Text06",
+   "pool": "event_text",
+   "symbol": "gEvent106Text06",
+   "en": "If you can hear me, please\nanswer!{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent106Text07",
+   "pool": "event_text",
+   "symbol": "gEvent106Text07",
+   "en": "It’s Sebastian! \nHe came all this way just to\nfind me.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent106Text08",
+   "pool": "event_text",
+   "symbol": "gEvent106Text08",
+   "en": "Yep, and when he does, you’re\ngonna get it!{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent106Text09",
+   "pool": "event_text",
+   "symbol": "gEvent106Text09",
+   "en": "Hey, I know!\nWhy don’t you just say Ursula\nstole the trident?{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent106Text10",
+   "pool": "event_text",
+   "symbol": "gEvent106Text10",
+   "en": "And you got it back all by\nyourself!  Then there’s no way\nyou’ll get in trouble!{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent106Text11",
+   "pool": "event_text",
+   "symbol": "gEvent106Text11",
+   "en": "I just had the same idea!{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent106Text12",
+   "pool": "event_text",
+   "symbol": "gEvent106Text12",
+   "en": "But…I can’t do that.{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent106Text13",
+   "pool": "event_text",
+   "symbol": "gEvent106Text13",
+   "en": "I don’t want to get in trouble,\nbut I can’t lie.  Not about this.{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent106Text14",
+   "pool": "event_text",
+   "symbol": "gEvent106Text14",
+   "en": "I know I haven’t made the\nbest decisions lately.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent106Text15",
+   "pool": "event_text",
+   "symbol": "gEvent106Text15",
+   "en": "It was a mistake to take the\ntrident.{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent106Text16",
+   "pool": "event_text",
+   "symbol": "gEvent106Text16",
+   "en": "But I made that mistake\nbecause I wanted to help you,\nFlounder.  I’m proud of that.{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent106Text17",
+   "pool": "event_text",
+   "symbol": "gEvent106Text17",
+   "en": "Blaming someone else would\nmean giving those feelings up.\nSo, I’m going to tell the truth.{END}",
+   "max_units": 97,
+   "units": 97,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent106Text18",
+   "pool": "event_text",
+   "symbol": "gEvent106Text18",
+   "en": "She’s right, Sora!\nHonesty is the best policy.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent106Text19",
+   "pool": "event_text",
+   "symbol": "gEvent106Text19",
+   "en": "Hey, I was just kidding!\nGreat, now I’M the one in hot\nwater!{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent107Text00",
+   "pool": "event_text",
+   "symbol": "gEvent107Text00",
+   "en": "Look, Sora!\nSomeone’s in trouble!{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent107Text01",
+   "pool": "event_text",
+   "symbol": "gEvent107Text01",
+   "en": "We’d better do something!{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 82,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyMapCardWhiteRoomLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardWhiteRoomLine4",
+   "en": "them out?{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardBlackRoomLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardBlackRoomLine0",
+   "en": "A room where only{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardBlackRoomLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardBlackRoomLine1",
+   "en": "Black Funguses appear.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardBlackRoomLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardBlackRoomLine2",
+   "en": "But what happens{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardBlackRoomLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardBlackRoomLine3",
+   "en": "when you defeat one?{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardKeyOfBeginningsLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardKeyOfBeginningsLine0",
+   "en": "A room where untold{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardKeyOfBeginningsLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardKeyOfBeginningsLine1",
+   "en": "stories unfold.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardKeyOfGuidanceLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardKeyOfGuidanceLine0",
+   "en": "A room where untold{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardKeyOfGuidanceLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardKeyOfGuidanceLine1",
+   "en": "stories unfold.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardKeyToTruthLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardKeyToTruthLine0",
+   "en": "A room where untold{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardKeyToTruthLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardKeyToTruthLine1",
+   "en": "stories unfold.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardKeyToRewardsLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardKeyToRewardsLine0",
+   "en": "A room containing{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMapCardKeyToRewardsLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMapCardKeyToRewardsLine1",
+   "en": "special treasure.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine0",
+   "en": "■ Warp Break{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine1",
+   "en": "Obliterate enemies with{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine2",
+   "en": "the finishing blow of a{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine3",
+   "en": "combo with a high{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine4",
+   "en": "success rate.  During{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine5",
+   "en": "versus battles you can{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine6",
+   "en": "stun your opponent.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine8",
+   "en": "Duration:  50 attacks{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine9",
+   "en": "· Immune to ice{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine10",
+   "en": "· Resistant to physical{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine11",
+   "en": "  attacks{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine12",
+   "en": "· Weak against special{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardLexaeusLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardLexaeusLine13",
+   "en": "  attacks{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine0",
+   "en": "The card the hooded{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine1",
+   "en": "man gave us took us to{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine2",
+   "en": "Traverse Town, where{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine3",
+   "en": "we were reunited with{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine4",
+   "en": "Leon, Yuffie, and our{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine5",
+   "en": "other friends.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine7",
+   "en": "Leon acted like he’d{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine8",
+   "en": "forgotten Sora, but for{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine9",
+   "en": "whatever reason still{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine10",
+   "en": "knew his name.  I guess{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine11",
+   "en": "his memory got mixed up{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine12",
+   "en": "somehow.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine13",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine14",
+   "en": "Aerith sensed that the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine15",
+   "en": "town and everyone{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine16",
+   "en": "there was a product of{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine17",
+   "en": "Sora’s memories.  It may{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine18",
+   "en": "sound crazy, but I think{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTraverseTownLine19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTraverseTownLine19",
+   "en": "she was right.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine0",
+   "en": "When we chased after{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine1",
+   "en": "the White Rabbit, we{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine2",
+   "en": "stumbled upon a trial in{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine3",
+   "en": "progress.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine5",
+   "en": "The Queen of Hearts{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine6",
+   "en": "accused Alice of{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine7",
+   "en": "stealing her memory{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine8",
+   "en": "and sentenced her to{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine9",
+   "en": "death!{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine10",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine11",
+   "en": "Angered by the shoddy{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine12",
+   "en": "trial, Sora freed Alice{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine13",
+   "en": "and hunted down the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine14",
+   "en": "real culprit.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine15",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine16",
+   "en": "But even after we{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine17",
+   "en": "bested the Trickmaster,{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine18",
+   "en": "the Queen refused to{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine19",
+   "en": "believe that Alice was{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine20",
+   "en": "innocent.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine21",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine22",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine22",
+   "en": "Fortunately, Alice’s{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

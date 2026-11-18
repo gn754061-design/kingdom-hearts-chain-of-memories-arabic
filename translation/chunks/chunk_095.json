@@ -1,0 +1,848 @@
+{
+ "chunk": 95,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "staff_roll_script_text:gStaffRollCloudVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCloudVoiceText",
+   "en": "Steve Burton{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCaptainHookVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCaptainHookVoiceText",
+   "en": "Corey Burton{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollPeterPanVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollPeterPanVoiceText",
+   "en": "Chris Steele{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollHadesVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollHadesVoiceText",
+   "en": "James Woods{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBoogieVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBoogieVoiceText",
+   "en": "Ken Page{END}",
+   "max_units": 27,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollJackVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollJackVoiceText",
+   "en": "Chris Sarandon{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollUrsulaVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollUrsulaVoiceText",
+   "en": "Pat Carroll{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollArielVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollArielVoiceText",
+   "en": "Jodi Benson{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollIagoVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollIagoVoiceText",
+   "en": "Gilbert Gottfried{END}",
+   "max_units": 27,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollGenieVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollGenieVoiceText",
+   "en": "Dan Castellaneta{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAladdinVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAladdinVoiceText",
+   "en": "Scott Weinger{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollTheBeastVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollTheBeastVoiceText",
+   "en": "Robby Benson{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAnsemVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAnsemVoiceText",
+   "en": "Billy Zane{END}",
+   "max_units": 27,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollGoofyVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollGoofyVoiceText",
+   "en": "Bill Farmer{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollDonaldDuckVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollDonaldDuckVoiceText",
+   "en": "Tony Anselmo{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollRikuVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollRikuVoiceText",
+   "en": "David Gallagher{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSoraVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSoraVoiceText",
+   "en": "Haley Joel Osment{END}",
+   "max_units": 27,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnVoiceTalentsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnVoiceTalentsText",
+   "en": "<With the Voice Talents of>{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollManagerMarketingNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollManagerMarketingNamesText",
+   "en": "Mike Scharnikow{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollManagerMarketingText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollManagerMarketingText",
+   "en": "@Manager, Marketing{END}",
+   "max_units": 27,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollDirectorMarketingNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollDirectorMarketingNamesText",
+   "en": "Bob Picunko{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollDirectorMarketingText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollDirectorMarketingText",
+   "en": "@Director, Marketing{END}",
+   "max_units": 27,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollVpMarketingNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollVpMarketingNamesText",
+   "en": "Sanjeev Lamba{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollVpMarketingText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollVpMarketingText",
+   "en": "@VP, Marketing{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBuenaVistaGamesLocalizationManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBuenaVistaGamesLocalizationManagerNamesText",
+   "en": "Megumi Arai{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLocalizationManagerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLocalizationManagerText",
+   "en": "@Localization Manager{END}",
+   "max_units": 27,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBuenaVistaGamesProducerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBuenaVistaGamesProducerNamesText",
+   "en": "Sonoko Ishioka{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProducerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProducerText",
+   "en": "@Producer{END}",
+   "max_units": 27,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBuenaVistaGamesSeniorProducerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBuenaVistaGamesSeniorProducerNamesText",
+   "en": "Luigi Priore{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollVpGlobalProductionNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollVpGlobalProductionNamesText",
+   "en": "Mike Ryder{END}",
+   "max_units": 27,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollVpGlobalProductionText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollVpGlobalProductionText",
+   "en": "@VP, Global Production{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnBuenaVistaGamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnBuenaVistaGamesText",
+   "en": "<Buena Vista Games>{END}",
+   "max_units": 27,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBuenaVistaGamesJapanGeneralManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBuenaVistaGamesJapanGeneralManagerNamesText",
+   "en": "Akira Matsumoto{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollGeneralManagerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollGeneralManagerText",
+   "en": "@General Manager{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSeniorManagerMarketingNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSeniorManagerMarketingNamesText",
+   "en": "Miki Nishimura{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSeniorManagerMarketingText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSeniorManagerMarketingText",
+   "en": "@Senior Manager, Marketing{END}",
+   "max_units": 31,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBuenaVistaGamesJapanSeniorProducerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBuenaVistaGamesJapanSeniorProducerNamesText",
+   "en": "Emiko Yamamoto{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSeniorProducerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSeniorProducerText",
+   "en": "@Senior Producer{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnBuenaVistaGamesJapanText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnBuenaVistaGamesJapanText",
+   "en": "<Buena Vista Games Japan>{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollFont0Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollFont0Text",
+   "en": "#0{END}",
+   "max_units": 27,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongSoundtrackText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongSoundtrackText",
+   "en": "ORIGINAL SOUNDTRACK is also available from TOSHIBA EMI{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongLicensedByText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongLicensedByText",
+   "en": "Licensed by TOSHIBA-EMI LIMITED{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongMixedByText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongMixedByText",
+   "en": "Mixed by Goh Hotoda at Bunkamura Studio{END}",
+   "max_units": 44,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongRecordedByText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongRecordedByText",
+   "en": "Recorded by Ugajin Masaaki at Bunkamura Studio{END}",
+   "max_units": 51,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongAllVocalsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongAllVocalsText",
+   "en": "All Vocals: Utada Hikaru{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongAcousticGuitarText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongAcousticGuitarText",
+   "en": "Acoustic Guitar: Akiyama Hironori{END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongSynthesizerProgrammingText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongSynthesizerProgrammingText",
+   "en": "Synthesizer Programming: Tsunemi Kazuhide{END}",
+   "max_units": 46,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongBasicProgrammingText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongBasicProgrammingText",
+   "en": "Basic Programming: Utada Hikaru{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongKeyboardsProgrammingText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongKeyboardsProgrammingText",
+   "en": "Keyboards and Programming: Kawano Kei{END}",
+   "max_units": 42,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongArrangedByText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongArrangedByText",
+   "en": "Arranged by Kawano Kei and Utada Hikaru{END}",
+   "max_units": 44,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongProducedBy2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongProducedBy2Text",
+   "en": "Utada Hikaru and Utada Skingg Teruzane{END}",
+   "max_units": 43,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongProducedBy1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongProducedBy1Text",
+   "en": "Produced by Miyake Akira,{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThemeSongWrittenByText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThemeSongWrittenByText",
+   "en": "Written by Utada Hikaru{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollFont1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollFont1Text",
+   "en": "#1{END}",
+   "max_units": 27,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnThemeSongText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnThemeSongText",
+   "en": "[HIKARI]{END}",
+   "max_units": 27,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnEndingThemeText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnEndingThemeText",
+   "en": "<Ending Theme>{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductionAssistantsNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductionAssistantsNamesText",
+   "en": "Masashi Kitagawa   Rie Tsukamoto{END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductionAssistantsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductionAssistantsText",
+   "en": "@Production Assistants{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSoundProductionManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSoundProductionManagerNamesText",
+   "en": "Masayuki Tanaka{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductionManagerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductionManagerText",
+   "en": "@Production Manager{END}",
+   "max_units": 27,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollDialogueEditorNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollDialogueEditorNamesText",
+   "en": "Asako Suga{END}",
+   "max_units": 27,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollDialogueEditorText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollDialogueEditorText",
+   "en": "@Dialogue Editor{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSoundEditorNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSoundEditorNamesText",
+   "en": "Ryo Inakura{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSoundEditorText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSoundEditorText",
+   "en": "@Sound Editor{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSynthesizerOperatorNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSynthesizerOperatorNamesText",
+   "en": "Takeharu Ishimoto{END}",
+   "max_units": 27,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSynthesizerOperatorText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSynthesizerOperatorText",
+   "en": "@Synthesizer Operator{END}",
+   "max_units": 27,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnSoundText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnSoundText",
+   "en": "<Sound>{END}",
+   "max_units": 27,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMenuDesignerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMenuDesignerNamesText",
+   "en": "Sachiko Arakawa{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMenuDesignerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMenuDesignerText",
+   "en": "@Menu Designer{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollVfxDesignerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollVfxDesignerNamesText",
+   "en": "Jun Kominami{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

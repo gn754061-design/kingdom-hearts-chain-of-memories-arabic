@@ -1,0 +1,848 @@
+{
+ "chunk": 58,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine6",
+   "en": "dispose of Hercules,{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine7",
+   "en": "hired Cloud to take him{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine8",
+   "en": "out.  Cloud cooperated,{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine9",
+   "en": "thinking he would get{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine10",
+   "en": "his lost memories back.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine11",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine12",
+   "en": "But not even Cloud{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine13",
+   "en": "could beat Hercules.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine14",
+   "en": "Hades stepped in to{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine15",
+   "en": "finish the job, but we{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine16",
+   "en": "put his plans on ice.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine0",
+   "en": "Aladdin brought the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine1",
+   "en": "magic lamp back from{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine2",
+   "en": "the Cave of Wonders,{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine3",
+   "en": "hoping for a chance to{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine4",
+   "en": "meet Jasmine, Princess{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine5",
+   "en": "of Agrabah.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine7",
+   "en": "Inside the lamp was{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine8",
+   "en": "Genie, who would grant{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine9",
+   "en": "three wishes to the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine10",
+   "en": "lamp’s bearer.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine11",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine12",
+   "en": "Aladdin hoped to{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine13",
+   "en": "become a prince so he{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine14",
+   "en": "could see Jasmine{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine15",
+   "en": "whenever he wanted.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine16",
+   "en": "But he used two wishes{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine17",
+   "en": "battling the Heartless,{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine18",
+   "en": "and then Jafar stole{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine19",
+   "en": "the lamp.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine20",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine21",
+   "en": "Jafar turned into a{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine22",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine22",
+   "en": "genie, but we defeated{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine23",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine23",
+   "en": "him and Aladdin got the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine24",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine24",
+   "en": "lamp back.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine25",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine25",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine26",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine26",
+   "en": "Instead of becoming a{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine27",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine27",
+   "en": "prince, Aladdin used his{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine28",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine28",
+   "en": "last wish to set Genie{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine29",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine29",
+   "en": "free, and decided he{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine30",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine30",
+   "en": "wanted Jasmine to{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAgrabahLine31",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAgrabahLine31",
+   "en": "know him as he really is.{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine0",
+   "en": "Geppetto went out{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine1",
+   "en": "looking for Pinocchio{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine2",
+   "en": "and was swallowed up{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine3",
+   "en": "by the whale Monstro.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine4",
+   "en": "But finding Pinocchio{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine5",
+   "en": "inside filled him with joy.{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine7",
+   "en": "But Pinocchio felt bad{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine8",
+   "en": "about running away{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine9",
+   "en": "from home and putting{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine10",
+   "en": "his father in danger, so{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine11",
+   "en": "he set off to find a way{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine12",
+   "en": "out of Monstro.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine13",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine14",
+   "en": "After a run-in with a{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine15",
+   "en": "big Heartless, Pinocchio{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine16",
+   "en": "had a great idea: Why{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine17",
+   "en": "not make a commotion{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine18",
+   "en": "and get Monstro to spit{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine19",
+   "en": "us out?{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine20",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine21",
+   "en": "With our help, the plan{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine22",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine22",
+   "en": "worked, and Pinocchio{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine23",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine23",
+   "en": "and Geppetto escaped{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryMonstroLine24",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryMonstroLine24",
+   "en": "safely.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine0",
+   "en": "Peter Pan stowed away{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine1",
+   "en": "on Captain Hook’s ship{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "translations": {
+  "ui_text:RIKU_DECK_NAME_17": "Rik7{END}",
+  "ui_text:RIKU_DECK_NAME_18": "Rik8{END}",
+  "ui_text:RIKU_DECK_NAME_19": "Rik9{END}",
+  "ui_text:RIKU_DECK_NAME_20": "Rik0{END}",
+  "ui_text:gDeckKeyboardRow0": "ABCDEFGHIJKLMNO{END}",
+  "ui_text:gDeckKeyboardRow1": "PQRSTUVWXYZ{END}",
+  "ui_text:gDeckKeyboardRow2": "abcdefghijklmno{END}",
+  "ui_text:gDeckKeyboardRow3": "pqrstuvwxyz{END}",
+  "ui_text:gDeckKeyboardRow4": "0123456789♪♂♀#&{END}",
+  "ui_text:gDeckKeyboardRow5": "!?※%$ ()<> 「」『』{END}",
+  "ui_text:gDeckKeyboardRow6": "-~/.'↑↓←→_{END}",
+  "ui_text:gPremiumCardMessageText": "أصبحت بطاقة ممتازة!{END}",
+  "ui_text:gDeckEquipSuffixText": ".{END}",
+  "ui_text:gDefaultDeckName0Text": "رزمة 1{END}",
+  "ui_text:gDefaultDeckName1Text": "رزمة 2{END}",
+  "ui_text:gDefaultDeckName2Text": "رزمة 3{END}"
+ }
+}

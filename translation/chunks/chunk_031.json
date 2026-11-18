@@ -1,0 +1,848 @@
+{
+ "chunk": 31,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 138,
+ "items": [
+  {
+   "id": "event_text:gEvent007Text01",
+   "pool": "event_text",
+   "symbol": "gEvent007Text01",
+   "en": "Wait, what am I saying?\nI don’t know you.{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent007Text02",
+   "pool": "event_text",
+   "symbol": "gEvent007Text02",
+   "en": "But you do LOOK like a Sora,\nwhat with the spiky hair and\nbaggy pants…\nGuess I just call ’em like I see\n’em.{END}",
+   "max_units": 117,
+   "units": 117,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent007Text03",
+   "pool": "event_text",
+   "symbol": "gEvent007Text03",
+   "en": "It’s okay, Cid.\nThat’s my name.{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent007Text04",
+   "pool": "event_text",
+   "symbol": "gEvent007Text04",
+   "en": "So you’ve heard of me!\nWell, I can’t say as I’m\nsurprised.{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent007Text05",
+   "pool": "event_text",
+   "symbol": "gEvent007Text05",
+   "en": "Anyway, maybe you can help\nme out.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent007Text06",
+   "pool": "event_text",
+   "symbol": "gEvent007Text06",
+   "en": "A friend of mine’s supposed to\nbe somewhere in this castle―\ner, town.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent007Text07",
+   "pool": "event_text",
+   "symbol": "gEvent007Text07",
+   "en": "Yer friend, huh?\nLately all this town sees is\nHeartless.\nCan’t even take two steps\nwithout gettin’ attacked.{END}",
+   "max_units": 117,
+   "units": 117,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent007Text08",
+   "pool": "event_text",
+   "symbol": "gEvent007Text08",
+   "en": "This plaza’s the worst.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent007Text09",
+   "pool": "event_text",
+   "symbol": "gEvent007Text09",
+   "en": "Word is we’ll have a jumbo-\nsized Heartless on our hands\nwhen that bell rings.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent007Text10",
+   "pool": "event_text",
+   "symbol": "gEvent007Text10",
+   "en": "If you value your hide, you’ll\nget out of here while the\ngettin’s good.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent007Text11",
+   "pool": "event_text",
+   "symbol": "gEvent007Text11",
+   "en": "Gawrsh, maybe he’s right…{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent007Text12",
+   "pool": "event_text",
+   "symbol": "gEvent007Text12",
+   "en": "Don’t you want to see the\nHeartless?{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent007Text13",
+   "pool": "event_text",
+   "symbol": "gEvent007Text13",
+   "en": "NO, we DON’T!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent007Text14",
+   "pool": "event_text",
+   "symbol": "gEvent007Text14",
+   "en": "The bell!{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent007Text15",
+   "pool": "event_text",
+   "symbol": "gEvent007Text15",
+   "en": "Sora, look out!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text00",
+   "pool": "event_text",
+   "symbol": "gEvent009Text00",
+   "en": "So your friend wasn’t here?{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text01",
+   "pool": "event_text",
+   "symbol": "gEvent009Text01",
+   "en": "No, I don’t think I’ll find him in\nthis town.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text02",
+   "pool": "event_text",
+   "symbol": "gEvent009Text02",
+   "en": "But he’s somewhere in this\ncastle.  I just know it.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text03",
+   "pool": "event_text",
+   "symbol": "gEvent009Text03",
+   "en": "Castle?  Like this whole\ntown’s inside some humongous\ncastle?  Hoo, that’s rich!{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text04",
+   "pool": "event_text",
+   "symbol": "gEvent009Text04",
+   "en": "He's probably right, Cid.\nWe may not understand what's\ngoing on, but Sora does.{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text05",
+   "pool": "event_text",
+   "symbol": "gEvent009Text05",
+   "en": "He can see that reality is\nbigger than just this world.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text06",
+   "pool": "event_text",
+   "symbol": "gEvent009Text06",
+   "en": "I wish I was that sure.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text07",
+   "pool": "event_text",
+   "symbol": "gEvent009Text07",
+   "en": "You’ll be okay, Sora.\nNo matter what shape reality\ntakes, you can handle it.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text08",
+   "pool": "event_text",
+   "symbol": "gEvent009Text08",
+   "en": "I may not remember you, but I\nknow you in my heart.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text09",
+   "pool": "event_text",
+   "symbol": "gEvent009Text09",
+   "en": "Leon…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text10",
+   "pool": "event_text",
+   "symbol": "gEvent009Text10",
+   "en": "Take care, Sora.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text11",
+   "pool": "event_text",
+   "symbol": "gEvent009Text11",
+   "en": "I'm a little lost…but best of\nluck anyway.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text12",
+   "pool": "event_text",
+   "symbol": "gEvent009Text12",
+   "en": "What’s wrong?{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text13",
+   "pool": "event_text",
+   "symbol": "gEvent009Text13",
+   "en": "I don’t have all the answers,\nbut there’s something I\nthought you should know.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text14",
+   "pool": "event_text",
+   "symbol": "gEvent009Text14",
+   "en": "Your memories created this\ntown, right?{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text15",
+   "pool": "event_text",
+   "symbol": "gEvent009Text15",
+   "en": "That’s what the guy who gave\nme the card said.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text16",
+   "pool": "event_text",
+   "symbol": "gEvent009Text16",
+   "en": "If that’s true, then this town\nis just a figment of your mind…\nand so are we.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text17",
+   "pool": "event_text",
+   "symbol": "gEvent009Text17",
+   "en": "But…you can’t be a figment!\nYou’re standing right here.\nThe town is here, too!{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text18",
+   "pool": "event_text",
+   "symbol": "gEvent009Text18",
+   "en": "But I’m not really me.  I don’t\nremember the things I should.\nI sense things I shouldn’t.{END}",
+   "max_units": 96,
+   "units": 96,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text19",
+   "pool": "event_text",
+   "symbol": "gEvent009Text19",
+   "en": "Sora, beware your memories.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text20",
+   "pool": "event_text",
+   "symbol": "gEvent009Text20",
+   "en": "In the journey to come, you’ll\nbe faced with more illusions.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text21",
+   "pool": "event_text",
+   "symbol": "gEvent009Text21",
+   "en": "Sometimes the shadows of\nyour memory will deceive you,\ntry to lead you astray.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text22",
+   "pool": "event_text",
+   "symbol": "gEvent009Text22",
+   "en": "So, uh…what exactly does\nthat mean?{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text23",
+   "pool": "event_text",
+   "symbol": "gEvent009Text23",
+   "en": "I’m just another illusion, Sora.\nThe truth is out of my reach.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text24",
+   "pool": "event_text",
+   "symbol": "gEvent009Text24",
+   "en": "Don’t say stuff like that.  \nIt’s depressing…{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text25",
+   "pool": "event_text",
+   "symbol": "gEvent009Text25",
+   "en": "No, Sora!  You mustn’t let\nillusions distract you from\nwhat’s truly important.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text26",
+   "pool": "event_text",
+   "symbol": "gEvent009Text26",
+   "en": "Okay.{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text27",
+   "pool": "event_text",
+   "symbol": "gEvent009Text27",
+   "en": "Sora!{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text28",
+   "pool": "event_text",
+   "symbol": "gEvent009Text28",
+   "en": "Are you ready to go?{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text29",
+   "pool": "event_text",
+   "symbol": "gEvent009Text29",
+   "en": "Yeah, be right there.{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text30",
+   "pool": "event_text",
+   "symbol": "gEvent009Text30",
+   "en": "Well, Aerith, I’d better be\ngoing.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text31",
+   "pool": "event_text",
+   "symbol": "gEvent009Text31",
+   "en": "Aerith?{END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text32",
+   "pool": "event_text",
+   "symbol": "gEvent009Text32",
+   "en": "What about her?{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text33",
+   "pool": "event_text",
+   "symbol": "gEvent009Text33",
+   "en": "She’s gone!\nI was just talking to her, and\nnow she’s gone!{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text34",
+   "pool": "event_text",
+   "symbol": "gEvent009Text34",
+   "en": "Aerith left with Leon and the\nothers, remember?{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent009Text35",
+   "pool": "event_text",
+   "symbol": "gEvent009Text35",
+   "en": "Huh?!{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent009Text36",
+   "pool": "event_text",
+   "symbol": "gEvent009Text36",
+   "en": "You were standing here by\nyourself.  We wondered what\nwas going on.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent009Text37",
+   "pool": "event_text",
+   "symbol": "gEvent009Text37",
+   "en": "So this is what she meant…{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent010Text00",
+   "pool": "event_text",
+   "symbol": "gEvent010Text00",
+   "en": "Well, Sora?\nDid you enjoy meeting your\nmemories?{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent010Text01",
+   "pool": "event_text",
+   "symbol": "gEvent010Text01",
+   "en": "It was good to see everyone\nagain.\n\nBut why show me an illusion?\nWhat do you want from me?{END}",
+   "max_units": 99,
+   "units": 99,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent010Text02",
+   "pool": "event_text",
+   "symbol": "gEvent010Text02",
+   "en": "That depends on what you\nhave to give.{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent010Text03",
+   "pool": "event_text",
+   "symbol": "gEvent010Text03",
+   "en": "Boo.{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent010Text04",
+   "pool": "event_text",
+   "symbol": "gEvent010Text04",
+   "en": "What do you want?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent010Text05",
+   "pool": "event_text",
+   "symbol": "gEvent010Text05",
+   "en": "I got bored, what with you\nhogging the hero.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent010Text06",
+   "pool": "event_text",
+   "symbol": "gEvent010Text06",
+   "en": "Perhaps YOU'D like to test him.{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent010Text07",
+   "pool": "event_text",
+   "symbol": "gEvent010Text07",
+   "en": "Perhaps I would.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent010Text08",
+   "pool": "event_text",
+   "symbol": "gEvent010Text08",
+   "en": "Looks like it’s my show now,\nKeyblade master.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent010Text09",
+   "pool": "event_text",
+   "symbol": "gEvent010Text09",
+   "en": "My name is Axel.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent010Text10",
+   "pool": "event_text",
+   "symbol": "gEvent010Text10",
+   "en": "Commit it to memory.{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent010Text11",
+   "pool": "event_text",
+   "symbol": "gEvent010Text11",
+   "en": "Um…sure.{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent010Text12",
+   "pool": "event_text",
+   "symbol": "gEvent010Text12",
+   "en": "Good, you learn quick.\nSo, Sora, now that we’re on a\nfirst-name basis…{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent010Text13",
+   "pool": "event_text",
+   "symbol": "gEvent010Text13",
+   "en": "…don’t go dying on me!{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent011Text01",
+   "pool": "event_text",
+   "symbol": "gEvent011Text01",
+   "en": "More cards?{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent011Text02",
+   "pool": "event_text",
+   "symbol": "gEvent011Text02",
+   "en": "Hmm…\nThey look kind of like the card\nthat made Traverse Town.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent011Text03",
+   "pool": "event_text",
+   "symbol": "gEvent011Text03",
+   "en": "Then we need these to go on…{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

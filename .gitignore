@@ -1,0 +1,22 @@
+# Game ROMs and binaries (STRICTLY FORBIDDEN - LEGAL PROTECTION)
+*.gba
+*.sav
+*.elf
+*.o
+*.a
+*.bin
+*.log
+
+# Build outputs
+build/
+dist/
+temp/
+__pycache__/
+*.py[cod]
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

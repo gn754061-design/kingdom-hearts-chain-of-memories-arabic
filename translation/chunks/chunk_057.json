@@ -1,0 +1,848 @@
+{
+ "chunk": 57,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyBlankLine",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyBlankLine",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line0",
+   "en": "Our friends may be{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line1",
+   "en": "here…{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line3",
+   "en": "It was that thought{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line4",
+   "en": "that led us to Castle{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line5",
+   "en": "Oblivion, where cards{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line6",
+   "en": "rule over all.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line8",
+   "en": "A mysterious man gave{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line9",
+   "en": "Sora a card, and using{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line10",
+   "en": "it took us to Traverse{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line11",
+   "en": "Town―of all places!{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line12",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line13",
+   "en": "It turned out the town{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line14",
+   "en": "was just a figment of{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line15",
+   "en": "our own remembrances,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line16",
+   "en": "the first world of many{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line17",
+   "en": "that lie in Sora’s heart.{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line18",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line19",
+   "en": "And so our journey{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line20",
+   "en": "through these worlds{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale1Line21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale1Line21",
+   "en": "begins.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line0",
+   "en": "It seems we’re slowly{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line1",
+   "en": "losing our memories of{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line2",
+   "en": "what happened before{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line3",
+   "en": "the castle.  And all my{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line4",
+   "en": "notes about the last{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line5",
+   "en": "journey have vanished!{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line7",
+   "en": "But in exchange, Sora{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line8",
+   "en": "is remembering other{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line9",
+   "en": "things he must have{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line10",
+   "en": "forgotten until now―{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line11",
+   "en": "like a girl he knew when{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line12",
+   "en": "he was little.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line13",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line14",
+   "en": "While fighting Larxene,{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line15",
+   "en": "Sora finally remembered{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line16",
+   "en": "the girl’s name…{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line17",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale2Line18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale2Line18",
+   "en": "Naminé.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line0",
+   "en": "So Sora’s memories of{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line1",
+   "en": "Naminé were false…{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line3",
+   "en": "Marluxia wanted Sora’s{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line4",
+   "en": "heart and the strength{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line5",
+   "en": "within, so he used{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line6",
+   "en": "Naminé to create fake{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line7",
+   "en": "memories and place them{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line8",
+   "en": "in Sora’s heart.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line9",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line10",
+   "en": "Larxene is gone, so{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line11",
+   "en": "we’re going to the top{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line12",
+   "en": "floor to finish Marluxia.{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line13",
+   "en": "We want our memories{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line14",
+   "en": "back.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line15",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line16",
+   "en": "And Sora―he wants to{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line17",
+   "en": "keep the promise he{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line18",
+   "en": "remembers.  Naminé may{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line19",
+   "en": "not be his friend, but in{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line20",
+   "en": "his heart, protecting{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale4Line21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale4Line21",
+   "en": "her is the only choice.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine0",
+   "en": "Sora wanted to take on{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine1",
+   "en": "Hercules, so we all{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine2",
+   "en": "decided to compete in{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine3",
+   "en": "the games.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryOlympusColiseumLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryOlympusColiseumLine5",
+   "en": "Hades, frantic to{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 61,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine2",
+   "en": "Keyblade to battle the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine3",
+   "en": "Heartless.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine5",
+   "en": "It was Sora who{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine6",
+   "en": "defeated Ansem, ending{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine7",
+   "en": "his plans to shroud the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine8",
+   "en": "world in darkness.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine9",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine10",
+   "en": "However, Sora{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine11",
+   "en": "continues his journey,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine12",
+   "en": "seeking the friends he{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine13",
+   "en": "lost during the{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSoraLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSoraLine14",
+   "en": "struggle.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine0",
+   "en": "Court wizard at Disney{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine1",
+   "en": "Castle who set out with{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine2",
+   "en": "Goofy after the king’s{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine3",
+   "en": "disappearance.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine5",
+   "en": "His short temper{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine6",
+   "en": "sometimes gets him into{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine7",
+   "en": "trouble, but he is very{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine8",
+   "en": "brave.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine9",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine10",
+   "en": "Donald is currently{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine11",
+   "en": "seeking clues to what{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine12",
+   "en": "happened to the king{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine13",
+   "en": "after he was locked{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine14",
+   "en": "behind the door to{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDonaldDuckLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDonaldDuckLine15",
+   "en": "darkness.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine0",
+   "en": "Captain of the Disney{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine1",
+   "en": "Castle Royal Knights.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine2",
+   "en": "He set out with Donald{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine3",
+   "en": "after the king’s{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine4",
+   "en": "disappearance.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine6",
+   "en": "He is cheerful and calm,{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine7",
+   "en": "and no one is more loyal{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine8",
+   "en": "to the king.{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine9",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine10",
+   "en": "Goofy and Sora are{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGoofyLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGoofyLine11",
+   "en": "especially good friends.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJiminyCricketLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJiminyCricketLine0",
+   "en": "That’s right, me again.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJiminyCricketLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJiminyCricketLine1",
+   "en": "I’m keeping a journal of{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJiminyCricketLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJiminyCricketLine2",
+   "en": "everyone’s adventures.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJiminyCricketLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJiminyCricketLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJiminyCricketLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJiminyCricketLine4",
+   "en": "I also act as Pinocchio’s{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJiminyCricketLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJiminyCricketLine5",
+   "en": "conscience, so he’ll{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJiminyCricketLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJiminyCricketLine6",
+   "en": "know right from wrong.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine0",
+   "en": "Sora’s childhood friend.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine2",
+   "en": "Baited by the darkness{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine3",
+   "en": "and used by Maleficent{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine4",
+   "en": "and Ansem, Riku once{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine5",
+   "en": "fought against Sora.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine7",
+   "en": "In order to seal the{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine8",
+   "en": "door to darkness, Riku{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine9",
+   "en": "stayed with the king on{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine10",
+   "en": "the other side.  His{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine11",
+   "en": "current whereabouts{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine12",
+   "en": "are unknown.{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine13",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine14",
+   "en": "Sora journeys in the{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuLine15",
+   "en": "hopes of finding Riku.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSimbaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSimbaLine0",
+   "en": "Successor to his father{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSimbaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSimbaLine1",
+   "en": "as ruler of the Pride{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSimbaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSimbaLine2",
+   "en": "Lands.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSimbaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSimbaLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSimbaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSimbaLine4",
+   "en": "Sora need only call and{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSimbaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSimbaLine5",
+   "en": "Simba will appear and{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSimbaLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSimbaLine6",
+   "en": "lend his strength.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 16,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 134,
+ "items": [
+  {
+   "id": "event_text:gEvent075Text10",
+   "pool": "event_text",
+   "symbol": "gEvent075Text10",
+   "en": "There’s nothing better than\nbeing reunited with someone\nyou care about.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent075Text11",
+   "pool": "event_text",
+   "symbol": "gEvent075Text11",
+   "en": "I feel the same way, Geppetto.{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent075Text12",
+   "pool": "event_text",
+   "symbol": "gEvent075Text12",
+   "en": "I don’t care if I’m trapped\nhere, so long as I have\nPinocchio.\nHe’s such a good boy.{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent075Text13",
+   "pool": "event_text",
+   "symbol": "gEvent075Text13",
+   "en": "Well, he still tells fibs.\nBut with a little help from me…{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent075Text14",
+   "pool": "event_text",
+   "symbol": "gEvent075Text14",
+   "en": "Oh, Jiminy, you worry too much.{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent075Text15",
+   "pool": "event_text",
+   "symbol": "gEvent075Text15",
+   "en": "Speaking of Pinocchio…\nWhere is he?{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent075Text16",
+   "pool": "event_text",
+   "symbol": "gEvent075Text16",
+   "en": "He was here a minute ago.\nWhere’s he gone this time?{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent075Text17",
+   "pool": "event_text",
+   "symbol": "gEvent075Text17",
+   "en": "I expect he’s off exploring.\n\n\nThat boy has been poking\naround just about every\nsquare inch of Monstro.{END}",
+   "max_units": 113,
+   "units": 113,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent075Text18",
+   "pool": "event_text",
+   "symbol": "gEvent075Text18",
+   "en": "He won’t tell me why it’s so \nimportant.\n\nI tell him it’s dangerous, but\nhe won’t listen.{END}",
+   "max_units": 98,
+   "units": 98,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent075Text19",
+   "pool": "event_text",
+   "symbol": "gEvent075Text19",
+   "en": "That puppet’s a handful!\nSora, if you don’t mind…{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent075Text20",
+   "pool": "event_text",
+   "symbol": "gEvent075Text20",
+   "en": "I know, I know.\nYou want us to help you find\nhim, right?{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent075Text21",
+   "pool": "event_text",
+   "symbol": "gEvent075Text21",
+   "en": "C’mon, guys, let’s get going!{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text00",
+   "pool": "event_text",
+   "symbol": "gEvent076Text00",
+   "en": "Oh!{END}",
+   "max_units": 52,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text01",
+   "pool": "event_text",
+   "symbol": "gEvent076Text01",
+   "en": "Pinocchio, you naughty boy!\n\n \nYou know Geppetto worries \nwhen you wander off by\nyourself.{END}",
+   "max_units": 100,
+   "units": 100,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent076Text02",
+   "pool": "event_text",
+   "symbol": "gEvent076Text02",
+   "en": "Jiminy was worried, too!{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text03",
+   "pool": "event_text",
+   "symbol": "gEvent076Text03",
+   "en": "I’m sorry…{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text04",
+   "pool": "event_text",
+   "symbol": "gEvent076Text04",
+   "en": "What are you doing, anyway?\nLooking for something?{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text05",
+   "pool": "event_text",
+   "symbol": "gEvent076Text05",
+   "en": "Um…yeah, I’m looking for\ntreasure!{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text06",
+   "pool": "event_text",
+   "symbol": "gEvent076Text06",
+   "en": "Here we go again!{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text07",
+   "pool": "event_text",
+   "symbol": "gEvent076Text07",
+   "en": "But, Jiminy…{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text08",
+   "pool": "event_text",
+   "symbol": "gEvent076Text08",
+   "en": "Now, don’t be so hard on the\nlittle fella, Jiminy.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text09",
+   "pool": "event_text",
+   "symbol": "gEvent076Text09",
+   "en": "We promise not to get mad,\nPinocchio.  Is that why you’re\nafraid to tell?{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent076Text10",
+   "pool": "event_text",
+   "symbol": "gEvent076Text10",
+   "en": "No need to fret.\nTell us the truth―we’ll\nunderstand.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent076Text11",
+   "pool": "event_text",
+   "symbol": "gEvent076Text11",
+   "en": "Put yer trust in Goofy!{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text12",
+   "pool": "event_text",
+   "symbol": "gEvent076Text12",
+   "en": "I was looking for a way out.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text13",
+   "pool": "event_text",
+   "symbol": "gEvent076Text13",
+   "en": "Father says he’s happy, but\nit’s my fault we’re stuck here.\n\nI shouldn’t have run away\nfrom home.{END}",
+   "max_units": 106,
+   "units": 106,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent076Text14",
+   "pool": "event_text",
+   "symbol": "gEvent076Text14",
+   "en": "I want to help Father get\nhome to the workshop.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text15",
+   "pool": "event_text",
+   "symbol": "gEvent076Text15",
+   "en": "But he’ll worry if I tell him \nwhat I’m doing.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text16",
+   "pool": "event_text",
+   "symbol": "gEvent076Text16",
+   "en": "I get it.\nSo that’s why you had to lie.{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text17",
+   "pool": "event_text",
+   "symbol": "gEvent076Text17",
+   "en": "You did it ’cause you love your\ndad!{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text18",
+   "pool": "event_text",
+   "symbol": "gEvent076Text18",
+   "en": "All you need now is courage!{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text19",
+   "pool": "event_text",
+   "symbol": "gEvent076Text19",
+   "en": "What?{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text20",
+   "pool": "event_text",
+   "symbol": "gEvent076Text20",
+   "en": "Tell Geppetto the truth.\nWith a little courage, you can\ndo it!{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent076Text21",
+   "pool": "event_text",
+   "symbol": "gEvent076Text21",
+   "en": "If you tell him how you really\nfeel, I bet he’ll help you find a\nway out.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent076Text22",
+   "pool": "event_text",
+   "symbol": "gEvent076Text22",
+   "en": "And we’ll give you a hand!{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text23",
+   "pool": "event_text",
+   "symbol": "gEvent076Text23",
+   "en": "Really?\nYou’ll help us?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text24",
+   "pool": "event_text",
+   "symbol": "gEvent076Text24",
+   "en": "Okay, I’ll give it a try! \nWish me luck, Jiminy!{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text25",
+   "pool": "event_text",
+   "symbol": "gEvent076Text25",
+   "en": "No more keeping secrets, then.\nHave we got a deal?{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text26",
+   "pool": "event_text",
+   "symbol": "gEvent076Text26",
+   "en": "Sure!  I’ll be brave and tell\nFather how I really feel.  No\nlies this time!{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent076Text27",
+   "pool": "event_text",
+   "symbol": "gEvent076Text27",
+   "en": "Great!\nThen your nose won’t―{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent076Text28",
+   "pool": "event_text",
+   "symbol": "gEvent076Text28",
+   "en": "What’s happening?!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text29",
+   "pool": "event_text",
+   "symbol": "gEvent076Text29",
+   "en": "I got a bad feeling about this!{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent076Text30",
+   "pool": "event_text",
+   "symbol": "gEvent076Text30",
+   "en": "Pinocchio, run for it!{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent077Text00",
+   "pool": "event_text",
+   "symbol": "gEvent077Text00",
+   "en": "Pinocchio, where are you?{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent077Text01",
+   "pool": "event_text",
+   "symbol": "gEvent077Text01",
+   "en": "Help!  I’m trapped!{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent077Text02",
+   "pool": "event_text",
+   "symbol": "gEvent077Text02",
+   "en": "What?!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent078Text00",
+   "pool": "event_text",
+   "symbol": "gEvent078Text00",
+   "en": "Help me!  I’m scared!{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent078Text01",
+   "pool": "event_text",
+   "symbol": "gEvent078Text01",
+   "en": "Pinocchio, be brave!{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent078Text02",
+   "pool": "event_text",
+   "symbol": "gEvent078Text02",
+   "en": "How?{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent078Text03",
+   "pool": "event_text",
+   "symbol": "gEvent078Text03",
+   "en": "Don’t give up!\nTry fighting your way out!{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent078Text04",
+   "pool": "event_text",
+   "symbol": "gEvent078Text04",
+   "en": "Be brave…{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent078Text05",
+   "pool": "event_text",
+   "symbol": "gEvent078Text05",
+   "en": "Okay, I’ll try!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent080Text00",
+   "pool": "event_text",
+   "symbol": "gEvent080Text00",
+   "en": "Pinocchio, are you all right?{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent080Text01",
+   "pool": "event_text",
+   "symbol": "gEvent080Text01",
+   "en": "Don’t worry, I’m okay. \nJust a little sticky…{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent080Text02",
+   "pool": "event_text",
+   "symbol": "gEvent080Text02",
+   "en": "But I have a great idea!{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent080Text03",
+   "pool": "event_text",
+   "symbol": "gEvent080Text03",
+   "en": "The Heartless spit me out\nwhen I started struggling.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent080Text04",
+   "pool": "event_text",
+   "symbol": "gEvent080Text04",
+   "en": "Why don’t we try the same\nthing with Monstro?{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent080Text05",
+   "pool": "event_text",
+   "symbol": "gEvent080Text05",
+   "en": "Of course!  If we’re lucky,\nMonstro might cough us up!{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent080Text06",
+   "pool": "event_text",
+   "symbol": "gEvent080Text06",
+   "en": "Great idea!\nLet’s go deeper inside and\ntry it!{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent080Text07",
+   "pool": "event_text",
+   "symbol": "gEvent080Text07",
+   "en": "I’m going, too!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent080Text08",
+   "pool": "event_text",
+   "symbol": "gEvent080Text08",
+   "en": "No, it’s too dangerous.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent080Text09",
+   "pool": "event_text",
+   "symbol": "gEvent080Text09",
+   "en": "Aw, c’mon…{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent080Text10",
+   "pool": "event_text",
+   "symbol": "gEvent080Text10",
+   "en": "You should be with Geppetto.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent080Text11",
+   "pool": "event_text",
+   "symbol": "gEvent080Text11",
+   "en": "No use escaping from Monstro\nif you two get separated\nagain!{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent080Text12",
+   "pool": "event_text",
+   "symbol": "gEvent080Text12",
+   "en": "Leave this to us.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent080Text13",
+   "pool": "event_text",
+   "symbol": "gEvent080Text13",
+   "en": "I guess you’re right.\nBe careful, everybody!{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent081Text00",
+   "pool": "event_text",
+   "symbol": "gEvent081Text00",
+   "en": "Looks like this is as far as we\ngo.{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent081Text01",
+   "pool": "event_text",
+   "symbol": "gEvent081Text01",
+   "en": "Ready, then?\nLet’s shake things up!{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent081Text02",
+   "pool": "event_text",
+   "symbol": "gEvent081Text02",
+   "en": "It would be easier if we had\nsomeone to fight…{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent081Text03",
+   "pool": "event_text",
+   "symbol": "gEvent081Text03",
+   "en": "Perfect timing. \nLooks like we’ve got company!{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

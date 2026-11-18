@@ -1,0 +1,848 @@
+{
+ "chunk": 84,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine11",
+   "en": "the islands were saved.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine12",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine13",
+   "en": "She waits there for{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine14",
+   "en": "Sora and Riku’s return.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTidusLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTidusLine0",
+   "en": "A young boy from{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTidusLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTidusLine1",
+   "en": "Sora’s islands with a{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTidusLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTidusLine2",
+   "en": "sunny personality and{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTidusLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTidusLine3",
+   "en": "lots of energy.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTidusLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTidusLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTidusLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTidusLine5",
+   "en": "Tidus has no shortage{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTidusLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTidusLine6",
+   "en": "of confidence either,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTidusLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTidusLine7",
+   "en": "and considers himself a{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTidusLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTidusLine8",
+   "en": "champ at everything.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWakkaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWakkaLine0",
+   "en": "A boy from Sora’s{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWakkaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWakkaLine1",
+   "en": "islands.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWakkaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWakkaLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWakkaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWakkaLine3",
+   "en": "Despite being the{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWakkaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWakkaLine4",
+   "en": "oldest, Wakka is modest{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWakkaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWakkaLine5",
+   "en": "and takes good care of{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWakkaLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWakkaLine6",
+   "en": "his friends.{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSelphieLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSelphieLine0",
+   "en": "A perky girl from Sora’s{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSelphieLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSelphieLine1",
+   "en": "islands.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSelphieLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSelphieLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSelphieLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSelphieLine3",
+   "en": "Selphie is assertive{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSelphieLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSelphieLine4",
+   "en": "and tends to leap{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSelphieLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSelphieLine5",
+   "en": "before she looks, and{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSelphieLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSelphieLine6",
+   "en": "she also has a romantic{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSelphieLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSelphieLine7",
+   "en": "side.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine0",
+   "en": "A member of the group{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine1",
+   "en": "that controls Castle{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine2",
+   "en": "Oblivion.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine4",
+   "en": "Larxene is unfeeling{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine5",
+   "en": "and loves nothing more{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine6",
+   "en": "than to bring other{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine7",
+   "en": "people down.{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine8",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine9",
+   "en": "She is on good terms{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine10",
+   "en": "with Axel but still{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine11",
+   "en": "mocks everyone and{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLarxeneLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLarxeneLine12",
+   "en": "trusts no one.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine0",
+   "en": "The daughter of King{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine1",
+   "en": "Triton who longs to{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine2",
+   "en": "see the outside world.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine4",
+   "en": "Worried by Flounder’s{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine5",
+   "en": "disappearance, Ariel{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine6",
+   "en": "was cajoled by Ursula{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine7",
+   "en": "into forking over the{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine8",
+   "en": "king’s trident.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine9",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine10",
+   "en": "We helped Ariel save{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine11",
+   "en": "Flounder and recover{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine12",
+   "en": "the trident, and she{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine13",
+   "en": "resolved to tell her{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterArielLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterArielLine14",
+   "en": "father the truth.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWinnieThePoohLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWinnieThePoohLine0",
+   "en": "A bear who lives in the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWinnieThePoohLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWinnieThePoohLine1",
+   "en": "base of a tree in the{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWinnieThePoohLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWinnieThePoohLine2",
+   "en": "Hundred Acre Wood.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWinnieThePoohLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWinnieThePoohLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWinnieThePoohLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWinnieThePoohLine4",
+   "en": "Pooh loves to eat―{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWinnieThePoohLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWinnieThePoohLine5",
+   "en": "especially honey.  He’s{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWinnieThePoohLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWinnieThePoohLine6",
+   "en": "gentle and easygoing,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWinnieThePoohLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWinnieThePoohLine7",
+   "en": "but a little absent-{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWinnieThePoohLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWinnieThePoohLine8",
+   "en": "minded.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarksideLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarksideLine0",
+   "en": "The Heartless that{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarksideLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarksideLine1",
+   "en": "attacked Sora’s home,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarksideLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarksideLine2",
+   "en": "Destiny Islands.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarksideLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarksideLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarksideLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarksideLine4",
+   "en": "Sora fought valiantly{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 76,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyMagicCardFireLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardFireLine3",
+   "en": "Firaga.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardBlizzardLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardBlizzardLine0",
+   "en": "Magic that deals ice{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardBlizzardLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardBlizzardLine1",
+   "en": "damage.  Stock 2 cards{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardBlizzardLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardBlizzardLine2",
+   "en": "for Blizzara and 3 cards{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardBlizzardLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardBlizzardLine3",
+   "en": "for Blizzaga.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardThunderLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardThunderLine0",
+   "en": "Magic that deals{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardThunderLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardThunderLine1",
+   "en": "lightning damage.  Stock{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardThunderLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardThunderLine2",
+   "en": "2 cards for Thundara{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardThunderLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardThunderLine3",
+   "en": "and 3 cards for{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardThunderLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardThunderLine4",
+   "en": "Thundaga.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardCureLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardCureLine0",
+   "en": "Magic that restores HP.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardCureLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardCureLine1",
+   "en": "Stock 2 cards for Cura{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardCureLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardCureLine2",
+   "en": "and 3 cards for Curaga.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardGravityLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardGravityLine0",
+   "en": "Magic that deals damage{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardGravityLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardGravityLine1",
+   "en": "relative to the enemy's{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardGravityLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardGravityLine2",
+   "en": "remaining HP.  Stock 2{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardGravityLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardGravityLine3",
+   "en": "cards for Gravira and{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardGravityLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardGravityLine4",
+   "en": "3 cards for Graviga.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardStopLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardStopLine0",
+   "en": "Magic that halts enemy{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardStopLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardStopLine1",
+   "en": "movement for a set{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardStopLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardStopLine2",
+   "en": "time period.  Stock 2{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardStopLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardStopLine3",
+   "en": "cards for Stopra and 3{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardStopLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardStopLine4",
+   "en": "cards for Stopga.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardAeroLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardAeroLine0",
+   "en": "Magic that blows away{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardAeroLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardAeroLine1",
+   "en": "nearby enemies and{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardAeroLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardAeroLine2",
+   "en": "inflicts damage.  Stock 2{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardAeroLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardAeroLine3",
+   "en": "cards for Aerora and 3{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardAeroLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardAeroLine4",
+   "en": "cards for Aeroga.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardSimbaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardSimbaLine0",
+   "en": "Simba lets out a mighty{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardSimbaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardSimbaLine1",
+   "en": "roar that deals damage{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardSimbaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardSimbaLine2",
+   "en": "to enemies in front of{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardSimbaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardSimbaLine3",
+   "en": "him.  Stock more than{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardSimbaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardSimbaLine4",
+   "en": "one and his roar will{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardSimbaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardSimbaLine5",
+   "en": "also stun enemies.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardDumboLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardDumboLine0",
+   "en": "Dumbo douses enemies{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardDumboLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardDumboLine1",
+   "en": "with water over a set{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardDumboLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardDumboLine2",
+   "en": "time period, dealing ice{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardDumboLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardDumboLine3",
+   "en": "damage.  Stock more{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardDumboLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardDumboLine4",
+   "en": "than one to prolong{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardDumboLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardDumboLine5",
+   "en": "the attack.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardBambiLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardBambiLine0",
+   "en": "Bambi bounds around{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardBambiLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardBambiLine1",
+   "en": "and drops recovery{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardBambiLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardBambiLine2",
+   "en": "items.  Stock more than{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardBambiLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardBambiLine3",
+   "en": "one to boost the effect.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardMushuLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardMushuLine0",
+   "en": "Mushu breathes fire at{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardMushuLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardMushuLine1",
+   "en": "the enemy, dealing fire{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardMushuLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardMushuLine2",
+   "en": "damage.  Stock more{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardMushuLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardMushuLine3",
+   "en": "than one to prolong{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardMushuLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardMushuLine4",
+   "en": "the attack.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardGenieLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardGenieLine0",
+   "en": "Genie casts Thundara,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardGenieLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardGenieLine1",
+   "en": "Gravira, or Stopra.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardGenieLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardGenieLine2",
+   "en": "Stock more than one{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardGenieLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardGenieLine3",
+   "en": "and Genie will cast{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardGenieLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardGenieLine4",
+   "en": "multiple spells.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardTinkerBellLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardTinkerBellLine0",
+   "en": "Tinker Bell restores HP{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardTinkerBellLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardTinkerBellLine1",
+   "en": "over a set time period.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardTinkerBellLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardTinkerBellLine2",
+   "en": "Stock more than one to{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardTinkerBellLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardTinkerBellLine3",
+   "en": "boost the effect.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardCloudLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardCloudLine0",
+   "en": "Cloud unleashes two{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardCloudLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardCloudLine1",
+   "en": "successive sword{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardCloudLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardCloudLine2",
+   "en": "attacks.  Stock 3 cards{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardCloudLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardCloudLine3",
+   "en": "to use Omnislash.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardPotionLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardPotionLine0",
+   "en": "Quickly reloads attack{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardPotionLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardPotionLine1",
+   "en": "cards with no charge{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardPotionLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardPotionLine2",
+   "en": "time required.  It does{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardPotionLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardPotionLine3",
+   "en": "not work on cards that{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardPotionLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardPotionLine4",
+   "en": "cannot be reloaded.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardHiPotionLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardHiPotionLine0",
+   "en": "Quickly reloads attack{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardHiPotionLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardHiPotionLine1",
+   "en": "cards with no charge{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardHiPotionLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardHiPotionLine2",
+   "en": "time required.  Even{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

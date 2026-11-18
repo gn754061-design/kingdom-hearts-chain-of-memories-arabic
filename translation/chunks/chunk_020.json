@@ -1,0 +1,848 @@
+{
+ "chunk": 20,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 135,
+ "items": [
+  {
+   "id": "event_text:gEvent098Text05",
+   "pool": "event_text",
+   "symbol": "gEvent098Text05",
+   "en": "Game’s up, scoundrels!\nFor stealing my memory, I\nsentence you to…{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent098Text06",
+   "pool": "event_text",
+   "symbol": "gEvent098Text06",
+   "en": "I sentence you to…{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent098Text07",
+   "pool": "event_text",
+   "symbol": "gEvent098Text07",
+   "en": "I…sentence…{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent098Text08",
+   "pool": "event_text",
+   "symbol": "gEvent098Text08",
+   "en": "Oh?{END}",
+   "max_units": 52,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent098Text09",
+   "pool": "event_text",
+   "symbol": "gEvent098Text09",
+   "en": "What’s going on?\nWhere am I?{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent098Text10",
+   "pool": "event_text",
+   "symbol": "gEvent098Text10",
+   "en": "Huh?{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent098Text11",
+   "pool": "event_text",
+   "symbol": "gEvent098Text11",
+   "en": "What in the world am I doing?{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent098Text12",
+   "pool": "event_text",
+   "symbol": "gEvent098Text12",
+   "en": "Confound it, I can’t remember!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent098Text13",
+   "pool": "event_text",
+   "symbol": "gEvent098Text13",
+   "en": "What’s wrong with her?{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent098Text14",
+   "pool": "event_text",
+   "symbol": "gEvent098Text14",
+   "en": "Maybe somebody swiped her\nmemory again?{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent098Text15",
+   "pool": "event_text",
+   "symbol": "gEvent098Text15",
+   "en": "Sora, watch out!\nSomething’s coming!{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent099Text00",
+   "pool": "event_text",
+   "symbol": "gEvent099Text00",
+   "en": "So this is what stole the\nqueen’s memory!{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text00",
+   "pool": "event_text",
+   "symbol": "gEvent100Text00",
+   "en": "You there!  All of you!{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent100Text01",
+   "pool": "event_text",
+   "symbol": "gEvent100Text01",
+   "en": "What is the meaning of this?\nWhere did that Heartless come\nfrom?{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent100Text02",
+   "pool": "event_text",
+   "symbol": "gEvent100Text02",
+   "en": "How would WE know?{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent100Text03",
+   "pool": "event_text",
+   "symbol": "gEvent100Text03",
+   "en": "So, you refuse to answer?\nYou’re hiding something!{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text04",
+   "pool": "event_text",
+   "symbol": "gEvent100Text04",
+   "en": "They’re plotting against me!\nSeize them immediately!{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text05",
+   "pool": "event_text",
+   "symbol": "gEvent100Text05",
+   "en": "Please, Your Majesty, wait!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent100Text06",
+   "pool": "event_text",
+   "symbol": "gEvent100Text06",
+   "en": "It was you who commanded us\nto destroy the Heartless.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text07",
+   "pool": "event_text",
+   "symbol": "gEvent100Text07",
+   "en": "Huh?{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent100Text08",
+   "pool": "event_text",
+   "symbol": "gEvent100Text08",
+   "en": "Your Majesty, in her prudence,\ndidn’t completely trust us at\nfirst.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent100Text09",
+   "pool": "event_text",
+   "symbol": "gEvent100Text09",
+   "en": "And so, at Your Majesty’s\ncommand, we fought the\nHeartless to prove ourselves.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent100Text10",
+   "pool": "event_text",
+   "symbol": "gEvent100Text10",
+   "en": "Isn’t that right, Sora?{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent100Text11",
+   "pool": "event_text",
+   "symbol": "gEvent100Text11",
+   "en": "We did?{END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent100Text12",
+   "pool": "event_text",
+   "symbol": "gEvent100Text12",
+   "en": "I mean, we did!\nYour, uh, Majesty.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text13",
+   "pool": "event_text",
+   "symbol": "gEvent100Text13",
+   "en": "I…told you…to do that?{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent100Text14",
+   "pool": "event_text",
+   "symbol": "gEvent100Text14",
+   "en": "But Your Majesty, don’t you\nremember?{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text15",
+   "pool": "event_text",
+   "symbol": "gEvent100Text15",
+   "en": "Don’t be ridiculous!\nI never forget anything!{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text16",
+   "pool": "event_text",
+   "symbol": "gEvent100Text16",
+   "en": "Of course I gave the command.\nAlice, Sora, you did splendidly.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text17",
+   "pool": "event_text",
+   "symbol": "gEvent100Text17",
+   "en": "Well, that was close.{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent100Text18",
+   "pool": "event_text",
+   "symbol": "gEvent100Text18",
+   "en": "Way to improvise!\nI never would’ve thought of\nthat.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent100Text19",
+   "pool": "event_text",
+   "symbol": "gEvent100Text19",
+   "en": "But the Cheshire Cat said as\nmuch.\n\n“Try too hard to remember,\nand your memory might lie to\nyou.”{END}",
+   "max_units": 107,
+   "units": 107,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent100Text20",
+   "pool": "event_text",
+   "symbol": "gEvent100Text20",
+   "en": "The queen would never admit\nshe forgot.  So instead, she\nremembered something…{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent100Text21",
+   "pool": "event_text",
+   "symbol": "gEvent100Text21",
+   "en": "…that didn’t happen!\nShe ended up fooling herself.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text22",
+   "pool": "event_text",
+   "symbol": "gEvent100Text22",
+   "en": "What is it, Sora?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent100Text23",
+   "pool": "event_text",
+   "symbol": "gEvent100Text23",
+   "en": "Hmm…it’s nothing.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent100Text24",
+   "pool": "event_text",
+   "symbol": "gEvent100Text24",
+   "en": "Well, I guess you’ll be safe\nnow.{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text25",
+   "pool": "event_text",
+   "symbol": "gEvent100Text25",
+   "en": "And that queen won’t give us\nany more trouble!{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent100Text26",
+   "pool": "event_text",
+   "symbol": "gEvent100Text26",
+   "en": "After all, we got rid of the\nHeartless, just like she\ncommanded!{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent100Text27",
+   "pool": "event_text",
+   "symbol": "gEvent100Text27",
+   "en": "Don’t tell me you’ve been\nfooled, too!{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent101Text00",
+   "pool": "event_text",
+   "symbol": "gEvent101Text00",
+   "en": "Gawrsh!  This looks like the\nbottom of the sea.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent101Text01",
+   "pool": "event_text",
+   "symbol": "gEvent101Text01",
+   "en": "It sure does.\nSo how come we can breathe?{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent101Text02",
+   "pool": "event_text",
+   "symbol": "gEvent101Text02",
+   "en": "Hmm…beats me!\nMaybe someone cast a spell on\nus?{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent101Text03",
+   "pool": "event_text",
+   "symbol": "gEvent101Text03",
+   "en": "It’s just like breathing air!{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent101Text04",
+   "pool": "event_text",
+   "symbol": "gEvent101Text04",
+   "en": "But it’s not air.  See?\nSomeone’s swimming this way!{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent101Text05",
+   "pool": "event_text",
+   "symbol": "gEvent101Text05",
+   "en": "If anyone asks, you didn’t see\nme!{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent101Text06",
+   "pool": "event_text",
+   "symbol": "gEvent101Text06",
+   "en": "What?{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent101Text07",
+   "pool": "event_text",
+   "symbol": "gEvent101Text07",
+   "en": "Sorry, I don’t have time to\nexplain.  Just promise you\nwon’t tell!{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent101Text08",
+   "pool": "event_text",
+   "symbol": "gEvent101Text08",
+   "en": "Hey, what’s that sparkling\nthingy you got there?{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent101Text09",
+   "pool": "event_text",
+   "symbol": "gEvent101Text09",
+   "en": "Oh, nothing―nothing at all!\nRemember, you didn’t see me!{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent101Text10",
+   "pool": "event_text",
+   "symbol": "gEvent101Text10",
+   "en": "She was hiding something.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent101Text11",
+   "pool": "event_text",
+   "symbol": "gEvent101Text11",
+   "en": "I wonder what it was?{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent102Text00",
+   "pool": "event_text",
+   "symbol": "gEvent102Text00",
+   "en": "Oh, woe is me…{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent102Text01",
+   "pool": "event_text",
+   "symbol": "gEvent102Text01",
+   "en": "Is something wrong?{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent102Text02",
+   "pool": "event_text",
+   "symbol": "gEvent102Text02",
+   "en": "Everything’s wrong!\n\n\nSomeone stole the king’s\nmagic trident.  Atlantica is\ndefenseless!{END}",
+   "max_units": 98,
+   "units": 98,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent102Text03",
+   "pool": "event_text",
+   "symbol": "gEvent102Text03",
+   "en": "And to top it off, Princess \nAriel has disappeared!{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent102Text04",
+   "pool": "event_text",
+   "symbol": "gEvent102Text04",
+   "en": "King Triton’s worried sick.\nHe won’t leave his chambers.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent102Text05",
+   "pool": "event_text",
+   "symbol": "gEvent102Text05",
+   "en": "Ariel?  She disappeared?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent102Text06",
+   "pool": "event_text",
+   "symbol": "gEvent102Text06",
+   "en": "Ariel’s friend Flounder would\nknow where she is, but now\nhe’s gone, too.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent102Text07",
+   "pool": "event_text",
+   "symbol": "gEvent102Text07",
+   "en": "Wait a sec…\nDidn’t we just see Ariel?{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent102Text08",
+   "pool": "event_text",
+   "symbol": "gEvent102Text08",
+   "en": "Yep.  But she didn’t look real\nhappy to see US!{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent102Text09",
+   "pool": "event_text",
+   "symbol": "gEvent102Text09",
+   "en": "Hey, wasn’t she carrying\nsomething when we saw her?{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent102Text10",
+   "pool": "event_text",
+   "symbol": "gEvent102Text10",
+   "en": "You don’t think that was the\ntrident?{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent102Text11",
+   "pool": "event_text",
+   "symbol": "gEvent102Text11",
+   "en": "You know, maybe it was.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent102Text12",
+   "pool": "event_text",
+   "symbol": "gEvent102Text12",
+   "en": "But that means Ariel stole it!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent102Text13",
+   "pool": "event_text",
+   "symbol": "gEvent102Text13",
+   "en": "There must be some\nexplanation.{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent102Text14",
+   "pool": "event_text",
+   "symbol": "gEvent102Text14",
+   "en": "Oh, Ariel!  Where have you run\noff to this time?  If anything\nhappens to you…{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent102Text15",
+   "pool": "event_text",
+   "symbol": "gEvent102Text15",
+   "en": "It’s all my fault!  Sebastian,\nyou are the world’s worst\nguardian!{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent102Text16",
+   "pool": "event_text",
+   "symbol": "gEvent102Text16",
+   "en": "What if she ran away because\nof my nagging?  King Triton will\nbanish me forever!{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent102Text17",
+   "pool": "event_text",
+   "symbol": "gEvent102Text17",
+   "en": "He’ll pop his shell if we tell\nhim Ariel took the trident.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

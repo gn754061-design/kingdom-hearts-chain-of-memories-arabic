@@ -1,0 +1,848 @@
+{
+ "chunk": 79,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyEnemyCardScrewdiverLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardScrewdiverLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardScrewdiverLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardScrewdiverLine4",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAquatankLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAquatankLine0",
+   "en": "■ Auto-Reload{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAquatankLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAquatankLine1",
+   "en": "Automatically reload{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAquatankLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAquatankLine2",
+   "en": "cards when they run{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAquatankLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAquatankLine3",
+   "en": "out.{END}",
+   "max_units": 22,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAquatankLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAquatankLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAquatankLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAquatankLine5",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWightKnightLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWightKnightLine0",
+   "en": "■ Float{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWightKnightLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWightKnightLine1",
+   "en": "Alter gravity to{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWightKnightLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWightKnightLine2",
+   "en": "increase jumping ability.{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWightKnightLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWightKnightLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWightKnightLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWightKnightLine4",
+   "en": "Duration:  3 reloads{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardGargoyleLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardGargoyleLine0",
+   "en": "■ Vanish{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardGargoyleLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardGargoyleLine1",
+   "en": "Become invisible and{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardGargoyleLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardGargoyleLine2",
+   "en": "reduce your chances of{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardGargoyleLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardGargoyleLine3",
+   "en": "being hit.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardGargoyleLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardGargoyleLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardGargoyleLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardGargoyleLine5",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardPirateLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardPirateLine0",
+   "en": "■ All Zeros{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardPirateLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardPirateLine1",
+   "en": "Change the values of{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardPirateLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardPirateLine2",
+   "en": "all cards to 0.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardPirateLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardPirateLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardPirateLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardPirateLine4",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAirPirateLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAirPirateLine0",
+   "en": "■ Item Bracer{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAirPirateLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAirPirateLine1",
+   "en": "Stop enemies from{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAirPirateLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAirPirateLine2",
+   "en": "breaking item cards you{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAirPirateLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAirPirateLine3",
+   "en": "use.{END}",
+   "max_units": 22,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAirPirateLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAirPirateLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardAirPirateLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardAirPirateLine5",
+   "en": "Duration:  3 reloads{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDarkballLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDarkballLine0",
+   "en": "■ Cardblind{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDarkballLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDarkballLine1",
+   "en": "Hide the cards you hold{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDarkballLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDarkballLine2",
+   "en": "from hostile eyes.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDarkballLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDarkballLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDarkballLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDarkballLine4",
+   "en": "Duration:  3 reloads{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDefenderLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDefenderLine0",
+   "en": "■ Protect{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDefenderLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDefenderLine1",
+   "en": "Decrease damage from{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDefenderLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDefenderLine2",
+   "en": "physical attacks by the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDefenderLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDefenderLine3",
+   "en": "enemy.  Magical attacks{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDefenderLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDefenderLine4",
+   "en": "do normal damage.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDefenderLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDefenderLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardDefenderLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardDefenderLine6",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWizardLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWizardLine0",
+   "en": "■ Magic Boost{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWizardLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWizardLine1",
+   "en": "Forfeit summon card{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWizardLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWizardLine2",
+   "en": "use to power up magic{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWizardLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWizardLine3",
+   "en": "cards.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWizardLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWizardLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWizardLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWizardLine5",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardNeoshadowLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardNeoshadowLine0",
+   "en": "■ Bio{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardNeoshadowLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardNeoshadowLine1",
+   "en": "Cause enemies' HP to{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardNeoshadowLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardNeoshadowLine2",
+   "en": "gradually drop.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardNeoshadowLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardNeoshadowLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardNeoshadowLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardNeoshadowLine4",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWhiteMushroomLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWhiteMushroomLine0",
+   "en": "■ Hyper Healing{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWhiteMushroomLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWhiteMushroomLine1",
+   "en": "Restore some HP every{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWhiteMushroomLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWhiteMushroomLine2",
+   "en": "time you use a friend{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWhiteMushroomLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWhiteMushroomLine3",
+   "en": "card.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWhiteMushroomLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWhiteMushroomLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWhiteMushroomLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWhiteMushroomLine5",
+   "en": "Duration:  3 reloads{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardBlackFungusLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardBlackFungusLine0",
+   "en": "■ Random Flush{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardBlackFungusLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardBlackFungusLine1",
+   "en": "Activate a random{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardBlackFungusLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardBlackFungusLine2",
+   "en": "enemy card effect.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardBlackFungusLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardBlackFungusLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardBlackFungusLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardBlackFungusLine4",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardCreeperPlantLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardCreeperPlantLine0",
+   "en": "■ Leaf Bracer{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardCreeperPlantLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardCreeperPlantLine1",
+   "en": "Stop enemies from{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardCreeperPlantLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardCreeperPlantLine2",
+   "en": "breaking Cure abilities{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardCreeperPlantLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardCreeperPlantLine3",
+   "en": "you use.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardCreeperPlantLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardCreeperPlantLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardCreeperPlantLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardCreeperPlantLine5",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

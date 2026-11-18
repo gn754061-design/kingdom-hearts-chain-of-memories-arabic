@@ -1,0 +1,848 @@
+{
+ "chunk": 26,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 149,
+ "items": [
+  {
+   "id": "event_text:gEvent121Text11",
+   "pool": "event_text",
+   "symbol": "gEvent121Text11",
+   "en": "Of course, we could always\ncancel the games.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent121Text12",
+   "pool": "event_text",
+   "symbol": "gEvent121Text12",
+   "en": "Cancel them?  What for?{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text13",
+   "pool": "event_text",
+   "symbol": "gEvent121Text13",
+   "en": "Old Phil’s prelim course was so\nhard, no one else could finish\nit.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text14",
+   "pool": "event_text",
+   "symbol": "gEvent121Text14",
+   "en": "Is that right?{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text15",
+   "pool": "event_text",
+   "symbol": "gEvent121Text15",
+   "en": "Then it’s settled!  Let us\ncompete, and you won’t have\nto cancel the games!\nHow about it, Phil?{END}",
+   "max_units": 103,
+   "units": 103,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent121Text16",
+   "pool": "event_text",
+   "symbol": "gEvent121Text16",
+   "en": "Okay, you got me over a barrel,\nso fine.  Here’s how it works,\nkid―{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text17",
+   "pool": "event_text",
+   "symbol": "gEvent121Text17",
+   "en": "It’s Sora―not “kid.”{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text18",
+   "pool": "event_text",
+   "symbol": "gEvent121Text18",
+   "en": "All right, all right.  Sora, since\nyour team and Hercules are\nthe only contenders―{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text19",
+   "pool": "event_text",
+   "symbol": "gEvent121Text19",
+   "en": "They’re not.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text20",
+   "pool": "event_text",
+   "symbol": "gEvent121Text20",
+   "en": "The games have a new \nchallenger.  Name’s Cloud.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent121Text21",
+   "pool": "event_text",
+   "symbol": "gEvent121Text21",
+   "en": "The more the merrier!{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text22",
+   "pool": "event_text",
+   "symbol": "gEvent121Text22",
+   "en": "Now the games will really be\nsomething to see!{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent121Text23",
+   "pool": "event_text",
+   "symbol": "gEvent121Text23",
+   "en": "I’m looking forward to this.\nDon’t expect me to pull any\npunches!{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text24",
+   "pool": "event_text",
+   "symbol": "gEvent121Text24",
+   "en": "Hey, as long as you don’t\nexpect me to take them!{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent121Text25",
+   "pool": "event_text",
+   "symbol": "gEvent121Text25",
+   "en": "Let’s give it our best.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text26",
+   "pool": "event_text",
+   "symbol": "gEvent121Text26",
+   "en": "Whatever.{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text27",
+   "pool": "event_text",
+   "symbol": "gEvent121Text27",
+   "en": "Okay, let’s get this show on\nthe road!  But first I gotta\nexplain a few rules.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text28",
+   "pool": "event_text",
+   "symbol": "gEvent121Text28",
+   "en": "Rule #1!\nFirst one through the\nobstacle course wins!{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text29",
+   "pool": "event_text",
+   "symbol": "gEvent121Text29",
+   "en": "Rule #2!\nIn the event of a tie, a battle\nwill determine the winner!{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text30",
+   "pool": "event_text",
+   "symbol": "gEvent121Text30",
+   "en": "Rule #3!\nYou can interfere with your \nopponents on the course!{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text31",
+   "pool": "event_text",
+   "symbol": "gEvent121Text31",
+   "en": "And finally…Rule #4! \nAll challengers have to give it\neverything they got!{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text32",
+   "pool": "event_text",
+   "symbol": "gEvent121Text32",
+   "en": "All right, enough with the\nspiel.  On your marks…\n\nGet set…{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent121Text33",
+   "pool": "event_text",
+   "symbol": "gEvent121Text33",
+   "en": "GO!!{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent122Text00",
+   "pool": "event_text",
+   "symbol": "gEvent122Text00",
+   "en": "Gawrsh, that was nice of him\nto wait for us to catch up!{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent122Text01",
+   "pool": "event_text",
+   "symbol": "gEvent122Text01",
+   "en": "He’s not waiting!\n\n\nRemember Rule #3?\n“You can interfere with your\nopponents on the course”!{END}",
+   "max_units": 102,
+   "units": 102,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent122Text02",
+   "pool": "event_text",
+   "symbol": "gEvent122Text02",
+   "en": "He’s looking to narrow the\nfield!{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent122Text03",
+   "pool": "event_text",
+   "symbol": "gEvent122Text03",
+   "en": "You can put that away.\nI’m not looking for a fight with\nyou, so keep walking.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent122Text04",
+   "pool": "event_text",
+   "symbol": "gEvent122Text04",
+   "en": "See?  He was waitin’ for us to\ncatch up.{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent122Text05",
+   "pool": "event_text",
+   "symbol": "gEvent122Text05",
+   "en": "Well, we’ve caught up.\nLet’s take him up on his offer\nand keep going!{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent122Text06",
+   "pool": "event_text",
+   "symbol": "gEvent122Text06",
+   "en": "I don’t see a downside…{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent122Text07",
+   "pool": "event_text",
+   "symbol": "gEvent122Text07",
+   "en": "Listen, are you sure?{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent122Text08",
+   "pool": "event_text",
+   "symbol": "gEvent122Text08",
+   "en": "I’m not here for the Cup.\nJust Hercules.{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent122Text09",
+   "pool": "event_text",
+   "symbol": "gEvent122Text09",
+   "en": "Today he loses more than the\ncompetition.{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent122Text10",
+   "pool": "event_text",
+   "symbol": "gEvent122Text10",
+   "en": "You don’t mean…  But why?!\nWhat did he do to you?{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent122Text11",
+   "pool": "event_text",
+   "symbol": "gEvent122Text11",
+   "en": "This is business.  Stay out of\nit.  Go win your Cup.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent122Text12",
+   "pool": "event_text",
+   "symbol": "gEvent122Text12",
+   "en": "Do you realize what you’re\ndoing?{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent122Text13",
+   "pool": "event_text",
+   "symbol": "gEvent122Text13",
+   "en": "Rule #3!  You can interfere\nwith your opponents.  Right?{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent122Text14",
+   "pool": "event_text",
+   "symbol": "gEvent122Text14",
+   "en": "You’re not the only one who\nwants to fight Hercules.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent122Text15",
+   "pool": "event_text",
+   "symbol": "gEvent122Text15",
+   "en": "Big mistake.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent123Text00",
+   "pool": "event_text",
+   "symbol": "gEvent123Text00",
+   "en": "Where did Cloud go?{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent123Text01",
+   "pool": "event_text",
+   "symbol": "gEvent123Text01",
+   "en": "He headed for the finish line! \nWe’d better go after him!{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent123Text02",
+   "pool": "event_text",
+   "symbol": "gEvent123Text02",
+   "en": "Right!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text00",
+   "pool": "event_text",
+   "symbol": "gEvent124Text00",
+   "en": "You lost!\nGive it up, Cloud!{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent124Text01",
+   "pool": "event_text",
+   "symbol": "gEvent124Text01",
+   "en": "We’re not done yet…{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text02",
+   "pool": "event_text",
+   "symbol": "gEvent124Text02",
+   "en": "I can’t guarantee your safety\nif we keep going like this!{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent124Text03",
+   "pool": "event_text",
+   "symbol": "gEvent124Text03",
+   "en": "Better worry about yourself.\nLooks to me like you’re slowing\ndown a bit.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent124Text04",
+   "pool": "event_text",
+   "symbol": "gEvent124Text04",
+   "en": "Ungh…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text05",
+   "pool": "event_text",
+   "symbol": "gEvent124Text05",
+   "en": "Don’t worry!\nI’ll back you up!{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent124Text06",
+   "pool": "event_text",
+   "symbol": "gEvent124Text06",
+   "en": "Sora?{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text07",
+   "pool": "event_text",
+   "symbol": "gEvent124Text07",
+   "en": "Get all the backup you want.\nI’m going to finish you and get\nback my memories!{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent124Text08",
+   "pool": "event_text",
+   "symbol": "gEvent124Text08",
+   "en": "Your memories?{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text09",
+   "pool": "event_text",
+   "symbol": "gEvent124Text09",
+   "en": "Now, now, Cloud, we don’t\nwant to spill the beans.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent124Text10",
+   "pool": "event_text",
+   "symbol": "gEvent124Text10",
+   "en": "Hades!  You!{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text11",
+   "pool": "event_text",
+   "symbol": "gEvent124Text11",
+   "en": "Looks like you oversold\nyourself, Cloud.  All you did\nwas wear him down.\nThis doesn’t look good for\nyour performance rating…{END}",
+   "max_units": 133,
+   "units": 133,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent124Text12",
+   "pool": "event_text",
+   "symbol": "gEvent124Text12",
+   "en": "Let me put it this way:\nYou, my spiky-haired friend,\nare fired.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent124Text13",
+   "pool": "event_text",
+   "symbol": "gEvent124Text13",
+   "en": "But…my memories!\nWe had a deal!{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent124Text14",
+   "pool": "event_text",
+   "symbol": "gEvent124Text14",
+   "en": "Did you really think you could\nget back your lost memories\njust like that?  Get a grip!{END}",
+   "max_units": 94,
+   "units": 94,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent124Text15",
+   "pool": "event_text",
+   "symbol": "gEvent124Text15",
+   "en": "Why, you―{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text16",
+   "pool": "event_text",
+   "symbol": "gEvent124Text16",
+   "en": "I said, you’re through!\nThis time I’ll take care of\nIrk-ules myself!{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent124Text17",
+   "pool": "event_text",
+   "symbol": "gEvent124Text17",
+   "en": "Hey?!{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text18",
+   "pool": "event_text",
+   "symbol": "gEvent124Text18",
+   "en": "Rule #5!\nIt's never too late to enter\nthe games.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent124Text19",
+   "pool": "event_text",
+   "symbol": "gEvent124Text19",
+   "en": "Hades, you were behind this\nfrom the start!{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent124Text20",
+   "pool": "event_text",
+   "symbol": "gEvent124Text20",
+   "en": "Cloud may have failed to take\nyou out, but he did break you\ndown.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent124Text21",
+   "pool": "event_text",
+   "symbol": "gEvent124Text21",
+   "en": "Time for Plan B.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text22",
+   "pool": "event_text",
+   "symbol": "gEvent124Text22",
+   "en": "Pack your pita, Herc, ’cause\nyou’ve just won a free trip to\nthe Underworld―paid by me!{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent124Text23",
+   "pool": "event_text",
+   "symbol": "gEvent124Text23",
+   "en": "Hold it, hothead!{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text24",
+   "pool": "event_text",
+   "symbol": "gEvent124Text24",
+   "en": "Sora, no!{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent124Text25",
+   "pool": "event_text",
+   "symbol": "gEvent124Text25",
+   "en": "Come on, Herc―how can we\ngo one-on-one if you’re in the\nUnderworld?{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent124Text26",
+   "pool": "event_text",
+   "symbol": "gEvent124Text26",
+   "en": "Good point, kid.\nI guess you’ll just have to go\nwith him!{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent125Text00",
+   "pool": "event_text",
+   "symbol": "gEvent125Text00",
+   "en": "Rule #6!\nThere are no rules!  Ha ha!{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

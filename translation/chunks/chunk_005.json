@@ -1,0 +1,866 @@
+{
+ "chunk": 5,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 252,
+ "items": [
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B31A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B31A",
+   "en": "· Cloud\n· Stop\n· Any attack card{END}",
+   "max_units": 50,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B35C",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B35C",
+   "en": "Cast a Fira spell that seeks\nout the targeted enemy.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B3C6",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B3C6",
+   "en": "· Aero\n· Fire\n· Any magic card{END}",
+   "max_units": 50,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B404",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B404",
+   "en": "Cast a Blizzara spell that\nseeks out the targeted\nenemy.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B476",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B476",
+   "en": "· Aero\n· Blizzard\n· Any magic card{END}",
+   "max_units": 50,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B4BC",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B4BC",
+   "en": "Set surrounding enemies' HP\nto that of the target.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B522",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B522",
+   "en": "· Cure\n· Gravity\n· Aero{END}",
+   "max_units": 50,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B552",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B552",
+   "en": "Hold enemies in place.\nEnemies can still attack from\ntheir positions.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B5DE",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B5DE",
+   "en": "· Gravity\n· Stop\n· Any magic card{END}",
+   "max_units": 50,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B622",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B622",
+   "en": "Blow away enemies in a wide\narea, inflicting damage and\nstunning them.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B6B0",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B6B0",
+   "en": "· Aero\n· Gravity\n· Any summon card{END}",
+   "max_units": 50,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B6F6",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B6F6",
+   "en": "Inflict damage on all ground\nenemies with a violent\ntremor.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B76E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B76E",
+   "en": "· Gravity\n· Simba\n· Any magic card{END}",
+   "max_units": 50,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B7B4",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B7B4",
+   "en": "Rematerialize behind the\ntargeted enemy, stunning it\nfor a short time.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B842",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B842",
+   "en": "· Any magic card\n· Any magic card\n· Peter Pan{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B89E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B89E",
+   "en": "· Stop\n· Aero\n· Any item card{END}",
+   "max_units": 50,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B8DA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B8DA",
+   "en": "Leap into the air and attack\nenemies from above.\nOnly available in Dark Mode.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B976",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B976",
+   "en": "· Three Soul Eaters\n· Total value 5-15{END}",
+   "max_units": 50,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B9C4",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B9C4",
+   "en": "Expel dark energy in a\nsearing blast.\nOnly available in Dark Mode.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903BA4A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903BA4A",
+   "en": "· Three Soul Eaters\n· Total value 16-25{END}",
+   "max_units": 50,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903BA9A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903BA9A",
+   "en": "Rush enemies repeatedly\nwith blade in hand.\nOnly available in Dark Mode.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903BB2C",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903BB2C",
+   "en": "· Three Soul Eaters\n· Total value 27{END}",
+   "max_units": 50,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903BB76",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903BB76",
+   "en": "The king restores HP, and\nstuns and deals damage to\nall enemies.{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903BBF8",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903BBF8",
+   "en": "· The King\n· The King{END}",
+   "max_units": 50,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903BC24",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903BC24",
+   "en": "The king restores a lot of\nHP, and stuns and deals\ndamage to all enemies.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903BCB8",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903BCB8",
+   "en": "· The King\n· The King\n· The King{END}",
+   "max_units": 50,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903BCFA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903BCFA",
+   "en": "NO TEXT{END}",
+   "max_units": 50,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gPoohLeaveWorldText",
+   "pool": "card_message_text",
+   "symbol": "gPoohLeaveWorldText",
+   "en": "Leave this world?{END}",
+   "max_units": 80,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gEeyoreTalkText1",
+   "pool": "card_message_text",
+   "symbol": "gEeyoreTalkText1",
+   "en": "Thanks for accidentally\nhelping me, Sora.  You too,\nPooh.{END}",
+   "max_units": 80,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gEeyoreTalkText0",
+   "pool": "card_message_text",
+   "symbol": "gEeyoreTalkText0",
+   "en": "I can’t do without my tail…{END}",
+   "max_units": 80,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gPigletTalkText",
+   "pool": "card_message_text",
+   "symbol": "gPigletTalkText",
+   "en": "I just can’t seem to make up\nmy mind.  Whatever should I\ndo?{END}",
+   "max_units": 80,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gOwlTalkText",
+   "pool": "card_message_text",
+   "symbol": "gOwlTalkText",
+   "en": "My, my.  Pooh can’t seem to\ntear himself away from those\nballoons.{END}",
+   "max_units": 80,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRooTalkText",
+   "pool": "card_message_text",
+   "symbol": "gRooTalkText",
+   "en": "It’s no use just jumpin’.\nYou have to do it right!{END}",
+   "max_units": 80,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gRabbitTalkText1",
+   "pool": "card_message_text",
+   "symbol": "gRabbitTalkText1",
+   "en": "That’s odd.\nThese cabbages look as if\nthey’ve been batted about…{END}",
+   "max_units": 80,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRabbitTalkText0",
+   "pool": "card_message_text",
+   "symbol": "gRabbitTalkText0",
+   "en": "Carrots, cabbages, onions…\nAll my vegetables must be\nsorted just so.{END}",
+   "max_units": 80,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gWorldselectTutorialText0",
+   "pool": "card_message_text",
+   "symbol": "gWorldselectTutorialText0",
+   "en": "Hold the card before you.\nThe door will open, and beyond\nit a new world.{END}",
+   "max_units": 80,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gWorldselectTutorialText1",
+   "pool": "card_message_text",
+   "symbol": "gWorldselectTutorialText1",
+   "en": "{HIGHLIGHT}+Control Pad{PLAIN}:  Select a card\n(Sora only has one card now.)\n       {HIGHLIGHT}A Button{PLAIN}:  Confirm{END}",
+   "max_units": 127,
+   "units": 127,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gWarpPointTutorialText",
+   "pool": "card_message_text",
+   "symbol": "gWarpPointTutorialText",
+   "en": "The swirling sphere in front of\nSora is called a {HIGHLIGHT}warp point{PLAIN}.\n\nYou can freely move to and\nfrom floors that you've\nalready completed.\nStand near it and press the\n{HIGHLIGHT}A Button{PLAIN} to open the World\nWarp menu.{END}",
+   "max_units": 246,
+   "units": 246,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 9
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText00",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText00",
+   "en": "The laws of this castle\nrequire that your friends be\ntransformed into cards.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText01",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText01",
+   "en": "If you value your friends,\nyou will pick them up without\nfail.{END}",
+   "max_units": 80,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText02",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText02",
+   "en": "{HIGHLIGHT}+Control Pad{PLAIN}:  Move{END}",
+   "max_units": 80,
+   "units": 42,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText03",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText03",
+   "en": "Cards you pick up are added\nto the top of your stack.\n\nUse them, and your friends\nwill come to your aid.{END}",
+   "max_units": 113,
+   "units": 113,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText04",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText04",
+   "en": "{HIGHLIGHT}A Button{PLAIN}:  Use card{END}",
+   "max_units": 80,
+   "units": 42,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText05",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText05",
+   "en": "The cards you use vanish, but\nthey will reappear to aid you\ntime and again.\nCards are the hearts of your\nfriends.{END}",
+   "max_units": 122,
+   "units": 122,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText06",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText06",
+   "en": "Everything in this castle is\nruled by cards.\n\nWhether an enemy or a door\nstands in your way, cards are\nthe only way to proceed.\nBut you mustn't forget your\nown strength.{END}",
+   "max_units": 181,
+   "units": 181,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 8
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText07",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText07",
+   "en": "       {HIGHLIGHT}B Button{PLAIN}:  Jump\nTap the {HIGHLIGHT}+Control Pad Left or{PLAIN}\n   {HIGHLIGHT}Right{PLAIN} twice:  Dodge Roll{END}",
+   "max_units": 140,
+   "units": 140,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText08",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText08",
+   "en": "First think for yourself.\nMove, then use the cards.{END}",
+   "max_units": 80,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText09",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText09",
+   "en": "{HIGHLIGHT}A Button{PLAIN}:  Use card{END}",
+   "max_units": 80,
+   "units": 42,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText10",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText10",
+   "en": "Good.\n\n\nEvery move you make causes a\ncard to disappear.{END}",
+   "max_units": 80,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText11",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText11",
+   "en": "If you use up all your cards,\nyou will be unable to act.{END}",
+   "max_units": 80,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText12",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText12",
+   "en": "But there is a solution.\nKeep using cards until you run\nout, and I will show you.{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText13",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText13",
+   "en": "There.\nYou have no more cards, and\nwithout them, no power.{END}",
+   "max_units": 80,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText14",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText14",
+   "en": "If you want that power back,\nyou must focus.\n\nBid the cards return to you...\nand they will.{END}",
+   "max_units": 100,
+   "units": 100,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText15",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText15",
+   "en": "Reloading Cards\nSelect the reload card icon\nand hold down the {HIGHLIGHT}A Button{PLAIN}.{END}",
+   "max_units": 96,
+   "units": 96,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText16",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText16",
+   "en": "The strength of your heart\nbrought back the lost cards.\n\nYou can recall spent cards at\nany time―you need only wish\nit.\nBut each time you do, the\ncards will take longer to\nreturn.{END}",
+   "max_units": 191,
+   "units": 191,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 9
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText17",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText17",
+   "en": "The cards are by no means\nunlimited.  Use them wisely.\n\nAnticipate the flow of battle\nand choose the most effective\ncards.\nYou may use any card in your\ndeck.{END}",
+   "max_units": 169,
+   "units": 169,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 8
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText18",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText18",
+   "en": "Selecting Cards\n{HIGHLIGHT}L Button{PLAIN}:  Cycle cards left\n{HIGHLIGHT}R Button{PLAIN}:  Cycle cards right{END}",
+   "max_units": 115,
+   "units": 115,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText19",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText19",
+   "en": "The four card types you use\nin battle are grouped into two\nwider categories.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText20",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText20",
+   "en": "The first category includes\nattack cards, magic cards, and\nitem cards.\nThe second category consists\nentirely of enemy cards.\n\nTo use cards from a different\ncategory―{END}",
+   "max_units": 177,
+   "units": 177,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 8
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText21",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText21",
+   "en": "Changing Categories\nPress {HIGHLIGHT}SELECT{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 57,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gRobeTutorialText22",
+   "pool": "card_message_text",
+   "symbol": "gRobeTutorialText22",
+   "en": "Cards will empower you\nwhether you are attacking or\ndefending.\nBut it is up to you to decide\nwhen to attack and when to\ndefend.  Do not forget it.{END}",
+   "max_units": 156,
+   "units": 156,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText00",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText00",
+   "en": "See the numbers printed on\nyour cards?\n\nThey range from 0 to 9.\nHigher numbers mean stronger\ncards.\nIf you and your enemy both\nplay a card at the same time,\nthe higher card wins.\nGo on, try it out.{END}",
+   "max_units": 211,
+   "units": 211,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 10
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText01",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText01",
+   "en": "See how it works?\n\n\nPlaying a card higher than\nyour opponent’s and breaking\nthrough their defenses…\n…is called a “card break.”{END}",
+   "max_units": 137,
+   "units": 137,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 7
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText02",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText02",
+   "en": "Playing a lower card results\nin your attack being deflected.\n\nEven powerful cards can be\ndeflected if the enemy’s card\nis higher.\nWhoever is on the losing side\nof a break is left wide open to\nattacks.\nDon't let that person be you.{END}",
+   "max_units": 244,
+   "units": 244,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 10
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText03",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText03",
+   "en": "Cards with 0 as their value\nare special.{END}",
+   "max_units": 80,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText04",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText04",
+   "en": "No matter what card the\nenemy plays, you can break it\nwith a zero card.\nBut you have to wait until\nAFTER the enemy plays their\ncard.\nIf you play the zero card too\nsoon, the enemy can break it\nwith any card they play.{END}",
+   "max_units": 229,
+   "units": 229,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 9
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText05",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText05",
+   "en": "In other words, it’s the most\npowerful card if it comes last,\nand useless if it comes first.\nTry to make the most of it.{END}",
+   "max_units": 128,
+   "units": 128,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText06",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText06",
+   "en": "Card values also affect the\ncost of assembling a deck.\nKeep that in mind.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText07",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText07",
+   "en": "Now it’s time to teach you\nhow to stock cards.{END}",
+   "max_units": 80,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText08",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText08",
+   "en": "You don’t have to use battle\ncards one at a time.\n\nYou can also assemble three\ncards and use them all at once.\nThis is called stocking cards.{END}",
+   "max_units": 151,
+   "units": 151,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  }
+ ]
+}

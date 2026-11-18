@@ -1,0 +1,1072 @@
+{
+ "version": 1,
+ "source": "build/us/gen/*_text.inc + config/text/*.yaml",
+ "terms": 133,
+ "violations": 0,
+ "entries": [
+  {
+   "en": "Sora",
+   "ar": "سورا",
+   "en_len": 4,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Riku",
+   "ar": "ريكو",
+   "en_len": 4,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Kairi",
+   "ar": "كايري",
+   "en_len": 5,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Naminé",
+   "ar": "ناميني",
+   "en_len": 6,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Axel",
+   "ar": "أكسل",
+   "en_len": 4,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Ansem",
+   "ar": "أنسيم",
+   "en_len": 5,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Mickey",
+   "ar": "ميكي",
+   "en_len": 6,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Donald",
+   "ar": "دونالد",
+   "en_len": 6,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Goofy",
+   "ar": "غوفي",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Marluxia",
+   "ar": "مارلوكسيا",
+   "en_len": 8,
+   "ar_len": 9,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Larxene",
+   "ar": "لاركسين",
+   "en_len": 7,
+   "ar_len": 7,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Vexen",
+   "ar": "فاكسين",
+   "en_len": 5,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Lexaeus",
+   "ar": "ليكسايوس",
+   "en_len": 7,
+   "ar_len": 8,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Zexion",
+   "ar": "زيكسيون",
+   "en_len": 6,
+   "ar_len": 7,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Jiminy",
+   "ar": "جيميني",
+   "en_len": 6,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Aerith",
+   "ar": "إيريس",
+   "en_len": 6,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Cloud",
+   "ar": "سحابة",
+   "en_len": 5,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Leon",
+   "ar": "ليون",
+   "en_len": 4,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Cid",
+   "ar": "سيد",
+   "en_len": 3,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Yuffie",
+   "ar": "يوفي",
+   "en_len": 6,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Selphie",
+   "ar": "سيلفي",
+   "en_len": 7,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Tidus",
+   "ar": "تيدوس",
+   "en_len": 5,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Wakka",
+   "ar": "واكا",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Genie",
+   "ar": "الجني",
+   "en_len": 5,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Aladdin",
+   "ar": "علاء الدين",
+   "en_len": 7,
+   "ar_len": 10,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Jasmine",
+   "ar": "ياسمين",
+   "en_len": 7,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Ariel",
+   "ar": "آريل",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Belle",
+   "ar": "بيل",
+   "en_len": 5,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Beast",
+   "ar": "الوحش",
+   "en_len": 5,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Peter Pan",
+   "ar": "بيتر بان",
+   "en_len": 9,
+   "ar_len": 8,
+   "cap": 22,
+   "ok": true
+  },
+  {
+   "en": "Alice",
+   "ar": "أليس",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "White Rabbit",
+   "ar": "الأرنب الأبيض",
+   "en_len": 12,
+   "ar_len": 13,
+   "cap": 22,
+   "ok": true
+  },
+  {
+   "en": "Cheshire Cat",
+   "ar": "قط شيشاير",
+   "en_len": 12,
+   "ar_len": 9,
+   "cap": 22,
+   "ok": true
+  },
+  {
+   "en": "Pinocchio",
+   "ar": "بينوكيو",
+   "en_len": 9,
+   "ar_len": 7,
+   "cap": 22,
+   "ok": true
+  },
+  {
+   "en": "Geppetto",
+   "ar": "جيبيتو",
+   "en_len": 8,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Piglet",
+   "ar": "بيغليت",
+   "en_len": 6,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Tigger",
+   "ar": "تيغر",
+   "en_len": 6,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Eeyore",
+   "ar": "إيور",
+   "en_len": 6,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Rabbit",
+   "ar": "الأرنب",
+   "en_len": 6,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Owl",
+   "ar": "البومة",
+   "en_len": 3,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Sora's",
+   "ar": "سورا",
+   "en_len": 6,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Hearts",
+   "ar": "قلوب",
+   "en_len": 6,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Heartless",
+   "ar": "فاقد القلب",
+   "en_len": 9,
+   "ar_len": 10,
+   "cap": 22,
+   "ok": true
+  },
+  {
+   "en": "Heartless.",
+   "ar": "فاقد القلب.",
+   "en_len": 10,
+   "ar_len": 11,
+   "cap": 22,
+   "ok": true
+  },
+  {
+   "en": "Nobody",
+   "ar": "لا أحد",
+   "en_len": 6,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Nobodies",
+   "ar": "لا أحد",
+   "en_len": 8,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Memories",
+   "ar": "ذكريات",
+   "en_len": 8,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Darkness",
+   "ar": "ظلام",
+   "en_len": 8,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Light",
+   "ar": "نور",
+   "en_len": 5,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Keyblade",
+   "ar": "مفتاح القلب",
+   "en_len": 8,
+   "ar_len": 11,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Sleep",
+   "ar": "نوم",
+   "en_len": 5,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Promise",
+   "ar": "وعد",
+   "en_len": 7,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Friends",
+   "ar": "أصدقاء",
+   "en_len": 7,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Fight",
+   "ar": "قتال",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Magic",
+   "ar": "سحر",
+   "en_len": 5,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Yes",
+   "ar": "نعم",
+   "en_len": 3,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "No",
+   "ar": "لا",
+   "en_len": 2,
+   "ar_len": 2,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Cancel",
+   "ar": "إلغاء",
+   "en_len": 6,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "HP",
+   "ar": "صحة",
+   "en_len": 2,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Blizzard",
+   "ar": "جليد",
+   "en_len": 8,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Stop",
+   "ar": "توقف",
+   "en_len": 4,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Wood",
+   "ar": "خشب",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Time",
+   "ar": "وقت",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Today",
+   "ar": "اليوم",
+   "en_len": 5,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Now",
+   "ar": "الآن",
+   "en_len": 3,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Never",
+   "ar": "أبداً",
+   "en_len": 5,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Maybe",
+   "ar": "ربما",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Yes.",
+   "ar": "نعم.",
+   "en_len": 4,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "No.",
+   "ar": "لا.",
+   "en_len": 3,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Right",
+   "ar": "يمين",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Wrong",
+   "ar": "خطأ",
+   "en_len": 5,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Good",
+   "ar": "جيد",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Great",
+   "ar": "عظيم",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Big",
+   "ar": "كبير",
+   "en_len": 3,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Old",
+   "ar": "قديم",
+   "en_len": 3,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Dark",
+   "ar": "مظلم",
+   "en_len": 4,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Empty",
+   "ar": "فارغ",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Free",
+   "ar": "حر",
+   "en_len": 4,
+   "ar_len": 2,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Ready",
+   "ar": "جاهز",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Done",
+   "ar": "تم",
+   "en_len": 4,
+   "ar_len": 2,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Here",
+   "ar": "هنا",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "There",
+   "ar": "هناك",
+   "en_len": 5,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Up",
+   "ar": "أعلى",
+   "en_len": 2,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Back",
+   "ar": "خلف",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "First",
+   "ar": "أول",
+   "en_len": 5,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Last",
+   "ar": "آخر",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Next",
+   "ar": "التالي",
+   "en_len": 4,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "One",
+   "ar": "واحد",
+   "en_len": 3,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Two",
+   "ar": "اثنان",
+   "en_len": 3,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Three",
+   "ar": "ثلاثة",
+   "en_len": 5,
+   "ar_len": 5,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Ten",
+   "ar": "عشرة",
+   "en_len": 3,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Many",
+   "ar": "كثير",
+   "en_len": 4,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "All",
+   "ar": "كل",
+   "en_len": 3,
+   "ar_len": 2,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Some",
+   "ar": "بعض",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "None",
+   "ar": "لا شيء",
+   "en_len": 4,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Every",
+   "ar": "كل",
+   "en_len": 5,
+   "ar_len": 2,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Other",
+   "ar": "آخر",
+   "en_len": 5,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Another",
+   "ar": "آخر",
+   "en_len": 7,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Same",
+   "ar": "نفس",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "More",
+   "ar": "أكثر",
+   "en_len": 4,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Enough",
+   "ar": "كافٍ",
+   "en_len": 6,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Too",
+   "ar": "جداً",
+   "en_len": 3,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Very",
+   "ar": "جداً",
+   "en_len": 4,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Really",
+   "ar": "حقاً",
+   "en_len": 6,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Exactly",
+   "ar": "بالضبط",
+   "en_len": 7,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Only",
+   "ar": "فقط",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Just",
+   "ar": "فقط",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Even",
+   "ar": "حتى",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Still",
+   "ar": "لا يزال",
+   "en_len": 5,
+   "ar_len": 7,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Then",
+   "ar": "إذن",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "So",
+   "ar": "إذن",
+   "en_len": 2,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Because",
+   "ar": "لأن",
+   "en_len": 7,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Since",
+   "ar": "منذ",
+   "en_len": 5,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Before",
+   "ar": "قبل",
+   "en_len": 6,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "After",
+   "ar": "بعد",
+   "en_len": 5,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Until",
+   "ar": "حتى",
+   "en_len": 5,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "If",
+   "ar": "إذا",
+   "en_len": 2,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Unless",
+   "ar": "إلا إذا",
+   "en_len": 6,
+   "ar_len": 7,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Whether",
+   "ar": "سواء",
+   "en_len": 7,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "As",
+   "ar": "مثل",
+   "en_len": 2,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Like",
+   "ar": "مثل",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Such",
+   "ar": "مثل",
+   "en_len": 4,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Both",
+   "ar": "كلاهما",
+   "en_len": 4,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Either",
+   "ar": "أي",
+   "en_len": 6,
+   "ar_len": 2,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Neither",
+   "ar": "لا هذا ولا ذاك",
+   "en_len": 7,
+   "ar_len": 14,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Any",
+   "ar": "أي",
+   "en_len": 3,
+   "ar_len": 2,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Not",
+   "ar": "ليس",
+   "en_len": 3,
+   "ar_len": 3,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Sometimes",
+   "ar": "أحياناً",
+   "en_len": 9,
+   "ar_len": 7,
+   "cap": 22,
+   "ok": true
+  },
+  {
+   "en": "Perhaps",
+   "ar": "ربما",
+   "en_len": 7,
+   "ar_len": 4,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Probably",
+   "ar": "على الأرجح",
+   "en_len": 8,
+   "ar_len": 10,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Surely",
+   "ar": "بالتأكيد",
+   "en_len": 6,
+   "ar_len": 8,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Simply",
+   "ar": "ببساطة",
+   "en_len": 6,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  },
+  {
+   "en": "Hardly",
+   "ar": "بالكاد",
+   "en_len": 6,
+   "ar_len": 6,
+   "cap": 14,
+   "ok": true
+  }
+ ]
+}

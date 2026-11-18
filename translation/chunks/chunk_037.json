@@ -1,0 +1,848 @@
+{
+ "chunk": 37,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 145,
+ "items": [
+  {
+   "id": "event_text:gEvent036Text13",
+   "pool": "event_text",
+   "symbol": "gEvent036Text13",
+   "en": "…and Naminé.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent037Text00",
+   "pool": "event_text",
+   "symbol": "gEvent037Text00",
+   "en": "Where’s Riku?\nI thought he’d be here waiting\nfor us.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent037Text01",
+   "pool": "event_text",
+   "symbol": "gEvent037Text01",
+   "en": "Guess he finally got fighting\nout of his system.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent037Text02",
+   "pool": "event_text",
+   "symbol": "gEvent037Text02",
+   "en": "I sure hope so. {END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text00",
+   "pool": "event_text",
+   "symbol": "gEvent038Text00",
+   "en": "Now what, Vexen?\nLooks like your little toy isn't\ntaking orders anymore.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent038Text01",
+   "pool": "event_text",
+   "symbol": "gEvent038Text01",
+   "en": "Now Larxene…\nShouldn't we give Vexen the\nbenefit of the doubt?\nRiku could be hiding as part of\nsome elaborate plan to lure\nSora deeper into the castle.{END}",
+   "max_units": 161,
+   "units": 161,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent038Text02",
+   "pool": "event_text",
+   "symbol": "gEvent038Text02",
+   "en": "Oh, of course!\nWhy didn’t I see it before?\nTerribly sorry, Vexie.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent038Text03",
+   "pool": "event_text",
+   "symbol": "gEvent038Text03",
+   "en": "I guess I'm just used to you\nand your research being more\nfunny than formidable.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent038Text04",
+   "pool": "event_text",
+   "symbol": "gEvent038Text04",
+   "en": "Hold your tongue!{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text05",
+   "pool": "event_text",
+   "symbol": "gEvent038Text05",
+   "en": "Aww, are you sulking?\nHa ha, you are so half-baked.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text06",
+   "pool": "event_text",
+   "symbol": "gEvent038Text06",
+   "en": "You’re hardly one to talk, you\nconniving little―{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text07",
+   "pool": "event_text",
+   "symbol": "gEvent038Text07",
+   "en": "That will do.{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text08",
+   "pool": "event_text",
+   "symbol": "gEvent038Text08",
+   "en": "Marluxia!{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text09",
+   "pool": "event_text",
+   "symbol": "gEvent038Text09",
+   "en": "Your project has failed,\nVexen.  Do not disappoint us\nagain.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent038Text10",
+   "pool": "event_text",
+   "symbol": "gEvent038Text10",
+   "en": "Disappoint YOU?\nYou presume too much, No. 11.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text11",
+   "pool": "event_text",
+   "symbol": "gEvent038Text11",
+   "en": "I am No. 4, and I will not stand\nfor your snide remarks!{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text12",
+   "pool": "event_text",
+   "symbol": "gEvent038Text12",
+   "en": "Yes, you will.\nThis castle and the girl Naminé\nhave been entrusted to ME.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent038Text13",
+   "pool": "event_text",
+   "symbol": "gEvent038Text13",
+   "en": "Defy me, and you defy the\nOrganization.{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text14",
+   "pool": "event_text",
+   "symbol": "gEvent038Text14",
+   "en": "Unless I'm mistaken, treason is\na CAPITAL crime…{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text15",
+   "pool": "event_text",
+   "symbol": "gEvent038Text15",
+   "en": "This is absurd!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text16",
+   "pool": "event_text",
+   "symbol": "gEvent038Text16",
+   "en": "In the name of the\nOrganization, I pronounce\nyour project a failure.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent038Text17",
+   "pool": "event_text",
+   "symbol": "gEvent038Text17",
+   "en": "This lapse must be reported\nto the Superior.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text18",
+   "pool": "event_text",
+   "symbol": "gEvent038Text18",
+   "en": "No…\nPlease, don’t!  I beg of you!\nLeave him out of this!{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent038Text19",
+   "pool": "event_text",
+   "symbol": "gEvent038Text19",
+   "en": "I will, under one condition.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text20",
+   "pool": "event_text",
+   "symbol": "gEvent038Text20",
+   "en": "What condition?{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text21",
+   "pool": "event_text",
+   "symbol": "gEvent038Text21",
+   "en": "You must eliminate Sora\npersonally.{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text22",
+   "pool": "event_text",
+   "symbol": "gEvent038Text22",
+   "en": "Eliminate him?!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text23",
+   "pool": "event_text",
+   "symbol": "gEvent038Text23",
+   "en": "You refuse?{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text24",
+   "pool": "event_text",
+   "symbol": "gEvent038Text24",
+   "en": "No…I mean…but…\nWhy would you want that?{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text25",
+   "pool": "event_text",
+   "symbol": "gEvent038Text25",
+   "en": "Just do it.{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text26",
+   "pool": "event_text",
+   "symbol": "gEvent038Text26",
+   "en": "He’ll really do it, you know.\nHe’s got no choice.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text27",
+   "pool": "event_text",
+   "symbol": "gEvent038Text27",
+   "en": "Neither do we.{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text28",
+   "pool": "event_text",
+   "symbol": "gEvent038Text28",
+   "en": "What to do?\nYour hero is soon to be wiped\nfrom existence.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent038Text29",
+   "pool": "event_text",
+   "symbol": "gEvent038Text29",
+   "en": "But he made a promise to you,\ndidn’t he?{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent038Text30",
+   "pool": "event_text",
+   "symbol": "gEvent038Text30",
+   "en": "Isn’t that right, Naminé?{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent038Text31",
+   "pool": "event_text",
+   "symbol": "gEvent038Text31",
+   "en": "…Yes.{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent039Text00",
+   "pool": "event_text",
+   "symbol": "gEvent039Text00",
+   "en": "The tenth floor already…\nWe’ve come a long way.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent039Text01",
+   "pool": "event_text",
+   "symbol": "gEvent039Text01",
+   "en": "And we’ve lost ten floors’\nworth of memories.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent039Text02",
+   "pool": "event_text",
+   "symbol": "gEvent039Text02",
+   "en": "Sora, it’s not too late.\nWe should turn back.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent039Text03",
+   "pool": "event_text",
+   "symbol": "gEvent039Text03",
+   "en": "No, I can’t do that.\nThat would be breaking my\npromise.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent039Text04",
+   "pool": "event_text",
+   "symbol": "gEvent039Text04",
+   "en": "Promise?\nWhat promise is that?{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent039Text05",
+   "pool": "event_text",
+   "symbol": "gEvent039Text05",
+   "en": "When we were little, I made a\npromise to Naminé.\n\nI told her I’d always keep her\nsafe, no matter what.{END}",
+   "max_units": 111,
+   "units": 111,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent039Text06",
+   "pool": "event_text",
+   "symbol": "gEvent039Text06",
+   "en": "But I didn't remember until I\nstarted forgetting everything\nelse.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent039Text07",
+   "pool": "event_text",
+   "symbol": "gEvent039Text07",
+   "en": "I can't believe I forgot\nsomething that important!{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent039Text08",
+   "pool": "event_text",
+   "symbol": "gEvent039Text08",
+   "en": "But I can still make up for it\nnow.  From now on, I’m keeping\nmy promise.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent039Text09",
+   "pool": "event_text",
+   "symbol": "gEvent039Text09",
+   "en": "Okay, Sora.\nWe understand.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent040Text00",
+   "pool": "event_text",
+   "symbol": "gEvent040Text00",
+   "en": "Who are you?!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent040Text01",
+   "pool": "event_text",
+   "symbol": "gEvent040Text01",
+   "en": "That’s no way to greet a\nstranger, Sora.{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent040Text02",
+   "pool": "event_text",
+   "symbol": "gEvent040Text02",
+   "en": "I am Vexen.\nI’ve come to collect your debt.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent040Text03",
+   "pool": "event_text",
+   "symbol": "gEvent040Text03",
+   "en": "Do you owe him something?{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent040Text04",
+   "pool": "event_text",
+   "symbol": "gEvent040Text04",
+   "en": "Of course not!{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent040Text05",
+   "pool": "event_text",
+   "symbol": "gEvent040Text05",
+   "en": "Oh, but you do.\nYou owe me for reuniting you\nwith your former friend.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent040Text06",
+   "pool": "event_text",
+   "symbol": "gEvent040Text06",
+   "en": "You don’t mean―{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent040Text07",
+   "pool": "event_text",
+   "symbol": "gEvent040Text07",
+   "en": "Yes.\nI am the one who brought Riku\nto you.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent040Text08",
+   "pool": "event_text",
+   "symbol": "gEvent040Text08",
+   "en": "So…you’re the one…{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent040Text09",
+   "pool": "event_text",
+   "symbol": "gEvent040Text09",
+   "en": "You’re the one who’s been\ncontrolling him!  What have you\ndone with him?{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent040Text10",
+   "pool": "event_text",
+   "symbol": "gEvent040Text10",
+   "en": "I see no need to tell you.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent040Text11",
+   "pool": "event_text",
+   "symbol": "gEvent040Text11",
+   "en": "Why trouble you in your final\nmoments?{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent041Text00",
+   "pool": "event_text",
+   "symbol": "gEvent041Text00",
+   "en": "Splendid!\nAs expected, you don’t die so\neasily.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent041Text01",
+   "pool": "event_text",
+   "symbol": "gEvent041Text01",
+   "en": "As if I’d ever lose to you!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent041Text02",
+   "pool": "event_text",
+   "symbol": "gEvent041Text02",
+   "en": "You’ll yet have your chance.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent041Text03",
+   "pool": "event_text",
+   "symbol": "gEvent041Text03",
+   "en": "As we fought, I delved deep\ninto your memory…{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent041Text04",
+   "pool": "event_text",
+   "symbol": "gEvent041Text04",
+   "en": "…and look what I found.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent041Text05",
+   "pool": "event_text",
+   "symbol": "gEvent041Text05",
+   "en": "This is a card crafted from\nmemories locked in the other\nside of your heart.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent041Text06",
+   "pool": "event_text",
+   "symbol": "gEvent041Text06",
+   "en": "If you want to fight me for\nreal, then step into the world\nwithin this card!{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent041Text07",
+   "pool": "event_text",
+   "symbol": "gEvent041Text07",
+   "en": "Come back!{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent041Text08",
+   "pool": "event_text",
+   "symbol": "gEvent041Text08",
+   "en": "Other side?\nWhat’s he talking about?{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent042Text00",
+   "pool": "event_text",
+   "symbol": "gEvent042Text00",
+   "en": "Is it just me, or has Vexen\nfinally lost it?  Now he's done\nsomething REALLY rash…{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent042Text01",
+   "pool": "event_text",
+   "symbol": "gEvent042Text01",
+   "en": "What now, Axel?\nThe show’s over if Sora finds\nout about the other side.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent042Text02",
+   "pool": "event_text",
+   "symbol": "gEvent042Text02",
+   "en": "If he just passes through\nwithout catching on, we can\npatch things up later.\nBut if not…{END}",
+   "max_units": 96,
+   "units": 96,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  }
+ ]
+}

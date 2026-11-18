@@ -1,0 +1,848 @@
+{
+ "chunk": 52,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 151,
+ "items": [
+  {
+   "id": "event_text:gEvent168Text15",
+   "pool": "event_text",
+   "symbol": "gEvent168Text15",
+   "en": "Because I'm her shadow.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent168Text16",
+   "pool": "event_text",
+   "symbol": "gEvent168Text16",
+   "en": "So what?\nThere's your incentive not to\nscrew up.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent168Text17",
+   "pool": "event_text",
+   "symbol": "gEvent168Text17",
+   "en": "Rewrite Sora’s heart, and you\ncan be somebody, not just the\nshadow of somebody.{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent168Text18",
+   "pool": "event_text",
+   "symbol": "gEvent168Text18",
+   "en": "In Sora’s heart, you can be\nreal.{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent169Text00",
+   "pool": "event_text",
+   "symbol": "gEvent169Text00",
+   "en": "Is something troubling you,\nLexaeus?{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent169Text01",
+   "pool": "event_text",
+   "symbol": "gEvent169Text01",
+   "en": "Vexen is no more.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent169Text02",
+   "pool": "event_text",
+   "symbol": "gEvent169Text02",
+   "en": "Yes, his scent is gone.\nIt was Axel.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent169Text03",
+   "pool": "event_text",
+   "symbol": "gEvent169Text03",
+   "en": "You know, it's deplorable…\nAgents of the Organization\nstriking each other down―{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent169Text04",
+   "pool": "event_text",
+   "symbol": "gEvent169Text04",
+   "en": "The bigger problem is Sora.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent169Text05",
+   "pool": "event_text",
+   "symbol": "gEvent169Text05",
+   "en": "His strength exceeds Vexen’s,\nand yet surely Naminé has\nsubverted him by now.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent169Text06",
+   "pool": "event_text",
+   "symbol": "gEvent169Text06",
+   "en": "It’s only a matter of time\nbefore he ends up Marluxia’s\npuppet.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent169Text07",
+   "pool": "event_text",
+   "symbol": "gEvent169Text07",
+   "en": "So what do you propose?\nShall we destroy Sora before\nMarluxia secures him?{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent169Text08",
+   "pool": "event_text",
+   "symbol": "gEvent169Text08",
+   "en": "That won’t be necessary.{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent169Text09",
+   "pool": "event_text",
+   "symbol": "gEvent169Text09",
+   "en": "If Marluxia is to hold the light,\nthen we will hold the dark.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent169Text10",
+   "pool": "event_text",
+   "symbol": "gEvent169Text10",
+   "en": "Riku…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent170Text00",
+   "pool": "event_text",
+   "symbol": "gEvent170Text00",
+   "en": "Just one card left.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent170Text01",
+   "pool": "event_text",
+   "symbol": "gEvent170Text01",
+   "en": "If I get through this, can I\nfinally rid myself of the dark?{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent171Text00",
+   "pool": "event_text",
+   "symbol": "gEvent171Text00",
+   "en": "That scent…\nYou’re another “nobody.”{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent171Text01",
+   "pool": "event_text",
+   "symbol": "gEvent171Text01",
+   "en": "You’ve done well to make it\nthis far, Riku.  Your reputation\nis well deserved.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent171Text02",
+   "pool": "event_text",
+   "symbol": "gEvent171Text02",
+   "en": "But to be scared of the\ndarkness…  What a waste.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent171Text03",
+   "pool": "event_text",
+   "symbol": "gEvent171Text03",
+   "en": "I’m…I’m not scared.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent171Text04",
+   "pool": "event_text",
+   "symbol": "gEvent171Text04",
+   "en": "I can see that you are.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent171Text05",
+   "pool": "event_text",
+   "symbol": "gEvent171Text05",
+   "en": "You have the potential to\ncontrol it.  Cast away the fear\nthat weakens you.\nUnbind your heart, and take\nhold of the darkness within.{END}",
+   "max_units": 141,
+   "units": 141,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent171Text06",
+   "pool": "event_text",
+   "symbol": "gEvent171Text06",
+   "en": "And if I say no?{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent171Text07",
+   "pool": "event_text",
+   "symbol": "gEvent171Text07",
+   "en": "Then you end here―\nlight, darkness, and all!{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent171Text08",
+   "pool": "event_text",
+   "symbol": "gEvent171Text08",
+   "en": "Urgh!{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent171Text09",
+   "pool": "event_text",
+   "symbol": "gEvent171Text09",
+   "en": "See the power of darkness!\nI, Lexaeus, will not yield to a\nfrail-hearted craven!{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent171Text10",
+   "pool": "event_text",
+   "symbol": "gEvent171Text10",
+   "en": "Now, end your resistance, and\nlet the darkness in!{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent172Text00",
+   "pool": "event_text",
+   "symbol": "gEvent172Text00",
+   "en": "Such…\nSuch power!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent172Text01",
+   "pool": "event_text",
+   "symbol": "gEvent172Text01",
+   "en": "Huff…huff…{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent172Text02",
+   "pool": "event_text",
+   "symbol": "gEvent172Text02",
+   "en": "What’s wrong…Lexaeus…\nIs that all…darkness can do?{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent172Text03",
+   "pool": "event_text",
+   "symbol": "gEvent172Text03",
+   "en": "Well…\nIt seems…I am beaten…{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent172Text04",
+   "pool": "event_text",
+   "symbol": "gEvent172Text04",
+   "en": "But the Organization shall\ntriumph!\n\nI may perish, but all the\ndarkness within me will billow\nforth and devour you!{END}",
+   "max_units": 125,
+   "units": 125,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent172Text05",
+   "pool": "event_text",
+   "symbol": "gEvent172Text05",
+   "en": "What the―{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent173Text00",
+   "pool": "event_text",
+   "symbol": "gEvent173Text00",
+   "en": "What…what happened?\nWhere am I…{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent173Text01",
+   "pool": "event_text",
+   "symbol": "gEvent173Text01",
+   "en": "I can see…\nI can see clearly!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent173Text02",
+   "pool": "event_text",
+   "symbol": "gEvent173Text02",
+   "en": "Lexaeus?!{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent173Text03",
+   "pool": "event_text",
+   "symbol": "gEvent173Text03",
+   "en": "Riku…\nI can see your heart…{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent173Text04",
+   "pool": "event_text",
+   "symbol": "gEvent173Text04",
+   "en": "No, it can’t be…\nDarkness this foul could only\nbelong to one person…{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent173Text05",
+   "pool": "event_text",
+   "symbol": "gEvent173Text05",
+   "en": "That’s it, remember me…\nLet me drift into your heart…{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent173Text06",
+   "pool": "event_text",
+   "symbol": "gEvent173Text06",
+   "en": "Ansem!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent173Text07",
+   "pool": "event_text",
+   "symbol": "gEvent173Text07",
+   "en": "Mwa ha ha…\nYou called my name, Riku…{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent173Text08",
+   "pool": "event_text",
+   "symbol": "gEvent173Text08",
+   "en": "You're thinking about me…\nYou're afraid of the darkness\nI command.\nGood…{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent173Text09",
+   "pool": "event_text",
+   "symbol": "gEvent173Text09",
+   "en": "The more you think of me, the\ncloser my return draws.  And\nwhen I awaken…{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent173Text10",
+   "pool": "event_text",
+   "symbol": "gEvent173Text10",
+   "en": "Your heart will be mine!{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent173Text11",
+   "pool": "event_text",
+   "symbol": "gEvent173Text11",
+   "en": "Riku, fight!\nDon’t let Ansem take you!{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent173Text12",
+   "pool": "event_text",
+   "symbol": "gEvent173Text12",
+   "en": "That voice…{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent173Text13",
+   "pool": "event_text",
+   "symbol": "gEvent173Text13",
+   "en": "Your Majesty!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent173Text14",
+   "pool": "event_text",
+   "symbol": "gEvent173Text14",
+   "en": "Meddlesome king!{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent174Text00",
+   "pool": "event_text",
+   "symbol": "gEvent174Text00",
+   "en": "Unnh…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent174Text01",
+   "pool": "event_text",
+   "symbol": "gEvent174Text01",
+   "en": "The king…protected me?{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent174Text02",
+   "pool": "event_text",
+   "symbol": "gEvent174Text02",
+   "en": "Your Majesty, where are you?\nPlease answer!{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent174Text03",
+   "pool": "event_text",
+   "symbol": "gEvent174Text03",
+   "en": "You're with me…aren't you…{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent175Text00",
+   "pool": "event_text",
+   "symbol": "gEvent175Text00",
+   "en": "First Vexen, and now Lexaeus\nis gone as well…{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent175Text01",
+   "pool": "event_text",
+   "symbol": "gEvent175Text01",
+   "en": "What’s to become of the\nOrganization?{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent175Text02",
+   "pool": "event_text",
+   "symbol": "gEvent175Text02",
+   "en": "Larxene’s out of the picture,\ntoo.  Naminé turned on her.\n\nGee, I wonder who’s next?{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent175Text03",
+   "pool": "event_text",
+   "symbol": "gEvent175Text03",
+   "en": "Maybe you.{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent175Text04",
+   "pool": "event_text",
+   "symbol": "gEvent175Text04",
+   "en": "Me?  Naah.{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent175Text05",
+   "pool": "event_text",
+   "symbol": "gEvent175Text05",
+   "en": "I already took my pounding\nfrom Sora.  He thinks I’m done\nfor good.\nI don’t plan on doing a repeat\nperformance anytime soon.{END}",
+   "max_units": 133,
+   "units": 133,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent175Text06",
+   "pool": "event_text",
+   "symbol": "gEvent175Text06",
+   "en": "No, I think Marluxia’s next in\nline to go.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent175Text07",
+   "pool": "event_text",
+   "symbol": "gEvent175Text07",
+   "en": "You think Sora will win.\nBecause anyone who beats\nyou is unbeatable―is that it?{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent175Text08",
+   "pool": "event_text",
+   "symbol": "gEvent175Text08",
+   "en": "That's the idea.\nMarluxia plotted to use Sora\nagainst the Organization…\n…so it's fitting Sora should be\nhis downfall.{END}",
+   "max_units": 126,
+   "units": 126,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent175Text09",
+   "pool": "event_text",
+   "symbol": "gEvent175Text09",
+   "en": "Then…we won't be needing\nRiku anymore.{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent175Text10",
+   "pool": "event_text",
+   "symbol": "gEvent175Text10",
+   "en": "Good luck disposing of him.\nYou want to take on someone\nwho wasted Lexaeus?{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent175Text11",
+   "pool": "event_text",
+   "symbol": "gEvent175Text11",
+   "en": "That’s not how I do things.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent175Text12",
+   "pool": "event_text",
+   "symbol": "gEvent175Text12",
+   "en": "Tell me, did you get the data\non Riku’s home?{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent176Text00",
+   "pool": "event_text",
+   "symbol": "gEvent176Text00",
+   "en": "Huh?\nThe air has changed…\n\nOne of the scents has died―\na really strong one.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent176Text01",
+   "pool": "event_text",
+   "symbol": "gEvent176Text01",
+   "en": "That was Marluxia, keeper of\nthis castle.\n\nEx-keeper, I should say.\nThe Keyblade master just\nfinished him off.{END}",
+   "max_units": 120,
+   "units": 120,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent176Text02",
+   "pool": "event_text",
+   "symbol": "gEvent176Text02",
+   "en": "Keyblade master…{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent176Text03",
+   "pool": "event_text",
+   "symbol": "gEvent176Text03",
+   "en": "You mean Sora!\nSora is here?!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

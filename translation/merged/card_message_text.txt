@@ -1,0 +1,471 @@
+@gPoohLeaveWorldText
+مغادرة هذا العالم؟{END}
+@gEeyoreTalkText1
+شكراً لأنك ساعدتني بالخطأ يا سورا. وأنت أيضاً يا بو.{END}
+@gEeyoreTalkText0
+لا أستغني عن ذيلي...{END}
+@gPigletTalkText
+لا أستطيع أن أحسم أمري. ماذا أفعل؟{END}
+@gOwlTalkText
+يا إلهي. بو لا يستطيع الابتعاد عن تلك البالونات.{END}
+@gRooTalkText
+لا يكفي القفز هكذا. يجب أن تفعلها كما يجب!{END}
+@gRabbitTalkText1
+هذا غريب. هذه الكرنب تبدو كأنها تلقت ضربات...{END}
+@gRabbitTalkText0
+جزر، كرنب، بصل... يجب ترتيب خضرواتي كلها.{END}
+@gWorldselectTutorialText0
+احمل البطاقة أمامك. سيُفتح الباب ويظهر عالم جديد.{END}
+@gWorldselectTutorialText1
+{HIGHLIGHT}+Control Pad{PLAIN}: اختر بطاقة
+(لدى سورا بطاقة واحدة الآن.)
+       {HIGHLIGHT}A Button{PLAIN}: تأكيد{END}
+@gWarpPointTutorialText
+الكرة الدائرة أمام سورا تُسمى {HIGHLIGHT}نقطة انتقال{PLAIN}.
+
+يمكنك الحركة بحرية إلى الطوابق التي أكملتها والعودة منها.
+قف قربها واضغط {HIGHLIGHT}A Button{PLAIN} لفتح قائمة
+الانتقال بين العوالم.{END}
+@gRobeTutorialText00
+قوانين هذه القلعة تحتم تحويل أصدقائك إلى بطاقات.{END}
+@gRobeTutorialText01
+إن كنت تقدر أصدقاءك، فاحملهم دون توان.{END}
+@gRobeTutorialText02
+{HIGHLIGHT}+Control Pad{PLAIN}: تحرك{END}
+@gRobeTutorialText03
+البطاقات التي تحملها تُضاف إلى أعلى كومتك.
+
+استخدمها وسيهبّ أصدقاؤك لنجدتك.{END}
+@gRobeTutorialText04
+{HIGHLIGHT}A Button{PLAIN}: استخدم بطاقة{END}
+@gRobeTutorialText05
+البطاقات التي تستخدمها تختفي، لكنها تعود لنجدتك مراراً.
+البطاقات هي قلوب أصدقائك.{END}
+@gRobeTutorialText06
+كل شيء في هذه القلعة تحكمه البطاقات.
+
+سواء وقف عدو أو باب في طريقك، فالبطاقات هي السبيل الوحيد.
+لكن لا تنسَ قوتك أنت.{END}
+@gRobeTutorialText07
+        {HIGHLIGHT}B Button{PLAIN}: اقفز
+اضغط {HIGHLIGHT}+Control Pad يسار أو{PLAIN} {HIGHLIGHT}يمين{PLAIN} مرتين: دحرجة!{END}
+@gRobeTutorialText08
+فكر بنفسك أولاً. تحرك ثم استخدم البطاقات.{END}
+@gRobeTutorialText09
+{HIGHLIGHT}A Button{PLAIN}: استخدم بطاقة{END}
+@gRobeTutorialText10
+جيد.
+
+
+كل حركة تقوم بها تُفقدك بطاقة.{END}
+@gRobeTutorialText11
+إن استنفدت كل بطاقاتك لن تستطيع التصرف.{END}
+@gRobeTutorialText12
+لكن هناك حلاً. استمر بالاستخدام حتى تنفد، وسأريك.{END}
+@gRobeTutorialText13
+هكذا. لم تبقَ لديك بطاقة، وبلا بطاقة لا قوة.{END}
+@gRobeTutorialText14
+إن أردت استعادة تلك القوة، فعليك التركيز.
+
+اطلب من البطاقات العودة... وستعود.{END}
+@gRobeTutorialText15
+إعادة تعبئة البطاقات
+اختر أيقونة بطاقة التعبئة واضغط مطولاً {HIGHLIGHT}A Button{PLAIN}.{END}
+@gRobeTutorialText16
+قوة قلبك أعادت البطاقات المفقودة.
+
+يمكنك استدعاء البطاقات المستهلكة في أي وقت―بمجرد الرغبة.
+لكن كل مرة تفعلها، ستأخذ وقتاً أطول.{END}
+@gRobeTutorialText17
+البطاقات ليست بلا حدود. استخدمها بحكمة.
+
+استبق مجرى القتال واختر أنفع البطاقات.
+يمكنك استخدام أي بطاقة في رزمتك.{END}
+@gRobeTutorialText18
+اختيار البطاقات
+{HIGHLIGHT}L Button{PLAIN}: تنقّل يساراً
+{HIGHLIGHT}R Button{PLAIN}: تنقّل يميناً{END}
+@gRobeTutorialText19
+أنواع البطاقات الأربعة التي تستخدمها في القتال تُجمع في فئتين أوسع.{END}
+@gRobeTutorialText20
+الفئة الأولى تضم بطاقات الهجوم والسحر والعناصر.
+والفئة الثانية كلها بطاقات الأعداء.
+
+لاستخدام بطاقة من فئة أخرى―{END}
+@gRobeTutorialText21
+تغيير الفئة
+اضغط {HIGHLIGHT}SELECT{PLAIN}.{END}
+@gRobeTutorialText22
+البطاقات تقوّيك في الهجوم والدفاع.
+لكن عليك أنت أن تقرر متى تهاجم ومتى تدافع. لا تنسَ ذلك.{END}
+@gLeonTutorialText00
+أترى الأرقام على بطاقاتك؟
+
+تتراوح من 0 إلى 9.
+الرقم الأعلى يعني بطاقة أقوى.
+إن لعبت أنت وعدوك بطاقة في الوقت نفسه، فالأعلى يفوز.
+هيا جرّب.{END}
+@gLeonTutorialText01
+أرأيت كيف تعمل؟
+
+
+لعب بطاقة أعلى من الخصم واختراق دفاعه...
+...يُسمى «كسر بطاقة».{END}
+@gLeonTutorialText02
+لعب بطاقة أقل يجعل هجومك يرتد.
+
+حتى البطاقات القوية يمكن صدّها إن كانت بطاقة الخصم أعلى.
+ومن يخسر المواجهة يبقى مكشوفاً للهجمات.
+لا تكن أنت ذلك الشخص.{END}
+@gLeonTutorialText03
+البطاقات ذات القيمة 0 خاصة.{END}
+@gLeonTutorialText04
+مهما لعب العدو، يمكنك كسر بطاقته ببطاقة صفر.
+لكن عليك الانتظار حتى بعد أن يلعب.
+إن لعبت الصفر مبكراً، كسرها الخصم بأي بطاقة.{END}
+@gLeonTutorialText05
+أي أنها أقوى بطاقة إن جاءت أخيراً، وبلا قيمة إن جاءت أولاً.
+حاول الاستفادة منها.{END}
+@gLeonTutorialText06
+قيم البطاقات تؤثر أيضاً في كلفة تكوين الرزمة.{END}
+@gLeonTutorialText07
+حان وقت تعليمك كيفية تخزين البطاقات.{END}
+@gLeonTutorialText08
+لا داعي لاستخدام بطاقات القتال واحدة واحدة.
+
+يمكنك تجميع ثلاث بطاقات واستخدامها معاً.
+هذا يُسمى تخزين البطاقات.{END}
+@gLeonTutorialText09
+تخزين البطاقات واستخدامها ثلاثاً أقوى بكثير من استخدامها منفردة.
+هيا جرّب. خزّن أي ثلاث بطاقات في رزمتك.
+تذكّر، تحتاج ثلاث بطاقات وإلا لن ينجح.{END}
+@gLeonTutorialText10
+تخزين بطاقة
+اضغط {HIGHLIGHT}L و R{PLAIN} معاً.{END}
+@gLeonTutorialText11
+مجموع البطاقات الثلاث المخزّنة يصبح القيمة التي تلعبها.
+القيمة عادة عالية ويصعب كسرها، وهجوم الكومبو يوقع ضرراً كبيراً.
+لا تتمالك نفسك. أرني ما تستطيع.{END}
+@gLeonTutorialText12
+بعد تخزين ثلاث بطاقات، اضغط {HIGHLIGHT}L و R{PLAIN} معاً لاستخدامها.{END}
+@gLeonTutorialText13
+هجمات الكومبو ليست الفائدة الوحيدة من التخزين.
+
+اختر بطاقاتك بعناية لتطلق قدرات خاصة تُسمى «سحيلات».
+السحيلات أنواع شتى، ولكل واحدة تركيبتها.
+جرّبها بعد جمع مزيد من البطاقات وتعلم سحيلتين.{END}
+@gLeonTutorialText14
+لكن تذكّر أمراً.
+
+
+كل مرة تستخدم سحيلة تفقد أول بطاقة اخترتها.
+لا يمكنك إعادة تعبئتها.
+البطاقة المفقودة لن تعود حتى نهاية القتال.
+الاعتماد على السحيلات فقط سيستنفد بطاقاتك.
+وهذا مزعج.{END}
+@gMapSelectTutorialText0
+للانتقال إلى الغرفة التالية تحتاج {HIGHLIGHT}بطاقة خريطة{PLAIN}.{END}
+@gMapSelectTutorialText1
+بطاقات الخريطة تُستخدم لتكوين غرف جديدة غير مستكشفة.{END}
+@gMapSelectTutorialText2
+أولاً، اختر بطاقة الخريطة التي تريد استخدامها.{END}
+@gMapSelectTutorialText3
+{HIGHLIGHT}+Control Pad{PLAIN}: اختر بطاقة
+       {HIGHLIGHT}A Button{PLAIN}: تأكيد
+       {HIGHLIGHT}B Button{PLAIN}: إلغاء{END}
+@gMapSelectValueTutorialText0
+الرقم في وسط الشاشة هو {HIGHLIGHT}المعيار{PLAIN} لفتح الباب.{END}
+@gMapSelectValueTutorialText1
+المعيار المعروض الآن يعني أن الباب يفتح بقيمة 1 فأكثر.{END}
+@gMapSelectValueTutorialText2
+عليك اختيار بطاقة تحقق هذا المعيار.{END}
+@gMapSelectValueTutorialText3
+للبطاقات قيم من 0 إلى 9.
+
+{HIGHLIGHT}بطاقات الصفر{PLAIN} (الموسومة 0) بطاقات خاصة تحقق كل المعايير.
+أما البطاقة بلا قيمة فهي {HIGHLIGHT}بطاقة مفتاح{PLAIN}.
+
+لا تُستخدم بطاقات المفتاح إلا عند أبواب خاصة.{END}
+@gSavePointTutorialText
+البلورة الدائرة أمام سورا تُسمى {HIGHLIGHT}نقطة حفظ{PLAIN}.
+
+قف قريباً منها واضغط {HIGHLIGHT}A Button{PLAIN} لفتح قائمة الحفظ.{END}
+@gQuickSaveTutorialText
+إلى جانب الحفظ عند نقطة الحفظ، يمكنك {HIGHLIGHT}الحفظ السريع{PLAIN}
+في أي مكان في الميدان. افتح قائمة اللعبة بضغط {HIGHLIGHT}START{PLAIN}، اختر «حفظ سريع» ثم اضغط {HIGHLIGHT}A Button{PLAIN}.{END}
+@gMapTutorialText0
+ضرب الأجسام في الميدان بمفتاح القلب يعطي نتائج مختلفة.
+جرّب ضرب البرميل.{END}
+@gMapTutorialText1
+ليست الأجسام الجامدة وحدها ما يمكن ضربه.{END}
+@gMapTutorialText2
+لمس فاقد قلب في الميدان يبدأ قتالاً...
+
+...لكن يمكنك ضرب فاقدي القلوب أولاً لتكتسب الأفضلية.{END}
+@gMapSelectEventDoorTutorialText0
+الأبواب المزينة بتاج هي أبواب خاصة.{END}
+@gMapSelectEventDoorTutorialText1
+تحتاج بطاقات خاصة تُسمى بطاقات مفتاح لفتح هذه الأبواب.{END}
+@gMapSelectEventDoorTutorialText2
+لكن امتلاك بطاقة المفتاح وحده لا يكفي لفتح الباب.{END}
+@gMapSelectEventDoorTutorialText3
+تحتاج بطاقة المفتاح وأيضاً بطاقة أو أكثر تحقق معايير معينة.{END}
+@gUnusedMapSelectEventDoorTutorialText
+هذا الباب يحتاج بطاقتين: بطاقة بقيمة 1 فأكثر وبطاقة المفتاح.{END}
+@gMapSelectEventDoorTutorialText4
+اختر بطاقات خريطة تحقق المعايير لتفتح الباب.{END}
+@gMapStairTutorialText
+الانتقال إلى طابق آخر يمحو كل الغرف التي أنشأتها.
+إن عدت إلى هذا الطابق لاحقاً، فعليك تكوين غرف جديدة ببطاقات جديدة.{END}
+@gDonaldTalkText00
+في هذا المكان شيء غريب... لكنني لست خائفاً أبداً!{END}
+@gDonaldTalkText01
+إن واجهنا أكسل مرة أخرى، فاتركه لي!{END}
+@gDonaldTalkText02
+سنبقى هنا طوال الأسبوع إن انتظرنا غوفي يتذكر!{END}
+@gDonaldTalkText03
+لا أظن أن جيميني سيمحو مذكراته بنفسه.{END}
+@gDonaldTalkText04
+إن كنت لا تزال تتذكر الأشياء السخيفة، فنحن بخير.{END}
+@gDonaldTalkText05
+علينا إيجاد الملك قريباً! هذا ما أعرف أنني لن أنساه!{END}
+@gDonaldTalkText06
+لا تفقد تميمة الحظ التي أعطتك إياها كايري!{END}
+@gDonaldTalkText07
+استيقظ! علينا إيجاد الملك وريكو!{END}
+@gDonaldTalkText08
+صديقة أخرى، هاه... لماذا لم تذكرها من قبل؟{END}
+@gDonaldTalkText09
+يا ليت لي ذكريات مدفونة كثيرة أتذكرها.{END}
+@gDonaldTalkText10
+برأيي، أنت على بُعد خطوة من تذكر اسم صديقتك.{END}
+@gDonaldTalkText11
+من يهتم بما يقوله الأشرار؟{END}
+@gDonaldTalkText12
+هيا يا سورا! علينا إنقاذ ناميني من الأشرار!{END}
+@gDonaldTalkText13
+من الأفضل أن نلاحق ريكو!{END}
+@gDonaldTalkText14
+حاول ألا تنجرف كثيراً يا سورا!{END}
+@gDonaldTalkText15
+ريكو عنيد جداً! أهو كذلك دائماً؟{END}
+@gDonaldTalkText16
+كاي... كاي... ويك؟! هذا غريب. لا أستطيع تذكر اسمها.{END}
+@gDonaldTalkText17
+انتبه! لا تدري أين قد يختبئ ريكو!{END}
+@gDonaldTalkText18
+الوعود الخاصة مثل وعدك مقدّرة للوفاء.{END}
+@gDonaldTalkText19
+جانب آخر من قلبك؟ أهناك تذهب الأشياء التي تنساها؟{END}
+@gDonaldTalkText20
+برأيي، فاكسين ينتظر نصب فخ لنا!{END}
+@gDonaldTalkText21
+إذن كانت لديك أنت وريكو الذكرى نفسها؟ هم...{END}
+@gDonaldTalkText22
+ماذا لو واجهنا أكسل ومارلوكسيا معاً؟{END}
+@gDonaldTalkText23
+لنضع مارلوكسيا في مكانه ونستعد ذكرياتنا!{END}
+@gDonaldExitHallTalkText
+أأنت مستعد؟ ما خلف ذلك الباب يبدو قوياً جداً...{END}
+@gGoofyTalkText00
+لن نتقدم أكثر حتى نعرف كيف نستخدم تلك البطاقة...{END}
+@gGoofyTalkText01
+يا إلهي، أتظن أن هناك المزيد من حيث أتى أكسل وذلك الرجل؟{END}
+@gGoofyTalkText02
+حارو... هالو... هم... هذا مضحك. لماذا لا أتذكر؟{END}
+@gGoofyTalkText03
+لنساعد جيميني على إعادة كتابة المذكرات فور خروجنا من القلعة!{END}
+@gGoofyTalkText04
+لا يمكن أن ننسى أصدقاءنا أبداً!{END}
+@gGoofyTalkText05
+أراهن أن ريكو والملك لا يزالان معاً.{END}
+@gGoofyTalkText06
+ستسعد كايري كثيراً إن وجدت ريكو وأعدته للبيت.{END}
+@gGoofyTalkText07
+بماذا تفكر يا سورا؟ كأنك في عالم آخر.{END}
+@gGoofyTalkText08
+شيء ما سيجعلك تتذكر اسم صديقتك عاجلاً أم آجلاً.{END}
+@gGoofyTalkText09
+انظر كم تتذكر! لن يطول الأمر قبل أن يعود اسمها إليك أيضاً.{END}
+@gGoofyTalkText10
+ألا تكره أن يكون الشيء على طرف لسانك؟{END}
+@gGoofyTalkText11
+ناميني... إذن هذا اسمها. ألست سعيداً لأنك تذكرت أخيراً؟{END}
+@gGoofyTalkText12
+أي صديق لك هو صديق لنا. هيا نساعد ناميني!{END}
+@gGoofyTalkText13
+يا إلهي، ماذا حدث ليجعل ريكو يتكلم هكذا؟{END}
+@gGoofyTalkText14
+من الجميل عودة سورا المرح.{END}
+@gGoofyTalkText15
+بعد أن تساعد ريكو على استعادة ذكرياته، ستعودان قريباً.{END}
+@gGoofyTalkText16
+سيكون جميلاً حين تضحك أنت وريكو وناميني معاً.{END}
+@gGoofyTalkText17
+ربما لم يعد ريكو يريد القتال معك.{END}
+@gGoofyTalkText18
+إن تذكرت وعدك لناميني، فلا بد أنك تحتفظ بذكرياتك المهمة.{END}
+@gGoofyTalkText19
+لدي شعور سيء من كل هذا. علينا الحذر.{END}
+@gGoofyTalkText20
+أتظن أن هناك ذكريات على الجانب الآخر من قلبي؟ مخيف نوعاً ما...{END}
+@gGoofyTalkText21
+تميمة حظ ريكو تحولت إلى... بطاقة؟!{END}
+@gGoofyTalkText22
+أنت رجل طيب. لماذا؟ إنه سر، هي-هيك!{END}
+@gGoofyTalkText23
+الوعود لا تزول أبداً، حتى لو زالت كل ذكرياتنا.{END}
+@gGoofyExitHallTalkText
+ما دمنا نتذكر وعدنا، فلا شيء يعجزنا!{END}
+@gNamineTalkText0
+أتمنى لو أستطيع مساعدة ريكو. أنا من جعله يتألم...{END}
+@gNamineTalkText1
+قلبك يتحمل حتى قوة مارلوكسيا. أنا متأكدة!{END}
+@gRikuReplicaTalkText
+سأعتني بناميني. أعدك.{END}
+@gMickeyTalkText0
+يا إلهي، أكاد أشعر أنني رأيت ديز من قبل.{END}
+@gMickeyTalkText1
+لن تدع الظلام يتغلب عليك أبداً. أنا متأكد.{END}
+@gMickeyTalkText2
+قوة النور ستبقي أنسيم محبوساً فترة.{END}
+@gMsTopIntroText0
+متجر {HIGHLIGHT}موغلي{PLAIN} مكان موغلي
+تتبادل فيه البطاقات.{END}
+@gMsTopIntroText1
+بدّل البطاقات التي لم تعد تحتاجها
+بـ{HIGHLIGHT}موغلي{PLAIN} {HIGHLIGHT}نقاط{PLAIN}.
+اجمع نقاطاً كافية لتستبدلها
+بحزمة بطاقات جديدة. {END}
+@gMsTopIntroText2
+تحصل على حزمة بطاقات مجانية
+أول زيارة لك لمتجر الموغلي.{END}
+@gMsTopFreePackText
+هذه حزمة بطاقات لك، كوبو!{END}
+@gMsTopShopOptionText
+مرحباً، كوبو!
+اشتر بعض حزم البطاقات قبل أن تذهب!{END}
+@gMsTopChargeOptionText
+هل لديك بطاقات قديمة، كوبو؟
+بدّلها بنقاط!{END}
+@gRikuDeckTutorialText
+لا يستطيع ريكو بناء رزمته بنفسه.
+عليه القتال بـ{HIGHLIGHT}رزمة مغلقة{PLAIN} ببطاقات محددة سلفاً.
+تتغير الرزمة التي يستخدمها ريكو
+كلما تقدم في القلعة.{END}
+@gRikuBattleTutorialText
+لا يحتاج ريكو إلى إعادة تعبئة البطاقات في القتال.
+
+البطاقات المستخدمة تعود تلقائياً إلى بكرة البطاقات.{END}
+@gLearnedWarpinatorText
+تعلمت {HIGHLIGHT}مقنطر{PLAIN}!{END}
+@gLearnedTerrorText
+تعلمت {HIGHLIGHT}رعب{PLAIN}!
+
+
+حصلت على {HIGHLIGHT}مفتاح البدايات{PLAIN}.{END}
+@gLearnedSynchroText
+تعلمت {HIGHLIGHT}تزامن{PLAIN}!{END}
+@gLearnedBindText
+تعلمت {HIGHLIGHT}تقييد{PLAIN}!{END}
+@gLearnedIdyllRompText
+تعلمت {HIGHLIGHT}عبث هادئ{PLAIN}!{END}
+@gLearnedTrinityLimitText
+تعلمت {HIGHLIGHT}حد الثلاثية{PLAIN}!
+
+
+حصلت على {HIGHLIGHT}مفتاح البدايات{PLAIN}.{END}
+@gLearnedConfuseText
+تعلمت {HIGHLIGHT}ارتباك{PLAIN}!{END}
+@gLearnedThunderRaidText
+تعلمت {HIGHLIGHT}غارة رعد{PLAIN}!{END}
+@gLearnedGiftedMiracleText
+تعلمت {HIGHLIGHT}معجزة العطاء{PLAIN}!{END}
+@gLearnedGravityRaidText
+تعلمت {HIGHLIGHT}غارة جاذبية{PLAIN}!{END}
+@gLearnedFireRaidText
+تعلمت {HIGHLIGHT}غارة نار{PLAIN}!{END}
+@gLearnedAquaSplashText
+تعلمت {HIGHLIGHT}رشة ماء{PLAIN}!{END}
+@gLearnedBlizzardRaidText
+تعلمت {HIGHLIGHT}غارة جليد{PLAIN}!{END}
+@gLearnedStopRaidText
+تعلمت {HIGHLIGHT}غارة توقف{PLAIN}!{END}
+@gLearnedShockImpactText
+تعلمت {HIGHLIGHT}صدمة{PLAIN}!{END}
+@gLearnedHomingBlizzaraText
+تعلمت {HIGHLIGHT}جليد+ موجّه{PLAIN}!{END}
+@gLearnedQuakeText
+تعلمت {HIGHLIGHT}زلزال{PLAIN}!{END}
+@gLearnedBlazingDonaldText
+تعلمت {HIGHLIGHT}دونالد الملتهب{PLAIN}!{END}
+@gLearnedHomingFiraText
+تعلمت {HIGHLIGHT}نار+ موجّهة{PLAIN}!{END}
+@gLearnedTeleportText
+تعلمت {HIGHLIGHT}انتقال آني{PLAIN}!{END}
+@gLearnedTornadoText
+تعلمت {HIGHLIGHT}إعصار{PLAIN}!{END}
+@gLearnedCrossSlashPlusText
+تعلمت {HIGHLIGHT}شق متقاطع+{PLAIN}!{END}
+@gLearnedReflectRaidText
+تعلمت {HIGHLIGHT}غارة انعكاس{PLAIN}!{END}
+@gLearnedFiragaBreakText
+تعلمت {HIGHLIGHT}كسر نار++{PLAIN}!{END}
+@gLearnedWarpText
+تعلمت {HIGHLIGHT}انتقال{PLAIN}!{END}
+@gLearnedJudgmentText
+تعلمت {HIGHLIGHT}حكم{PLAIN}!{END}
+@gUnusedObtainedMegaPotionText
+حصلت على {HIGHLIGHT}جرعة ضخمة{PLAIN}.{END}
+@gUnusedObtainedMegaEtherText
+حصلت على {HIGHLIGHT}إيثر ضخم{PLAIN}.{END}
+@gObtainedElixirText
+حصلت على {HIGHLIGHT}إكسير{PLAIN}.{END}
+@gObtainedSpellbinderText
+حصلت على {HIGHLIGHT}ساحر{PLAIN}.{END}
+@gObtainedGenieText
+حصلت على {HIGHLIGHT}الجني{PLAIN}.{END}
+@gObtainedCloudText
+حصلت على {HIGHLIGHT}كلاود{PLAIN}.{END}
+@gUnusedLearnedZantetsukenText
+حصلت على {HIGHLIGHT}بطاقات العوالم{PLAIN}.
+
+
+تعلمت {HIGHLIGHT}ضربة السيف{PLAIN}!{END}
+@gObtainedOathkeeperText
+حصلت على {HIGHLIGHT}حارس القسم{PLAIN}.{END}
+@gObtainedBambiText
+حصلت على {HIGHLIGHT}بامبي{PLAIN}.
+
+
+          حفظ لعبتك؟{END}
+@gEventSaveConfirmText
+          حفظ لعبتك؟{END}
+@gObtainedKeyOfBeginningsText
+حصلت على {HIGHLIGHT}مفتاح البدايات{PLAIN}.{END}
+@gObtainedKeyOfGuidanceText
+حصلت على {HIGHLIGHT}مفتاح التوجيه{PLAIN}.{END}
+@gObtainedKeyToTruthText
+حصلت على {HIGHLIGHT}مفتاح الحقيقة{PLAIN}.{END}
+@gObtainedKeyToRewardsText
+حصلت على {HIGHLIGHT}مفتاح المكافآت{PLAIN}.{END}
+@gObtainedTinkerBellText
+حصلت على {HIGHLIGHT}تينكر بيل{PLAIN}.{END}
+@gObtainedOblivionText
+حصلت على {HIGHLIGHT}النسيان{PLAIN}.{END}
+@gObtainedWorldCardsText
+حصلت على {HIGHLIGHT}بطاقات العوالم{PLAIN}.{END}
+@gObtainedWorldCardText
+حصلت على {HIGHLIGHT}بطاقة عالم{PLAIN}.{END}
+@gObtainedSimbaText
+حصلت على {HIGHLIGHT}سمبا{PLAIN}.
+
+
+حصلت على {HIGHLIGHT}مفتاح التوجيه{PLAIN}.{END}
+@gSaveDataLostText
+عذراً، لقد فُقدت بيانات حفظك.{END}
+@gQuickSaveCompleteText
+اكتمل الحفظ السريع.
+المتابعة لاحقاً ستمحو بيانات الحفظ السريع.{END}
+@gCardMessageNoText
+لا نص{END}

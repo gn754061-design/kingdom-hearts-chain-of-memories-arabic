@@ -1,0 +1,848 @@
+{
+ "chunk": 59,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine2",
+   "en": "to save the kidnapped{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine3",
+   "en": "Wendy.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine5",
+   "en": "But no sooner had she{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine6",
+   "en": "been saved that Wendy{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine7",
+   "en": "told Peter she wanted{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine8",
+   "en": "to go home to London.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine9",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine10",
+   "en": "Would Wendy grow up{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine11",
+   "en": "and forget about him{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine12",
+   "en": "and Never Land?  Peter{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine13",
+   "en": "didn’t like that one bit,{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine14",
+   "en": "and left in a huff.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine15",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine16",
+   "en": "Meanwhile we were{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine17",
+   "en": "just trying to get off{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine18",
+   "en": "the ship.  Hook caught{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine19",
+   "en": "us on the deck, but{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine20",
+   "en": "Peter came back and{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine21",
+   "en": "bailed us out.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine22",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine22",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine23",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine23",
+   "en": "In the end, Peter and{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine24",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine24",
+   "en": "Wendy said their{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine25",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine25",
+   "en": "farewells, but promised{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryNeverLandLine26",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryNeverLandLine26",
+   "en": "to meet again one day.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine0",
+   "en": "The Beast came to{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine1",
+   "en": "rescue Belle from{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine2",
+   "en": "Maleficent’s clutches,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine3",
+   "en": "but to his dismay, Belle{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine4",
+   "en": "acted coldly and would{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine5",
+   "en": "not go with him.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine7",
+   "en": "We felt bad for him, so{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine8",
+   "en": "we went to see Belle.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine9",
+   "en": "It turned out she was{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine10",
+   "en": "only pretending to be{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine11",
+   "en": "cruel, to keep her heart{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine12",
+   "en": "and the love within{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine13",
+   "en": "safe from Maleficent.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine14",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine15",
+   "en": "But faced with a choice,{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine16",
+   "en": "Belle couldn’t hide how{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine17",
+   "en": "she felt for the Beast,{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine18",
+   "en": "and Maleficent stole{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine19",
+   "en": "her heart.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine20",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine21",
+   "en": "Together with the{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine22",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine22",
+   "en": "Beast, we took care of{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine23",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine23",
+   "en": "Maleficent and{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHollowBastionLine24",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHollowBastionLine24",
+   "en": "restored Belle’s heart.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine0",
+   "en": "The card Vexen gave us{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine1",
+   "en": "led to a town none of{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine2",
+   "en": "us remembered.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine4",
+   "en": "But Sora held fast to{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine5",
+   "en": "his promise to Naminé,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine6",
+   "en": "and we pressed on.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine8",
+   "en": "Speaking of which,{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine9",
+   "en": "Vexen seemed ready to{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine10",
+   "en": "say something about{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine11",
+   "en": "that, but Axel showed{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine12",
+   "en": "up, and…  Well, we{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine13",
+   "en": "won’t be seeing Vexen{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTwilightTownLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTwilightTownLine14",
+   "en": "again.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale2Line0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale2Line0",
+   "en": "Led by a mysterious{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale2Line1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale2Line1",
+   "en": "voice, Riku made his way{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale2Line2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale2Line2",
+   "en": "through the card-{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale2Line3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale2Line3",
+   "en": "worlds, but met only{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale2Line4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale2Line4",
+   "en": "dark beings within.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

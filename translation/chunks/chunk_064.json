@@ -1,0 +1,848 @@
+{
+ "chunk": 64,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyCharacterMarluxiaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMarluxiaLine4",
+   "en": "In a move to bring the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMarluxiaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMarluxiaLine5",
+   "en": "group under his control,{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMarluxiaLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMarluxiaLine6",
+   "en": "Marluxia used Naminé to{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMarluxiaLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMarluxiaLine7",
+   "en": "overrun Sora’s memory{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMarluxiaLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMarluxiaLine8",
+   "en": "and tried to claim the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMarluxiaLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMarluxiaLine9",
+   "en": "power of the Keyblade.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine0",
+   "en": "A young man who lives{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine1",
+   "en": "in Agrabah and dreams{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine2",
+   "en": "of meeting Princess{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine3",
+   "en": "Jasmine.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine5",
+   "en": "Aladdin became Genie’s{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine6",
+   "en": "master when he found{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine7",
+   "en": "the magic lamp.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine8",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine9",
+   "en": "At first Aladdin wanted{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine10",
+   "en": "to become a prince and{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine11",
+   "en": "impress Jasmine, but in{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine12",
+   "en": "the end he gave Genie{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine13",
+   "en": "his freedom and decided{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine14",
+   "en": "to show Jasmine his{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAladdinLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAladdinLine15",
+   "en": "true self.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine0",
+   "en": "Captive of the magic{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine1",
+   "en": "lamp.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine3",
+   "en": "Genie must grant the{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine4",
+   "en": "lamp’s holder three{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine5",
+   "en": "wishes.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine7",
+   "en": "He longs for freedom,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine8",
+   "en": "but can only get it if{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine9",
+   "en": "someone uses a wish to{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGenieLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGenieLine10",
+   "en": "set him free.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJasmineLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJasmineLine0",
+   "en": "Princess of Agrabah.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJasmineLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJasmineLine1",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJasmineLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJasmineLine2",
+   "en": "Jasmine feels cooped{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJasmineLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJasmineLine3",
+   "en": "up in the palace and{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJasmineLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJasmineLine4",
+   "en": "longs for the freedom{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJasmineLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJasmineLine5",
+   "en": "outside its walls.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterIagoLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterIagoLine0",
+   "en": "A cunning and chatty{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterIagoLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterIagoLine1",
+   "en": "parrot.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterIagoLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterIagoLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterIagoLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterIagoLine3",
+   "en": "Iago flies about{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterIagoLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterIagoLine4",
+   "en": "Agrabah, serving as{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterIagoLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterIagoLine5",
+   "en": "the evil Jafar’s eyes{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterIagoLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterIagoLine6",
+   "en": "and ears.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarLine0",
+   "en": "A sorcerer and{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarLine1",
+   "en": "Agrabah’s royal vizier.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarLine3",
+   "en": "Jafar stole the magic{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarLine4",
+   "en": "lamp from Aladdin and,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarLine5",
+   "en": "with Genie’s power,{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarLine6",
+   "en": "schemed to become{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarLine7",
+   "en": "ruler of Agrabah.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarGenieLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarGenieLine0",
+   "en": "Jafar’s genie form.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarGenieLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarGenieLine1",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarGenieLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarGenieLine2",
+   "en": "After taking the magic{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarGenieLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarGenieLine3",
+   "en": "lamp from Aladdin, Jafar{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarGenieLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarGenieLine4",
+   "en": "wished for the powers{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarGenieLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarGenieLine5",
+   "en": "of a genie and tried to{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJafarGenieLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJafarGenieLine6",
+   "en": "do us in.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJackLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJackLine0",
+   "en": "Halloween Town’s{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJackLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJackLine1",
+   "en": "master of the macabre.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJackLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJackLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJackLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJackLine3",
+   "en": "Jack is always looking{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJackLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJackLine4",
+   "en": "for new ways to bring{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJackLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJackLine5",
+   "en": "the spooks and shivers{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterJackLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterJackLine6",
+   "en": "of Halloween to all.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSallyLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSallyLine0",
+   "en": "Dr. Finkelstein’s helper{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSallyLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSallyLine1",
+   "en": "at the lab.  He created{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

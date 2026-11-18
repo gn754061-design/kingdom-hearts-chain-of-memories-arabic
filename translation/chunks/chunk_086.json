@@ -1,0 +1,848 @@
+{
+ "chunk": 86,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line7",
+   "en": "through Twilight Town,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line8",
+   "en": "defeating his copy and{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line9",
+   "en": "locating Naminé.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line10",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line11",
+   "en": "With her he found Sora{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line12",
+   "en": "and friends in a deep{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line13",
+   "en": "slumber, waiting to get{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line14",
+   "en": "their lost memories back.{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line15",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line16",
+   "en": "Naminé told Riku he{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line17",
+   "en": "could seal Ansem away{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line18",
+   "en": "forever by forgetting{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line19",
+   "en": "him, but Riku would not{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line20",
+   "en": "give up his memories.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line21",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line22",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line22",
+   "en": "Riku chose to fight by{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line23",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line23",
+   "en": "his own strength.  With{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line24",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line24",
+   "en": "the king at his side, he{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line25",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line25",
+   "en": "now makes ready for a{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line26",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line26",
+   "en": "final battle with Ansem.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line27",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line27",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line28",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line28",
+   "en": "Will his choice take him{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line29",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line29",
+   "en": "to the realm of light…{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuStoryTale6Line30",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuStoryTale6Line30",
+   "en": "or darkness?{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine0",
+   "en": "A boy who was born{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine1",
+   "en": "and raised on a small{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine2",
+   "en": "group of islands.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine4",
+   "en": "Riku dreamt of seeing{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine5",
+   "en": "other worlds, and so{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine6",
+   "en": "he forsook the{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine7",
+   "en": "islands―only to be{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine8",
+   "en": "seduced by the power{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine9",
+   "en": "of darkness.{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine10",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine11",
+   "en": "Enslaved by Ansem,{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine12",
+   "en": "pursuer of darkness,{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine13",
+   "en": "Riku clashed with his{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine14",
+   "en": "childhood friend Sora.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine15",
+   "en": "But in the end he was{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine16",
+   "en": "able to regain himself,{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine17",
+   "en": "and together with Sora{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine18",
+   "en": "closed the door to{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine19",
+   "en": "darkness.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine20",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine21",
+   "en": "Still, the dark wounds{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine22",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine22",
+   "en": "in Riku’s heart have yet{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuLine23",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuLine23",
+   "en": "to mend.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine0",
+   "en": "The king who reigns{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine1",
+   "en": "over Disney Castle.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine3",
+   "en": "He set off alone to{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine4",
+   "en": "protect his world and{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine5",
+   "en": "all worlds from the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine6",
+   "en": "dominion of the dark.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine8",
+   "en": "When Riku fell into the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine9",
+   "en": "realm of darkness, the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine10",
+   "en": "king showed him the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine11",
+   "en": "way, but the two were{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine12",
+   "en": "separated when the{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine13",
+   "en": "door to darkness was{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKingLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKingLine14",
+   "en": "closed.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine0",
+   "en": "Riku and Sora’s friend{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine1",
+   "en": "growing up.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine3",
+   "en": "Kairi vanished when{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine4",
+   "en": "their home islands were{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine5",
+   "en": "devoured by darkness.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine6",
+   "en": "Riku and Sora both{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

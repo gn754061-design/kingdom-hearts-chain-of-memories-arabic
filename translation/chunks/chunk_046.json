@@ -1,0 +1,850 @@
+{
+ "chunk": 46,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 150,
+ "items": [
+  {
+   "id": "event_text:gEvent134Text17",
+   "pool": "event_text",
+   "symbol": "gEvent134Text17",
+   "en": "But I know what it’s like to\nmiss your friends.\n\nSo why don’t we look for them\ntogether?{END}",
+   "max_units": 97,
+   "units": 97,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent134Text18",
+   "pool": "event_text",
+   "symbol": "gEvent134Text18",
+   "en": "That sounds perfect.{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent134Text19",
+   "pool": "event_text",
+   "symbol": "gEvent134Text19",
+   "en": "Help Pooh find his friends as\nyou lead him to the finish line!\n{HIGHLIGHT}R Button{PLAIN}:  Call Pooh{END}",
+   "max_units": 108,
+   "units": 108,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent134Text20",
+   "pool": "event_text",
+   "symbol": "gEvent134Text20",
+   "en": "The honey displayed at the\ntop right of the screen is the\nsource of Pooh's energy.{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent134Text21",
+   "pool": "event_text",
+   "symbol": "gEvent134Text21",
+   "en": "Pooh will doze off for a while\nif he runs out of honey.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEventTextUs_0900868C",
+   "pool": "event_text",
+   "symbol": "gEventTextUs_0900868C",
+   "en": "Come along and help me find\nmy friends.{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent136Text00",
+   "pool": "event_text",
+   "symbol": "gEvent136Text00",
+   "en": "Ooooh!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent136Text01",
+   "pool": "event_text",
+   "symbol": "gEvent136Text01",
+   "en": "Oh no, oh no, oh no…\nI-I-I’m nobody.  You needn’t\npay me any mind!{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent136Text02",
+   "pool": "event_text",
+   "symbol": "gEvent136Text02",
+   "en": "You’re not Pooh’s friend?{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent136Text03",
+   "pool": "event_text",
+   "symbol": "gEvent136Text03",
+   "en": "N-N-N-No!{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent136Text04",
+   "pool": "event_text",
+   "symbol": "gEvent136Text04",
+   "en": "Um, oh, no, I mean, I’m not NOT\nPooh’s friend…  I’m…I’m…{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent136Text05",
+   "pool": "event_text",
+   "symbol": "gEvent136Text05",
+   "en": "Why, hello there, Piglet.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent136Text06",
+   "pool": "event_text",
+   "symbol": "gEvent136Text06",
+   "en": "Oh!\nIt’s you, Pooh!{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent136Text07",
+   "pool": "event_text",
+   "symbol": "gEvent136Text07",
+   "en": "I’m so relieved…\nI finally found someone!{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent136Text08",
+   "pool": "event_text",
+   "symbol": "gEvent136Text08",
+   "en": "I got separated from the\nothers.  I was so worried, I\ndidn’t know what to do.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent136Text09",
+   "pool": "event_text",
+   "symbol": "gEvent136Text09",
+   "en": "That explains why you were\nso fidgety.{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent136Text10",
+   "pool": "event_text",
+   "symbol": "gEvent136Text10",
+   "en": "Piglet, why don’t you come\nwith us to look for the rest of\nour friends?{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent136Text11",
+   "pool": "event_text",
+   "symbol": "gEvent136Text11",
+   "en": "What?\nOh my, I don’t know…{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent136Text12",
+   "pool": "event_text",
+   "symbol": "gEvent136Text12",
+   "en": "Hmm…\nWhat should I do…{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent136Text13",
+   "pool": "event_text",
+   "symbol": "gEvent136Text13",
+   "en": "Guess he doesn’t want to\ncome.  Let’s go, Pooh.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent136Text14",
+   "pool": "event_text",
+   "symbol": "gEvent136Text14",
+   "en": "Oh!  Wait!{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent136Text15",
+   "pool": "event_text",
+   "symbol": "gEvent136Text15",
+   "en": "Did you make up your mind?{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent136Text16",
+   "pool": "event_text",
+   "symbol": "gEvent136Text16",
+   "en": "Well, no, I’m still thinking.\nBut I found something strange\nin the bushes.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent136Text17",
+   "pool": "event_text",
+   "symbol": "gEvent136Text17",
+   "en": "I wouldn’t know what to do\nwith it.  You can have it.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent137Text00",
+   "pool": "event_text",
+   "symbol": "gEvent137Text00",
+   "en": "Are you all right, Pooh?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent137Text01",
+   "pool": "event_text",
+   "symbol": "gEvent137Text01",
+   "en": "I had a wonderful time, Owl.\nI could do that all day.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent137Text02",
+   "pool": "event_text",
+   "symbol": "gEvent137Text02",
+   "en": "Maybe you should use a\nballoon to look for your\nfriends.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent137Text03",
+   "pool": "event_text",
+   "symbol": "gEvent137Text03",
+   "en": "You might think so, young man.\nBut the problems start when\nyou find them.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent137Text04",
+   "pool": "event_text",
+   "symbol": "gEvent137Text04",
+   "en": "Once you find your friends,\nhow do you get down to them?{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent137Text05",
+   "pool": "event_text",
+   "symbol": "gEvent137Text05",
+   "en": "A balloon goes where the wind\nblows.  You’ve no control over\nwhere you go.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent137Text06",
+   "pool": "event_text",
+   "symbol": "gEvent137Text06",
+   "en": "What if you saw your friends,\nbut the wind kept them just\nout of reach?{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent137Text07",
+   "pool": "event_text",
+   "symbol": "gEvent137Text07",
+   "en": "I think I’d rather keep looking\nfor my friends, than find them\nand not be able to reach them.{END}",
+   "max_units": 100,
+   "units": 100,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent137Text08",
+   "pool": "event_text",
+   "symbol": "gEvent137Text08",
+   "en": "You’ve got a point.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent137Text09",
+   "pool": "event_text",
+   "symbol": "gEvent137Text09",
+   "en": "If you want to find someone,\nyou’d best do it on foot.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent137Text10",
+   "pool": "event_text",
+   "symbol": "gEvent137Text10",
+   "en": "It can be quite exciting to\nstumble across a friend where\nyou least expect them!{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent137Text11",
+   "pool": "event_text",
+   "symbol": "gEvent137Text11",
+   "en": "Well, that’s certainly how I\nfeel when I stumble across\nsome honey!{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent137Text12",
+   "pool": "event_text",
+   "symbol": "gEvent137Text12",
+   "en": "That’s the spirit, Pooh!\nThe trick is to keep moving and\nkeep looking.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent137Text13",
+   "pool": "event_text",
+   "symbol": "gEvent137Text13",
+   "en": "All right, Owl, that’s what I’ll\ndo.  I can’t wait to find that\nhoney…{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent137Text14",
+   "pool": "event_text",
+   "symbol": "gEvent137Text14",
+   "en": "Don’t worry, I’ll help Pooh find\nhis friends.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent137Text15",
+   "pool": "event_text",
+   "symbol": "gEvent137Text15",
+   "en": "Splendid!\nHere’s something to speed you\non your way.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent139Text00",
+   "pool": "event_text",
+   "symbol": "gEvent139Text00",
+   "en": "Well, if it isn’t you, Roo!\nWhat were you doing in that\nhole?{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent139Text01",
+   "pool": "event_text",
+   "symbol": "gEvent139Text01",
+   "en": "I was so busy looking for\nTigger, I fell right in!{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent139Text02",
+   "pool": "event_text",
+   "symbol": "gEvent139Text02",
+   "en": "Then why didn’t you jump right\nout again?{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent139Text03",
+   "pool": "event_text",
+   "symbol": "gEvent139Text03",
+   "en": "I was waiting for Tigger to\ncome along!{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent139Text04",
+   "pool": "event_text",
+   "symbol": "gEvent139Text04",
+   "en": "Then when Tigger fell in the\nhole, why there I’d be!  He’d\nbe so surprised!{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent139Text05",
+   "pool": "event_text",
+   "symbol": "gEvent139Text05",
+   "en": "Doesn’t it sound fun?{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent139Text06",
+   "pool": "event_text",
+   "symbol": "gEvent139Text06",
+   "en": "But what if he doesn’t fall in?{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent139Text07",
+   "pool": "event_text",
+   "symbol": "gEvent139Text07",
+   "en": "I think Tigger would bounce\nright over the hole.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent139Text08",
+   "pool": "event_text",
+   "symbol": "gEvent139Text08",
+   "en": "To tell the truth, I was\ngetting a little lonely and tired\nof waiting for him to fall in.{END}",
+   "max_units": 96,
+   "units": 96,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent139Text09",
+   "pool": "event_text",
+   "symbol": "gEvent139Text09",
+   "en": "Instead of waiting, why don’t\nyou see if you can find him?{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent139Text10",
+   "pool": "event_text",
+   "symbol": "gEvent139Text10",
+   "en": "You’re right!\nThat’s a great idea!{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent139Text11",
+   "pool": "event_text",
+   "symbol": "gEvent139Text11",
+   "en": "By the way, I found this in the\nhole.  Why don’t you take it?{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent140Text00",
+   "pool": "event_text",
+   "symbol": "gEvent140Text00",
+   "en": "Oh, my poor head…{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent140Text01",
+   "pool": "event_text",
+   "symbol": "gEvent140Text01",
+   "en": "Well, much obliged, Pooh.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent140Text02",
+   "pool": "event_text",
+   "symbol": "gEvent140Text02",
+   "en": "Much obliged to you too,\nEeyore.  But what for?{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent140Text03",
+   "pool": "event_text",
+   "symbol": "gEvent140Text03",
+   "en": "For running into that tree and\ngetting my tail back for me.{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent140Text04",
+   "pool": "event_text",
+   "symbol": "gEvent140Text04",
+   "en": "Why, I was just trying to get\naway from those honey bees.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent140Text05",
+   "pool": "event_text",
+   "symbol": "gEvent140Text05",
+   "en": "All I wanted was a tiny taste\nof honey…{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent140Text06",
+   "pool": "event_text",
+   "symbol": "gEvent140Text06",
+   "en": "Oh, is that so?\nWell, you helped me anyhow.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent140Text07",
+   "pool": "event_text",
+   "symbol": "gEvent140Text07",
+   "en": "I thought there was honey in\nthat tree too.  I never\nguessed we’d find your tail.{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent140Text08",
+   "pool": "event_text",
+   "symbol": "gEvent140Text08",
+   "en": "Oh, just an accident.\nOf course.  No one would help\nme on purpose.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent140Text09",
+   "pool": "event_text",
+   "symbol": "gEvent140Text09",
+   "en": "But I’m still obliged.\nThank you, Pooh and Sora.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent140Text10",
+   "pool": "event_text",
+   "symbol": "gEvent140Text10",
+   "en": "You’re welcome, Eeyore.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent140Text11",
+   "pool": "event_text",
+   "symbol": "gEvent140Text11",
+   "en": "Here’s something for you.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent140Text12",
+   "pool": "event_text",
+   "symbol": "gEvent140Text12",
+   "en": "Hey, it’s okay, Eeyore.\nIt was just an accident.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent140Text13",
+   "pool": "event_text",
+   "symbol": "gEvent140Text13",
+   "en": "I know, but this fell down\nalong with my tail.  It’s my\naccidental thank you.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent141Text00",
+   "pool": "event_text",
+   "symbol": "gEvent141Text00",
+   "en": "So, you feel like some bouncin’\nwith Tigger, eh?{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent141Text01",
+   "pool": "event_text",
+   "symbol": "gEvent141Text01",
+   "en": "Did you see me jump?\nSora showed me how.{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent141Text02",
+   "pool": "event_text",
+   "symbol": "gEvent141Text02",
+   "en": "You got the idea, kiddo!\nBut you’re still not doin’ it\nright!{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent141Text03",
+   "pool": "event_text",
+   "symbol": "gEvent141Text03",
+   "en": "What do you mean?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

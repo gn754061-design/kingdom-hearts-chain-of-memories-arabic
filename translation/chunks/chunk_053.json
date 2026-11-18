@@ -1,0 +1,848 @@
+{
+ "chunk": 53,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 148,
+ "items": [
+  {
+   "id": "event_text:gEvent176Text04",
+   "pool": "event_text",
+   "symbol": "gEvent176Text04",
+   "en": "Would you like to see him?\nOr should I say, can you face\nhim?{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent176Text05",
+   "pool": "event_text",
+   "symbol": "gEvent176Text05",
+   "en": "What does THAT mean?{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent176Text06",
+   "pool": "event_text",
+   "symbol": "gEvent176Text06",
+   "en": "Darkness and Ansem's shadow\nnest within your heart.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent176Text07",
+   "pool": "event_text",
+   "symbol": "gEvent176Text07",
+   "en": "Aren't you ashamed to face\nSora in that state?{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent176Text08",
+   "pool": "event_text",
+   "symbol": "gEvent176Text08",
+   "en": "What―{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent176Text09",
+   "pool": "event_text",
+   "symbol": "gEvent176Text09",
+   "en": "Sora’s fate is to battle the\ndarkness.\n\nAs the hero of light, he must\noppose hosts of the dark―\nin other words, you.{END}",
+   "max_units": 126,
+   "units": 126,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent176Text10",
+   "pool": "event_text",
+   "symbol": "gEvent176Text10",
+   "en": "If you don’t believe me…{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent176Text11",
+   "pool": "event_text",
+   "symbol": "gEvent176Text11",
+   "en": "…then you had best see the\ntruth for yourself.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent176Text12",
+   "pool": "event_text",
+   "symbol": "gEvent176Text12",
+   "en": "This card!\nThis is our―{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent176Text13",
+   "pool": "event_text",
+   "symbol": "gEvent176Text13",
+   "en": "Yes, your home.{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent177Text00",
+   "pool": "event_text",
+   "symbol": "gEvent177Text00",
+   "en": "I never thought I’d miss the\nisland winds so much…{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent177Text01",
+   "pool": "event_text",
+   "symbol": "gEvent177Text01",
+   "en": "Funny―there was a time I\ncouldn’t wait to get off this\nrock.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent177Text02",
+   "pool": "event_text",
+   "symbol": "gEvent177Text02",
+   "en": "And now I’m acting all relieved.{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent177Text03",
+   "pool": "event_text",
+   "symbol": "gEvent177Text03",
+   "en": "Is that…?{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent177Text04",
+   "pool": "event_text",
+   "symbol": "gEvent177Text04",
+   "en": "Hey!{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent177Text05",
+   "pool": "event_text",
+   "symbol": "gEvent177Text05",
+   "en": "What’s with you guys?\nI don’t think I’ve EVER seen\nthe three of you so quiet.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent177Text06",
+   "pool": "event_text",
+   "symbol": "gEvent177Text06",
+   "en": "What, is there something on my\nface?{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent177Text07",
+   "pool": "event_text",
+   "symbol": "gEvent177Text07",
+   "en": "Guys?!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent178Text00",
+   "pool": "event_text",
+   "symbol": "gEvent178Text00",
+   "en": "Kairi…{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent178Text01",
+   "pool": "event_text",
+   "symbol": "gEvent178Text01",
+   "en": "Hey, Kairi.\nDon’t tell me you―{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent178Text02",
+   "pool": "event_text",
+   "symbol": "gEvent178Text02",
+   "en": "Ah…{END}",
+   "max_units": 52,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent178Text03",
+   "pool": "event_text",
+   "symbol": "gEvent178Text03",
+   "en": "No, no, NO!{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent178Text04",
+   "pool": "event_text",
+   "symbol": "gEvent178Text04",
+   "en": "Surely you knew this would\nhappen.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent178Text05",
+   "pool": "event_text",
+   "symbol": "gEvent178Text05",
+   "en": "Why would I know that?!{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent178Text06",
+   "pool": "event_text",
+   "symbol": "gEvent178Text06",
+   "en": "You’ve been to a number of\nworlds in your memory before\nthis one.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent178Text07",
+   "pool": "event_text",
+   "symbol": "gEvent178Text07",
+   "en": "And in those worlds, you met\nonly dark beings.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent178Text08",
+   "pool": "event_text",
+   "symbol": "gEvent178Text08",
+   "en": "That's all that's left in your\nheart: dark memories.\n\nYour memories of home are\ngone―each and every one.{END}",
+   "max_units": 113,
+   "units": 113,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent178Text09",
+   "pool": "event_text",
+   "symbol": "gEvent178Text09",
+   "en": "That's a lie!  I remember\neveryone from the islands!\nTidus and Selphie and Wakka…{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent178Text10",
+   "pool": "event_text",
+   "symbol": "gEvent178Text10",
+   "en": "Kairi and Sora, too!\nThey're my…my…{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent178Text11",
+   "pool": "event_text",
+   "symbol": "gEvent178Text11",
+   "en": "They’re my friends…{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent178Text12",
+   "pool": "event_text",
+   "symbol": "gEvent178Text12",
+   "en": "And who threw away those\nfriends?  Maybe it’s your own\nactions that you forgot.{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent178Text13",
+   "pool": "event_text",
+   "symbol": "gEvent178Text13",
+   "en": "You destroyed your home!{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent179Text00",
+   "pool": "event_text",
+   "symbol": "gEvent179Text00",
+   "en": "This is…that night!{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent179Text01",
+   "pool": "event_text",
+   "symbol": "gEvent179Text01",
+   "en": "The islands you grew up on\nwere sundered, scattered…\n\nMany hearts were lost to the\ndarkness.{END}",
+   "max_units": 101,
+   "units": 101,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent179Text02",
+   "pool": "event_text",
+   "symbol": "gEvent179Text02",
+   "en": "Because of what YOU did! {END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent179Text03",
+   "pool": "event_text",
+   "symbol": "gEvent179Text03",
+   "en": "N-No…{END}",
+   "max_units": 56,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent179Text04",
+   "pool": "event_text",
+   "symbol": "gEvent179Text04",
+   "en": "You hated being an islander,\ncut off from other worlds.\n\nSo you opened the door to\ndarkness and destroyed the\nislands.  YOU did that!{END}",
+   "max_units": 143,
+   "units": 143,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent179Text05",
+   "pool": "event_text",
+   "symbol": "gEvent179Text05",
+   "en": "And now you belong to the\ndarkness.\n\nLook at what you are!{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent180Text00",
+   "pool": "event_text",
+   "symbol": "gEvent180Text00",
+   "en": "This…this can’t be ME?!{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent181Text00",
+   "pool": "event_text",
+   "symbol": "gEvent181Text00",
+   "en": "Sora?!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent181Text01",
+   "pool": "event_text",
+   "symbol": "gEvent181Text01",
+   "en": "Stop it, Sora!\nDon’t you recognize me?{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent181Text02",
+   "pool": "event_text",
+   "symbol": "gEvent181Text02",
+   "en": "Yeah, I recognize you.\nI can see exactly what you’ve\nbecome!{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent181Text03",
+   "pool": "event_text",
+   "symbol": "gEvent181Text03",
+   "en": "Gaah!{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent181Text04",
+   "pool": "event_text",
+   "symbol": "gEvent181Text04",
+   "en": "Look at you, shrinking away\nfrom the light…{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent181Text05",
+   "pool": "event_text",
+   "symbol": "gEvent181Text05",
+   "en": "You’re not Riku anymore…\nYou're just a pawn of the\ndarkness.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent181Text06",
+   "pool": "event_text",
+   "symbol": "gEvent181Text06",
+   "en": "So be it.\nIt’s time for you to face the\nlight!{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent182Text00",
+   "pool": "event_text",
+   "symbol": "gEvent182Text00",
+   "en": "I’m…fading…\nConsumed by the light…{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent182Text01",
+   "pool": "event_text",
+   "symbol": "gEvent182Text01",
+   "en": "You won't fade.{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent182Text02",
+   "pool": "event_text",
+   "symbol": "gEvent182Text02",
+   "en": "You can’t fade.\nNo power can defeat you―\nnot the light, not the dark.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent182Text03",
+   "pool": "event_text",
+   "symbol": "gEvent182Text03",
+   "en": "So don't run from the light―\nand don't fear the darkness.\nBoth will make you stronger.{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent182Text04",
+   "pool": "event_text",
+   "symbol": "gEvent182Text04",
+   "en": "Darkness, too?{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent182Text05",
+   "pool": "event_text",
+   "symbol": "gEvent182Text05",
+   "en": "Especially darkness.\nBecause that power is yours\nalone.\nThe darkness in your heart is\nvast and deep…{END}",
+   "max_units": 109,
+   "units": 109,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent182Text06",
+   "pool": "event_text",
+   "symbol": "gEvent182Text06",
+   "en": "…but if you can stare into it\nunflinching, you'll never know\nfear again.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent182Text07",
+   "pool": "event_text",
+   "symbol": "gEvent182Text07",
+   "en": "All this time I've been pushing\nthe darkness away…{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent182Text08",
+   "pool": "event_text",
+   "symbol": "gEvent182Text08",
+   "en": "Just be brave.\nKnow that the darkness is\nthere and don’t give in.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent182Text09",
+   "pool": "event_text",
+   "symbol": "gEvent182Text09",
+   "en": "Do that, and you’ll gain\nstrength unlike any other.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent182Text10",
+   "pool": "event_text",
+   "symbol": "gEvent182Text10",
+   "en": "You'll be able to escape the\ndeepest darkness―{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent182Text11",
+   "pool": "event_text",
+   "symbol": "gEvent182Text11",
+   "en": "―and I'll be able to see\nthrough the brightest light…{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent182Text12",
+   "pool": "event_text",
+   "symbol": "gEvent182Text12",
+   "en": "Follow the darkness, Riku.\nIt'll show you the way to the\nfriends you miss.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent182Text13",
+   "pool": "event_text",
+   "symbol": "gEvent182Text13",
+   "en": "But can I face them…{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent182Text14",
+   "pool": "event_text",
+   "symbol": "gEvent182Text14",
+   "en": "You don’t want to?{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent182Text15",
+   "pool": "event_text",
+   "symbol": "gEvent182Text15",
+   "en": "You know I do.{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent182Text16",
+   "pool": "event_text",
+   "symbol": "gEvent182Text16",
+   "en": "And I will!\nThe darkness―MY darkness―\nwill show me the way!{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent182Text17",
+   "pool": "event_text",
+   "symbol": "gEvent182Text17",
+   "en": "Darkness, awaken!{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent183Text00",
+   "pool": "event_text",
+   "symbol": "gEvent183Text00",
+   "en": "Im…Impossible!{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent183Text01",
+   "pool": "event_text",
+   "symbol": "gEvent183Text01",
+   "en": "How did you find me in the\nlight!{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent183Text02",
+   "pool": "event_text",
+   "symbol": "gEvent183Text02",
+   "en": "You reek of the dark.\nEven the light can’t block out\nthe smell.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent183Text03",
+   "pool": "event_text",
+   "symbol": "gEvent183Text03",
+   "en": "I followed the darkness right\nto you.{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent183Text04",
+   "pool": "event_text",
+   "symbol": "gEvent183Text04",
+   "en": "Heh…\nAfter all your protests you’re\nstill just another darkling.{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent183Text05",
+   "pool": "event_text",
+   "symbol": "gEvent183Text05",
+   "en": "I know who I am.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

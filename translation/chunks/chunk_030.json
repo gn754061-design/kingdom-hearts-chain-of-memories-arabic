@@ -1,0 +1,848 @@
+{
+ "chunk": 30,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 172,
+ "items": [
+  {
+   "id": "event_text:gEvent004Text02",
+   "pool": "event_text",
+   "symbol": "gEvent004Text02",
+   "en": "It’s not our fault.\nWe don’t know what’s going\non, either.{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text03",
+   "pool": "event_text",
+   "symbol": "gEvent004Text03",
+   "en": "Gawrsh, your fighting’s\ngotten kinda rusty.  You sure\nyou don’t need us?{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text04",
+   "pool": "event_text",
+   "symbol": "gEvent004Text04",
+   "en": "I’m fine, honest.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent004Text05",
+   "pool": "event_text",
+   "symbol": "gEvent004Text05",
+   "en": "Think like that, and you’re as\ngood as Heartless fodder.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent004Text06",
+   "pool": "event_text",
+   "symbol": "gEvent004Text06",
+   "en": "Leon, it’s you!\nWhat are you doing in Castle\nOblivion?{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text07",
+   "pool": "event_text",
+   "symbol": "gEvent004Text07",
+   "en": "Castle Oblivion?\nWhat are you talking about?\nThis is Traverse Town.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text08",
+   "pool": "event_text",
+   "symbol": "gEvent004Text08",
+   "en": "And how do you know my name?{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent004Text09",
+   "pool": "event_text",
+   "symbol": "gEvent004Text09",
+   "en": "I’ve never seen any of you\nbefore in my life.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent004Text10",
+   "pool": "event_text",
+   "symbol": "gEvent004Text10",
+   "en": "Quit playing, Leon!\nWe all fought the Heartless\ntogether!  You know that!{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text11",
+   "pool": "event_text",
+   "symbol": "gEvent004Text11",
+   "en": "Look, I don’t know what you’re\ntalking about.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent004Text12",
+   "pool": "event_text",
+   "symbol": "gEvent004Text12",
+   "en": "I don’t even know your names.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent004Text13",
+   "pool": "event_text",
+   "symbol": "gEvent004Text13",
+   "en": "You don’t?{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent004Text14",
+   "pool": "event_text",
+   "symbol": "gEvent004Text14",
+   "en": "Sorry.{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent004Text15",
+   "pool": "event_text",
+   "symbol": "gEvent004Text15",
+   "en": "I can’t believe it.\nHow can you have forgotten\nabout us?{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text16",
+   "pool": "event_text",
+   "symbol": "gEvent004Text16",
+   "en": "Hey, I feel for you.\nBut you’ve got the wrong guy.\n\nHappens all the time.\nDon’t take it so personally,\nSora.{END}",
+   "max_units": 118,
+   "units": 118,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent004Text17",
+   "pool": "event_text",
+   "symbol": "gEvent004Text17",
+   "en": "You DO know his name!{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent004Text18",
+   "pool": "event_text",
+   "symbol": "gEvent004Text18",
+   "en": "Now, now hold on!\nWhy do I know your name?{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent004Text19",
+   "pool": "event_text",
+   "symbol": "gEvent004Text19",
+   "en": "You think Leon’s just kidding\naround?{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent004Text20",
+   "pool": "event_text",
+   "symbol": "gEvent004Text20",
+   "en": "If he is, it’s not very funny.\nSora’s really hurt.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent004Text21",
+   "pool": "event_text",
+   "symbol": "gEvent004Text21",
+   "en": "Who’s kidding around, Goofy?\nYou and Donald are the ones\nwho―{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text22",
+   "pool": "event_text",
+   "symbol": "gEvent004Text22",
+   "en": "Hey!{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent004Text23",
+   "pool": "event_text",
+   "symbol": "gEvent004Text23",
+   "en": "I don’t get it… \nWhat’s happened to my\nmemory?{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text24",
+   "pool": "event_text",
+   "symbol": "gEvent004Text24",
+   "en": "I dunno, Leon.\nMaybe Aerith was onto\nsomething after all.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text25",
+   "pool": "event_text",
+   "symbol": "gEvent004Text25",
+   "en": "She said she sensed some\nuncanny kind of power and\nasked us to look into it.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text26",
+   "pool": "event_text",
+   "symbol": "gEvent004Text26",
+   "en": "Well, we looked.\nAnd this is as uncanny as it\ngets.\nMaybe we should bring Sora\nand the others to Aerith.{END}",
+   "max_units": 113,
+   "units": 113,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent004Text27",
+   "pool": "event_text",
+   "symbol": "gEvent004Text27",
+   "en": "Yuffie, you know my name!{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent004Text28",
+   "pool": "event_text",
+   "symbol": "gEvent004Text28",
+   "en": "Yep!\nLooks like you know mine, too.{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent004Text29",
+   "pool": "event_text",
+   "symbol": "gEvent004Text29",
+   "en": "A friend of yours?{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent004Text30",
+   "pool": "event_text",
+   "symbol": "gEvent004Text30",
+   "en": "Nope!  Total stranger.\nBut I definitely know his name.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent004Text31",
+   "pool": "event_text",
+   "symbol": "gEvent004Text31",
+   "en": "Strange, yes, but convenient!\nWe can skip the introductions.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent004Text32",
+   "pool": "event_text",
+   "symbol": "gEvent004Text32",
+   "en": "Well, gee, Yuffie.\nI guess all our problems are\nsolved.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text33",
+   "pool": "event_text",
+   "symbol": "gEvent004Text33",
+   "en": "Anyways, I’m gonna run ahead\nand fill Aerith in.\n\nLeon, you give Sora and the\nothers the grand tour.{END}",
+   "max_units": 109,
+   "units": 109,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent004Text34",
+   "pool": "event_text",
+   "symbol": "gEvent004Text34",
+   "en": "See ya later!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent004Text35",
+   "pool": "event_text",
+   "symbol": "gEvent004Text35",
+   "en": "Well, let’s get on with it.\nCome on, follow me.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent004Text36",
+   "pool": "event_text",
+   "symbol": "gEvent004Text36",
+   "en": "Be careful, though.\nThere are still Heartless\nwandering around town.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent004Text37",
+   "pool": "event_text",
+   "symbol": "gEvent004Text37",
+   "en": "I’d better teach you how to\nprotect yourself in battle.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent005Text00",
+   "pool": "event_text",
+   "symbol": "gEvent005Text00",
+   "en": "Think you’ve got the hang of\nit, Sora?{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent005Text01",
+   "pool": "event_text",
+   "symbol": "gEvent005Text01",
+   "en": "Yeah, more or less.\nI’ll pick up the rest when I\nfight some real battles.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent005Text02",
+   "pool": "event_text",
+   "symbol": "gEvent005Text02",
+   "en": "Here, I found this lying around.\nYou take it.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent005Text03",
+   "pool": "event_text",
+   "symbol": "gEvent005Text03",
+   "en": "Remember what I told you and\nmake good use of it.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text00",
+   "pool": "event_text",
+   "symbol": "gEvent006Text00",
+   "en": "Aerith, tell me you haven’t\nforgotten me, too.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text01",
+   "pool": "event_text",
+   "symbol": "gEvent006Text01",
+   "en": "I don’t know whether to say\n“nice to meet you” or “good\nto see you again.”\nIt feels like a little of both.{END}",
+   "max_units": 114,
+   "units": 114,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent006Text02",
+   "pool": "event_text",
+   "symbol": "gEvent006Text02",
+   "en": "I don’t think I know you, but I\nstill feel like you belong here.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text03",
+   "pool": "event_text",
+   "symbol": "gEvent006Text03",
+   "en": "Yeah, exactly!  Like we’ve\nnever met, but it still doesn’t\nfeel weird knowing your name.{END}",
+   "max_units": 95,
+   "units": 95,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent006Text04",
+   "pool": "event_text",
+   "symbol": "gEvent006Text04",
+   "en": "But I’m telling you, we HAVE\nmet.  We took on the Heartless\ntogether.  We were a team!{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent006Text05",
+   "pool": "event_text",
+   "symbol": "gEvent006Text05",
+   "en": "It feels like you’re right…\nBut I can’t remember.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text06",
+   "pool": "event_text",
+   "symbol": "gEvent006Text06",
+   "en": "Then I guess you won’t\nremember what you told me.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text07",
+   "pool": "event_text",
+   "symbol": "gEvent006Text07",
+   "en": "In Hollow Bastion, when I\nsealed the Keyhole:  “We may\nnever meet again…”{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent006Text08",
+   "pool": "event_text",
+   "symbol": "gEvent006Text08",
+   "en": "…but we’ll never forget each\nother.{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text09",
+   "pool": "event_text",
+   "symbol": "gEvent006Text09",
+   "en": "See, you do remember!{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent006Text10",
+   "pool": "event_text",
+   "symbol": "gEvent006Text10",
+   "en": "He’s right, Leon!\nI remember you saying that,\ntoo.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent006Text11",
+   "pool": "event_text",
+   "symbol": "gEvent006Text11",
+   "en": "I guess I can’t write it off as\na coincidence, then.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text12",
+   "pool": "event_text",
+   "symbol": "gEvent006Text12",
+   "en": "I don’t think I have any\nmemory of it…but somehow I\nstill remember.\nMaybe Sora’s heart is doing\nthe remembering for us.{END}",
+   "max_units": 128,
+   "units": 128,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent006Text13",
+   "pool": "event_text",
+   "symbol": "gEvent006Text13",
+   "en": "How does THAT work?{END}",
+   "max_units": 64,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent006Text14",
+   "pool": "event_text",
+   "symbol": "gEvent006Text14",
+   "en": "We don’t know you, Sora, but\nyour heart is full of memories\nof us together.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent006Text15",
+   "pool": "event_text",
+   "symbol": "gEvent006Text15",
+   "en": "Those memories must resonate\nin our hearts, too.\n\nMaybe they tell us things we\ncouldn’t otherwise know.{END}",
+   "max_units": 112,
+   "units": 112,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent006Text16",
+   "pool": "event_text",
+   "symbol": "gEvent006Text16",
+   "en": "So you’re saying that Sora’s\nmemories are affecting ours?{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text17",
+   "pool": "event_text",
+   "symbol": "gEvent006Text17",
+   "en": "His memories do seem to have\na certain power.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text18",
+   "pool": "event_text",
+   "symbol": "gEvent006Text18",
+   "en": "Maybe it’s like that guy said,\nthen.\n\nThis town is just an illusion.\nSomething my memories created.{END}",
+   "max_units": 108,
+   "units": 108,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent006Text19",
+   "pool": "event_text",
+   "symbol": "gEvent006Text19",
+   "en": "And…there’s someone special\nto you in this town?{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text20",
+   "pool": "event_text",
+   "symbol": "gEvent006Text20",
+   "en": "How did you―{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent006Text21",
+   "pool": "event_text",
+   "symbol": "gEvent006Text21",
+   "en": "Ah, I get it.  My memories are\nresonating with yours, telling\nyou what happened.\nAnyway, yeah.\nA friend of mine is somewhere\nin this town―\nI mean, Castle Oblivion.{END}",
+   "max_units": 174,
+   "units": 174,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 7
+  },
+  {
+   "id": "event_text:gEvent006Text22",
+   "pool": "event_text",
+   "symbol": "gEvent006Text22",
+   "en": "Castle Oblivion?  What’s that?\nThere aren’t any castles in\nTraverse Town.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent006Text23",
+   "pool": "event_text",
+   "symbol": "gEvent006Text23",
+   "en": "That’s not quite what I mean.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent006Text24",
+   "pool": "event_text",
+   "symbol": "gEvent006Text24",
+   "en": "Sora probably still has his own\nquestions.  Right?{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent006Text25",
+   "pool": "event_text",
+   "symbol": "gEvent006Text25",
+   "en": "Right.  We just got here, after\nall.  It wouldn’t hurt to take a\nlook around.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent006Text26",
+   "pool": "event_text",
+   "symbol": "gEvent006Text26",
+   "en": "Then go have a walk around\ntown.  There are Heartless,\nbut that’s no problem for you.{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent006Text27",
+   "pool": "event_text",
+   "symbol": "gEvent006Text27",
+   "en": "So you know I can fight!{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent006Text28",
+   "pool": "event_text",
+   "symbol": "gEvent006Text28",
+   "en": "I can’t say I remember, but I\nam starting to believe.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent007Text00",
+   "pool": "event_text",
+   "symbol": "gEvent007Text00",
+   "en": "Well, whaddaya know.\nIt’s Sora!{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

@@ -1,0 +1,5002 @@
+@gJiminyUnusedNoText
+NO TEXT{END}
+@gJiminyBlankLine
+ {END}
+@gJiminyStoryTale1Line0
+قد يكون أصدقاؤنا{END}
+@gJiminyStoryTale1Line1
+هنا...{END}
+@gJiminyStoryTale1Line2
+ {END}
+@gJiminyStoryTale1Line3
+كانت تلك الفكرة{END}
+@gJiminyStoryTale1Line4
+التي قادتنا إلى قلعة{END}
+@gJiminyStoryTale1Line5
+النسيان، حيث البطاقات{END}
+@gJiminyStoryTale1Line6
+تحكم كل شيء.{END}
+@gJiminyStoryTale1Line7
+ {END}
+@gJiminyStoryTale1Line8
+رجل غامض أعطى{END}
+@gJiminyStoryTale1Line9
+سورا بطاقة، وبها{END}
+@gJiminyStoryTale1Line10
+أخذتنا إلى بلدة العبور{END}
+@gJiminyStoryTale1Line11
+من بين كل الأماكن!{END}
+@gJiminyStoryTale1Line12
+ {END}
+@gJiminyStoryTale1Line13
+اتضح أن البلدة{END}
+@gJiminyStoryTale1Line14
+كانت مجرد نسج من{END}
+@gJiminyStoryTale1Line15
+ذكرياتنا الخاصة،{END}
+@gJiminyStoryTale1Line16
+العالم الأول{END}
+@gJiminyStoryTale1Line17
+منmany{END}
+@gJiminyStoryTale1Line18
+ {END}
+@gJiminyStoryTale1Line19
+وهكذا تبدأ رحلتنا{END}
+@gJiminyStoryTale1Line20
+عبر هذه العوالم.{END}
+@gJiminyStoryTale1Line21
+ {END}
+@gJiminyStoryTale2Line0
+يبدو أننا نفقد{END}
+@gJiminyStoryTale2Line1
+ذكرياتنا ببطء لما حدث{END}
+@gJiminyStoryTale2Line2
+قبل القلعة. وملاحظاتي{END}
+@gJiminyStoryTale2Line3
+عن الرحلة الأخيرة اختفت!{END}
+@gJiminyStoryTale2Line4
+ {END}
+@gJiminyStoryTale2Line5
+لكن في المقابل، سورا{END}
+@gJiminyStoryTale2Line6
+يتذكر أشياء أخرى{END}
+@gJiminyStoryTale2Line7
+لا بد أنه نسيها حتى الآن―{END}
+@gJiminyStoryTale2Line8
+مثل فتاة كان يعرفها{END}
+@gJiminyStoryTale2Line9
+عندما كان صغيراً.{END}
+@gJiminyStoryTale2Line10
+ {END}
+@gJiminyStoryTale2Line11
+بينما قاتلنا لاركسين، تذكر{END}
+@gJiminyStoryTale2Line12
+اسم الفتاة أخيراً...{END}
+@gJiminyStoryTale2Line13
+ {END}
+@gJiminyStoryTale2Line14
+ناميني.{END}
+@gJiminyStoryTale2Line15
+ {END}
+@gJiminyStoryTale2Line16
+إذن ذكريات سورا عن{END}
+@gJiminyStoryTale2Line17
+ناميني كانت زائفة...{END}
+@gJiminyStoryTale2Line18
+ {END}
+@gJiminyStoryTale4Line0
+إذن ذكريات سورا عن{END}
+@gJiminyStoryTale4Line1
+ناميني كانت زائفة...{END}
+@gJiminyStoryTale4Line2
+ {END}
+@gJiminyStoryTale4Line3
+أراد مارلوكسيا قلب سورا{END}
+@gJiminyStoryTale4Line4
+والقوة بداخله، فاستخدم{END}
+@gJiminyStoryTale4Line5
+ناميني لتزييف الذكريات{END}
+@gJiminyStoryTale4Line6
+ووضعها في قلب سورا.{END}
+@gJiminyStoryTale4Line7
+ {END}
+@gJiminyStoryTale4Line8
+لاركسين رحلت، نذهب{END}
+@gJiminyStoryTale4Line9
+إلى القمة لإنهائه.{END}
+@gJiminyStoryTale4Line10
+نريد استعادة ذكرياتنا.{END}
+@gJiminyStoryTale4Line11
+ {END}
+@gJiminyStoryTale4Line12
+وسورا― يريد الوفاء بالوعد{END}
+@gJiminyStoryTale4Line13
+الذي يتذكره. ناميني قد{END}
+@gJiminyStoryTale4Line14
+ليست صديقته، لكن في{END}
+@gJiminyStoryTale4Line15
+قلبه، حمايتها كل شيء.{END}
+@gJiminyStoryTale4Line16
+وسورا― يريد{END}
+@gJiminyStoryTale4Line17
+الوفاء بالوعد{END}
+@gJiminyStoryTale4Line18
+الذي يتذكره.{END}
+@gJiminyStoryTale4Line19
+ناميني ليست صديقته، لكن{END}
+@gJiminyStoryTale4Line20
+في قلبه، حمايتها{END}
+@gJiminyStoryTale4Line21
+هي الخيار الوحيد.{END}
+@gJiminyStoryOlympusColiseumLine0
+أراد سورا مواجهة هرقل{END}
+@gJiminyStoryOlympusColiseumLine1
+في المباريات.{END}
+@gJiminyStoryOlympusColiseumLine2
+ {END}
+@gJiminyStoryOlympusColiseumLine3
+قررنا المنافسة{END}
+@gJiminyStoryOlympusColiseumLine4
+في المباريات.{END}
+@gJiminyStoryOlympusColiseumLine5
+ {END}
+@gJiminyStoryOlympusColiseumLine6
+للتخلص من هرقل، وظف{END}
+@gJiminyStoryOlympusColiseumLine7
+كلاود للقضاء عليه. تعاون{END}
+@gJiminyStoryOlympusColiseumLine8
+كلاود ظناً أنه{END}
+@gJiminyStoryOlympusColiseumLine9
+سيستعيد ذكرياته.{END}
+@gJiminyStoryOlympusColiseumLine10
+{END}
+@gJiminyStoryOlympusColiseumLine11
+ {END}
+@gJiminyStoryOlympusColiseumLine12
+لكن حتى كلاود لم يستطع{END}
+@gJiminyStoryOlympusColiseumLine13
+هزيمة هرقل. تدخل هادس{END}
+@gJiminyStoryOlympusColiseumLine14
+لإنهاء الأمر، لكننا{END}
+@gJiminyStoryOlympusColiseumLine15
+أوقفنا خططه. أحضر علاء{END}
+@gJiminyStoryOlympusColiseumLine16
+الدين المصباح السحري من{END}
+@gJiminyStoryAgrabahLine0
+كهف العجائب، أملاً{END}
+@gJiminyStoryAgrabahLine1
+في{END}
+@gJiminyStoryAgrabahLine2
+لقاء{END}
+@gJiminyStoryAgrabahLine3
+ياسمين،{END}
+@gJiminyStoryAgrabahLine4
+أميرة أگراباه.{END}
+@gJiminyStoryAgrabahLine5
+{END}
+@gJiminyStoryAgrabahLine6
+ {END}
+@gJiminyStoryAgrabahLine7
+داخل المصباح كان الجني،{END}
+@gJiminyStoryAgrabahLine8
+الذي يمنح ثلاث أمنيات لمن{END}
+@gJiminyStoryAgrabahLine9
+يحمل المصباح.{END}
+@gJiminyStoryAgrabahLine10
+{END}
+@gJiminyStoryAgrabahLine11
+ {END}
+@gJiminyStoryAgrabahLine12
+أمل علاء الدين أن{END}
+@gJiminyStoryAgrabahLine13
+يصبح أميراً ليرى ياسمين{END}
+@gJiminyStoryAgrabahLine14
+متى شاء. لكنه استخدم{END}
+@gJiminyStoryAgrabahLine15
+أمنيتين في محاربة فاقدي{END}
+@gJiminyStoryAgrabahLine16
+القلوب، ثم{END}
+@gJiminyStoryAgrabahLine17
+سرق{END}
+@gJiminyStoryAgrabahLine18
+جعفر المصباح.{END}
+@gJiminyStoryAgrabahLine19
+{END}
+@gJiminyStoryAgrabahLine20
+ {END}
+@gJiminyStoryAgrabahLine21
+تحول جعفر إلى جني،{END}
+@gJiminyStoryAgrabahLine22
+لكننا هزمناه{END}
+@gJiminyStoryAgrabahLine23
+واستعدنا المصباح.{END}
+@gJiminyStoryAgrabahLine24
+{END}
+@gJiminyStoryAgrabahLine25
+ {END}
+@gJiminyStoryAgrabahLine26
+بدلاً من أن يصبح أميراً،{END}
+@gJiminyStoryAgrabahLine27
+استخدم علاء الدين أمنيته{END}
+@gJiminyStoryAgrabahLine28
+الأخيرة لتحرير الجني، وقرر{END}
+@gJiminyStoryAgrabahLine29
+أن يريد أن تعرفه ياسمين{END}
+@gJiminyStoryAgrabahLine30
+على حقيقته. خرج{END}
+@gJiminyStoryAgrabahLine31
+جيبيتو بحثاً عن بينوكيو{END}
+@gJiminyStoryMonstroLine0
+وابتلعه الحوت{END}
+@gJiminyStoryMonstroLine1
+مونسترو. لكن العثور على{END}
+@gJiminyStoryMonstroLine2
+بينوكيو{END}
+@gJiminyStoryMonstroLine3
+بالداخل{END}
+@gJiminyStoryMonstroLine4
+ملأه بالفرح.{END}
+@gJiminyStoryMonstroLine5
+{END}
+@gJiminyStoryMonstroLine6
+ {END}
+@gJiminyStoryMonstroLine7
+لكن بينوكيو شعر بالسوء{END}
+@gJiminyStoryMonstroLine8
+للهروب من البيت وتعريض{END}
+@gJiminyStoryMonstroLine9
+أبيه للخطر، لذلك انطلق{END}
+@gJiminyStoryMonstroLine10
+ليجد طريقاً للخروج{END}
+@gJiminyStoryMonstroLine11
+من مونسترو.{END}
+@gJiminyStoryMonstroLine12
+{END}
+@gJiminyStoryMonstroLine13
+ {END}
+@gJiminyStoryMonstroLine14
+بعد مواجهة فاقد قلب كبير،{END}
+@gJiminyStoryMonstroLine15
+كانت لدى بينوكيو فكرة رائعة:{END}
+@gJiminyStoryMonstroLine16
+لماذا لا نحدث ضجة ونتسبب{END}
+@gJiminyStoryMonstroLine17
+في{END}
+@gJiminyStoryMonstroLine18
+بصقنا خارجاً؟{END}
+@gJiminyStoryMonstroLine19
+{END}
+@gJiminyStoryMonstroLine20
+ {END}
+@gJiminyStoryMonstroLine21
+بمساعدتنا، نجحت الخطة، وهرب{END}
+@gJiminyStoryMonstroLine22
+بينوكيو وجيبيتو بسلام.{END}
+@gJiminyStoryMonstroLine23
+بيتر بان اختبأ في{END}
+@gJiminyStoryMonstroLine24
+سفينة{END}
+@gJiminyStoryNeverLandLine0
+الكابتن هوك{END}
+@gJiminyStoryNeverLandLine1
+{END}
+@gJiminyStoryNeverLandLine2
+لإنقاذ ويندي المخطوفة.{END}
+@gJiminyStoryNeverLandLine3
+{END}
+@gJiminyStoryNeverLandLine4
+ {END}
+@gJiminyStoryNeverLandLine5
+لكن بمجرد إنقاذها، أخبرت{END}
+@gJiminyStoryNeverLandLine6
+ويندي بيتر أنها تريد{END}
+@gJiminyStoryNeverLandLine7
+العودة إلى لندن.{END}
+@gJiminyStoryNeverLandLine8
+{END}
+@gJiminyStoryNeverLandLine9
+ {END}
+@gJiminyStoryNeverLandLine10
+هل ستكبر ويندي وتنساه{END}
+@gJiminyStoryNeverLandLine11
+وتنسى أرض الأحلام؟ لم{END}
+@gJiminyStoryNeverLandLine12
+يعجب بيتر ذلك،{END}
+@gJiminyStoryNeverLandLine13
+وغادر غاضباً.{END}
+@gJiminyStoryNeverLandLine14
+{END}
+@gJiminyStoryNeverLandLine15
+ {END}
+@gJiminyStoryNeverLandLine16
+في هذه الأثناء، كنا{END}
+@gJiminyStoryNeverLandLine17
+نحاول النزول من السفينة.{END}
+@gJiminyStoryNeverLandLine18
+أمسك هوك بنا على ظهرها،{END}
+@gJiminyStoryNeverLandLine19
+لكن بيتر{END}
+@gJiminyStoryNeverLandLine20
+عاد وأنقذنا.{END}
+@gJiminyStoryNeverLandLine21
+{END}
+@gJiminyStoryNeverLandLine22
+ {END}
+@gJiminyStoryNeverLandLine23
+في النهاية، ودع بيتر{END}
+@gJiminyStoryNeverLandLine24
+وويندي بعضهما، لكنهما{END}
+@gJiminyStoryNeverLandLine25
+وعدا باللقاء يوماً. جاء{END}
+@gJiminyStoryNeverLandLine26
+الوحش لإنقاذ بيل من براثن{END}
+@gJiminyStoryHollowBastionLine0
+ماليفيسنت، لكنها{END}
+@gJiminyStoryHollowBastionLine1
+تصرفت{END}
+@gJiminyStoryHollowBastionLine2
+ببرود{END}
+@gJiminyStoryHollowBastionLine3
+ولم{END}
+@gJiminyStoryHollowBastionLine4
+تذهب معه.{END}
+@gJiminyStoryHollowBastionLine5
+{END}
+@gJiminyStoryHollowBastionLine6
+ {END}
+@gJiminyStoryHollowBastionLine7
+شعرنا بالسوء لأجله، لذلك{END}
+@gJiminyStoryHollowBastionLine8
+ذهبنا لرؤية بيل. اتضح{END}
+@gJiminyStoryHollowBastionLine9
+أنها كانت تتظاهر فقط{END}
+@gJiminyStoryHollowBastionLine10
+بالقسوة، لتحمي قلبها{END}
+@gJiminyStoryHollowBastionLine11
+والحب بداخله{END}
+@gJiminyStoryHollowBastionLine12
+من ماليفيسنت.{END}
+@gJiminyStoryHollowBastionLine13
+{END}
+@gJiminyStoryHollowBastionLine14
+ {END}
+@gJiminyStoryHollowBastionLine15
+لكن عند الاختيار، لم تستطع{END}
+@gJiminyStoryHollowBastionLine16
+بيل إخفاء مشاعرها تجاه{END}
+@gJiminyStoryHollowBastionLine17
+الوحش، وسرقت{END}
+@gJiminyStoryHollowBastionLine18
+ماليفيسنت قلبها.{END}
+@gJiminyStoryHollowBastionLine19
+{END}
+@gJiminyStoryHollowBastionLine20
+ {END}
+@gJiminyStoryHollowBastionLine21
+مع الوحش، اعتنينا{END}
+@gJiminyStoryHollowBastionLine22
+بماليفيسنت وأعدنا قلب بيل.{END}
+@gJiminyStoryHollowBastionLine23
+البطاقة التي أعطانا{END}
+@gJiminyStoryHollowBastionLine24
+إياها فاكسين قادت إلى بلدة{END}
+@gJiminyStoryTwilightTownLine0
+لا يتذكرها{END}
+@gJiminyStoryTwilightTownLine1
+أحد منا.{END}
+@gJiminyStoryTwilightTownLine2
+{END}
+@gJiminyStoryTwilightTownLine3
+ {END}
+@gJiminyStoryTwilightTownLine4
+لكن سورا تمسك بوعده{END}
+@gJiminyStoryTwilightTownLine5
+لناميني، وواصلنا التقدم.{END}
+@gJiminyStoryTwilightTownLine6
+{END}
+@gJiminyStoryTwilightTownLine7
+ {END}
+@gJiminyStoryTwilightTownLine8
+وبالمناسبة، بدا فاكسين{END}
+@gJiminyStoryTwilightTownLine9
+مستعداً لقول شيء عن ذلك،{END}
+@gJiminyStoryTwilightTownLine10
+لكن أكسل ظهر، وحسناً،{END}
+@gJiminyStoryTwilightTownLine11
+لن نرى فاكسين مجدداً.{END}
+@gJiminyStoryTwilightTownLine12
+بقيادة صوت غامض، شق{END}
+@gJiminyStoryTwilightTownLine13
+ريكو طريقه عبر عوالم{END}
+@gJiminyStoryTwilightTownLine14
+البطاقات، لكنه قابل{END}
+@gJiminyRikuStoryTale2Line0
+فقط{END}
+@gJiminyRikuStoryTale2Line1
+كائنات{END}
+@gJiminyRikuStoryTale2Line2
+الظلام{END}
+@gJiminyRikuStoryTale2Line3
+في الداخل.{END}
+@gJiminyRikuStoryTale2Line4
+{END}
+@gJiminyRikuStoryTale2Line5
+ {END}
+@gJiminyRikuStoryTale2Line6
+قيل لريكو إنه لأنه رفض{END}
+@gJiminyRikuStoryTale2Line7
+الأشياء الأخرى في حياته{END}
+@gJiminyRikuStoryTale2Line8
+ليدعي الظلام، فإن قلبه الآن{END}
+@gJiminyRikuStoryTale2Line9
+خالٍ إلا من الظلام{END}
+@gJiminyRikuStoryTale2Line10
+الذي{END}
+@gJiminyRikuStoryTale2Line11
+سعى إليه.{END}
+@gJiminyRikuStoryTale2Line12
+{END}
+@gJiminyRikuStoryTale2Line13
+ {END}
+@gJiminyRikuStoryTale2Line14
+غير قادر على قبول هذا،{END}
+@gJiminyRikuStoryTale2Line15
+التقى ريكو بأنسيم،{END}
+@gJiminyRikuStoryTale2Line16
+الذي حاول مرة أخرى{END}
+@gJiminyRikuStoryTale2Line17
+السيطرة عليه.{END}
+@gJiminyRikuStoryTale2Line18
+ {END}
+@gJiminyRikuStoryTale2Line19
+تدخل الملك لإنقاذ ريكو،{END}
+@gJiminyRikuStoryTale2Line20
+لكن أنسيم لم يتخل{END}
+@gJiminyRikuStoryTale2Line21
+عن قلبه.{END}
+@gJiminyRikuStoryTale2Line22
+{END}
+@gJiminyRikuStoryTale2Line23
+ {END}
+@gJiminyRikuStoryTale2Line24
+وعليه، على ريكو محاربة{END}
+@gJiminyRikuStoryTale2Line25
+الظلام في داخله. بينما{END}
+@gJiminyRikuStoryTale3Line0
+يكافح الظلام في قلبه،{END}
+@gJiminyRikuStoryTale3Line1
+التقى ريكو بشخص يشبهه{END}
+@gJiminyRikuStoryTale3Line2
+تماماً، نسخة{END}
+@gJiminyRikuStoryTale3Line3
+صنعها{END}
+@gJiminyRikuStoryTale3Line4
+فاكسين،{END}
+@gJiminyRikuStoryTale3Line5
+عضو المنظمة.{END}
+@gJiminyRikuStoryTale3Line6
+{END}
+@gJiminyRikuStoryTale3Line7
+ {END}
+@gJiminyRikuStoryTale3Line8
+النسخة كانت تتحكم بالظلام{END}
+@gJiminyRikuStoryTale3Line9
+بحرية، وتصف ريكو بالجبان{END}
+@gJiminyRikuStoryTale3Line10
+لإهماله الظلام.{END}
+@gJiminyRikuStoryTale3Line11
+{END}
+@gJiminyRikuStoryTale3Line12
+ {END}
+@gJiminyRikuStoryTale3Line13
+في هذه الأثناء، عملاء{END}
+@gJiminyRikuStoryTale3Line14
+المنظمة أظهروا تنافسهم.{END}
+@gJiminyRikuStoryTale3Line15
+يبدو أن سورا وريكو هما{END}
+@gJiminyRikuStoryTale3Line16
+السبب في سيطرتهم على{END}
+@gJiminyRikuStoryTale3Line17
+القلعة— لكن لماذا؟{END}
+@gJiminyRikuStoryTale3Line18
+واحداً تلو الآخر، سقط{END}
+@gJiminyRikuStoryTale3Line19
+أعضاء المنظمة على يدي{END}
+@gJiminyRikuStoryTale5Line0
+ريكو وسورا—{END}
+@gJiminyRikuStoryTale5Line1
+حتى{END}
+@gJiminyRikuStoryTale5Line2
+مارلوكسيا،{END}
+@gJiminyRikuStoryTale5Line3
+سيد القلعة.{END}
+@gJiminyRikuStoryTale5Line4
+{END}
+@gJiminyRikuStoryTale5Line5
+ {END}
+@gJiminyRikuStoryTale5Line6
+زيكسيون، أملاً في تجنب مصير{END}
+@gJiminyRikuStoryTale5Line7
+مشابه، حاول استخدام ذكريات{END}
+@gJiminyRikuStoryTale5Line8
+موطن ريكو ضده.{END}
+@gJiminyRikuStoryTale5Line9
+{END}
+@gJiminyRikuStoryTale5Line10
+ {END}
+@gJiminyRikuStoryTale5Line11
+بعد أن تجاهله أصدقاؤه{END}
+@gJiminyRikuStoryTale5Line12
+وهوجمه سورا، بدا أن ريكو{END}
+@gJiminyRikuStoryTale5Line13
+سيجرف بالنور، لكن صوت{END}
+@gJiminyRikuStoryTale5Line14
+كايري{END}
+@gJiminyRikuStoryTale5Line15
+منحه الشجاعة.{END}
+@gJiminyRikuStoryTale5Line16
+{END}
+@gJiminyRikuStoryTale5Line17
+ {END}
+@gJiminyRikuStoryTale5Line18
+لم يعد خائفاً من الظلام،{END}
+@gJiminyRikuStoryTale5Line19
+رأى ريكو من خلال سورا{END}
+@gJiminyRikuStoryTale5Line20
+المزيف وأحبط فخ زيكسيون.{END}
+@gJiminyRikuStoryTale5Line21
+يتفاعل مع قوة الظلام. قوة{END}
+@gJiminyRikuStoryTale5Line22
+ريكو أعلى عندما{END}
+@gJiminyRikuCardSoulEaterLine0
+يستخدم الظلام في{END}
+@gJiminyRikuCardSoulEaterLine1
+القتال.{END}
+@gJiminyRikuCardSoulEaterLine2
+صبي{END}
+@gJiminyRikuCardSoulEaterLine3
+مشرق{END}
+@gJiminyCharacterSoraLine0
+وحيوي اختاره{END}
+@gJiminyCharacterSoraLine1
+{END}
+@gJiminyCharacterSoraLine2
+سورا اختاره مفتاح القلب{END}
+@gJiminyCharacterSoraLine3
+لمحاربة فاقدي القلوب.{END}
+@gJiminyCharacterSoraLine4
+ {END}
+@gJiminyCharacterSoraLine5
+كان سورا من هزم{END}
+@gJiminyCharacterSoraLine6
+أنسيم، منهِياً خططه لإغراق{END}
+@gJiminyCharacterSoraLine7
+العالم في الظلام.{END}
+@gJiminyCharacterSoraLine8
+{END}
+@gJiminyCharacterSoraLine9
+ {END}
+@gJiminyCharacterSoraLine10
+ومع ذلك، يواصل سورا{END}
+@gJiminyCharacterSoraLine11
+رحلته{END}
+@gJiminyCharacterSoraLine12
+بحثاً{END}
+@gJiminyCharacterSoraLine13
+عن{END}
+@gJiminyCharacterSoraLine14
+الأصدقاء{END}
+@gJiminyCharacterDonaldDuckLine0
+الذين{END}
+@gJiminyCharacterDonaldDuckLine1
+فقدهم{END}
+@gJiminyCharacterDonaldDuckLine2
+في الصراع.{END}
+@gJiminyCharacterDonaldDuckLine3
+{END}
+@gJiminyCharacterDonaldDuckLine4
+ {END}
+@gJiminyCharacterDonaldDuckLine5
+مزاجه الحاد يوقعه في{END}
+@gJiminyCharacterDonaldDuckLine6
+المشاكل أحياناً، لكنه{END}
+@gJiminyCharacterDonaldDuckLine7
+شجاع جداً.{END}
+@gJiminyCharacterDonaldDuckLine8
+{END}
+@gJiminyCharacterDonaldDuckLine9
+ {END}
+@gJiminyCharacterDonaldDuckLine10
+دونالد يبحث حالياً عن{END}
+@gJiminyCharacterDonaldDuckLine11
+أدلة{END}
+@gJiminyCharacterDonaldDuckLine12
+لما{END}
+@gJiminyCharacterDonaldDuckLine13
+حدث{END}
+@gJiminyCharacterDonaldDuckLine14
+للملك{END}
+@gJiminyCharacterDonaldDuckLine15
+بعد{END}
+@gJiminyCharacterGoofyLine0
+أن{END}
+@gJiminyCharacterGoofyLine1
+حُبس{END}
+@gJiminyCharacterGoofyLine2
+خلف{END}
+@gJiminyCharacterGoofyLine3
+باب الظلام.{END}
+@gJiminyCharacterGoofyLine4
+{END}
+@gJiminyCharacterGoofyLine5
+ {END}
+@gJiminyCharacterGoofyLine6
+إنه مرح وهادئ، ولا أحد أكثر{END}
+@gJiminyCharacterGoofyLine7
+إخلاصاً للملك.{END}
+@gJiminyCharacterGoofyLine8
+{END}
+@gJiminyCharacterGoofyLine9
+ {END}
+@gJiminyCharacterGoofyLine10
+غوفي{END}
+@gJiminyCharacterGoofyLine11
+وسورا{END}
+@gJiminyCharacterJiminyCricketLine0
+صديقان{END}
+@gJiminyCharacterJiminyCricketLine1
+مقربان جداً.{END}
+@gJiminyCharacterJiminyCricketLine2
+{END}
+@gJiminyCharacterJiminyCricketLine3
+ {END}
+@gJiminyCharacterJiminyCricketLine4
+أعمل{END}
+@gJiminyCharacterJiminyCricketLine5
+أيضاً{END}
+@gJiminyCharacterJiminyCricketLine6
+كضمير{END}
+@gJiminyCharacterRikuLine0
+لبينوكيو،{END}
+@gJiminyCharacterRikuLine2
+ليعرف{END}
+@gJiminyCharacterRikuLine3
+الصواب{END}
+@gJiminyCharacterRikuLine4
+من الخطأ.{END}
+@gJiminyCharacterRikuLine5
+{END}
+@gJiminyCharacterRikuLine6
+ {END}
+@gJiminyCharacterRikuLine7
+لإغلاق باب الظلام، بقي{END}
+@gJiminyCharacterRikuLine8
+ريكو مع الملك على الجانب{END}
+@gJiminyCharacterRikuLine9
+الآخر. مكانته{END}
+@gJiminyCharacterRikuLine10
+الحالية{END}
+@gJiminyCharacterRikuLine11
+غير معروفة.{END}
+@gJiminyCharacterRikuLine12
+{END}
+@gJiminyCharacterRikuLine13
+ {END}
+@gJiminyCharacterRikuLine14
+يسافر سورا أملاً{END}
+@gJiminyCharacterRikuLine15
+في{END}
+@gJiminyCharacterSimbaLine0
+العثور{END}
+@gJiminyCharacterSimbaLine1
+على ريكو.{END}
+@gJiminyCharacterSimbaLine2
+{END}
+@gJiminyCharacterSimbaLine3
+ {END}
+@gJiminyCharacterSimbaLine4
+يكفي أن ينادي سورا وسيظهر{END}
+@gJiminyCharacterSimbaLine5
+سمبا ويمنحه قوته.{END}
+@gJiminyCharacterSimbaLine6
+{END}
+@gJiminyCharacterDumboLine0
+فيل صغير ولد في سيرك.{END}
+@gJiminyCharacterDumboLine1
+{END}
+@gJiminyCharacterDumboLine2
+ {END}
+@gJiminyCharacterDumboLine3
+سخرت الحيوانات الأخرى{END}
+@gJiminyCharacterDumboLine4
+من أذنيه الكبيرتين، لكن{END}
+@gJiminyCharacterDumboLine5
+شجاعته للطيران جعلت دامبو{END}
+@gJiminyCharacterDumboLine6
+نجم السيرك.{END}
+@gJiminyCharacterDumboLine7
+{END}
+@gJiminyCharacterDumboLine8
+ {END}
+@gJiminyCharacterDumboLine9
+إذا نادى{END}
+@gJiminyCharacterDumboLine10
+سورا،{END}
+@gJiminyCharacterBambiLine0
+سيأتي{END}
+@gJiminyCharacterBambiLine1
+دامبو للإنقاذ.{END}
+@gJiminyCharacterBambiLine2
+{END}
+@gJiminyCharacterBambiLine3
+ {END}
+@gJiminyCharacterBambiLine4
+يمكن لسورا{END}
+@gJiminyCharacterBambiLine5
+الاستعانة{END}
+@gJiminyCharacterMushuLine0
+ببامبي{END}
+@gJiminyCharacterMushuLine1
+للمساعدة{END}
+@gJiminyCharacterMushuLine2
+في{END}
+@gJiminyCharacterMushuLine3
+أي وقت.{END}
+@gJiminyCharacterMushuLine4
+{END}
+@gJiminyCharacterMushuLine5
+ {END}
+@gJiminyCharacterMushuLine6
+إذا نادى{END}
+@gJiminyCharacterMushuLine7
+سورا،{END}
+@gJiminyCharacterMooglesLine0
+سيأتي{END}
+@gJiminyCharacterMooglesLine1
+موشو لمساعدتنا.{END}
+@gJiminyCharacterMooglesLine2
+{END}
+@gJiminyCharacterMooglesLine3
+ {END}
+@gJiminyCharacterMooglesLine4
+في قلعة النسيان، يدير{END}
+@gJiminyCharacterMooglesLine5
+الموغلي متاجر حيث{END}
+@gJiminyCharacterMooglesLine6
+يستطيع{END}
+@gJiminyCharacterMooglesLine7
+سورا{END}
+@gJiminyCharacterLeonLine0
+استبدال{END}
+@gJiminyCharacterLeonLine1
+البطاقات{END}
+@gJiminyCharacterLeonLine2
+غير المرغوبة.{END}
+@gJiminyCharacterLeonLine3
+{END}
+@gJiminyCharacterLeonLine4
+ {END}
+@gJiminyCharacterLeonLine5
+حارب ليون مع سورا ضد{END}
+@gJiminyCharacterLeonLine6
+فاقدي القلوب، لكن{END}
+@gJiminyCharacterLeonLine7
+ليون الذي التقينا به{END}
+@gJiminyCharacterLeonLine8
+في قلعة النسيان هو نتاج{END}
+@gJiminyCharacterLeonLine9
+ذاكرة{END}
+@gJiminyCharacterLeonLine10
+سورا،{END}
+@gJiminyCharacterLeonLine11
+لذلك{END}
+@gJiminyCharacterLeonLine12
+لا{END}
+@gJiminyCharacterYuffieLine0
+يتذكر{END}
+@gJiminyCharacterYuffieLine1
+الكثير{END}
+@gJiminyCharacterYuffieLine2
+مما{END}
+@gJiminyCharacterYuffieLine3
+حدث{END}
+@gJiminyCharacterYuffieLine4
+من قبل.{END}
+@gJiminyCharacterYuffieLine5
+{END}
+@gJiminyCharacterYuffieLine6
+ {END}
+@gJiminyCharacterYuffieLine7
+ليست من تهتم بالأمور{END}
+@gJiminyCharacterYuffieLine8
+الصغيرة، تبدو{END}
+@gJiminyCharacterYuffieLine9
+يوفي{END}
+@gJiminyCharacterYuffieLine10
+غير{END}
+@gJiminyCharacterAerithLine0
+منزعجة{END}
+@gJiminyCharacterAerithLine1
+من{END}
+@gJiminyCharacterAerithLine2
+ذاكرتها المشوشة.{END}
+@gJiminyCharacterAerithLine3
+{END}
+@gJiminyCharacterAerithLine4
+ {END}
+@gJiminyCharacterAerithLine5
+لدى إيريس أيضاً إحساس{END}
+@gJiminyCharacterAerithLine6
+غامض بالحقيقة، وتعرف أن{END}
+@gJiminyCharacterAerithLine7
+بلدة العبور{END}
+@gJiminyCharacterAerithLine8
+وسكانها{END}
+@gJiminyCharacterAerithLine9
+نسج{END}
+@gJiminyCharacterAerithLine10
+من{END}
+@gJiminyCharacterAerithLine11
+ذاكرة سورا.{END}
+@gJiminyCharacterCidLine0
+{END}
+@gJiminyCharacterCidLine1
+saved Leon and the{END}
+@gJiminyCharacterCidLine2
+others from the{END}
+@gJiminyCharacterCidLine3
+Heartless when they{END}
+@gJiminyCharacterCidLine4
+were just children.{END}
+@gJiminyCharacterCidLine5
+ {END}
+@gJiminyCharacterCidLine6
+يعيش{END}
+@gJiminyCharacterCidLine7
+سيد{END}
+@gJiminyCharacterCloudLine0
+في{END}
+@gJiminyCharacterCloudLine1
+بلدة{END}
+@gJiminyCharacterCloudLine2
+العبور{END}
+@gJiminyCharacterCloudLine3
+الآن.{END}
+@gJiminyCharacterCloudLine4
+{END}
+@gJiminyCharacterCloudLine5
+ {END}
+@gJiminyCharacterCloudLine6
+هل كانت ذكريات{END}
+@gJiminyCharacterCloudLine7
+شخص{END}
+@gJiminyCharacterCloudLine8
+عزيز{END}
+@gJiminyCharacterCloudLine9
+عليه،{END}
+@gJiminyCharacterNamineLine0
+أم{END}
+@gJiminyCharacterNamineLine1
+ذكريات{END}
+@gJiminyCharacterNamineLine2
+ماضيه الضبابي؟{END}
+@gJiminyCharacterNamineLine3
+{END}
+@gJiminyCharacterNamineLine4
+ {END}
+@gJiminyCharacterNamineLine5
+لأن ناميني بنت الذكريات{END}
+@gJiminyCharacterNamineLine6
+الزائفة على مشاعر سورا{END}
+@gJiminyCharacterNamineLine7
+تجاه كايري، اعتقد سورا أنه{END}
+@gJiminyCharacterNamineLine8
+وناميني صديقان{END}
+@gJiminyCharacterNamineLine9
+منذ الطفولة.{END}
+@gJiminyCharacterNamineLine10
+{END}
+@gJiminyCharacterNamineLine11
+ {END}
+@gJiminyCharacterNamineLine12
+لكن الحقيقة، لم{END}
+@gJiminyCharacterNamineLine13
+يلتقيا{END}
+@gJiminyCharacterNamineLine14
+قط{END}
+@gJiminyCharacterRikuReplicaLine0
+قبل{END}
+@gJiminyCharacterRikuReplicaLine1
+قلعة النسيان.{END}
+@gJiminyCharacterRikuReplicaLine2
+{END}
+@gJiminyCharacterRikuReplicaLine3
+ {END}
+@gJiminyCharacterRikuReplicaLine4
+عبر قوة ناميني، حُقن{END}
+@gJiminyCharacterRikuReplicaLine5
+بذكريات زائفة وحُمل على{END}
+@gJiminyCharacterRikuReplicaLine6
+الاعتقاد بأنه{END}
+@gJiminyCharacterRikuReplicaLine7
+ريكو الحقيقي.{END}
+@gJiminyCharacterRikuReplicaLine8
+{END}
+@gJiminyCharacterRikuReplicaLine9
+ {END}
+@gJiminyCharacterRikuReplicaLine10
+الحقيقة{END}
+@gJiminyCharacterRikuReplicaLine11
+أوجعته{END}
+@gJiminyCharacterAxelLine0
+بعمق.{END}
+@gJiminyCharacterAxelLine1
+{END}
+@gJiminyCharacterAxelLine2
+{END}
+@gJiminyCharacterAxelLine3
+ {END}
+@gJiminyCharacterAxelLine4
+يصعب قراءته، نصف الوقت{END}
+@gJiminyCharacterAxelLine5
+يبدو أكسل وكأنه يعبث فقط...{END}
+@gJiminyCharacterAxelLine6
+لكن ربما{END}
+@gJiminyCharacterAxelLine7
+يكون{END}
+@gJiminyCharacterAxelLine8
+قد{END}
+@gJiminyCharacterAxelLine9
+فكر{END}
+@gJiminyCharacterAxelLine10
+أكثر{END}
+@gJiminyCharacterVexenLine0
+من{END}
+@gJiminyCharacterVexenLine1
+الجميع مجتمعين.{END}
+@gJiminyCharacterVexenLine2
+{END}
+@gJiminyCharacterVexenLine3
+ {END}
+@gJiminyCharacterVexenLine4
+حاول{END}
+@gJiminyCharacterVexenLine5
+فاكسين{END}
+@gJiminyCharacterVexenLine6
+تدمير{END}
+@gJiminyCharacterVexenLine7
+سورا{END}
+@gJiminyCharacterVexenLine8
+بالتحكم{END}
+@gJiminyCharacterVexenLine9
+بريكو{END}
+@gJiminyCharacterVexenLine10
+وتحريض{END}
+@gJiminyCharacterMarluxiaLine0
+الاثنين{END}
+@gJiminyCharacterMarluxiaLine1
+ضد بعضهما.{END}
+@gJiminyCharacterMarluxiaLine2
+{END}
+@gJiminyCharacterMarluxiaLine3
+ {END}
+@gJiminyCharacterMarluxiaLine4
+في محاولة لوضع المجموعة{END}
+@gJiminyCharacterMarluxiaLine5
+تحت سيطرته، استخدم مارلوكسيا{END}
+@gJiminyCharacterMarluxiaLine6
+ناميني للسيطرة على ذاكرة{END}
+@gJiminyCharacterMarluxiaLine7
+سورا{END}
+@gJiminyCharacterMarluxiaLine8
+ومحاولة{END}
+@gJiminyCharacterMarluxiaLine9
+الاستيلاء{END}
+@gJiminyCharacterAladdinLine0
+على{END}
+@gJiminyCharacterAladdinLine1
+قوة{END}
+@gJiminyCharacterAladdinLine2
+مفتاح القلب.{END}
+@gJiminyCharacterAladdinLine3
+{END}
+@gJiminyCharacterAladdinLine4
+ {END}
+@gJiminyCharacterAladdinLine5
+أصبح علاء الدين سيد الجني{END}
+@gJiminyCharacterAladdinLine6
+عندما وجد المصباح{END}
+@gJiminyCharacterAladdinLine7
+السحري.{END}
+@gJiminyCharacterAladdinLine8
+ {END}
+@gJiminyCharacterAladdinLine9
+في البداية أراد علاء الدين{END}
+@gJiminyCharacterAladdinLine10
+أن يصبح أميراً ويبهر{END}
+@gJiminyCharacterAladdinLine11
+ياسمين، لكن في النهاية منح{END}
+@gJiminyCharacterAladdinLine12
+الجني حريته{END}
+@gJiminyCharacterAladdinLine13
+وقرر{END}
+@gJiminyCharacterAladdinLine14
+أن{END}
+@gJiminyCharacterAladdinLine15
+يُظهر{END}
+@gJiminyCharacterGenieLine0
+لياسمين حقيقته.{END}
+@gJiminyCharacterGenieLine1
+{END}
+@gJiminyCharacterGenieLine2
+ {END}
+@gJiminyCharacterGenieLine3
+على الجني أن يمنح حامل{END}
+@gJiminyCharacterGenieLine4
+المصباح ثلاث أمنيات.{END}
+@gJiminyCharacterGenieLine5
+{END}
+@gJiminyCharacterGenieLine6
+ {END}
+@gJiminyCharacterGenieLine7
+يتوق إلى الحرية، لكن لا{END}
+@gJiminyCharacterGenieLine8
+يمكنه الحصول عليها إلا إذا{END}
+@gJiminyCharacterGenieLine9
+استخدم شخص ما{END}
+@gJiminyCharacterGenieLine10
+أمنية لتحريره.{END}
+@gJiminyCharacterJasmineLine0
+{END}
+@gJiminyCharacterJasmineLine1
+ {END}
+@gJiminyCharacterJasmineLine2
+تشعر ياسمين بالاختناق في{END}
+@gJiminyCharacterJasmineLine3
+القصر، وتتوق{END}
+@gJiminyCharacterJasmineLine4
+إلى{END}
+@gJiminyCharacterJasmineLine5
+الحرية{END}
+@gJiminyCharacterIagoLine0
+خارج أسواره.{END}
+@gJiminyCharacterIagoLine1
+{END}
+@gJiminyCharacterIagoLine2
+ {END}
+@gJiminyCharacterIagoLine3
+يطير ياغو في أگراباه،{END}
+@gJiminyCharacterIagoLine4
+ويعمل{END}
+@gJiminyCharacterIagoLine5
+كعين{END}
+@gJiminyCharacterIagoLine6
+وأذن{END}
+@gJiminyCharacterJafarLine0
+لجعفر الشرير.{END}
+@gJiminyCharacterJafarLine1
+{END}
+@gJiminyCharacterJafarLine2
+ {END}
+@gJiminyCharacterJafarLine3
+سرق جعفر المصباح السحري{END}
+@gJiminyCharacterJafarLine4
+من علاء الدين، وبقوة{END}
+@gJiminyCharacterJafarLine5
+الجني، خطط{END}
+@gJiminyCharacterJafarLine6
+ليصبح{END}
+@gJiminyCharacterJafarLine7
+حاكم أگراباه.{END}
+@gJiminyCharacterJafarGenieLine0
+{END}
+@gJiminyCharacterJafarGenieLine1
+ {END}
+@gJiminyCharacterJafarGenieLine2
+بعد أخذ المصباح السحري من{END}
+@gJiminyCharacterJafarGenieLine3
+علاء الدين، تمنى جعفر{END}
+@gJiminyCharacterJafarGenieLine4
+قوى{END}
+@gJiminyCharacterJafarGenieLine5
+الجني{END}
+@gJiminyCharacterJafarGenieLine6
+وحاول{END}
+@gJiminyCharacterJackLine0
+القضاء علينا.{END}
+@gJiminyCharacterJackLine1
+{END}
+@gJiminyCharacterJackLine2
+ {END}
+@gJiminyCharacterJackLine3
+يبحث جاك دائماً عن طرق{END}
+@gJiminyCharacterJackLine4
+جديدة لجلب{END}
+@gJiminyCharacterJackLine5
+الرعب{END}
+@gJiminyCharacterJackLine6
+والقشعريرة{END}
+@gJiminyCharacterSallyLine0
+إلى الجميع.{END}
+@gJiminyCharacterSallyLine1
+{END}
+@gJiminyCharacterSallyLine2
+her from various odds{END}
+@gJiminyCharacterSallyLine3
+and ends.{END}
+@gJiminyCharacterSallyLine4
+ {END}
+@gJiminyCharacterSallyLine5
+سالي{END}
+@gJiminyCharacterSallyLine6
+تحب{END}
+@gJiminyCharacterDrFinkelsteinLine0
+جاك{END}
+@gJiminyCharacterDrFinkelsteinLine1
+سراً.{END}
+@gJiminyCharacterDrFinkelsteinLine2
+{END}
+@gJiminyCharacterDrFinkelsteinLine3
+{END}
+@gJiminyCharacterDrFinkelsteinLine4
+ {END}
+@gJiminyCharacterDrFinkelsteinLine5
+هذه المرة، صنع الدكتور{END}
+@gJiminyCharacterDrFinkelsteinLine6
+فينكلشتاين جرعة لاستعادة{END}
+@gJiminyCharacterDrFinkelsteinLine7
+الذكريات الحقيقية،{END}
+@gJiminyCharacterDrFinkelsteinLine8
+لكن{END}
+@gJiminyCharacterDrFinkelsteinLine9
+أوجي{END}
+@gJiminyCharacterOogieBoogieLine0
+بوجي شربها.{END}
+@gJiminyCharacterOogieBoogieLine1
+{END}
+@gJiminyCharacterOogieBoogieLine2
+ {END}
+@gJiminyCharacterOogieBoogieLine3
+سرق أوجي بوجي جرعة{END}
+@gJiminyCharacterOogieBoogieLine4
+الدكتور فينكلشتاين ظناً أنها{END}
+@gJiminyCharacterOogieBoogieLine5
+ستجعله أقوى، لكنها دفعته{END}
+@gJiminyCharacterOogieBoogieLine6
+إلى{END}
+@gJiminyCharacterOogieBoogieLine7
+الجنون{END}
+@gJiminyCharacterOogieBoogieLine8
+بالخوف{END}
+@gJiminyCharacterPinocchioLine0
+بدلاً{END}
+@gJiminyCharacterPinocchioLine1
+من ذلك.{END}
+@gJiminyCharacterPinocchioLine2
+{END}
+@gJiminyCharacterPinocchioLine3
+ {END}
+@gJiminyCharacterPinocchioLine4
+ليصبح ولداً حقيقياً، على{END}
+@gJiminyCharacterPinocchioLine5
+بينوكيو أن يتعلم الشجاعة{END}
+@gJiminyCharacterPinocchioLine6
+واللطف والصدق.{END}
+@gJiminyCharacterPinocchioLine7
+{END}
+@gJiminyCharacterPinocchioLine8
+ {END}
+@gJiminyCharacterPinocchioLine9
+ابتلعته هو{END}
+@gJiminyCharacterPinocchioLine10
+وجيبيتو{END}
+@gJiminyCharacterPinocchioLine11
+مونسترو،{END}
+@gJiminyCharacterPinocchioLine12
+لكنهم{END}
+@gJiminyCharacterGeppettoLine0
+هربوا{END}
+@gJiminyCharacterGeppettoLine1
+بمساعدة{END}
+@gJiminyCharacterGeppettoLine2
+بسيطة منا.{END}
+@gJiminyCharacterGeppettoLine3
+{END}
+@gJiminyCharacterGeppettoLine4
+ {END}
+@gJiminyCharacterGeppettoLine5
+ابتلع مونسترو جيبيتو،{END}
+@gJiminyCharacterGeppettoLine6
+والقارب وكل شيء، بينما{END}
+@gJiminyCharacterGeppettoLine7
+كان يبحث عن بينوكيو.{END}
+@gJiminyCharacterGeppettoLine8
+{END}
+@gJiminyCharacterGeppettoLine9
+ {END}
+@gJiminyCharacterGeppettoLine10
+التقيا{END}
+@gJiminyCharacterGeppettoLine11
+داخل{END}
+@gJiminyCharacterGeppettoLine12
+الحوت{END}
+@gJiminyCharacterGeppettoLine13
+العملاق،{END}
+@gJiminyCharacterHerculesLine0
+وهربا{END}
+@gJiminyCharacterHerculesLine1
+بمساعدتنا.{END}
+@gJiminyCharacterHerculesLine2
+{END}
+@gJiminyCharacterHerculesLine3
+ {END}
+@gJiminyCharacterHerculesLine4
+بقوة الآلهة وقلب لطيف،{END}
+@gJiminyCharacterHerculesLine5
+هرقل بطل حقيقي.{END}
+@gJiminyCharacterHerculesLine6
+{END}
+@gJiminyCharacterHerculesLine7
+ {END}
+@gJiminyCharacterHerculesLine8
+لم يخسر{END}
+@gJiminyCharacterHerculesLine9
+قط{END}
+@gJiminyCharacterPhiloctetesLine0
+في{END}
+@gJiminyCharacterPhiloctetesLine1
+مباريات الكولوسيوم.{END}
+@gJiminyCharacterPhiloctetesLine2
+{END}
+@gJiminyCharacterPhiloctetesLine3
+ {END}
+@gJiminyCharacterPhiloctetesLine4
+في هذه الأيام، يدير{END}
+@gJiminyCharacterPhiloctetesLine5
+فيل{END}
+@gJiminyCharacterPhiloctetesLine6
+الكولوسيوم{END}
+@gJiminyCharacterHadesLine0
+وينظم المباريات.{END}
+@gJiminyCharacterHadesLine1
+{END}
+@gJiminyCharacterHadesLine2
+ {END}
+@gJiminyCharacterHadesLine3
+هادس لا يطيق هرقل.{END}
+@gJiminyCharacterHadesLine4
+خدع كلاود لتحدي{END}
+@gJiminyCharacterHadesLine5
+هرقل{END}
+@gJiminyCharacterHadesLine6
+حتى{END}
+@gJiminyCharacterHadesLine7
+الموت،{END}
+@gJiminyCharacterHadesLine8
+لكننا{END}
+@gJiminyCharacterAliceLine0
+وضعنا{END}
+@gJiminyCharacterAliceLine1
+حداً لتآمره.{END}
+@gJiminyCharacterAliceLine2
+{END}
+@gJiminyCharacterAliceLine3
+ {END}
+@gJiminyCharacterAliceLine4
+اتهمت أليس زوراً{END}
+@gJiminyCharacterAliceLine5
+بسرقة ذاكرة ملكة{END}
+@gJiminyCharacterAliceLine6
+القلوب{END}
+@gJiminyCharacterAliceLine7
+وحوكمت،{END}
+@gJiminyCharacterAliceLine8
+لكننا{END}
+@gJiminyCharacterAliceLine9
+تدخلنا{END}
+@gJiminyCharacterAliceLine10
+وساعدناها{END}
+@gJiminyCharacterQueenOfHeartsLine0
+في{END}
+@gJiminyCharacterQueenOfHeartsLine1
+تبرئة اسمها.{END}
+@gJiminyCharacterQueenOfHeartsLine2
+{END}
+@gJiminyCharacterQueenOfHeartsLine3
+ {END}
+@gJiminyCharacterQueenOfHeartsLine4
+سرق فاقد قلب ذاكرة{END}
+@gJiminyCharacterQueenOfHeartsLine5
+الملكة،{END}
+@gJiminyCharacterQueenOfHeartsLine6
+لكنها{END}
+@gJiminyCharacterQueenOfHeartsLine7
+اتهمت{END}
+@gJiminyCharacterWhiteRabbitLine0
+أليس وحاكمتها.{END}
+@gJiminyCharacterWhiteRabbitLine1
+{END}
+@gJiminyCharacterWhiteRabbitLine2
+ {END}
+@gJiminyCharacterWhiteRabbitLine3
+ينفذ{END}
+@gJiminyCharacterWhiteRabbitLine4
+دائماً{END}
+@gJiminyCharacterWhiteRabbitLine5
+أوامر{END}
+@gJiminyCharacterWhiteRabbitLine6
+الملكة،{END}
+@gJiminyCharacterCardOfHeartsLine0
+مهما كانت.{END}
+@gJiminyCharacterCardOfHeartsLine1
+{END}
+@gJiminyCharacterCardOfHeartsLine2
+ {END}
+@gJiminyCharacterCardOfHeartsLine3
+يخافون غضبها وسيفعلون{END}
+@gJiminyCharacterCardOfHeartsLine4
+أي{END}
+@gJiminyCharacterCardOfHeartsLine5
+شيء{END}
+@gJiminyCharacterCardOfSpadesLine0
+تأمرهم به.{END}
+@gJiminyCharacterCardOfSpadesLine1
+{END}
+@gJiminyCharacterCardOfSpadesLine2
+ {END}
+@gJiminyCharacterCardOfSpadesLine3
+يخافون غضبها{END}
+@gJiminyCharacterCardOfSpadesLine4
+وسيفعلون{END}
+@gJiminyCharacterCardOfSpadesLine5
+أي{END}
+@gJiminyCharacterCheshireCatLine0
+شيء{END}
+@gJiminyCharacterCheshireCatLine1
+تأمرهم به.{END}
+@gJiminyCharacterCheshireCatLine2
+{END}
+@gJiminyCharacterCheshireCatLine3
+ {END}
+@gJiminyCharacterCheshireCatLine4
+يظهر عندما{END}
+@gJiminyCharacterCheshireCatLine5
+لا{END}
+@gJiminyCharacterCheshireCatLine6
+تتوقعه،{END}
+@gJiminyCharacterCheshireCatLine7
+ويختفي{END}
+@gJiminyCharacterSebastianLine0
+متى شاء.{END}
+@gJiminyCharacterSebastianLine1
+{END}
+@gJiminyCharacterSebastianLine2
+ {END}
+@gJiminyCharacterSebastianLine3
+سيباستيان يوبخ آريل دائماً{END}
+@gJiminyCharacterSebastianLine4
+على مغامراتها، لكن فقط{END}
+@gJiminyCharacterSebastianLine5
+لأنه{END}
+@gJiminyCharacterSebastianLine6
+قلق{END}
+@gJiminyCharacterSebastianLine7
+على سلامتها.{END}
+@gJiminyCharacterFlounderLine0
+{END}
+@gJiminyCharacterFlounderLine1
+ {END}
+@gJiminyCharacterFlounderLine2
+ليس شجاعاً تماماً، لكن{END}
+@gJiminyCharacterFlounderLine3
+فلاوندر أكثر أصدقاء آريل{END}
+@gJiminyCharacterFlounderLine4
+إخلاصاً.{END}
+@gJiminyCharacterFlounderLine5
+ {END}
+@gJiminyCharacterFlounderLine6
+اختطفت أورسولا{END}
+@gJiminyCharacterFlounderLine7
+فلاوندر كجزء من خطتها.{END}
+@gJiminyCharacterFlounderLine8
+{END}
+@gJiminyCharacterFlounderLine9
+لسرقة{END}
+@gJiminyCharacterUrsulaLine0
+الرمح{END}
+@gJiminyCharacterUrsulaLine1
+الثلاثي.{END}
+@gJiminyCharacterUrsulaLine2
+{END}
+@gJiminyCharacterUrsulaLine3
+{END}
+@gJiminyCharacterUrsulaLine4
+ {END}
+@gJiminyCharacterUrsulaLine5
+خدعت أورسولا وسرقت الرمح{END}
+@gJiminyCharacterUrsulaLine6
+الثلاثي{END}
+@gJiminyCharacterUrsulaLine7
+في{END}
+@gJiminyCharacterUrsulaLine8
+محاولة{END}
+@gJiminyCharacterPeterPanLine0
+لحكم{END}
+@gJiminyCharacterPeterPanLine1
+أتلانتيا كلها.{END}
+@gJiminyCharacterPeterPanLine2
+{END}
+@gJiminyCharacterPeterPanLine3
+ {END}
+@gJiminyCharacterPeterPanLine4
+بيتر يمكن أن يكون عنيداً،{END}
+@gJiminyCharacterPeterPanLine5
+لكنه في العمق شجاع{END}
+@gJiminyCharacterPeterPanLine6
+وعادل.{END}
+@gJiminyCharacterPeterPanLine7
+ {END}
+@gJiminyCharacterPeterPanLine8
+كان منزعجاً لأن{END}
+@gJiminyCharacterPeterPanLine9
+ويندي{END}
+@gJiminyCharacterPeterPanLine10
+أرادت{END}
+@gJiminyCharacterPeterPanLine11
+العودة{END}
+@gJiminyCharacterPeterPanLine12
+إلى{END}
+@gJiminyCharacterTinkerBellLine0
+لندن،{END}
+@gJiminyCharacterTinkerBellLine1
+لكنه{END}
+@gJiminyCharacterTinkerBellLine2
+في{END}
+@gJiminyCharacterTinkerBellLine3
+النهاية{END}
+@gJiminyCharacterWendyLine0
+تمنى{END}
+@gJiminyCharacterWendyLine1
+لها الخير.{END}
+@gJiminyCharacterWendyLine2
+{END}
+@gJiminyCharacterWendyLine3
+ {END}
+@gJiminyCharacterWendyLine4
+ويندي تحب بيتر حقاً،{END}
+@gJiminyCharacterWendyLine5
+لكنها{END}
+@gJiminyCharacterWendyLine6
+قررت{END}
+@gJiminyCharacterHookLine0
+العودة{END}
+@gJiminyCharacterHookLine1
+إلى لندن.{END}
+@gJiminyCharacterHookLine2
+{END}
+@gJiminyCharacterHookLine3
+ {END}
+@gJiminyCharacterHookLine4
+اختطف هوك ويندي لاستدراج{END}
+@gJiminyCharacterHookLine5
+بيتر.{END}
+@gJiminyCharacterHookLine6
+ {END}
+@gJiminyCharacterHookLine7
+عادة فخور، ينهار هوك{END}
+@gJiminyCharacterHookLine8
+في{END}
+@gJiminyCharacterHookLine9
+اللحظة{END}
+@gJiminyCharacterHookLine10
+التي{END}
+@gJiminyCharacterHookLine11
+يظهر{END}
+@gJiminyCharacterBeastLine0
+فيها{END}
+@gJiminyCharacterBeastLine1
+التمساح{END}
+@gJiminyCharacterBeastLine2
+الذي{END}
+@gJiminyCharacterBeastLine3
+أخذ يده.{END}
+@gJiminyCharacterBeastLine4
+{END}
+@gJiminyCharacterBeastLine5
+ {END}
+@gJiminyCharacterBeastLine6
+رغم صدمته{END}
+@gJiminyCharacterBeastLine7
+ببرودة{END}
+@gJiminyCharacterBeastLine8
+بيل،{END}
+@gJiminyCharacterBeastLine9
+لم{END}
+@gJiminyCharacterBelleLine0
+يتزعزع{END}
+@gJiminyCharacterBelleLine1
+إيمانه{END}
+@gJiminyCharacterBelleLine2
+بحبهما أبداً.{END}
+@gJiminyCharacterBelleLine3
+{END}
+@gJiminyCharacterBelleLine4
+ {END}
+@gJiminyCharacterBelleLine5
+أدركت بيل أن ماليفيسنت{END}
+@gJiminyCharacterBelleLine6
+تسعى وراء قلبها، فتصرفت{END}
+@gJiminyCharacterBelleLine7
+ببرود تجاه{END}
+@gJiminyCharacterBelleLine8
+الوحش{END}
+@gJiminyCharacterBelleLine9
+لتحمي{END}
+@gJiminyCharacterBelleLine10
+قلبها{END}
+@gJiminyCharacterMaleficentLine0
+من{END}
+@gJiminyCharacterMaleficentLine1
+براثن الساحرة.{END}
+@gJiminyCharacterMaleficentLine2
+{END}
+@gJiminyCharacterMaleficentLine3
+her Heartless once{END}
+@gJiminyCharacterMaleficentLine4
+before.{END}
+@gJiminyCharacterMaleficentLine5
+ {END}
+@gJiminyCharacterMaleficentLine6
+سرقت قلب بيل لتكمل قواها{END}
+@gJiminyCharacterMaleficentLine7
+السوداء، رغم أن{END}
+@gJiminyCharacterMaleficentLine8
+بيل{END}
+@gJiminyCharacterMaleficentLine9
+كانت{END}
+@gJiminyCharacterMaleficentLine10
+قد{END}
+@gJiminyCharacterDragonMaleficentLine0
+كشفت خطتها.{END}
+@gJiminyCharacterDragonMaleficentLine1
+{END}
+@gJiminyCharacterDragonMaleficentLine2
+ {END}
+@gJiminyCharacterDragonMaleficentLine3
+سحرها الخاص الممتزج{END}
+@gJiminyCharacterDragonMaleficentLine4
+بقوى الظلام الهائلة{END}
+@gJiminyCharacterDragonMaleficentLine5
+جعل{END}
+@gJiminyCharacterDragonMaleficentLine6
+ماليفيسنت{END}
+@gJiminyCharacterDragonMaleficentLine7
+خصماً مخيفاً.{END}
+@gJiminyCharacterPigletLine0
+{END}
+@gJiminyCharacterPigletLine1
+ {END}
+@gJiminyCharacterPigletLine2
+بيغليت خجول جداً، وعندما{END}
+@gJiminyCharacterPigletLine3
+يتفاجأ{END}
+@gJiminyCharacterPigletLine4
+يغطي{END}
+@gJiminyCharacterPigletLine5
+عينيه{END}
+@gJiminyCharacterOwlLine0
+بأذنيه المرنتين.{END}
+@gJiminyCharacterOwlLine1
+{END}
+@gJiminyCharacterOwlLine2
+ {END}
+@gJiminyCharacterOwlLine3
+أحياناً يتحدث{END}
+@gJiminyCharacterOwlLine4
+كثيراً{END}
+@gJiminyCharacterOwlLine5
+حتى{END}
+@gJiminyCharacterRooLine0
+ينام أصدقاؤه.{END}
+@gJiminyCharacterRooLine1
+{END}
+@gJiminyCharacterRooLine2
+ {END}
+@gJiminyCharacterRooLine3
+رو الصغير يريد أن{END}
+@gJiminyCharacterRooLine4
+يتعلم{END}
+@gJiminyCharacterRooLine5
+القفز{END}
+@gJiminyCharacterEeyoreLine0
+عالياً{END}
+@gJiminyCharacterEeyoreLine1
+مثل تيغر.{END}
+@gJiminyCharacterEeyoreLine2
+{END}
+@gJiminyCharacterEeyoreLine3
+ {END}
+@gJiminyCharacterEeyoreLine4
+إيور خجول ومكتئب{END}
+@gJiminyCharacterEeyoreLine5
+دائماً،{END}
+@gJiminyCharacterEeyoreLine6
+ويحب{END}
+@gJiminyCharacterEeyoreLine7
+أن{END}
+@gJiminyCharacterTiggerLine0
+يأخذ{END}
+@gJiminyCharacterTiggerLine1
+الأمور ببطء.{END}
+@gJiminyCharacterTiggerLine2
+{END}
+@gJiminyCharacterTiggerLine3
+ {END}
+@gJiminyCharacterTiggerLine4
+أحياناً تكون طاقته أكثر من{END}
+@gJiminyCharacterTiggerLine5
+اللازم بالنسبة{END}
+@gJiminyCharacterTiggerLine6
+للآخرين،{END}
+@gJiminyCharacterTiggerLine7
+لكنه{END}
+@gJiminyCharacterRabbitLine0
+دائماً{END}
+@gJiminyCharacterRabbitLine1
+حسن النية.{END}
+@gJiminyCharacterRabbitLine2
+{END}
+@gJiminyCharacterRabbitLine3
+ {END}
+@gJiminyCharacterRabbitLine4
+أحياناً يكون أرنب سريع{END}
+@gJiminyCharacterRabbitLine5
+الغضب، خاصة{END}
+@gJiminyCharacterRabbitLine6
+عندما{END}
+@gJiminyCharacterRabbitLine7
+يقفز{END}
+@gJiminyCharacterRabbitLine8
+تيغر{END}
+@gJiminyHeartlessGuardArmorLine0
+في حديقته.{END}
+@gJiminyHeartlessGuardArmorLine1
+{END}
+@gJiminyHeartlessGuardArmorLine2
+ {END}
+@gJiminyHeartlessGuardArmorLine3
+ظهر عندما دقت الأجراس{END}
+@gJiminyHeartlessGuardArmorLine4
+ليعيث{END}
+@gJiminyHeartlessGuardArmorLine5
+فساداً{END}
+@gJiminyHeartlessParasiteCageLine0
+في البلدة.{END}
+@gJiminyHeartlessParasiteCageLine1
+{END}
+@gJiminyHeartlessParasiteCageLine2
+ {END}
+@gJiminyHeartlessParasiteCageLine3
+قضيب الطفيلي شره جداً{END}
+@gJiminyHeartlessParasiteCageLine4
+ويأكل كل شيء في طريقه.{END}
+@gJiminyHeartlessParasiteCageLine5
+eats anything in its{END}
+@gJiminyHeartlessParasiteCageLine6
+path.  Pinocchio figured{END}
+@gJiminyHeartlessParasiteCageLine7
+out how to escape{END}
+@gJiminyHeartlessParasiteCageLine8
+Monstro after getting{END}
+@gJiminyHeartlessParasiteCageLine9
+gobbled up by it.{END}
+@gJiminyHeartlessTrickmasterLine0
+The Heartless in{END}
+@gJiminyHeartlessTrickmasterLine1
+Wonderland that stole{END}
+@gJiminyHeartlessTrickmasterLine2
+the Queen of Hearts’s{END}
+@gJiminyHeartlessTrickmasterLine3
+memory.{END}
+@gJiminyHeartlessTrickmasterLine4
+ {END}
+@gJiminyHeartlessTrickmasterLine5
+ضحايا سرقة الذاكرة لا{END}
+@gJiminyHeartlessTrickmasterLine6
+يتذكرون{END}
+@gJiminyHeartlessTrickmasterLine7
+حتى{END}
+@gJiminyHeartlessShadowLine0
+ما نسيوه.{END}
+@gJiminyHeartlessShadowLine1
+{END}
+@gJiminyHeartlessShadowLine2
+ {END}
+@gJiminyHeartlessShadowLine3
+الظل يتجول ويهاجم دون{END}
+@gJiminyHeartlessShadowLine4
+سابق إنذار.{END}
+@gJiminyHeartlessShadowLine5
+إنه{END}
+@gJiminyHeartlessShadowLine6
+محصن{END}
+@gJiminyHeartlessShadowLine7
+تماماً{END}
+@gJiminyHeartlessShadowLine8
+أثناء{END}
+@gJiminyHeartlessSoldierLine0
+اختبائه{END}
+@gJiminyHeartlessSoldierLine1
+في الظلام.{END}
+@gJiminyHeartlessSoldierLine2
+{END}
+@gJiminyHeartlessSoldierLine3
+ {END}
+@gJiminyHeartlessSoldierLine4
+طبيعته المتقلبة تجعل{END}
+@gJiminyHeartlessSoldierLine5
+الجندي خصماً{END}
+@gJiminyHeartlessSoldierLine6
+أقل إصراراً.{END}
+@gJiminyHeartlessLargeBodyLine0
+{END}
+@gJiminyHeartlessLargeBodyLine1
+ {END}
+@gJiminyHeartlessLargeBodyLine2
+الجسم الكبير يصد الهجمات{END}
+@gJiminyHeartlessLargeBodyLine3
+الأمامية ببطنه المترهلة.{END}
+@gJiminyHeartlessLargeBodyLine4
+{END}
+@gJiminyHeartlessLargeBodyLine5
+ {END}
+@gJiminyHeartlessLargeBodyLine6
+أحياناً يلقي{END}
+@gJiminyHeartlessLargeBodyLine7
+بثقله{END}
+@gJiminyHeartlessLargeBodyLine8
+ويهز{END}
+@gJiminyHeartlessLargeBodyLine9
+الأرض،{END}
+@gJiminyHeartlessRedNocturneLine0
+لذا{END}
+@gJiminyHeartlessRedNocturneLine1
+القفز{END}
+@gJiminyHeartlessRedNocturneLine2
+هو المفتاح.{END}
+@gJiminyHeartlessRedNocturneLine3
+{END}
+@gJiminyHeartlessRedNocturneLine4
+ {END}
+@gJiminyHeartlessRedNocturneLine5
+يهاجم السوناتة{END}
+@gJiminyHeartlessRedNocturneLine6
+الحمراء بالنار{END}
+@gJiminyHeartlessRedNocturneLine7
+من{END}
+@gJiminyHeartlessRedNocturneLine8
+بعيد،{END}
+@gJiminyHeartlessBlueRhapsodyLine0
+ويمتص{END}
+@gJiminyHeartlessBlueRhapsodyLine1
+ضرر النار.{END}
+@gJiminyHeartlessBlueRhapsodyLine2
+{END}
+@gJiminyHeartlessBlueRhapsodyLine3
+ {END}
+@gJiminyHeartlessBlueRhapsodyLine4
+يهاجم الرابسودي{END}
+@gJiminyHeartlessBlueRhapsodyLine5
+الأزرق بالجليد عندما{END}
+@gJiminyHeartlessBlueRhapsodyLine6
+يقترب{END}
+@gJiminyHeartlessBlueRhapsodyLine7
+بما{END}
+@gJiminyHeartlessBlueRhapsodyLine8
+يكفي،{END}
+@gJiminyHeartlessYellowOperaLine0
+ويمتص{END}
+@gJiminyHeartlessYellowOperaLine1
+ضرر الجليد.{END}
+@gJiminyHeartlessYellowOperaLine2
+{END}
+@gJiminyHeartlessYellowOperaLine3
+ {END}
+@gJiminyHeartlessYellowOperaLine4
+تقذف الأوبرا الصفراء نفسها{END}
+@gJiminyHeartlessYellowOperaLine5
+على الأعداء{END}
+@gJiminyHeartlessYellowOperaLine6
+أو{END}
+@gJiminyHeartlessYellowOperaLine7
+تهاجم{END}
+@gJiminyHeartlessYellowOperaLine8
+بالرعد.{END}
+@gJiminyHeartlessGreenRequiemLine0
+تمتص{END}
+@gJiminyHeartlessGreenRequiemLine1
+كل{END}
+@gJiminyHeartlessGreenRequiemLine2
+ضرر الرعد.{END}
+@gJiminyHeartlessGreenRequiemLine3
+{END}
+@gJiminyHeartlessGreenRequiemLine4
+يمكن أن يلقي علاجاً لشفاء{END}
+@gJiminyHeartlessGreenRequiemLine5
+{END}
+@gJiminyHeartlessGreenRequiemLine6
+ {END}
+@gJiminyHeartlessGreenRequiemLine7
+المгрим الأخضر بطيء،{END}
+@gJiminyHeartlessGreenRequiemLine8
+لكن{END}
+@gJiminyHeartlessGreenRequiemLine9
+مناعته{END}
+@gJiminyHeartlessGreenRequiemLine10
+لهجمات{END}
+@gJiminyHeartlessPowerwildLine0
+السحر تجعله{END}
+@gJiminyHeartlessPowerwildLine1
+{END}
+@gJiminyHeartlessPowerwildLine2
+ {END}
+@gJiminyHeartlessPowerwildLine3
+لديه غرائز تدميرية{END}
+@gJiminyHeartlessPowerwildLine4
+ويهاجم{END}
+@gJiminyHeartlessPowerwildLine5
+باللكمات{END}
+@gJiminyHeartlessPowerwildLine6
+والركلات المنزلقة.{END}
+@gJiminyHeartlessBouncywildLine0
+{END}
+@gJiminyHeartlessBouncywildLine1
+ {END}
+@gJiminyHeartlessBouncywildLine2
+يستفز{END}
+@gJiminyHeartlessBouncywildLine3
+أعداءه{END}
+@gJiminyHeartlessBouncywildLine4
+ويلقي{END}
+@gJiminyHeartlessBouncywildLine5
+قشور{END}
+@gJiminyHeartlessAirSoldierLine0
+الموز{END}
+@gJiminyHeartlessAirSoldierLine1
+من{END}
+@gJiminyHeartlessAirSoldierLine2
+بعيد.{END}
+@gJiminyHeartlessAirSoldierLine3
+{END}
+@gJiminyHeartlessAirSoldierLine4
+{END}
+@gJiminyHeartlessAirSoldierLine5
+{END}
+@gJiminyHeartlessAirSoldierLine6
+ {END}
+@gJiminyHeartlessAirSoldierLine7
+جندي الهواء سريع{END}
+@gJiminyHeartlessAirSoldierLine8
+ومرن،{END}
+@gJiminyHeartlessAirSoldierLine9
+وليس{END}
+@gJiminyHeartlessBanditLine0
+سهلاً إسقاطه.{END}
+@gJiminyHeartlessBanditLine1
+{END}
+@gJiminyHeartlessBanditLine2
+ {END}
+@gJiminyHeartlessBanditLine3
+قطاع الطريق يستخدم{END}
+@gJiminyHeartlessBanditLine4
+بمهارة السيف الذي يحمله،{END}
+@gJiminyHeartlessBanditLine5
+ويجب{END}
+@gJiminyHeartlessBanditLine6
+الاقتراب{END}
+@gJiminyHeartlessFatBanditLine0
+منه بحذر.{END}
+@gJiminyHeartlessFatBanditLine1
+{END}
+@gJiminyHeartlessFatBanditLine2
+ {END}
+@gJiminyHeartlessFatBanditLine3
+قطاع الطريق السمين يصد{END}
+@gJiminyHeartlessFatBanditLine4
+الهجمات{END}
+@gJiminyHeartlessFatBanditLine5
+الأمامية{END}
+@gJiminyHeartlessFatBanditLine6
+ببطنه{END}
+@gJiminyHeartlessBarrelSpiderLine0
+المترهلة{END}
+@gJiminyHeartlessBarrelSpiderLine1
+ويبصق{END}
+@gJiminyHeartlessBarrelSpiderLine2
+كرات النار.{END}
+@gJiminyHeartlessBarrelSpiderLine3
+{END}
+@gJiminyHeartlessBarrelSpiderLine4
+ {END}
+@gJiminyHeartlessBarrelSpiderLine5
+عنكبوت البرميل يهاجم أي{END}
+@gJiminyHeartlessBarrelSpiderLine6
+شخص يعتقد بحماقة{END}
+@gJiminyHeartlessBarrelSpiderLine7
+أنه{END}
+@gJiminyHeartlessBarrelSpiderLine8
+برميل عادي.{END}
+@gJiminyHeartlessSearchGhostLine0
+{END}
+@gJiminyHeartlessSearchGhostLine1
+ {END}
+@gJiminyHeartlessSearchGhostLine2
+شبح البحث يمكن أن ينتقل{END}
+@gJiminyHeartlessSearchGhostLine3
+آنياً لتجنب الأذى ويمتص{END}
+@gJiminyHeartlessSearchGhostLine4
+صحة{END}
+@gJiminyHeartlessSearchGhostLine5
+أعدائه،{END}
+@gJiminyHeartlessSearchGhostLine6
+مما{END}
+@gJiminyHeartlessScrewdiverLine0
+يجعله{END}
+@gJiminyHeartlessScrewdiverLine1
+خصماً صعباً.{END}
+@gJiminyHeartlessScrewdiverLine2
+{END}
+@gJiminyHeartlessScrewdiverLine3
+ {END}
+@gJiminyHeartlessScrewdiverLine4
+يهاجم برمح{END}
+@gJiminyHeartlessScrewdiverLine5
+أو{END}
+@gJiminyHeartlessAquatankLine0
+يندفع{END}
+@gJiminyHeartlessAquatankLine1
+نحو أعدائه.{END}
+@gJiminyHeartlessAquatankLine2
+{END}
+@gJiminyHeartlessAquatankLine3
+ {END}
+@gJiminyHeartlessAquatankLine4
+يهاجم دبابة الماء{END}
+@gJiminyHeartlessAquatankLine5
+بالرعد{END}
+@gJiminyHeartlessAquatankLine6
+أو{END}
+@gJiminyHeartlessAquatankLine7
+بلف{END}
+@gJiminyHeartlessWightKnightLine0
+جسده{END}
+@gJiminyHeartlessWightKnightLine1
+الضخم حوله.{END}
+@gJiminyHeartlessWightKnightLine2
+{END}
+@gJiminyHeartlessWightKnightLine3
+ {END}
+@gJiminyHeartlessWightKnightLine4
+أطراف الفارس الشبح{END}
+@gJiminyHeartlessWightKnightLine5
+الطويلة{END}
+@gJiminyHeartlessWightKnightLine6
+تجعل{END}
+@gJiminyHeartlessGargoyleLine0
+الاقتراب{END}
+@gJiminyHeartlessGargoyleLine1
+منه خطراً.{END}
+@gJiminyHeartlessGargoyleLine2
+{END}
+@gJiminyHeartlessGargoyleLine3
+ {END}
+@gJiminyHeartlessGargoyleLine4
+يقصف{END}
+@gJiminyHeartlessGargoyleLine5
+أعداءه{END}
+@gJiminyHeartlessGargoyleLine6
+المذهولين{END}
+@gJiminyHeartlessPirateLine0
+بكرات النار.{END}
+@gJiminyHeartlessPirateLine1
+{END}
+@gJiminyHeartlessPirateLine2
+ {END}
+@gJiminyHeartlessPirateLine3
+سياف ماهر،{END}
+@gJiminyHeartlessPirateLine4
+يستطيع{END}
+@gJiminyHeartlessPirateLine5
+القرصان{END}
+@gJiminyHeartlessPirateLine6
+أن{END}
+@gJiminyHeartlessPirateLine7
+يطرد{END}
+@gJiminyHeartlessPirateLine8
+أعداءه{END}
+@gJiminyHeartlessPirateLine9
+بارداً{END}
+@gJiminyHeartlessAirPirateLine0
+ثم{END}
+@gJiminyHeartlessAirPirateLine1
+يقضي عليهم{END}
+@gJiminyHeartlessAirPirateLine2
+{END}
+@gJiminyHeartlessAirPirateLine3
+ {END}
+@gJiminyHeartlessAirPirateLine4
+ليس{END}
+@gJiminyHeartlessAirPirateLine5
+مسلحاً،{END}
+@gJiminyHeartlessAirPirateLine6
+لكنه{END}
+@gJiminyHeartlessAirPirateLine7
+لا{END}
+@gJiminyHeartlessAirPirateLine8
+يحتاج{END}
+@gJiminyHeartlessDarkballLine0
+أن{END}
+@gJiminyHeartlessDarkballLine1
+يكون.{END}
+@gJiminyHeartlessDarkballLine2
+{END}
+@gJiminyHeartlessDarkballLine3
+ {END}
+@gJiminyHeartlessDarkballLine4
+كرة الظلام تتمايل{END}
+@gJiminyHeartlessDarkballLine5
+غالباً{END}
+@gJiminyHeartlessDarkballLine6
+في{END}
+@gJiminyHeartlessDarkballLine7
+الهواء،{END}
+@gJiminyHeartlessDarkballLine8
+لكن{END}
+@gJiminyHeartlessDefenderLine0
+نسجها{END}
+@gJiminyHeartlessDefenderLine1
+العشوائي وعضها{END}
+@gJiminyHeartlessDefenderLine2
+{END}
+@gJiminyHeartlessDefenderLine3
+ {END}
+@gJiminyHeartlessDefenderLine4
+درعه يصد الهجمات الجسدية{END}
+@gJiminyHeartlessDefenderLine5
+والسحرية وجهاً لوجه، ويمكن{END}
+@gJiminyHeartlessDefenderLine6
+أن يطلق كرات النار.{END}
+@gJiminyHeartlessDefenderLine7
+{END}
+@gJiminyHeartlessDefenderLine8
+ {END}
+@gJiminyHeartlessDefenderLine9
+المدافع أيضاً مستخدم{END}
+@gJiminyHeartlessDefenderLine10
+بطاقات ماهر،{END}
+@gJiminyHeartlessDefenderLine11
+ويكسر{END}
+@gJiminyHeartlessDefenderLine12
+بطاقات{END}
+@gJiminyHeartlessWyvernLine0
+الخصوم{END}
+@gJiminyHeartlessWyvernLine1
+غير المستعدين.{END}
+@gJiminyHeartlessWyvernLine2
+{END}
+@gJiminyHeartlessWyvernLine3
+ {END}
+@gJiminyHeartlessWyvernLine4
+الويفرن رشيق رغم حجمه.{END}
+@gJiminyHeartlessWyvernLine5
+عند{END}
+@gJiminyHeartlessWyvernLine6
+رؤية{END}
+@gJiminyHeartlessWyvernLine7
+فريسته،{END}
+@gJiminyHeartlessWyvernLine8
+يندفع{END}
+@gJiminyHeartlessWyvernLine9
+إلى الأمام{END}
+@gJiminyHeartlessWizardLine0
+{END}
+@gJiminyHeartlessWizardLine1
+in magic.{END}
+@gJiminyHeartlessWizardLine2
+ {END}
+@gJiminyHeartlessWizardLine3
+الساحر خصم هائل{END}
+@gJiminyHeartlessWizardLine4
+يهاجم{END}
+@gJiminyHeartlessWizardLine5
+بتعاويذ{END}
+@gJiminyHeartlessWizardLine6
+نار{END}
+@gJiminyHeartlessWizardLine7
+وجليد{END}
+@gJiminyHeartlessWhiteMushroomLine0
+ورعد{END}
+@gJiminyHeartlessWhiteMushroomLine1
+عالية المستوى.{END}
+@gJiminyHeartlessWhiteMushroomLine2
+{END}
+@gJiminyHeartlessWhiteMushroomLine3
+ {END}
+@gJiminyHeartlessWhiteMushroomLine4
+الفطر الأبيض لا{END}
+@gJiminyHeartlessWhiteMushroomLine5
+يهاجم{END}
+@gJiminyHeartlessWhiteMushroomLine6
+أبداً،{END}
+@gJiminyHeartlessWhiteMushroomLine7
+وقد{END}
+@gJiminyHeartlessBlackFungusLine0
+يكافئ{END}
+@gJiminyHeartlessBlackFungusLine1
+حتى{END}
+@gJiminyHeartlessBlackFungusLine2
+من يساعده.{END}
+@gJiminyHeartlessBlackFungusLine3
+{END}
+@gJiminyHeartlessBlackFungusLine4
+ {END}
+@gJiminyHeartlessBlackFungusLine5
+الفطر الأسود يحب أن يصيب{END}
+@gJiminyHeartlessBlackFungusLine6
+foes بالشلل ويلعب معهم.{END}
+@gJiminyHeartlessBlackFungusLine7
+{END}
+@gJiminyHeartlessBlackFungusLine8
+ {END}
+@gJiminyHeartlessBlackFungusLine9
+من الصعب التغلب عليه، لكن{END}
+@gJiminyHeartlessBlackFungusLine10
+النصر لا يخلو{END}
+@gJiminyHeartlessBlackFungusLine11
+من مكافأة...{END}
+@gJiminyHeartlessCreeperPlantLine0
+{END}
+@gJiminyHeartlessCreeperPlantLine1
+ {END}
+@gJiminyHeartlessCreeperPlantLine2
+إنه متجذر في مكان واحد، لكن{END}
+@gJiminyHeartlessCreeperPlantLine3
+البقاء بعيداً لا{END}
+@gJiminyHeartlessCreeperPlantLine4
+يكفي،{END}
+@gJiminyHeartlessCreeperPlantLine5
+لأنه{END}
+@gJiminyHeartlessCreeperPlantLine6
+يمكن{END}
+@gJiminyHeartlessCreeperPlantLine7
+أن{END}
+@gJiminyHeartlessTornadoStepLine0
+يبصق{END}
+@gJiminyHeartlessTornadoStepLine1
+البذور أو{END}
+@gJiminyHeartlessTornadoStepLine2
+{END}
+@gJiminyHeartlessTornadoStepLine3
+ {END}
+@gJiminyHeartlessTornadoStepLine4
+سواء كان{END}
+@gJiminyHeartlessTornadoStepLine5
+يتحرك{END}
+@gJiminyHeartlessTornadoStepLine6
+أو{END}
+@gJiminyHeartlessTornadoStepLine7
+يهاجم،{END}
+@gJiminyHeartlessTornadoStepLine8
+إنه{END}
+@gJiminyHeartlessCrescendoLine0
+يدور دائماً—{END}
+@gJiminyHeartlessCrescendoLine1
+{END}
+@gJiminyHeartlessCrescendoLine2
+ {END}
+@gJiminyHeartlessCrescendoLine3
+إنه{END}
+@gJiminyHeartlessCrescendoLine4
+خصم{END}
+@gJiminyHeartlessCrescendoLine5
+مزعج{END}
+@gJiminyRikuCharacterSoraLine0
+يمكن{END}
+@gJiminyRikuCharacterSoraLine1
+أن{END}
+@gJiminyRikuCharacterSoraLine2
+ينفخ{END}
+@gJiminyRikuCharacterSoraLine3
+ويستدعي{END}
+@gJiminyRikuCharacterSoraLine4
+{END}
+@gJiminyRikuCharacterSoraLine6
+{END}
+@gJiminyRikuCharacterSoraLine7
+{END}
+@gJiminyRikuCharacterSoraLine8
+{END}
+@gJiminyRikuCharacterSoraLine9
+{END}
+@gJiminyRikuCharacterSoraLine10
+{END}
+@gJiminyRikuCharacterSoraLine11
+{END}
+@gJiminyRikuCharacterSoraLine12
+{END}
+@gJiminyRikuCharacterNamineLine0
+{END}
+@gJiminyRikuCharacterNamineLine1
+{END}
+@gJiminyRikuCharacterNamineLine2
+ {END}
+@gJiminyRikuCharacterNamineLine3
+بأوامر{END}
+@gJiminyRikuCharacterNamineLine4
+من{END}
+@gJiminyRikuCharacterNamineLine5
+المنظمة،{END}
+@gJiminyRikuCharacterNamineLine6
+ناميني{END}
+@gJiminyRikuCharacterNamineLine7
+{END}
+@gJiminyRikuCharacterNamineLine8
+قلب{END}
+@gJiminyRikuCharacterNamineLine9
+سورا دفعها{END}
+@gJiminyRikuCharacterNamineLine10
+{END}
+@gJiminyRikuCharacterNamineLine11
+ {END}
+@gJiminyRikuCharacterNamineLine12
+الآن{END}
+@gJiminyRikuCharacterNamineLine13
+تراقب{END}
+@gJiminyRikuCharacterNamineLine14
+سورا{END}
+@gJiminyRikuCharacterNamineLine15
+حتى{END}
+@gJiminyRikuCharacterRikuReplicaLine0
+{END}
+@gJiminyRikuCharacterRikuReplicaLine1
+{END}
+@gJiminyRikuCharacterRikuReplicaLine2
+{END}
+@gJiminyRikuCharacterRikuReplicaLine3
+ {END}
+@gJiminyRikuCharacterRikuReplicaLine4
+خلافاً لريكو{END}
+@gJiminyRikuCharacterRikuReplicaLine5
+الحقيقي،{END}
+@gJiminyRikuCharacterRikuReplicaLine6
+يستخدم{END}
+@gJiminyRikuCharacterRikuReplicaLine7
+الظلام بحرية،{END}
+@gJiminyRikuCharacterAnsemLine0
+{END}
+@gJiminyRikuCharacterAnsemLine1
+ {END}
+@gJiminyRikuCharacterAnsemLine2
+لفتح باب{END}
+@gJiminyRikuCharacterAnsemLine3
+الظلام،{END}
+@gJiminyRikuCharacterAnsemLine4
+استخدم أنسيم{END}
+@gJiminyRikuCharacterAnsemLine5
+{END}
+@gJiminyRikuCharacterAnsemLine6
+ {END}
+@gJiminyRikuCharacterAnsemLine7
+استعبد ريكو، لكنه لاقى{END}
+@gJiminyRikuCharacterAnsemLine8
+حتفه على يد سورا.{END}
+@gJiminyRikuCharacterAnsemLine9
+{END}
+@gJiminyRikuCharacterAnsemLine10
+ {END}
+@gJiminyRikuCharacterAnsemLine11
+ومع{END}
+@gJiminyRikuCharacterAnsemLine12
+ذلك،{END}
+@gJiminyRikuCharacterAnsemLine13
+ظل{END}
+@gJiminyRikuCharacterVexenLine0
+أنسيم{END}
+@gJiminyRikuCharacterVexenLine1
+{END}
+@gJiminyRikuCharacterVexenLine2
+ {END}
+@gJiminyRikuCharacterVexenLine3
+هو،{END}
+@gJiminyRikuCharacterVexenLine4
+ليكسايوس،{END}
+@gJiminyRikuCharacterVexenLine5
+وزيكسيون{END}
+@gJiminyRikuCharacterVexenLine6
+{END}
+@gJiminyRikuCharacterVexenLine7
+{END}
+@gJiminyRikuCharacterVexenLine8
+{END}
+@gJiminyRikuCharacterVexenLine9
+ {END}
+@gJiminyRikuCharacterVexenLine10
+بعد{END}
+@gJiminyRikuCharacterVexenLine11
+قتال{END}
+@gJiminyRikuCharacterVexenLine12
+ريكو،{END}
+@gJiminyRikuCharacterVexenLine13
+{END}
+@gJiminyRikuCharacterVexenLine14
+{END}
+@gJiminyRikuCharacterVexenLine15
+{END}
+@gJiminyRikuCharacterZexionLine0
+{END}
+@gJiminyRikuCharacterZexionLine1
+{END}
+@gJiminyRikuCharacterZexionLine2
+ {END}
+@gJiminyRikuCharacterZexionLine3
+زيكسيون{END}
+@gJiminyRikuCharacterZexionLine4
+يتجنب{END}
+@gJiminyRikuCharacterZexionLine5
+عموماً{END}
+@gJiminyRikuCharacterZexionLine6
+{END}
+@gJiminyRikuCharacterZexionLine7
+{END}
+@gJiminyRikuCharacterZexionLine8
+{END}
+@gJiminyRikuCharacterZexionLine9
+{END}
+@gJiminyRikuCharacterZexionLine10
+ {END}
+@gJiminyRikuCharacterZexionLine11
+زيكسيون{END}
+@gJiminyRikuCharacterZexionLine12
+واجه{END}
+@gJiminyRikuCharacterZexionLine13
+ريكو{END}
+@gJiminyRikuCharacterZexionLine14
+{END}
+@gJiminyRikuCharacterZexionLine15
+{END}
+@gJiminyRikuCharacterZexionLine16
+{END}
+@gJiminyRikuCharacterAxelLine0
+{END}
+@gJiminyRikuCharacterAxelLine1
+{END}
+@gJiminyRikuCharacterAxelLine2
+ {END}
+@gJiminyRikuCharacterAxelLine3
+إنه{END}
+@gJiminyRikuCharacterAxelLine4
+ظل{END}
+@gJiminyRikuCharacterAxelLine5
+{END}
+@gJiminyRikuCharacterAxelLine6
+ {END}
+@gJiminyRikuCharacterAxelLine7
+أكسل{END}
+@gJiminyRikuCharacterAxelLine8
+ليس{END}
+@gJiminyRikuCharacterAxelLine9
+لديه{END}
+@gJiminyRikuCharacterAxelLine10
+وازع{END}
+@gJiminyRikuCharacterAxelLine11
+{END}
+@gJiminyRikuCharacterAxelLine12
+{END}
+@gJiminyRikuCharacterAxelLine13
+{END}
+@gJiminyRikuCharacterAxelLine14
+ {END}
+@gJiminyRikuCharacterAxelLine15
+أكسل{END}
+@gJiminyRikuCharacterAxelLine16
+يدعي{END}
+@gJiminyRikuCharacterAxelLine17
+أنه{END}
+@gJiminyRikuCharacterAxelLine18
+وسورا{END}
+@gJiminyRikuCharacterMarluxiaLine0
+{END}
+@gJiminyRikuCharacterMarluxiaLine1
+{END}
+@gJiminyRikuCharacterMarluxiaLine2
+ {END}
+@gJiminyRikuCharacterMarluxiaLine3
+مارلوكسيا{END}
+@gJiminyRikuCharacterMarluxiaLine4
+استدرج{END}
+@gJiminyRikuCharacterMarluxiaLine5
+سورا إلى{END}
+@gJiminyRikuCharacterMarluxiaLine6
+{END}
+@gJiminyRikuCharacterMarluxiaLine7
+ {END}
+@gJiminyRikuCharacterMarluxiaLine8
+أمر{END}
+@gJiminyRikuCharacterMarluxiaLine9
+ناميني{END}
+@gJiminyRikuCharacterMarluxiaLine10
+بتغيير{END}
+@gJiminyRikuCharacterMarluxiaLine11
+ذكريات{END}
+@gJiminyRikuCharacterMarluxiaLine12
+سورا،{END}
+@gJiminyRikuCharacterMarluxiaLine13
+{END}
+@gJiminyRikuCharacterMarluxiaLine14
+{END}
+@gJiminyRikuCharacterMarluxiaLine15
+{END}
+@gJiminyRikuCharacterMarluxiaLine16
+ {END}
+@gJiminyRikuCharacterMarluxiaLine17
+مارلوكسيا تم{END}
+@gJiminyRikuCharacterMarluxiaLine18
+تدميره{END}
+@gJiminyRikuCharacterLarxeneLine0
+في النهاية{END}
+@gJiminyRikuCharacterLarxeneLine1
+{END}
+@gJiminyRikuCharacterLarxeneLine2
+ {END}
+@gJiminyRikuCharacterLarxeneLine3
+لاركسين{END}
+@gJiminyRikuCharacterLarxeneLine4
+تآمرت{END}
+@gJiminyRikuCharacterLarxeneLine5
+مع{END}
+@gJiminyRikuCharacterLarxeneLine6
+{END}
+@gJiminyRikuCharacterLarxeneLine7
+ {END}
+@gJiminyRikuCharacterLarxeneLine8
+ومع{END}
+@gJiminyRikuCharacterLarxeneLine9
+ذلك،{END}
+@gJiminyRikuCharacterLarxeneLine10
+شخصيتها{END}
+@gJiminyRikuCharacterLarxeneLine11
+{END}
+@gJiminyRikuCharacterLarxeneLine12
+{END}
+@gJiminyRikuCharacterDiZLine0
+{END}
+@gJiminyRikuCharacterDiZLine1
+ {END}
+@gJiminyRikuCharacterDiZLine2
+ديز{END}
+@gJiminyRikuCharacterDiZLine3
+ظهر{END}
+@gJiminyRikuCharacterDiZLine4
+أمام{END}
+@gJiminyRikuCharacterDiZLine5
+{END}
+@gJiminyRikuCharacterDiZLine6
+{END}
+@gJiminyRikuCharacterDiZLine7
+{END}
+@gJiminyRikuCharacterDiZLine8
+ {END}
+@gJiminyRikuCharacterDiZLine9
+يُقال{END}
+@gJiminyRikuCharacterDiZLine10
+إنه{END}
+@gJiminyRikuCharacterMaleficentLine0
+والملك{END}
+@gJiminyRikuCharacterMaleficentLine1
+{END}
+@gJiminyRikuCharacterMaleficentLine2
+ {END}
+@gJiminyRikuCharacterMaleficentLine3
+سحر{END}
+@gJiminyRikuCharacterMaleficentLine4
+ماليفيسنت{END}
+@gJiminyRikuCharacterMaleficentLine5
+{END}
+@gJiminyRikuCharacterMaleficentLine6
+{END}
+@gJiminyRikuCharacterMaleficentLine7
+ {END}
+@gJiminyRikuCharacterMaleficentLine8
+في{END}
+@gJiminyRikuCharacterMaleficentLine9
+قلعة{END}
+@gJiminyRikuCharacterMaleficentLine10
+النسيان{END}
+@gJiminyRikuCharacterMaleficentLine11
+وقفت{END}
+@gJiminyRikuCharacterMaleficentLine12
+{END}
+@gJiminyRikuCharacterJafarGenieLine0
+{END}
+@gJiminyRikuCharacterJafarGenieLine1
+{END}
+@gJiminyRikuCharacterJafarGenieLine2
+transformed by magic.{END}
+@gJiminyRikuCharacterJafarGenieLine3
+ {END}
+@gJiminyRikuCharacterJafarGenieLine4
+جعفر{END}
+@gJiminyRikuCharacterJafarGenieLine5
+ظهر{END}
+@gJiminyRikuCharacterJafarGenieLine6
+أمام{END}
+@gJiminyRikuCharacterJafarGenieLine7
+{END}
+@gJiminyRikuCharacterUrsulaLine0
+{END}
+@gJiminyRikuCharacterUrsulaLine1
+{END}
+@gJiminyRikuCharacterUrsulaLine2
+{END}
+@gJiminyRikuCharacterUrsulaLine3
+{END}
+@gJiminyRikuCharacterUrsulaLine4
+ {END}
+@gJiminyRikuCharacterUrsulaLine5
+أورسولا{END}
+@gJiminyRikuCharacterUrsulaLine6
+ظهرت{END}
+@gJiminyRikuCharacterUrsulaLine7
+أمام{END}
+@gJiminyRikuCharacterUrsulaLine8
+{END}
+@gJiminyRikuCharacterHadesLine0
+{END}
+@gJiminyRikuCharacterHadesLine1
+{END}
+@gJiminyRikuCharacterHadesLine2
+{END}
+@gJiminyRikuCharacterHadesLine3
+ {END}
+@gJiminyRikuCharacterHadesLine4
+هادس{END}
+@gJiminyRikuCharacterHadesLine5
+ظهر{END}
+@gJiminyRikuCharacterHadesLine6
+أمام{END}
+@gJiminyRikuCharacterHadesLine7
+{END}
+@gJiminyRikuCharacterOogieBoogieLine0
+{END}
+@gJiminyRikuCharacterOogieBoogieLine1
+{END}
+@gJiminyRikuCharacterOogieBoogieLine2
+{END}
+@gJiminyRikuCharacterOogieBoogieLine3
+ {END}
+@gJiminyRikuCharacterOogieBoogieLine4
+ظهر{END}
+@gJiminyRikuCharacterOogieBoogieLine5
+أمام{END}
+@gJiminyRikuCharacterOogieBoogieLine6
+{END}
+@gJiminyRikuCharacterOogieBoogieLine7
+{END}
+@gJiminyRikuCharacterHookLine0
+{END}
+@gJiminyRikuCharacterHookLine1
+ {END}
+@gJiminyRikuCharacterHookLine2
+هوك{END}
+@gJiminyRikuCharacterHookLine3
+ظهر{END}
+@gJiminyRikuCharacterHookLine4
+أمام{END}
+@gJiminyRikuCharacterHookLine5
+{END}
+@gJiminyRikuHeartlessGuardArmorLine0
+{END}
+@gJiminyRikuHeartlessGuardArmorLine1
+{END}
+@gJiminyRikuHeartlessGuardArmorLine2
+ {END}
+@gJiminyRikuHeartlessGuardArmorLine3
+ظهر{END}
+@gJiminyRikuHeartlessGuardArmorLine4
+أمام{END}
+@gJiminyRikuHeartlessGuardArmorLine5
+{END}
+@gJiminyRikuHeartlessGuardArmorLine6
+{END}
+@gJiminyRikuHeartlessParasiteCageLine0
+{END}
+@gJiminyRikuHeartlessParasiteCageLine1
+{END}
+@gJiminyRikuHeartlessParasiteCageLine2
+ {END}
+@gJiminyRikuHeartlessParasiteCageLine3
+ظهر{END}
+@gJiminyRikuHeartlessParasiteCageLine4
+أمام{END}
+@gJiminyRikuHeartlessParasiteCageLine5
+{END}
+@gJiminyRikuHeartlessParasiteCageLine6
+{END}
+@gJiminyRikuHeartlessTrickmasterLine0
+{END}
+@gJiminyRikuHeartlessTrickmasterLine1
+{END}
+@gJiminyRikuHeartlessTrickmasterLine2
+{END}
+@gJiminyRikuHeartlessTrickmasterLine3
+ {END}
+@gJiminyRikuHeartlessTrickmasterLine4
+ظهر{END}
+@gJiminyRikuHeartlessTrickmasterLine5
+أمام{END}
+@gJiminyRikuHeartlessTrickmasterLine6
+{END}
+@gJiminyRikuHeartlessTrickmasterLine7
+{END}
+@gJiminyRikuHeartlessDarksideLine0
+{END}
+@gJiminyRikuHeartlessDarksideLine1
+{END}
+@gJiminyRikuHeartlessDarksideLine2
+{END}
+@gJiminyRikuHeartlessDarksideLine3
+{END}
+@gJiminyRikuHeartlessDarksideLine4
+{END}
+@gJiminyRikuHeartlessDarksideLine5
+ {END}
+@gJiminyRikuHeartlessDarksideLine6
+زيكسيون{END}
+@gJiminyRikuHeartlessDarksideLine7
+استدعى{END}
+@gJiminyMagicCardFireLine0
+دايسايد{END}
+@gJiminyMagicCardFireLine1
+{END}
+@gJiminyMagicCardFireLine2
+{END}
+@gJiminyMagicCardFireLine3
+نار{END}
+@gJiminyMagicCardBlizzardLine0
+قوية.{END}
+@gJiminyMagicCardBlizzardLine1
+{END}
+@gJiminyMagicCardBlizzardLine2
+{END}
+@gJiminyMagicCardBlizzardLine3
+{END}
+@gJiminyMagicCardThunderLine0
+{END}
+@gJiminyMagicCardThunderLine1
+{END}
+@gJiminyMagicCardThunderLine2
+{END}
+@gJiminyMagicCardThunderLine3
+{END}
+@gJiminyMagicCardThunderLine4
+{END}
+@gJiminyMagicCardCureLine0
+{END}
+@gJiminyMagicCardCureLine1
+{END}
+@gJiminyMagicCardCureLine2
+{END}
+@gJiminyMagicCardGravityLine0
+{END}
+@gJiminyMagicCardGravityLine1
+{END}
+@gJiminyMagicCardGravityLine2
+{END}
+@gJiminyMagicCardGravityLine3
+{END}
+@gJiminyMagicCardGravityLine4
+{END}
+@gJiminyMagicCardStopLine0
+{END}
+@gJiminyMagicCardStopLine1
+{END}
+@gJiminyMagicCardStopLine2
+{END}
+@gJiminyMagicCardStopLine3
+{END}
+@gJiminyMagicCardStopLine4
+{END}
+@gJiminyMagicCardAeroLine0
+{END}
+@gJiminyMagicCardAeroLine1
+{END}
+@gJiminyMagicCardAeroLine2
+{END}
+@gJiminyMagicCardAeroLine3
+{END}
+@gJiminyMagicCardAeroLine4
+{END}
+@gJiminyMagicCardSimbaLine0
+{END}
+@gJiminyMagicCardSimbaLine1
+{END}
+@gJiminyMagicCardSimbaLine2
+{END}
+@gJiminyMagicCardSimbaLine3
+{END}
+@gJiminyMagicCardSimbaLine4
+{END}
+@gJiminyMagicCardSimbaLine5
+{END}
+@gJiminyMagicCardDumboLine0
+{END}
+@gJiminyMagicCardDumboLine1
+{END}
+@gJiminyMagicCardDumboLine2
+{END}
+@gJiminyMagicCardDumboLine3
+{END}
+@gJiminyMagicCardDumboLine4
+{END}
+@gJiminyMagicCardDumboLine5
+{END}
+@gJiminyMagicCardBambiLine0
+{END}
+@gJiminyMagicCardBambiLine1
+{END}
+@gJiminyMagicCardBambiLine2
+{END}
+@gJiminyMagicCardBambiLine3
+{END}
+@gJiminyMagicCardMushuLine0
+{END}
+@gJiminyMagicCardMushuLine1
+{END}
+@gJiminyMagicCardMushuLine2
+{END}
+@gJiminyMagicCardMushuLine3
+{END}
+@gJiminyMagicCardMushuLine4
+{END}
+@gJiminyMagicCardGenieLine0
+{END}
+@gJiminyMagicCardGenieLine1
+{END}
+@gJiminyMagicCardGenieLine2
+{END}
+@gJiminyMagicCardGenieLine3
+{END}
+@gJiminyMagicCardGenieLine4
+{END}
+@gJiminyMagicCardTinkerBellLine0
+{END}
+@gJiminyMagicCardTinkerBellLine1
+{END}
+@gJiminyMagicCardTinkerBellLine2
+{END}
+@gJiminyMagicCardTinkerBellLine3
+{END}
+@gJiminyMagicCardCloudLine0
+{END}
+@gJiminyMagicCardCloudLine1
+{END}
+@gJiminyMagicCardCloudLine2
+{END}
+@gJiminyMagicCardCloudLine3
+{END}
+@gJiminyItemCardPotionLine0
+{END}
+@gJiminyItemCardPotionLine1
+{END}
+@gJiminyItemCardPotionLine2
+{END}
+@gJiminyItemCardPotionLine3
+{END}
+@gJiminyItemCardPotionLine4
+{END}
+@gJiminyItemCardHiPotionLine0
+{END}
+@gJiminyItemCardHiPotionLine1
+{END}
+@gJiminyItemCardHiPotionLine2
+{END}
+@gJiminyItemCardHiPotionLine3
+normally unreloadable{END}
+@gJiminyItemCardHiPotionLine4
+cards are restored.{END}
+@gJiminyItemCardMegaPotionLine0
+Quickly reloads attack{END}
+@gJiminyItemCardMegaPotionLine1
+cards with no charge{END}
+@gJiminyItemCardMegaPotionLine2
+time and resets the{END}
+@gJiminyItemCardMegaPotionLine3
+reload counter.  Even{END}
+@gJiminyItemCardMegaPotionLine4
+normally unreloadable{END}
+@gJiminyItemCardMegaPotionLine5
+cards are restored.{END}
+@gJiminyItemCardEtherLine0
+Quickly reloads magic{END}
+@gJiminyItemCardEtherLine1
+cards with no charge{END}
+@gJiminyItemCardEtherLine2
+time required.  It does{END}
+@gJiminyItemCardEtherLine3
+not work on cards that{END}
+@gJiminyItemCardEtherLine4
+cannot be reloaded.{END}
+@gJiminyItemCardMegaEtherLine0
+Quickly reloads magic{END}
+@gJiminyItemCardMegaEtherLine1
+cards with no charge{END}
+@gJiminyItemCardMegaEtherLine2
+time and resets the{END}
+@gJiminyItemCardMegaEtherLine3
+reload counter.  Even{END}
+@gJiminyItemCardMegaEtherLine4
+normally unreloadable{END}
+@gJiminyItemCardMegaEtherLine5
+cards are restored.{END}
+@gJiminyItemCardElixirLine0
+Quickly reloads attack{END}
+@gJiminyItemCardElixirLine1
+cards and magic cards,{END}
+@gJiminyItemCardElixirLine2
+including normally{END}
+@gJiminyItemCardElixirLine3
+unreloadable cards.{END}
+@gJiminyItemCardMegalixirLine0
+Quickly reloads attack{END}
+@gJiminyItemCardMegalixirLine1
+cards and magic cards,{END}
+@gJiminyItemCardMegalixirLine2
+including normally{END}
+@gJiminyItemCardMegalixirLine3
+unreloadable cards.{END}
+@gJiminyItemCardMegalixirLine4
+The reload counter is{END}
+@gJiminyItemCardMegalixirLine5
+also reset.{END}
+@gJiminyFriendCardDonaldDuckLine0
+Donald randomly casts{END}
+@gJiminyFriendCardDonaldDuckLine1
+Fire, Blizzard, Thunder,{END}
+@gJiminyFriendCardDonaldDuckLine2
+or Cure.  Stock more{END}
+@gJiminyFriendCardDonaldDuckLine3
+than one to power up{END}
+@gJiminyFriendCardDonaldDuckLine4
+Donald's magic.{END}
+@gJiminyFriendCardGoofyLine0
+Goofy swings his shield{END}
+@gJiminyFriendCardGoofyLine1
+at the enemy.  Stock{END}
+@gJiminyFriendCardGoofyLine2
+more than one to power{END}
+@gJiminyFriendCardGoofyLine3
+up Goofy's attack.{END}
+@gJiminyFriendCardAladdinLine0
+Aladdin swings his{END}
+@gJiminyFriendCardAladdinLine1
+sword at the enemy{END}
+@gJiminyFriendCardAladdinLine2
+repeatedly.  Stock more{END}
+@gJiminyFriendCardAladdinLine3
+than one to power up{END}
+@gJiminyFriendCardAladdinLine4
+Aladdin's attack.{END}
+@gJiminyFriendCardJackLine0
+Jack casts Fire,{END}
+@gJiminyFriendCardJackLine1
+Blizzard, Thunder, or{END}
+@gJiminyFriendCardJackLine2
+Gravity.  Stock more{END}
+@gJiminyFriendCardJackLine3
+than one to power up{END}
+@gJiminyFriendCardJackLine4
+Jack's magic.{END}
+@gJiminyFriendCardArielLine0
+Ariel whirls across the{END}
+@gJiminyFriendCardArielLine1
+field, striking many{END}
+@gJiminyFriendCardArielLine2
+enemies.  Stock more{END}
+@gJiminyFriendCardArielLine3
+than one to power up{END}
+@gJiminyFriendCardArielLine4
+Ariel's attack.{END}
+@gJiminyFriendCardPeterPanLine0
+Peter Pan attacks with{END}
+@gJiminyFriendCardPeterPanLine1
+his dagger.  Stock more{END}
+@gJiminyFriendCardPeterPanLine2
+than one to power up{END}
+@gJiminyFriendCardPeterPanLine3
+Peter's attack.{END}
+@gJiminyFriendCardBeastLine0
+The Beast mows down{END}
+@gJiminyFriendCardBeastLine1
+anyone in Sora's path.{END}
+@gJiminyFriendCardBeastLine2
+Stock more than one to{END}
+@gJiminyFriendCardBeastLine3
+power up the Beast's{END}
+@gJiminyFriendCardBeastLine4
+attack.{END}
+@gJiminyEnemyCardShadowLine0
+■ Incrementor{END}
+@gJiminyEnemyCardShadowLine1
+Increase the value of{END}
+@gJiminyEnemyCardShadowLine2
+all cards by 1.{END}
+@gJiminyEnemyCardShadowLine3
+ {END}
+@gJiminyEnemyCardShadowLine4
+المدة:{END}
+@gJiminyEnemyCardSoldierLine0
+تعبئتان{END}
+@gJiminyEnemyCardSoldierLine1
+{END}
+@gJiminyEnemyCardSoldierLine2
+{END}
+@gJiminyEnemyCardSoldierLine3
+ {END}
+@gJiminyEnemyCardSoldierLine4
+Duration:  3 reloads{END}
+@gJiminyEnemyCardLargeBodyLine0
+■ Guard{END}
+@gJiminyEnemyCardLargeBodyLine1
+Deflect frontal physical{END}
+@gJiminyEnemyCardLargeBodyLine2
+attacks and completely{END}
+@gJiminyEnemyCardLargeBodyLine3
+nullify damage.{END}
+@gJiminyEnemyCardLargeBodyLine4
+ {END}
+@gJiminyEnemyCardLargeBodyLine5
+المدة:{END}
+@gJiminyEnemyCardRedNocturneLine0
+تعبئة{END}
+@gJiminyEnemyCardRedNocturneLine1
+واحدة{END}
+@gJiminyEnemyCardRedNocturneLine2
+{END}
+@gJiminyEnemyCardRedNocturneLine3
+ {END}
+@gJiminyEnemyCardRedNocturneLine4
+المدة:{END}
+@gJiminyEnemyCardBlueRhapsodyLine0
+تعبئة{END}
+@gJiminyEnemyCardBlueRhapsodyLine1
+واحدة{END}
+@gJiminyEnemyCardBlueRhapsodyLine2
+{END}
+@gJiminyEnemyCardBlueRhapsodyLine3
+ {END}
+@gJiminyEnemyCardBlueRhapsodyLine4
+المدة:{END}
+@gJiminyEnemyCardYellowOperaLine0
+تعبئة{END}
+@gJiminyEnemyCardYellowOperaLine1
+واحدة{END}
+@gJiminyEnemyCardYellowOperaLine2
+{END}
+@gJiminyEnemyCardYellowOperaLine3
+ {END}
+@gJiminyEnemyCardYellowOperaLine4
+المدة:{END}
+@gJiminyEnemyCardGreenRequiemLine0
+تعبئة{END}
+@gJiminyEnemyCardGreenRequiemLine1
+واحدة{END}
+@gJiminyEnemyCardGreenRequiemLine2
+{END}
+@gJiminyEnemyCardGreenRequiemLine3
+ {END}
+@gJiminyEnemyCardGreenRequiemLine4
+المدة:{END}
+@gJiminyEnemyCardPowerwildLine0
+تعبئة{END}
+@gJiminyEnemyCardPowerwildLine1
+واحدة{END}
+@gJiminyEnemyCardPowerwildLine2
+{END}
+@gJiminyEnemyCardPowerwildLine3
+{END}
+@gJiminyEnemyCardPowerwildLine4
+{END}
+@gJiminyEnemyCardPowerwildLine5
+{END}
+@gJiminyEnemyCardPowerwildLine6
+ {END}
+@gJiminyEnemyCardPowerwildLine7
+Duration:  1 reload{END}
+@gJiminyEnemyCardBouncywildLine0
+■ Draw{END}
+@gJiminyEnemyCardBouncywildLine1
+Attract fallen cards{END}
+@gJiminyEnemyCardBouncywildLine2
+and items for easy{END}
+@gJiminyEnemyCardBouncywildLine3
+retrieval.{END}
+@gJiminyEnemyCardBouncywildLine4
+ {END}
+@gJiminyEnemyCardBouncywildLine5
+المدة:{END}
+@gJiminyEnemyCardAirSoldierLine0
+5 تعبئات{END}
+@gJiminyEnemyCardAirSoldierLine1
+{END}
+@gJiminyEnemyCardAirSoldierLine2
+ {END}
+@gJiminyEnemyCardAirSoldierLine3
+المدة:{END}
+@gJiminyEnemyCardBanditLine0
+3{END}
+@gJiminyEnemyCardBanditLine1
+تعبئات{END}
+@gJiminyEnemyCardBanditLine2
+{END}
+@gJiminyEnemyCardBanditLine3
+{END}
+@gJiminyEnemyCardBanditLine4
+ {END}
+@gJiminyEnemyCardBanditLine5
+المدة:{END}
+@gJiminyEnemyCardFatBanditLine0
+تعبئة{END}
+@gJiminyEnemyCardFatBanditLine1
+واحدة{END}
+@gJiminyEnemyCardFatBanditLine2
+{END}
+@gJiminyEnemyCardFatBanditLine3
+{END}
+@gJiminyEnemyCardFatBanditLine4
+ {END}
+@gJiminyEnemyCardFatBanditLine5
+المدة:{END}
+@gJiminyEnemyCardBarrelSpiderLine0
+تعبئتان{END}
+@gJiminyEnemyCardBarrelSpiderLine1
+{END}
+@gJiminyEnemyCardBarrelSpiderLine2
+ {END}
+@gJiminyEnemyCardBarrelSpiderLine3
+المدة:{END}
+@gJiminyEnemyCardSeaNeonLine0
+3{END}
+@gJiminyEnemyCardSeaNeonLine1
+تعبئات{END}
+@gJiminyEnemyCardSeaNeonLine2
+{END}
+@gJiminyEnemyCardSeaNeonLine3
+ {END}
+@gJiminyEnemyCardSeaNeonLine4
+البطاقات{END}
+@gJiminyEnemyCardScrewdiverLine0
+التي{END}
+@gJiminyEnemyCardScrewdiverLine1
+تستخدمها.{END}
+@gJiminyEnemyCardScrewdiverLine2
+{END}
+@gJiminyEnemyCardScrewdiverLine3
+ {END}
+@gJiminyEnemyCardScrewdiverLine4
+المدة:{END}
+@gJiminyEnemyCardAquatankLine0
+تعبئة{END}
+@gJiminyEnemyCardAquatankLine1
+واحدة{END}
+@gJiminyEnemyCardAquatankLine2
+{END}
+@gJiminyEnemyCardAquatankLine3
+{END}
+@gJiminyEnemyCardAquatankLine4
+ {END}
+@gJiminyEnemyCardAquatankLine5
+المدة:{END}
+@gJiminyEnemyCardWightKnightLine0
+تعبئة{END}
+@gJiminyEnemyCardWightKnightLine1
+واحدة{END}
+@gJiminyEnemyCardWightKnightLine2
+{END}
+@gJiminyEnemyCardWightKnightLine3
+ {END}
+@gJiminyEnemyCardWightKnightLine4
+لزيادة{END}
+@gJiminyEnemyCardGargoyleLine0
+القفز.{END}
+@gJiminyEnemyCardGargoyleLine1
+{END}
+@gJiminyEnemyCardGargoyleLine2
+{END}
+@gJiminyEnemyCardGargoyleLine3
+{END}
+@gJiminyEnemyCardGargoyleLine4
+ {END}
+@gJiminyEnemyCardGargoyleLine5
+المدة:{END}
+@gJiminyEnemyCardPirateLine0
+تعبئة{END}
+@gJiminyEnemyCardPirateLine1
+واحدة{END}
+@gJiminyEnemyCardPirateLine2
+{END}
+@gJiminyEnemyCardPirateLine3
+ {END}
+@gJiminyEnemyCardPirateLine4
+كل{END}
+@gJiminyEnemyCardAirPirateLine0
+البطاقات{END}
+@gJiminyEnemyCardAirPirateLine1
+إلى{END}
+@gJiminyEnemyCardAirPirateLine2
+0.{END}
+@gJiminyEnemyCardAirPirateLine3
+{END}
+@gJiminyEnemyCardAirPirateLine4
+ {END}
+@gJiminyEnemyCardAirPirateLine5
+المدة:{END}
+@gJiminyEnemyCardDarkballLine0
+3{END}
+@gJiminyEnemyCardDarkballLine1
+تعبئات{END}
+@gJiminyEnemyCardDarkballLine2
+{END}
+@gJiminyEnemyCardDarkballLine3
+ {END}
+@gJiminyEnemyCardDarkballLine4
+التي{END}
+@gJiminyEnemyCardDefenderLine0
+تحملها{END}
+@gJiminyEnemyCardDefenderLine1
+عن{END}
+@gJiminyEnemyCardDefenderLine2
+أعين{END}
+@gJiminyEnemyCardDefenderLine3
+الأعداء.{END}
+@gJiminyEnemyCardDefenderLine4
+{END}
+@gJiminyEnemyCardDefenderLine5
+ {END}
+@gJiminyEnemyCardDefenderLine6
+تسبب{END}
+@gJiminyEnemyCardWizardLine0
+ضرراً{END}
+@gJiminyEnemyCardWizardLine1
+طبيعياً.{END}
+@gJiminyEnemyCardWizardLine2
+{END}
+@gJiminyEnemyCardWizardLine3
+{END}
+@gJiminyEnemyCardWizardLine4
+ {END}
+@gJiminyEnemyCardWizardLine5
+Duration:  1 reload{END}
+@gJiminyEnemyCardNeoshadowLine0
+■ Bio{END}
+@gJiminyEnemyCardNeoshadowLine1
+Cause enemies' HP to{END}
+@gJiminyEnemyCardNeoshadowLine2
+gradually drop.{END}
+@gJiminyEnemyCardNeoshadowLine3
+ {END}
+@gJiminyEnemyCardNeoshadowLine4
+Duration:  1 reload{END}
+@gJiminyEnemyCardWhiteMushroomLine0
+■ Hyper Healing{END}
+@gJiminyEnemyCardWhiteMushroomLine1
+Restore some HP every{END}
+@gJiminyEnemyCardWhiteMushroomLine2
+time you use a friend{END}
+@gJiminyEnemyCardWhiteMushroomLine3
+card.{END}
+@gJiminyEnemyCardWhiteMushroomLine4
+ {END}
+@gJiminyEnemyCardWhiteMushroomLine5
+Duration:  3 reloads{END}
+@gJiminyEnemyCardBlackFungusLine0
+■ Random Flush{END}
+@gJiminyEnemyCardBlackFungusLine1
+Activate a random{END}
+@gJiminyEnemyCardBlackFungusLine2
+enemy card effect.{END}
+@gJiminyEnemyCardBlackFungusLine3
+ {END}
+@gJiminyEnemyCardBlackFungusLine4
+Duration:  1 reload{END}
+@gJiminyEnemyCardCreeperPlantLine0
+■ Leaf Bracer{END}
+@gJiminyEnemyCardCreeperPlantLine1
+Stop enemies from{END}
+@gJiminyEnemyCardCreeperPlantLine2
+breaking Cure abilities{END}
+@gJiminyEnemyCardCreeperPlantLine3
+you use.{END}
+@gJiminyEnemyCardCreeperPlantLine4
+ {END}
+@gJiminyEnemyCardCreeperPlantLine5
+Duration:  1 reload{END}
+@gJiminyEnemyCardCrescendoLine0
+■{END}
+@gJiminyEnemyCardCrescendoLine1
+تعزيز{END}
+@gJiminyEnemyCardCrescendoLine2
+الاستدعاء{END}
+@gJiminyEnemyCardCrescendoLine3
+{END}
+@gJiminyEnemyCardCrescendoLine4
+ {END}
+@gJiminyEnemyCardCrescendoLine5
+Duration:  1 reload{END}
+@gJiminyEnemyCardGuardArmorLine0
+■ Wide Attack{END}
+@gJiminyEnemyCardGuardArmorLine1
+Slightly extend the{END}
+@gJiminyEnemyCardGuardArmorLine2
+range of attack cards.{END}
+@gJiminyEnemyCardGuardArmorLine3
+ {END}
+@gJiminyEnemyCardGuardArmorLine4
+بطاقات{END}
+@gJiminyEnemyCardHadesLine0
+الهجوم{END}
+@gJiminyEnemyCardHadesLine1
+قليلاً.{END}
+@gJiminyEnemyCardHadesLine2
+{END}
+@gJiminyEnemyCardHadesLine3
+{END}
+@gJiminyEnemyCardHadesLine4
+{END}
+@gJiminyEnemyCardHadesLine5
+ {END}
+@gJiminyEnemyCardHadesLine6
+Duration:  30 attacks{END}
+@gJiminyEnemyCardHadesLine7
+· Resistant to fire{END}
+@gJiminyEnemyCardHadesLine8
+· Stunned by ice{END}
+@gJiminyEnemyCardUrsulaLine0
+■ Shell{END}
+@gJiminyEnemyCardUrsulaLine1
+Halve the damage from{END}
+@gJiminyEnemyCardUrsulaLine2
+magical attacks by the{END}
+@gJiminyEnemyCardUrsulaLine3
+enemy.  Summon magic{END}
+@gJiminyEnemyCardUrsulaLine4
+does normal damage.{END}
+@gJiminyEnemyCardUrsulaLine5
+ {END}
+@gJiminyEnemyCardUrsulaLine6
+Duration:  5 hits taken{END}
+@gJiminyEnemyCardHookLine0
+■ Second Chance{END}
+@gJiminyEnemyCardHookLine1
+Retain 1 HP after a{END}
+@gJiminyEnemyCardHookLine2
+critical hit, provided you{END}
+@gJiminyEnemyCardHookLine3
+have 2 or more HP left.{END}
+@gJiminyEnemyCardHookLine4
+ {END}
+@gJiminyEnemyCardHookLine5
+تكون قد{END}
+@gJiminyEnemyCardHookLine6
+بقيت{END}
+@gJiminyEnemyCardHookLine7
+لك{END}
+@gJiminyEnemyCardDragonMaleficentLine0
+2{END}
+@gJiminyEnemyCardDragonMaleficentLine1
+صحة{END}
+@gJiminyEnemyCardDragonMaleficentLine2
+أو أكثر.{END}
+@gJiminyEnemyCardDragonMaleficentLine3
+{END}
+@gJiminyEnemyCardDragonMaleficentLine4
+ {END}
+@gJiminyEnemyCardDragonMaleficentLine5
+Duration:  30 attacks{END}
+@gJiminyEnemyCardRikuLine0
+■ Sleight Lock{END}
+@gJiminyEnemyCardRikuLine1
+Keep cards used in{END}
+@gJiminyEnemyCardRikuLine2
+sleights available for{END}
+@gJiminyEnemyCardRikuLine3
+reloading.{END}
+@gJiminyEnemyCardRikuLine4
+ {END}
+@gJiminyEnemyCardRikuLine5
+متاحة{END}
+@gJiminyEnemyCardRikuLine6
+لإعادة{END}
+@gJiminyEnemyCardRikuLine7
+التعبئة.{END}
+@gJiminyEnemyCardAxelLine0
+{END}
+@gJiminyEnemyCardAxelLine1
+{END}
+@gJiminyEnemyCardAxelLine2
+{END}
+@gJiminyEnemyCardAxelLine3
+ {END}
+@gJiminyEnemyCardAxelLine4
+Duration:  10 hits taken{END}
+@gJiminyEnemyCardAxelLine5
+· Immune to fire{END}
+@gJiminyEnemyCardAxelLine6
+· Stunned by ice{END}
+@gJiminyEnemyCardLarxeneLine0
+■ Dash{END}
+@gJiminyEnemyCardLarxeneLine1
+Increase running speed.{END}
+@gJiminyEnemyCardLarxeneLine2
+ {END}
+@gJiminyEnemyCardLarxeneLine3
+Duration:  15 cards{END}
+@gJiminyEnemyCardLarxeneLine4
+· Immune to lightning{END}
+@gJiminyEnemyCardLarxeneLine5
+· Weak against special{END}
+@gJiminyEnemyCardLarxeneLine6
+  attacks{END}
+@gJiminyEnemyCardVexenLine0
+■ Auto-Life{END}
+@gJiminyEnemyCardVexenLine1
+Revive automatically{END}
+@gJiminyEnemyCardVexenLine2
+when your HP reach 0.{END}
+@gJiminyEnemyCardVexenLine3
+Only a small amount of{END}
+@gJiminyEnemyCardVexenLine4
+HP is restored.{END}
+@gJiminyEnemyCardVexenLine5
+ {END}
+@gJiminyEnemyCardVexenLine6
+Duration:  1 use{END}
+@gJiminyEnemyCardVexenLine7
+·{END}
+@gJiminyEnemyCardVexenLine8
+محصن{END}
+@gJiminyEnemyCardMarluxiaLine0
+ضد{END}
+@gJiminyEnemyCardMarluxiaLine1
+الجليد{END}
+@gJiminyEnemyCardMarluxiaLine2
+{END}
+@gJiminyEnemyCardMarluxiaLine3
+{END}
+@gJiminyEnemyCardMarluxiaLine4
+{END}
+@gJiminyEnemyCardMarluxiaLine5
+{END}
+@gJiminyEnemyCardMarluxiaLine6
+ {END}
+@gJiminyEnemyCardMarluxiaLine7
+العدّاد.{END}
+@gJiminyEnemyCardMarluxiaLine8
+{END}
+@gJiminyEnemyCardMarluxiaLine9
+{END}
+@gJiminyEnemyCardMarluxiaLine10
+{END}
+@gJiminyEnemyCardMarluxiaLine11
+{END}
+@gJiminyEnemyCardMarluxiaLine12
+{END}
+@gJiminyMapCardTranquilDarknessLine0
+{END}
+@gJiminyMapCardTranquilDarknessLine1
+{END}
+@gJiminyMapCardGuardedTroveLine0
+{END}
+@gJiminyMapCardGuardedTroveLine1
+{END}
+@gJiminyMapCardGuardedTroveLine2
+{END}
+@gJiminyMapCardSleepingDarknessLine0
+{END}
+@gJiminyMapCardSleepingDarknessLine1
+{END}
+@gJiminyMapCardSleepingDarknessLine2
+{END}
+@gJiminyMapCardMomentsReprieveLine0
+{END}
+@gJiminyMapCardMomentsReprieveLine1
+{END}
+@gJiminyMapCardFeebleDarknessLine0
+{END}
+@gJiminyMapCardFeebleDarknessLine1
+{END}
+@gJiminyMapCardFeebleDarknessLine2
+{END}
+@gJiminyMapCardCalmBountyLine0
+{END}
+@gJiminyMapCardCalmBountyLine1
+{END}
+@gJiminyMapCardFalseBountyLine0
+{END}
+@gJiminyMapCardFalseBountyLine1
+{END}
+@gJiminyMapCardFalseBountyLine2
+{END}
+@gJiminyMapCardFalseBountyLine3
+{END}
+@gJiminyMapCardMoogleRoomLine0
+{END}
+@gJiminyMapCardMoogleRoomLine1
+{END}
+@gJiminyMapCardMoogleRoomLine2
+{END}
+@gJiminyMapCardSorcerousWakingLine0
+{END}
+@gJiminyMapCardSorcerousWakingLine1
+{END}
+@gJiminyMapCardSorcerousWakingLine2
+{END}
+@gJiminyMapCardMartialWakingLine0
+{END}
+@gJiminyMapCardMartialWakingLine1
+{END}
+@gJiminyMapCardMartialWakingLine2
+{END}
+@gJiminyMapCardAlchemicWakingLine0
+{END}
+@gJiminyMapCardAlchemicWakingLine1
+{END}
+@gJiminyMapCardAlchemicWakingLine2
+{END}
+@gJiminyMapCardMeetingGroundLine0
+{END}
+@gJiminyMapCardMeetingGroundLine1
+{END}
+@gJiminyMapCardMeetingGroundLine2
+{END}
+@gJiminyMapCardMeetingGroundLine3
+{END}
+@gJiminyMapCardMeetingGroundLine4
+{END}
+@gJiminyMapCardMinglingWorldsLine0
+{END}
+@gJiminyMapCardMinglingWorldsLine1
+{END}
+@gJiminyMapCardStrongInitiativeLine0
+{END}
+@gJiminyMapCardStrongInitiativeLine1
+{END}
+@gJiminyMapCardStrongInitiativeLine2
+{END}
+@gJiminyMapCardStrongInitiativeLine3
+{END}
+@gJiminyMapCardLastingDazeLine0
+{END}
+@gJiminyMapCardLastingDazeLine1
+{END}
+@gJiminyMapCardLastingDazeLine2
+{END}
+@gJiminyMapCardLastingDazeLine3
+{END}
+@gJiminyMapCardStagnantSpaceLine0
+{END}
+@gJiminyMapCardStagnantSpaceLine1
+{END}
+@gJiminyMapCardPremiumRoomLine0
+{END}
+@gJiminyMapCardPremiumRoomLine1
+{END}
+@gJiminyMapCardPremiumRoomLine2
+{END}
+@gJiminyMapCardWhiteRoomLine0
+{END}
+@gJiminyMapCardWhiteRoomLine1
+{END}
+@gJiminyMapCardWhiteRoomLine2
+{END}
+@gJiminyMapCardWhiteRoomLine3
+{END}
+@gJiminyMapCardWhiteRoomLine4
+هل{END}
+@gJiminyMapCardBlackRoomLine0
+يُطردونهم؟{END}
+@gJiminyMapCardBlackRoomLine1
+{END}
+@gJiminyMapCardBlackRoomLine2
+{END}
+@gJiminyMapCardBlackRoomLine3
+{END}
+@gJiminyMapCardKeyOfBeginningsLine0
+{END}
+@gJiminyMapCardKeyOfBeginningsLine1
+{END}
+@gJiminyMapCardKeyOfGuidanceLine0
+{END}
+@gJiminyMapCardKeyOfGuidanceLine1
+{END}
+@gJiminyMapCardKeyToTruthLine0
+{END}
+@gJiminyMapCardKeyToTruthLine1
+{END}
+@gJiminyMapCardKeyToRewardsLine0
+{END}
+@gJiminyMapCardKeyToRewardsLine1
+{END}
+@gJiminyEnemyCardLexaeusLine0
+{END}
+@gJiminyEnemyCardLexaeusLine1
+{END}
+@gJiminyEnemyCardLexaeusLine2
+{END}
+@gJiminyEnemyCardLexaeusLine3
+{END}
+@gJiminyEnemyCardLexaeusLine4
+{END}
+@gJiminyEnemyCardLexaeusLine5
+{END}
+@gJiminyEnemyCardLexaeusLine6
+{END}
+@gJiminyEnemyCardLexaeusLine7
+ {END}
+@gJiminyEnemyCardLexaeusLine8
+صعق{END}
+@gJiminyEnemyCardLexaeusLine9
+خصمك.{END}
+@gJiminyEnemyCardLexaeusLine10
+{END}
+@gJiminyEnemyCardLexaeusLine11
+{END}
+@gJiminyEnemyCardLexaeusLine12
+{END}
+@gJiminyEnemyCardLexaeusLine13
+{END}
+@gJiminyStoryTraverseTownLine0
+{END}
+@gJiminyStoryTraverseTownLine1
+{END}
+@gJiminyStoryTraverseTownLine2
+{END}
+@gJiminyStoryTraverseTownLine3
+{END}
+@gJiminyStoryTraverseTownLine4
+{END}
+@gJiminyStoryTraverseTownLine5
+{END}
+@gJiminyStoryTraverseTownLine6
+ {END}
+@gJiminyStoryTraverseTownLine7
+يوفي،{END}
+@gJiminyStoryTraverseTownLine8
+وبقية{END}
+@gJiminyStoryTraverseTownLine9
+أصدقائنا.{END}
+@gJiminyStoryTraverseTownLine10
+{END}
+@gJiminyStoryTraverseTownLine11
+{END}
+@gJiminyStoryTraverseTownLine12
+{END}
+@gJiminyStoryTraverseTownLine13
+ {END}
+@gJiminyStoryTraverseTownLine14
+أعتقد{END}
+@gJiminyStoryTraverseTownLine15
+أن{END}
+@gJiminyStoryTraverseTownLine16
+ذاكرته{END}
+@gJiminyStoryTraverseTownLine17
+{END}
+@gJiminyStoryTraverseTownLine18
+{END}
+@gJiminyStoryTraverseTownLine19
+{END}
+@gJiminyStoryWonderlandLine0
+{END}
+@gJiminyStoryWonderlandLine1
+{END}
+@gJiminyStoryWonderlandLine2
+{END}
+@gJiminyStoryWonderlandLine3
+{END}
+@gJiminyStoryWonderlandLine4
+ {END}
+@gJiminyStoryWonderlandLine5
+عثرنا{END}
+@gJiminyStoryWonderlandLine6
+على{END}
+@gJiminyStoryWonderlandLine7
+محاكمة{END}
+@gJiminyStoryWonderlandLine8
+{END}
+@gJiminyStoryWonderlandLine9
+{END}
+@gJiminyStoryWonderlandLine10
+ {END}
+@gJiminyStoryWonderlandLine11
+Angered by the shoddy{END}
+@gJiminyStoryWonderlandLine12
+trial, Sora freed Alice{END}
+@gJiminyStoryWonderlandLine13
+and hunted down the{END}
+@gJiminyStoryWonderlandLine14
+real culprit.{END}
+@gJiminyStoryWonderlandLine15
+ {END}
+@gJiminyStoryWonderlandLine16
+بالموت!{END}
+@gJiminyStoryWonderlandLine17
+{END}
+@gJiminyStoryWonderlandLine18
+{END}
+@gJiminyStoryWonderlandLine19
+{END}
+@gJiminyStoryWonderlandLine20
+{END}
+@gJiminyStoryWonderlandLine21
+ {END}
+@gJiminyStoryWonderlandLine22
+حرر سورا أليس{END}
+@gJiminyStoryWonderlandLine23
+وطارد{END}
+@gJiminyStoryWonderlandLine24
+الجاني{END}
+@gJiminyStoryWonderlandLine25
+{END}
+@gJiminyStoryTale3Line0
+{END}
+@gJiminyStoryTale3Line1
+{END}
+@gJiminyStoryTale3Line2
+{END}
+@gJiminyStoryTale3Line3
+{END}
+@gJiminyStoryTale3Line4
+{END}
+@gJiminyStoryTale3Line5
+{END}
+@gJiminyStoryTale3Line6
+ {END}
+@gJiminyStoryTale3Line7
+Sora was so happy, but{END}
+@gJiminyStoryTale3Line8
+Riku attacked him just{END}
+@gJiminyStoryTale3Line9
+like that, saying, “I’ll{END}
+@gJiminyStoryTale3Line10
+protect Naminé!”{END}
+@gJiminyStoryTale3Line11
+ {END}
+@gJiminyStoryTale3Line12
+فُقد.{END}
+@gJiminyStoryTale3Line13
+{END}
+@gJiminyStoryTale3Line14
+{END}
+@gJiminyStoryTale3Line15
+ {END}
+@gJiminyStoryTale3Line16
+جداً،{END}
+@gJiminyStoryTale3Line17
+لكن{END}
+@gJiminyStoryHalloweenTownLine0
+{END}
+@gJiminyStoryHalloweenTownLine1
+{END}
+@gJiminyStoryHalloweenTownLine2
+{END}
+@gJiminyStoryHalloweenTownLine3
+{END}
+@gJiminyStoryHalloweenTownLine4
+{END}
+@gJiminyStoryHalloweenTownLine5
+ {END}
+@gJiminyStoryHalloweenTownLine6
+الحقيقية،{END}
+@gJiminyStoryHalloweenTownLine7
+لكنها{END}
+@gJiminyStoryHalloweenTownLine8
+{END}
+@gJiminyStoryHalloweenTownLine9
+{END}
+@gJiminyStoryHalloweenTownLine10
+{END}
+@gJiminyStoryHalloweenTownLine11
+{END}
+@gJiminyStoryHalloweenTownLine12
+ {END}
+@gJiminyStoryHalloweenTownLine13
+Oogie Boogie swiped the{END}
+@gJiminyStoryHalloweenTownLine14
+potion and downed it in{END}
+@gJiminyStoryHalloweenTownLine15
+a single gulp.  But his{END}
+@gJiminyStoryHalloweenTownLine16
+true memories drove{END}
+@gJiminyStoryHalloweenTownLine17
+him mad with fear.{END}
+@gJiminyStoryHalloweenTownLine18
+ {END}
+@gJiminyStoryHalloweenTownLine19
+What if true memories{END}
+@gJiminyStoryHalloweenTownLine20
+do that to everyone’s{END}
+@gJiminyStoryHalloweenTownLine21
+heart?  Scary.{END}
+@gJiminyStoryDestinyIslandsLine0
+The last card led to{END}
+@gJiminyStoryDestinyIslandsLine1
+the place where Sora{END}
+@gJiminyStoryDestinyIslandsLine2
+grew up.{END}
+@gJiminyStoryDestinyIslandsLine3
+ {END}
+@gJiminyStoryDestinyIslandsLine4
+المكان{END}
+@gJiminyStoryDestinyIslandsLine5
+الذي{END}
+@gJiminyStoryDestinyIslandsLine6
+{END}
+@gJiminyStoryDestinyIslandsLine7
+{END}
+@gJiminyStoryDestinyIslandsLine8
+{END}
+@gJiminyStoryDestinyIslandsLine9
+{END}
+@gJiminyStoryDestinyIslandsLine10
+ {END}
+@gJiminyStoryDestinyIslandsLine11
+But when he found{END}
+@gJiminyStoryDestinyIslandsLine12
+Naminé, she told him the{END}
+@gJiminyStoryDestinyIslandsLine13
+bitter truth―nothing{END}
+@gJiminyStoryDestinyIslandsLine14
+he remembered of her{END}
+@gJiminyStoryDestinyIslandsLine15
+ever happened.{END}
+@gJiminyCharacterKairiLine0
+Sora’s childhood friend.{END}
+@gJiminyCharacterKairiLine1
+ {END}
+@gJiminyCharacterKairiLine2
+بدأت{END}
+@gJiminyCharacterKairiLine3
+رحلة{END}
+@gJiminyCharacterKairiLine4
+سورا{END}
+@gJiminyCharacterKairiLine5
+{END}
+@gJiminyCharacterKairiLine6
+{END}
+@gJiminyCharacterKairiLine7
+ {END}
+@gJiminyCharacterKairiLine8
+عندما{END}
+@gJiminyCharacterKairiLine9
+ابتلع{END}
+@gJiminyCharacterKairiLine10
+{END}
+@gJiminyCharacterKairiLine11
+the islands were saved.{END}
+@gJiminyCharacterKairiLine12
+ {END}
+@gJiminyCharacterKairiLine13
+She waits there for{END}
+@gJiminyCharacterKairiLine14
+Sora and Riku’s return.{END}
+@gJiminyCharacterTidusLine0
+A young boy from{END}
+@gJiminyCharacterTidusLine1
+Sora’s islands with a{END}
+@gJiminyCharacterTidusLine2
+sunny personality and{END}
+@gJiminyCharacterTidusLine3
+lots of energy.{END}
+@gJiminyCharacterTidusLine4
+ {END}
+@gJiminyCharacterTidusLine5
+Tidus has no shortage{END}
+@gJiminyCharacterTidusLine6
+of confidence either,{END}
+@gJiminyCharacterTidusLine7
+and considers himself a{END}
+@gJiminyCharacterTidusLine8
+champ at everything.{END}
+@gJiminyCharacterWakkaLine0
+A boy from Sora’s{END}
+@gJiminyCharacterWakkaLine1
+islands.{END}
+@gJiminyCharacterWakkaLine2
+ {END}
+@gJiminyCharacterWakkaLine3
+Despite being the{END}
+@gJiminyCharacterWakkaLine4
+oldest, Wakka is modest{END}
+@gJiminyCharacterWakkaLine5
+and takes good care of{END}
+@gJiminyCharacterWakkaLine6
+his friends.{END}
+@gJiminyCharacterSelphieLine0
+A perky girl from Sora’s{END}
+@gJiminyCharacterSelphieLine1
+islands.{END}
+@gJiminyCharacterSelphieLine2
+ {END}
+@gJiminyCharacterSelphieLine3
+Selphie is assertive{END}
+@gJiminyCharacterSelphieLine4
+and tends to leap{END}
+@gJiminyCharacterSelphieLine5
+before she looks, and{END}
+@gJiminyCharacterSelphieLine6
+she also has a romantic{END}
+@gJiminyCharacterSelphieLine7
+side.{END}
+@gJiminyCharacterLarxeneLine0
+A member of the group{END}
+@gJiminyCharacterLarxeneLine1
+that controls Castle{END}
+@gJiminyCharacterLarxeneLine2
+Oblivion.{END}
+@gJiminyCharacterLarxeneLine3
+ {END}
+@gJiminyCharacterLarxeneLine4
+تسيطر{END}
+@gJiminyCharacterLarxeneLine5
+على{END}
+@gJiminyCharacterLarxeneLine6
+{END}
+@gJiminyCharacterLarxeneLine7
+{END}
+@gJiminyCharacterLarxeneLine8
+ {END}
+@gJiminyCharacterLarxeneLine9
+She is on good terms{END}
+@gJiminyCharacterLarxeneLine10
+with Axel but still{END}
+@gJiminyCharacterLarxeneLine11
+mocks everyone and{END}
+@gJiminyCharacterLarxeneLine12
+trusts no one.{END}
+@gJiminyCharacterArielLine0
+The daughter of King{END}
+@gJiminyCharacterArielLine1
+Triton who longs to{END}
+@gJiminyCharacterArielLine2
+see the outside world.{END}
+@gJiminyCharacterArielLine3
+ {END}
+@gJiminyCharacterArielLine4
+تتوق{END}
+@gJiminyCharacterArielLine5
+لرؤية{END}
+@gJiminyCharacterArielLine6
+{END}
+@gJiminyCharacterArielLine7
+{END}
+@gJiminyCharacterArielLine8
+{END}
+@gJiminyCharacterArielLine9
+ {END}
+@gJiminyCharacterArielLine10
+اختفاء{END}
+@gJiminyCharacterArielLine11
+فلاوندر،{END}
+@gJiminyCharacterArielLine12
+{END}
+@gJiminyCharacterArielLine13
+{END}
+@gJiminyCharacterArielLine14
+{END}
+@gJiminyCharacterWinnieThePoohLine0
+{END}
+@gJiminyCharacterWinnieThePoohLine1
+{END}
+@gJiminyCharacterWinnieThePoohLine2
+{END}
+@gJiminyCharacterWinnieThePoohLine3
+ {END}
+@gJiminyCharacterWinnieThePoohLine4
+غابة{END}
+@gJiminyCharacterWinnieThePoohLine5
+المئة{END}
+@gJiminyCharacterWinnieThePoohLine6
+{END}
+@gJiminyCharacterWinnieThePoohLine7
+{END}
+@gJiminyCharacterWinnieThePoohLine8
+{END}
+@gJiminyHeartlessDarksideLine0
+{END}
+@gJiminyHeartlessDarksideLine1
+{END}
+@gJiminyHeartlessDarksideLine2
+{END}
+@gJiminyHeartlessDarksideLine3
+ {END}
+@gJiminyHeartlessDarksideLine4
+بيت سورا،{END}
+@gJiminyHeartlessDarksideLine5
+لحماية{END}
+@gJiminyHeartlessDarksideLine6
+الجزر{END}
+@gJiminyRikuStoryTale1Line0
+{END}
+@gJiminyRikuStoryTale1Line1
+{END}
+@gJiminyRikuStoryTale1Line2
+{END}
+@gJiminyRikuStoryTale1Line3
+ {END}
+@gJiminyRikuStoryTale1Line4
+حلم{END}
+@gJiminyRikuStoryTale1Line5
+ريكو{END}
+@gJiminyRikuStoryTale1Line6
+برؤية{END}
+@gJiminyRikuStoryTale1Line7
+{END}
+@gJiminyRikuStoryTale1Line8
+{END}
+@gJiminyRikuStoryTale1Line9
+ {END}
+@gJiminyRikuStoryTale1Line10
+عندما{END}
+@gJiminyRikuStoryTale1Line11
+التهم{END}
+@gJiminyRikuStoryTale1Line12
+{END}
+@gJiminyRikuStoryTale1Line13
+{END}
+@gJiminyRikuStoryTale1Line14
+ {END}
+@gJiminyRikuStoryTale1Line15
+But Maleficent had her{END}
+@gJiminyRikuStoryTale1Line16
+eyes on Riku’s strength{END}
+@gJiminyRikuStoryTale1Line17
+and was working to{END}
+@gJiminyRikuStoryTale1Line18
+make him her underling.{END}
+@gJiminyRikuStoryTale1Line19
+She gave Riku the{END}
+@gJiminyRikuStoryTale1Line20
+power of darkness, but{END}
+@gJiminyRikuStoryTale1Line21
+as he used it, it gained{END}
+@gJiminyRikuStoryTale1Line22
+power over him.{END}
+@gJiminyRikuStoryTale1Line23
+ {END}
+@gJiminyRikuStoryTale1Line24
+المفقودة{END}
+@gJiminyRikuStoryTale1Line25
+كايري،{END}
+@gJiminyRikuStoryTale1Line26
+{END}
+@gJiminyRikuStoryTale1Line27
+{END}
+@gJiminyRikuStoryTale1Line28
+{END}
+@gJiminyRikuStoryTale1Line29
+ {END}
+@gJiminyRikuStoryTale1Line30
+لكن{END}
+@gJiminyRikuStoryTale1Line31
+ماليفيسنت{END}
+@gJiminyRikuStoryTale1Line32
+{END}
+@gJiminyRikuStoryTale1Line33
+{END}
+@gJiminyRikuStoryTale1Line34
+{END}
+@gJiminyRikuStoryTale1Line35
+{END}
+@gJiminyRikuStoryTale1Line36
+{END}
+@gJiminyRikuStoryTale1Line37
+{END}
+@gJiminyRikuStoryTale1Line38
+ {END}
+@gJiminyRikuStoryTale1Line39
+Will he see the realm of{END}
+@gJiminyRikuStoryTale1Line40
+light again?{END}
+@gJiminyRikuStoryTale4Line0
+Vexen took his replica{END}
+@gJiminyRikuStoryTale4Line1
+of Riku and headed for{END}
+@gJiminyRikuStoryTale4Line2
+the surface, but finally{END}
+@gJiminyRikuStoryTale4Line3
+fell at Sora’s hands.{END}
+@gJiminyRikuStoryTale4Line4
+ {END}
+@gJiminyRikuStoryTale4Line5
+Lexaeus confronted{END}
+@gJiminyRikuStoryTale4Line6
+Riku, meaning to bring{END}
+@gJiminyRikuStoryTale4Line7
+him to submission using{END}
+@gJiminyRikuStoryTale4Line8
+all force necessary.{END}
+@gJiminyRikuStoryTale4Line9
+ {END}
+@gJiminyRikuStoryTale4Line10
+ليكسايوس{END}
+@gJiminyRikuStoryTale4Line11
+واجه{END}
+@gJiminyRikuStoryTale4Line12
+{END}
+@gJiminyRikuStoryTale4Line13
+{END}
+@gJiminyRikuStoryTale4Line14
+{END}
+@gJiminyRikuStoryTale4Line15
+ {END}
+@gJiminyRikuStoryTale4Line16
+بكل{END}
+@gJiminyRikuStoryTale4Line17
+القوة{END}
+@gJiminyRikuStoryTale4Line18
+{END}
+@gJiminyRikuStoryTale4Line19
+{END}
+@gJiminyRikuStoryTale6Line0
+{END}
+@gJiminyRikuStoryTale6Line1
+{END}
+@gJiminyRikuStoryTale6Line2
+{END}
+@gJiminyRikuStoryTale6Line3
+{END}
+@gJiminyRikuStoryTale6Line4
+ {END}
+@gJiminyRikuStoryTale6Line5
+Guided by the enigmatic{END}
+@gJiminyRikuStoryTale6Line6
+DiZ, Riku made his way{END}
+@gJiminyRikuStoryTale6Line7
+through Twilight Town,{END}
+@gJiminyRikuStoryTale6Line8
+defeating his copy and{END}
+@gJiminyRikuStoryTale6Line9
+locating Naminé.{END}
+@gJiminyRikuStoryTale6Line10
+ {END}
+@gJiminyRikuStoryTale6Line11
+With her he found Sora{END}
+@gJiminyRikuStoryTale6Line12
+and friends in a deep{END}
+@gJiminyRikuStoryTale6Line13
+slumber, waiting to get{END}
+@gJiminyRikuStoryTale6Line14
+their lost memories back.{END}
+@gJiminyRikuStoryTale6Line15
+ {END}
+@gJiminyRikuStoryTale6Line16
+ريكو{END}
+@gJiminyRikuStoryTale6Line17
+طريقه{END}
+@gJiminyRikuStoryTale6Line18
+{END}
+@gJiminyRikuStoryTale6Line19
+{END}
+@gJiminyRikuStoryTale6Line20
+{END}
+@gJiminyRikuStoryTale6Line21
+ {END}
+@gJiminyRikuStoryTale6Line22
+هازماً{END}
+@gJiminyRikuStoryTale6Line23
+نسخته{END}
+@gJiminyRikuStoryTale6Line24
+{END}
+@gJiminyRikuStoryTale6Line25
+{END}
+@gJiminyRikuStoryTale6Line26
+{END}
+@gJiminyRikuStoryTale6Line27
+ {END}
+@gJiminyRikuStoryTale6Line28
+معها{END}
+@gJiminyRikuStoryTale6Line29
+وجد{END}
+@gJiminyRikuStoryTale6Line30
+{END}
+@gJiminyRikuCharacterRikuLine0
+{END}
+@gJiminyRikuCharacterRikuLine1
+{END}
+@gJiminyRikuCharacterRikuLine2
+{END}
+@gJiminyRikuCharacterRikuLine3
+ {END}
+@gJiminyRikuCharacterRikuLine4
+في{END}
+@gJiminyRikuCharacterRikuLine5
+مجموعة{END}
+@gJiminyRikuCharacterRikuLine6
+{END}
+@gJiminyRikuCharacterRikuLine7
+{END}
+@gJiminyRikuCharacterRikuLine8
+{END}
+@gJiminyRikuCharacterRikuLine9
+{END}
+@gJiminyRikuCharacterRikuLine10
+ {END}
+@gJiminyRikuCharacterRikuLine11
+Enslaved by Ansem,{END}
+@gJiminyRikuCharacterRikuLine12
+pursuer of darkness,{END}
+@gJiminyRikuCharacterRikuLine13
+Riku clashed with his{END}
+@gJiminyRikuCharacterRikuLine14
+childhood friend Sora.{END}
+@gJiminyRikuCharacterRikuLine15
+But in the end he was{END}
+@gJiminyRikuCharacterRikuLine16
+able to regain himself,{END}
+@gJiminyRikuCharacterRikuLine17
+and together with Sora{END}
+@gJiminyRikuCharacterRikuLine18
+closed the door to{END}
+@gJiminyRikuCharacterRikuLine19
+darkness.{END}
+@gJiminyRikuCharacterRikuLine20
+ {END}
+@gJiminyRikuCharacterRikuLine21
+Still, the dark wounds{END}
+@gJiminyRikuCharacterRikuLine22
+in Riku’s heart have yet{END}
+@gJiminyRikuCharacterRikuLine23
+to mend.{END}
+@gJiminyRikuCharacterKingLine0
+The king who reigns{END}
+@gJiminyRikuCharacterKingLine1
+over Disney Castle.{END}
+@gJiminyRikuCharacterKingLine2
+ {END}
+@gJiminyRikuCharacterKingLine3
+He set off alone to{END}
+@gJiminyRikuCharacterKingLine4
+protect his world and{END}
+@gJiminyRikuCharacterKingLine5
+all worlds from the{END}
+@gJiminyRikuCharacterKingLine6
+dominion of the dark.{END}
+@gJiminyRikuCharacterKingLine7
+ {END}
+@gJiminyRikuCharacterKingLine8
+وحده{END}
+@gJiminyRikuCharacterKingLine9
+لحماية{END}
+@gJiminyRikuCharacterKingLine10
+{END}
+@gJiminyRikuCharacterKingLine11
+{END}
+@gJiminyRikuCharacterKingLine12
+{END}
+@gJiminyRikuCharacterKingLine13
+{END}
+@gJiminyRikuCharacterKingLine14
+{END}
+@gJiminyRikuCharacterKairiLine0
+{END}
+@gJiminyRikuCharacterKairiLine1
+{END}
+@gJiminyRikuCharacterKairiLine2
+ {END}
+@gJiminyRikuCharacterKairiLine3
+Kairi vanished when{END}
+@gJiminyRikuCharacterKairiLine4
+their home islands were{END}
+@gJiminyRikuCharacterKairiLine5
+devoured by darkness.{END}
+@gJiminyRikuCharacterKairiLine6
+Riku and Sora both{END}
+@gJiminyRikuCharacterKairiLine7
+journeyed to find her.{END}
+@gJiminyRikuCharacterKairiLine8
+ {END}
+@gJiminyRikuCharacterKairiLine9
+Kairi was held captive{END}
+@gJiminyRikuCharacterKairiLine10
+by the Heartless, but{END}
+@gJiminyRikuCharacterKairiLine11
+thanks to Sora she and{END}
+@gJiminyRikuCharacterKairiLine12
+the islands were saved.{END}
+@gJiminyRikuCharacterKairiLine13
+ {END}
+@gJiminyRikuCharacterKairiLine14
+جزرهم.{END}
+@gJiminyRikuCharacterKairiLine15
+{END}
+@gJiminyRikuCharacterLexaeusLine0
+{END}
+@gJiminyRikuCharacterLexaeusLine1
+{END}
+@gJiminyRikuCharacterLexaeusLine2
+ {END}
+@gJiminyRikuCharacterLexaeusLine3
+A born warrior,{END}
+@gJiminyRikuCharacterLexaeusLine4
+Lexaeus effortlessly{END}
+@gJiminyRikuCharacterLexaeusLine5
+brandishes a gigantic{END}
+@gJiminyRikuCharacterLexaeusLine6
+tomahawk.{END}
+@gJiminyRikuCharacterLexaeusLine7
+ {END}
+@gJiminyRikuCharacterLexaeusLine8
+يحمل{END}
+@gJiminyRikuCharacterLexaeusLine9
+بلا{END}
+@gJiminyRikuCharacterLexaeusLine10
+جهد{END}
+@gJiminyRikuCharacterLexaeusLine11
+{END}
+@gJiminyRikuCharacterLexaeusLine12
+ {END}
+@gJiminyRikuCharacterLexaeusLine13
+He failed, but with his{END}
+@gJiminyRikuCharacterLexaeusLine14
+dying strength dragged{END}
+@gJiminyRikuCharacterLexaeusLine15
+Riku into the realm of{END}
+@gJiminyRikuCharacterLexaeusLine16
+darkness.{END}
+@gJiminyAttackCardKingdomKeyLine0
+Strike:  D+{END}
+@gJiminyAttackCardKingdomKeyLine1
+Thrust:  D+{END}
+@gJiminyAttackCardKingdomKeyLine2
+Combo Finish:  D+{END}
+@gJiminyAttackCardKingdomKeyLine3
+Swing Speed:  B{END}
+@gJiminyAttackCardKingdomKeyLine4
+Element:  Physical{END}
+@gJiminyAttackCardKingdomKeyLine5
+Break Recovery:  B{END}
+@gJiminyAttackCardKingdomKeyLine6
+Required CP:  ★{END}
+@gJiminyAttackCardKingdomKeyLine7
+ {END}
+@gJiminyAttackCardKingdomKeyLine8
+The default weapon.{END}
+@gJiminyAttackCardKingdomKeyLine9
+Not very powerful, but{END}
+@gJiminyAttackCardKingdomKeyLine10
+reliable and easy to{END}
+@gJiminyAttackCardKingdomKeyLine11
+handle.{END}
+@gJiminyAttackCardThreeWishesLine0
+Strike:  C+{END}
+@gJiminyAttackCardThreeWishesLine1
+Thrust:  D+{END}
+@gJiminyAttackCardThreeWishesLine2
+Combo Finish:  B{END}
+@gJiminyAttackCardThreeWishesLine3
+Swing Speed:  A{END}
+@gJiminyAttackCardThreeWishesLine4
+Element:  Physical{END}
+@gJiminyAttackCardThreeWishesLine5
+Break Recovery:  B{END}
+@gJiminyAttackCardThreeWishesLine6
+Required CP:  A{END}
+@gJiminyAttackCardThreeWishesLine7
+ {END}
+@gJiminyAttackCardThreeWishesLine8
+Obtained in Agrabah.{END}
+@gJiminyAttackCardThreeWishesLine9
+Fairly strong with a{END}
+@gJiminyAttackCardThreeWishesLine10
+fast swing.{END}
+@gJiminyAttackCardCrabclawLine0
+Strike:  C{END}
+@gJiminyAttackCardCrabclawLine1
+Thrust:  C{END}
+@gJiminyAttackCardCrabclawLine2
+Combo Finish:  B+{END}
+@gJiminyAttackCardCrabclawLine3
+Swing Speed:  B{END}
+@gJiminyAttackCardCrabclawLine4
+Element:  Physical{END}
+@gJiminyAttackCardCrabclawLine5
+Break Recovery:  ★{END}
+@gJiminyAttackCardCrabclawLine6
+Required CP:  B{END}
+@gJiminyAttackCardCrabclawLine7
+ {END}
+@gJiminyAttackCardCrabclawLine8
+Obtained in Atlantica.{END}
+@gJiminyAttackCardCrabclawLine9
+Easy to handle with an{END}
+@gJiminyAttackCardCrabclawLine10
+impressive recovery{END}
+@gJiminyAttackCardCrabclawLine11
+time after card breaks.{END}
+@gJiminyAttackCardPumpkinheadLine0
+Strike:  C+{END}
+@gJiminyAttackCardPumpkinheadLine1
+Thrust:  C+{END}
+@gJiminyAttackCardPumpkinheadLine2
+Combo Finish:  D+{END}
+@gJiminyAttackCardPumpkinheadLine3
+Swing Speed:  B{END}
+@gJiminyAttackCardPumpkinheadLine4
+Element:  Physical{END}
+@gJiminyAttackCardPumpkinheadLine5
+Break Recovery:  A{END}
+@gJiminyAttackCardPumpkinheadLine6
+Required CP:  A{END}
+@gJiminyAttackCardPumpkinheadLine7
+ {END}
+@gJiminyAttackCardPumpkinheadLine8
+Obtained in Halloween{END}
+@gJiminyAttackCardPumpkinheadLine9
+بلدة{END}
+@gJiminyAttackCardPumpkinheadLine10
+الهالوين.{END}
+@gJiminyAttackCardPumpkinheadLine11
+سهل{END}
+@gJiminyAttackCardFairyHarpLine0
+{END}
+@gJiminyAttackCardFairyHarpLine1
+{END}
+@gJiminyAttackCardFairyHarpLine2
+{END}
+@gJiminyAttackCardFairyHarpLine3
+{END}
+@gJiminyAttackCardFairyHarpLine4
+{END}
+@gJiminyAttackCardFairyHarpLine5
+{END}
+@gJiminyAttackCardFairyHarpLine6
+{END}
+@gJiminyAttackCardFairyHarpLine7
+ {END}
+@gJiminyAttackCardFairyHarpLine8
+يُحصل{END}
+@gJiminyAttackCardFairyHarpLine9
+عليه{END}
+@gJiminyAttackCardFairyHarpLine10
+في{END}
+@gJiminyAttackCardWishingStarLine0
+أرض{END}
+@gJiminyAttackCardWishingStarLine1
+الأحلام.{END}
+@gJiminyAttackCardWishingStarLine2
+{END}
+@gJiminyAttackCardWishingStarLine3
+{END}
+@gJiminyAttackCardWishingStarLine4
+{END}
+@gJiminyAttackCardWishingStarLine5
+{END}
+@gJiminyAttackCardWishingStarLine6
+{END}
+@gJiminyAttackCardWishingStarLine7
+ {END}
+@gJiminyAttackCardWishingStarLine8
+يُحصل{END}
+@gJiminyAttackCardWishingStarLine9
+عليه{END}
+@gJiminyAttackCardWishingStarLine10
+في{END}
+@gJiminyAttackCardSpellbinderLine0
+مونسترو.{END}
+@gJiminyAttackCardSpellbinderLine1
+{END}
+@gJiminyAttackCardSpellbinderLine2
+{END}
+@gJiminyAttackCardSpellbinderLine3
+{END}
+@gJiminyAttackCardSpellbinderLine4
+{END}
+@gJiminyAttackCardSpellbinderLine5
+{END}
+@gJiminyAttackCardSpellbinderLine6
+{END}
+@gJiminyAttackCardSpellbinderLine7
+ {END}
+@gJiminyAttackCardSpellbinderLine8
+بطاقة{END}
+@gJiminyAttackCardSpellbinderLine9
+هجوم{END}
+@gJiminyAttackCardSpellbinderLine10
+{END}
+@gJiminyAttackCardMetalChocoboLine0
+{END}
+@gJiminyAttackCardMetalChocoboLine1
+{END}
+@gJiminyAttackCardMetalChocoboLine2
+{END}
+@gJiminyAttackCardMetalChocoboLine3
+{END}
+@gJiminyAttackCardMetalChocoboLine4
+{END}
+@gJiminyAttackCardMetalChocoboLine5
+{END}
+@gJiminyAttackCardMetalChocoboLine6
+{END}
+@gJiminyAttackCardMetalChocoboLine7
+ {END}
+@gJiminyAttackCardMetalChocoboLine8
+بطاقة{END}
+@gJiminyAttackCardMetalChocoboLine9
+هجوم{END}
+@gJiminyAttackCardMetalChocoboLine10
+{END}
+@gJiminyAttackCardMetalChocoboLine11
+{END}
+@gJiminyAttackCardOlympiaLine0
+{END}
+@gJiminyAttackCardOlympiaLine1
+{END}
+@gJiminyAttackCardOlympiaLine2
+{END}
+@gJiminyAttackCardOlympiaLine3
+{END}
+@gJiminyAttackCardOlympiaLine4
+{END}
+@gJiminyAttackCardOlympiaLine5
+{END}
+@gJiminyAttackCardOlympiaLine6
+{END}
+@gJiminyAttackCardOlympiaLine7
+ {END}
+@gJiminyAttackCardOlympiaLine8
+يُحصل{END}
+@gJiminyAttackCardOlympiaLine9
+عليه{END}
+@gJiminyAttackCardOlympiaLine10
+في{END}
+@gJiminyAttackCardOlympiaLine11
+{END}
+@gJiminyAttackCardLionheartLine0
+{END}
+@gJiminyAttackCardLionheartLine1
+{END}
+@gJiminyAttackCardLionheartLine2
+{END}
+@gJiminyAttackCardLionheartLine3
+{END}
+@gJiminyAttackCardLionheartLine4
+{END}
+@gJiminyAttackCardLionheartLine5
+{END}
+@gJiminyAttackCardLionheartLine6
+{END}
+@gJiminyAttackCardLionheartLine7
+ {END}
+@gJiminyAttackCardLionheartLine8
+بطاقة هجوم{END}
+@gJiminyAttackCardLionheartLine9
+{END}
+@gJiminyAttackCardLionheartLine10
+خاصة{END}
+@gJiminyAttackCardLadyLuckLine0
+{END}
+@gJiminyAttackCardLadyLuckLine1
+{END}
+@gJiminyAttackCardLadyLuckLine2
+{END}
+@gJiminyAttackCardLadyLuckLine3
+{END}
+@gJiminyAttackCardLadyLuckLine4
+{END}
+@gJiminyAttackCardLadyLuckLine5
+{END}
+@gJiminyAttackCardLadyLuckLine6
+{END}
+@gJiminyAttackCardLadyLuckLine7
+ {END}
+@gJiminyAttackCardLadyLuckLine8
+يُحصل{END}
+@gJiminyAttackCardLadyLuckLine9
+عليه{END}
+@gJiminyAttackCardLadyLuckLine10
+في{END}
+@gJiminyAttackCardDivineRoseLine0
+{END}
+@gJiminyAttackCardDivineRoseLine1
+{END}
+@gJiminyAttackCardDivineRoseLine2
+{END}
+@gJiminyAttackCardDivineRoseLine3
+{END}
+@gJiminyAttackCardDivineRoseLine4
+{END}
+@gJiminyAttackCardDivineRoseLine5
+{END}
+@gJiminyAttackCardDivineRoseLine6
+{END}
+@gJiminyAttackCardDivineRoseLine7
+ {END}
+@gJiminyAttackCardDivineRoseLine8
+يُحصل{END}
+@gJiminyAttackCardDivineRoseLine9
+عليه{END}
+@gJiminyAttackCardDivineRoseLine10
+في{END}
+@gJiminyAttackCardDivineRoseLine11
+{END}
+@gJiminyAttackCardOathkeeperLine0
+{END}
+@gJiminyAttackCardOathkeeperLine1
+{END}
+@gJiminyAttackCardOathkeeperLine2
+{END}
+@gJiminyAttackCardOathkeeperLine3
+{END}
+@gJiminyAttackCardOathkeeperLine4
+{END}
+@gJiminyAttackCardOathkeeperLine5
+{END}
+@gJiminyAttackCardOathkeeperLine6
+{END}
+@gJiminyAttackCardOathkeeperLine7
+ {END}
+@gJiminyAttackCardOathkeeperLine8
+سلاح{END}
+@gJiminyAttackCardOathkeeperLine9
+{END}
+@gJiminyAttackCardOathkeeperLine10
+{END}
+@gJiminyAttackCardOblivionLine0
+{END}
+@gJiminyAttackCardOblivionLine1
+{END}
+@gJiminyAttackCardOblivionLine2
+{END}
+@gJiminyAttackCardOblivionLine3
+{END}
+@gJiminyAttackCardOblivionLine4
+{END}
+@gJiminyAttackCardOblivionLine5
+{END}
+@gJiminyAttackCardOblivionLine6
+{END}
+@gJiminyAttackCardOblivionLine7
+ {END}
+@gJiminyAttackCardOblivionLine8
+بطاقة{END}
+@gJiminyAttackCardOblivionLine9
+هجوم{END}
+@gJiminyAttackCardOblivionLine10
+{END}
+@gJiminyAttackCardOblivionLine11
+{END}
+@gJiminyAttackCardDiamondDustLine0
+{END}
+@gJiminyAttackCardDiamondDustLine1
+{END}
+@gJiminyAttackCardDiamondDustLine2
+{END}
+@gJiminyAttackCardDiamondDustLine3
+{END}
+@gJiminyAttackCardDiamondDustLine4
+{END}
+@gJiminyAttackCardDiamondDustLine5
+{END}
+@gJiminyAttackCardDiamondDustLine6
+{END}
+@gJiminyAttackCardDiamondDustLine7
+ {END}
+@gJiminyAttackCardDiamondDustLine8
+بطاقة{END}
+@gJiminyAttackCardDiamondDustLine9
+هجوم{END}
+@gJiminyAttackCardDiamondDustLine10
+{END}
+@gJiminyAttackCardDiamondDustLine11
+{END}
+@gJiminyAttackCardOneWingedAngelLine0
+{END}
+@gJiminyAttackCardOneWingedAngelLine1
+{END}
+@gJiminyAttackCardOneWingedAngelLine2
+{END}
+@gJiminyAttackCardOneWingedAngelLine3
+{END}
+@gJiminyAttackCardOneWingedAngelLine4
+{END}
+@gJiminyAttackCardOneWingedAngelLine5
+{END}
+@gJiminyAttackCardOneWingedAngelLine6
+{END}
+@gJiminyAttackCardOneWingedAngelLine7
+ {END}
+@gJiminyAttackCardOneWingedAngelLine8
+بطاقة{END}
+@gJiminyAttackCardOneWingedAngelLine9
+هجوم{END}
+@gJiminyAttackCardOneWingedAngelLine10
+{END}
+@gJiminyAttackCardOneWingedAngelLine11
+combo finish.{END}
+@gJiminyEnemyCardDarksideLine0
+■ Mimic{END}
+@gJiminyEnemyCardDarksideLine1
+Copy the enemy card{END}
+@gJiminyEnemyCardDarksideLine2
+your opponent is using.{END}
+@gJiminyEnemyCardDarksideLine3
+Nothing happens if{END}
+@gJiminyEnemyCardDarksideLine4
+your opponent has no{END}
+@gJiminyEnemyCardDarksideLine5
+enemy card in play.{END}
+@gJiminyEnemyCardOogieBoogieLine0
+■ Regen{END}
+@gJiminyEnemyCardOogieBoogieLine1
+Gradually restore HP.{END}
+@gJiminyEnemyCardOogieBoogieLine2
+HP return more quickly{END}
+@gJiminyEnemyCardOogieBoogieLine3
+when low.{END}
+@gJiminyEnemyCardOogieBoogieLine4
+ {END}
+@gJiminyEnemyCardOogieBoogieLine5
+المدة:{END}
+@gJiminyEnemyCardParasiteCageLine0
+10{END}
+@gJiminyEnemyCardParasiteCageLine1
+استخدامات{END}
+@gJiminyEnemyCardParasiteCageLine2
+{END}
+@gJiminyEnemyCardParasiteCageLine3
+{END}
+@gJiminyEnemyCardParasiteCageLine4
+{END}
+@gJiminyEnemyCardParasiteCageLine5
+{END}
+@gJiminyEnemyCardAnsemLine0
+{END}
+@gJiminyEnemyCardAnsemLine1
+{END}
+@gJiminyEnemyCardAnsemLine2
+{END}
+@gJiminyEnemyCardAnsemLine3
+ {END}
+@gJiminyEnemyCardAnsemLine4
+عن{END}
+@gJiminyEnemyCardAnsemLine5
+الخصوم.{END}
+@gJiminyEnemyCardAnsemLine6
+{END}
+@gJiminyEnemyCardTrickmasterLine0
+{END}
+@gJiminyEnemyCardTrickmasterLine1
+{END}
+@gJiminyEnemyCardTrickmasterLine2
+{END}
+@gJiminyEnemyCardTrickmasterLine3
+{END}
+@gJiminyEnemyCardTrickmasterLine4
+{END}
+@gJiminyEnemyCardTrickmasterLine5
+{END}
+@gJiminyEnemyCardTrickmasterLine6
+ {END}
+@gJiminyEnemyCardTrickmasterLine7
+الخصم{END}
+@gJiminyEnemyCardJafarLine0
+بمقدار{END}
+@gJiminyEnemyCardJafarLine1
+{END}
+@gJiminyEnemyCardJafarLine2
+{END}
+@gJiminyEnemyCardJafarLine3
+{END}
+@gJiminyEnemyCardJafarLine4
+ {END}
+@gJiminyEnemyCardJafarLine5
+بطاقات{END}
+@gJiminyEnemyCardCardSoldierLine0
+الهجوم{END}
+@gJiminyEnemyCardCardSoldierLine1
+{END}
+@gJiminyEnemyCardCardSoldierLine2
+{END}
+@gJiminyEnemyCardCardSoldierLine3
+ {END}
+@gJiminyEnemyCardCardSoldierLine4
+بطاقات{END}
+@gJiminyMapCardTeemingDarknessLine0
+الهجوم.{END}
+@gJiminyMapCardTeemingDarknessLine1
+{END}
+@gJiminyMapCardTeemingDarknessLine2
+{END}
+@gJiminyMapCardTeemingDarknessLine3
+{END}
+@gJiminyMapCardLoomingDarknessLine0
+{END}
+@gJiminyMapCardLoomingDarknessLine1
+{END}
+@gJiminyMapCardLoomingDarknessLine2
+{END}
+@gJiminyMapCardLoomingDarknessLine3
+{END}
+@gJiminyMapCardLoomingDarknessLine4
+{END}
+@gJiminyMapCardAlmightyDarknessLine0
+{END}
+@gJiminyMapCardAlmightyDarknessLine1
+{END}
+@gJiminyMapCardAlmightyDarknessLine2
+{END}
+@gJiminyMapCardAlmightyDarknessLine3
+{END}
+@gJiminyMapCardAlmightyDarknessLine4
+{END}
+@gJiminyPremiumCardsLine0
+{END}
+@gJiminyPremiumCardsLine1
+{END}
+@gJiminyPremiumCardsLine2
+ {END}
+@gJiminyPremiumCardsLine3
+Premium cards require{END}
+@gJiminyPremiumCardsLine4
+very little CP, but can{END}
+@gJiminyPremiumCardsLine5
+only be used once per{END}
+@gJiminyPremiumCardsLine6
+battle―no reloads{END}
+@gJiminyPremiumCardsLine7
+allowed.{END}
+@gJiminyPremiumCardsLine8
+ {END}
+@gJiminyPremiumCardsLine9
+Only attack cards and{END}
+@gJiminyPremiumCardsLine10
+magic cards can be{END}
+@gJiminyPremiumCardsLine11
+تُرقى إلى{END}
+@gJiminyPremiumCardsLine12
+{END}
+@gJiminyPremiumCardsLine13
+ {END}
+@gJiminyPremiumCardsLine14
+بطاقات{END}
+@gJiminyPremiumCardsLine15
+{END}
+@gJiminyPremiumCardsLine16
+{END}
+@gJiminyRikuCardKingLine0
+{END}
+@gJiminyRikuCardKingLine1
+{END}
+@gJiminyRikuCardKingLine2
+{END}
+@gJiminyRikuCardKingLine3
+{END}
+@gJiminyStoryAtlanticaLine0
+{END}
+@gJiminyStoryAtlanticaLine1
+{END}
+@gJiminyStoryAtlanticaLine2
+{END}
+@gJiminyStoryAtlanticaLine3
+{END}
+@gJiminyStoryAtlanticaLine4
+{END}
+@gJiminyStoryAtlanticaLine5
+ {END}
+@gJiminyStoryAtlanticaLine6
+على{END}
+@gJiminyStoryAtlanticaLine7
+صديقها{END}
+@gJiminyStoryAtlanticaLine8
+{END}
+@gJiminyStoryAtlanticaLine9
+{END}
+@gJiminyStoryAtlanticaLine10
+{END}
+@gJiminyStoryAtlanticaLine11
+{END}
+@gJiminyStoryAtlanticaLine12
+ {END}
+@gJiminyStoryAtlanticaLine13
+Ariel was so worried,{END}
+@gJiminyStoryAtlanticaLine14
+she stole the trident{END}
+@gJiminyStoryAtlanticaLine15
+for Ursula,  but it was{END}
+@gJiminyStoryAtlanticaLine16
+all a trick―Ursula had{END}
+@gJiminyStoryAtlanticaLine17
+Flounder all along.{END}
+@gJiminyStoryAtlanticaLine18
+ {END}
+@gJiminyStoryAtlanticaLine19
+With the trident’s{END}
+@gJiminyStoryAtlanticaLine20
+power Ursula became a{END}
+@gJiminyStoryAtlanticaLine21
+giant, but we stopped{END}
+@gJiminyStoryAtlanticaLine22
+her and Ariel resolved{END}
+@gJiminyStoryAtlanticaLine23
+to apologize to her{END}
+@gJiminyStoryAtlanticaLine24
+father, the king.{END}
+@gJiminyStory100AcreWoodLine0
+Pooh seemed to have{END}
+@gJiminyStory100AcreWoodLine1
+lost his friends, so{END}
+@gJiminyStory100AcreWoodLine2
+Sora stopped to help{END}
+@gJiminyStory100AcreWoodLine3
+him look.{END}
+@gJiminyStory100AcreWoodLine4
+ {END}
+@gJiminyStory100AcreWoodLine5
+Maybe Sora saw{END}
+@gJiminyStory100AcreWoodLine6
+something of himself in{END}
+@gJiminyStory100AcreWoodLine7
+Pooh, since he’s looking{END}
+@gJiminyStory100AcreWoodLine8
+for friends too.{END}
+@gJiminyEnemyCardSearchGhostLine0
+■ Drain{END}
+@gJiminyEnemyCardSearchGhostLine1
+Absorb enemy HP when{END}
+@gJiminyEnemyCardSearchGhostLine2
+striking with attack{END}
+@gJiminyEnemyCardSearchGhostLine3
+cards, but enemies will{END}
+@gJiminyEnemyCardSearchGhostLine4
+drop fewer items.{END}
+@gJiminyEnemyCardSearchGhostLine5
+ {END}
+@gJiminyEnemyCardSearchGhostLine6
+Duration:  1 reload{END}
+@gJiminyEnemyCardWyvernLine0
+■ Reload Lock{END}
+@gJiminyEnemyCardWyvernLine1
+Reload without{END}
+@gJiminyEnemyCardWyvernLine2
+incrementing the reload{END}
+@gJiminyEnemyCardWyvernLine3
+counter.{END}
+@gJiminyEnemyCardWyvernLine4
+ {END}
+@gJiminyEnemyCardWyvernLine5
+زيادة{END}
+@gJiminyEnemyCardTornadoStepLine0
+{END}
+@gJiminyEnemyCardTornadoStepLine1
+{END}
+@gJiminyEnemyCardTornadoStepLine2
+{END}
+@gJiminyEnemyCardTornadoStepLine3
+ {END}
+@gJiminyEnemyCardTornadoStepLine4
+Duration:  1 reload{END}
+@gJiminyHeartlessSeaNeonLine0
+A jellyfish-like{END}
+@gJiminyHeartlessSeaNeonLine1
+Heartless.{END}
+@gJiminyHeartlessSeaNeonLine2
+ {END}
+@gJiminyHeartlessSeaNeonLine3
+It might look laid back,{END}
+@gJiminyHeartlessSeaNeonLine4
+but the Sea Neon’s long{END}
+@gJiminyHeartlessSeaNeonLine5
+tentacles can propel it{END}
+@gJiminyHeartlessSeaNeonLine6
+toward enemies for a{END}
+@gJiminyHeartlessSeaNeonLine7
+ferocious attack.{END}
+@gJiminyStoryCastleOblivionLine0
+حسناً،{END}
+@gJiminyStoryCastleOblivionLine1
+{END}
+@gJiminyStoryCastleOblivionLine2
+{END}
+@gJiminyStoryCastleOblivionLine3
+{END}
+@gJiminyStoryCastleOblivionLine4
+{END}
+@gJiminyStoryCastleOblivionLine5
+{END}
+@gJiminyStoryCastleOblivionLine6
+ {END}
+@gJiminyStoryCastleOblivionLine7
+But we’ve made a{END}
+@gJiminyStoryCastleOblivionLine8
+promise.  No distance{END}
+@gJiminyStoryCastleOblivionLine9
+can separate us, and{END}
+@gJiminyStoryCastleOblivionLine10
+we’ll be friends even if{END}
+@gJiminyStoryCastleOblivionLine11
+we can’t remember it to{END}
+@gJiminyStoryCastleOblivionLine12
+be so.{END}
+@gJiminyStoryCastleOblivionLine13
+ {END}
+@gJiminyStoryCastleOblivionLine14
+اختفت.{END}
+@gJiminyStoryCastleOblivionLine15
+{END}
+@gJiminyStoryCastleOblivionLine16
+{END}
+@gJiminyStoryCastleOblivionLine17
+{END}
+@gJiminyStoryCastleOblivionLine18
+{END}
+@gJiminyStoryCastleOblivionLine19
+{END}
+@gJiminyStoryCastleOblivionLine20
+ {END}
+@gJiminyStoryCastleOblivionLine21
+Sora knows that{END}
+@gJiminyStoryCastleOblivionLine22
+promises don’t fade as{END}
+@gJiminyStoryCastleOblivionLine23
+easily as memories.{END}
+@gJiminyAttackCardUltimaWeaponLine0
+Strike:  ★{END}
+@gJiminyAttackCardUltimaWeaponLine1
+Thrust:  ★{END}
+@gJiminyAttackCardUltimaWeaponLine2
+Combo Finish:  A{END}
+@gJiminyAttackCardUltimaWeaponLine3
+Swing Speed:  B{END}
+@gJiminyAttackCardUltimaWeaponLine4
+Element:  Physical{END}
+@gJiminyAttackCardUltimaWeaponLine5
+Break Recovery:  B{END}
+@gJiminyAttackCardUltimaWeaponLine6
+Required CP:  D{END}
+@gJiminyAttackCardUltimaWeaponLine7
+ {END}
+@gJiminyAttackCardUltimaWeaponLine8
+أقوى{END}
+@gJiminyAttackCardUltimaWeaponLine9
+{END}
+@gJiminyHeartlessNeoshadowLine0
+{END}
+@gJiminyHeartlessNeoshadowLine1
+{END}
+@gJiminyHeartlessNeoshadowLine2
+{END}
+@gJiminyHiddenText0
+{END}
+@gJiminyHiddenText1
+{END}
+@gJiminyHiddenText2
+{END}
+@gJiminyHiddenText3
+{END}
+@gJiminyHiddenText4
+{END}
+@gJiminyHiddenText5
+{END}
+@gJiminyHiddenText6
+{END}
+@gJiminyHiddenText7
+{END}
+@gJiminyHiddenText8
+{END}
+@gJiminyHiddenText9
+{END}
+@gJiminyHiddenText10
+{END}
+@gJiminyHiddenText11
+{END}
+@gJiminyHiddenText12
+{END}

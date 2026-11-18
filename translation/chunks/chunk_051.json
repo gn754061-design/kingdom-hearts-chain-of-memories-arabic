@@ -1,0 +1,848 @@
+{
+ "chunk": 51,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 173,
+ "items": [
+  {
+   "id": "event_text:gEvent163Text11",
+   "pool": "event_text",
+   "symbol": "gEvent163Text11",
+   "en": "Are you calling me a coward?{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent163Text12",
+   "pool": "event_text",
+   "symbol": "gEvent163Text12",
+   "en": "You ARE a coward.\nYou’re afraid of the dark!\n\nThe darkness inside you\nscares you witless.{END}",
+   "max_units": 98,
+   "units": 98,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent163Text13",
+   "pool": "event_text",
+   "symbol": "gEvent163Text13",
+   "en": "Look, I―{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent163Text14",
+   "pool": "event_text",
+   "symbol": "gEvent163Text14",
+   "en": "But I'M different.  I embrace\nthe darkness.  I can make it do\nwhatever I want.\nIn other words…{END}",
+   "max_units": 102,
+   "units": 102,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent163Text15",
+   "pool": "event_text",
+   "symbol": "gEvent163Text15",
+   "en": "I can wipe the floor with you!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent164Text00",
+   "pool": "event_text",
+   "symbol": "gEvent164Text00",
+   "en": "Hey, FAKE.\nI thought you were gonna\nwipe the floor with me.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent164Text01",
+   "pool": "event_text",
+   "symbol": "gEvent164Text01",
+   "en": "Go on, laugh.\nI’m still new.  I’ll get stronger\nand stronger, just you wait.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent164Text02",
+   "pool": "event_text",
+   "symbol": "gEvent164Text02",
+   "en": "It won’t be long before I\nsurpass you.  Next time we\nfight, you’re finished!{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent164Text03",
+   "pool": "event_text",
+   "symbol": "gEvent164Text03",
+   "en": "Sorry, you missed your\nchance.  I’m finishing you first,\nright here!{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent164Text04",
+   "pool": "event_text",
+   "symbol": "gEvent164Text04",
+   "en": "Ha ha ha!\nIt's nice to have darkness on\nmy side.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent164Text05",
+   "pool": "event_text",
+   "symbol": "gEvent164Text05",
+   "en": "How could you be scared of\nsomething so thrilling!  You’re\nmissing out.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent164Text06",
+   "pool": "event_text",
+   "symbol": "gEvent164Text06",
+   "en": "Shut up!{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent164Text07",
+   "pool": "event_text",
+   "symbol": "gEvent164Text07",
+   "en": "So now the coward is playing\ntough guy.  That’s cute.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent164Text08",
+   "pool": "event_text",
+   "symbol": "gEvent164Text08",
+   "en": "See you next time, Real Thing.\nTry not to miss me.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent164Text09",
+   "pool": "event_text",
+   "symbol": "gEvent164Text09",
+   "en": "Come back here!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent164Text10",
+   "pool": "event_text",
+   "symbol": "gEvent164Text10",
+   "en": "I’ll show you who’s a coward.\nPunk.{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent165Text00",
+   "pool": "event_text",
+   "symbol": "gEvent165Text00",
+   "en": "How did it feel to fight the\nreal Riku?{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent165Text01",
+   "pool": "event_text",
+   "symbol": "gEvent165Text01",
+   "en": "He’s spineless.\nI’ll be running circles around\nhim in no time.{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent165Text02",
+   "pool": "event_text",
+   "symbol": "gEvent165Text02",
+   "en": "Before that, wouldn’t you like\nto meet another hero?{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent165Text03",
+   "pool": "event_text",
+   "symbol": "gEvent165Text03",
+   "en": "You mean that Sora kid.\nHe’s here in the castle, I hear.\nWant me to take care of him?{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent165Text04",
+   "pool": "event_text",
+   "symbol": "gEvent165Text04",
+   "en": "Nothing’s definite, but yes, it\nmay come to that.  I intend to\nmake good use of you.{END}",
+   "max_units": 91,
+   "units": 91,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent165Text05",
+   "pool": "event_text",
+   "symbol": "gEvent165Text05",
+   "en": "No worries.\nSora’s just one more person\nto crush on the way to Riku.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent166Text00",
+   "pool": "event_text",
+   "symbol": "gEvent166Text00",
+   "en": "Come on out, you fake!\nShow yourself!{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent166Text01",
+   "pool": "event_text",
+   "symbol": "gEvent166Text01",
+   "en": "Fake?\nOh, I don't think that's the\nright word.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent166Text02",
+   "pool": "event_text",
+   "symbol": "gEvent166Text02",
+   "en": "What are you saying?\nHe's just a copy of me―he\nsaid as much himself.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent166Text03",
+   "pool": "event_text",
+   "symbol": "gEvent166Text03",
+   "en": "A copy, yes―or maybe a\nmodel.  He is an example of\nwhat you should be.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent166Text04",
+   "pool": "event_text",
+   "symbol": "gEvent166Text04",
+   "en": "He accepts the darkness…\njust as you once accepted me.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent166Text05",
+   "pool": "event_text",
+   "symbol": "gEvent166Text05",
+   "en": "But now you are afraid.\nPerhaps YOU are the one who\nis being fake.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent166Text06",
+   "pool": "event_text",
+   "symbol": "gEvent166Text06",
+   "en": "Name one time I've been afraid\nof the darkness!{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent166Text07",
+   "pool": "event_text",
+   "symbol": "gEvent166Text07",
+   "en": "In the card-worlds, you\ngrappled desperately with\nthe darkness.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent166Text08",
+   "pool": "event_text",
+   "symbol": "gEvent166Text08",
+   "en": "Desperation is a product of\nfear.  You fight the darkness\nbecause it frightens you.{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent166Text09",
+   "pool": "event_text",
+   "symbol": "gEvent166Text09",
+   "en": "Oh, I get it.{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent166Text10",
+   "pool": "event_text",
+   "symbol": "gEvent166Text10",
+   "en": "You think I’ll stop fighting the\ndarkness just to prove I’m not\nafraid of it.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent166Text11",
+   "pool": "event_text",
+   "symbol": "gEvent166Text11",
+   "en": "Nice try.\nBut I’m gonna keep fighting.{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent166Text12",
+   "pool": "event_text",
+   "symbol": "gEvent166Text12",
+   "en": "Tsk, so stubborn.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent166Text13",
+   "pool": "event_text",
+   "symbol": "gEvent166Text13",
+   "en": "Then continue your fight, if\nyou must.  Eventually, you will\nsee.\nYou cannot resist the dark.{END}",
+   "max_units": 101,
+   "units": 101,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent167Text13",
+   "pool": "event_text",
+   "symbol": "gEvent167Text13",
+   "en": "But it’s just a card.\nWhat good is that?{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent167Text14",
+   "pool": "event_text",
+   "symbol": "gEvent167Text14",
+   "en": "That card contains Sora and\nRiku’s memories of their home.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent167Text15",
+   "pool": "event_text",
+   "symbol": "gEvent167Text15",
+   "en": "This is your chance to get\nyour hands on the real Riku’s\nmemories.\nAll you need is that card and a\nlittle help from Naminé.{END}",
+   "max_units": 132,
+   "units": 132,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent167Text16",
+   "pool": "event_text",
+   "symbol": "gEvent167Text16",
+   "en": "Maybe we'll get her to make\nyou forget you're fake…{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent167Text17",
+   "pool": "event_text",
+   "symbol": "gEvent167Text17",
+   "en": "Better yet, we could remake\nyour heart so you can be just\nlike the real Riku.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent167Text18",
+   "pool": "event_text",
+   "symbol": "gEvent167Text18",
+   "en": "Hey, hold on!\nWhat do you mean, remake my\nheart?!{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent167Text19",
+   "pool": "event_text",
+   "symbol": "gEvent167Text19",
+   "en": "The real Riku’s a wimp who\ncan’t deal with the darkness\ninside him.\nWhat do I want with the heart\nof a loser?{END}",
+   "max_units": 118,
+   "units": 118,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent167Text20",
+   "pool": "event_text",
+   "symbol": "gEvent167Text20",
+   "en": "Any objections, Vexen?\nDo you or don’t you want to\ntest Sora?{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent167Text21",
+   "pool": "event_text",
+   "symbol": "gEvent167Text21",
+   "en": "It must be done.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent167Text22",
+   "pool": "event_text",
+   "symbol": "gEvent167Text22",
+   "en": "What?!\nVexen, how could you!{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent167Text23",
+   "pool": "event_text",
+   "symbol": "gEvent167Text23",
+   "en": "Didn’t I say I intended to make\ngood use of you?{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent167Text24",
+   "pool": "event_text",
+   "symbol": "gEvent167Text24",
+   "en": "Relax, kiddo.\nIt won’t hurt…much!{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent167Text25",
+   "pool": "event_text",
+   "symbol": "gEvent167Text25",
+   "en": "I’ll show YOU hurt!{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent167Text26",
+   "pool": "event_text",
+   "symbol": "gEvent167Text26",
+   "en": "Stupid little toy!\nWhat made you think you could\neven SCRATCH me?{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent167Text27",
+   "pool": "event_text",
+   "symbol": "gEvent167Text27",
+   "en": "But look on the bright side…\n\n\nNaminé will erase the memory\nof me knocking you flat along\nwith everything else.{END}",
+   "max_units": 121,
+   "units": 121,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent167Text28",
+   "pool": "event_text",
+   "symbol": "gEvent167Text28",
+   "en": "She’ll implant the loveliest\nlittle memories you could ever\nhope for.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent167Text29",
+   "pool": "event_text",
+   "symbol": "gEvent167Text29",
+   "en": "So what if they’re lies?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent167Text30",
+   "pool": "event_text",
+   "symbol": "gEvent167Text30",
+   "en": "No…{END}",
+   "max_units": 52,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent167Text31",
+   "pool": "event_text",
+   "symbol": "gEvent167Text31",
+   "en": "NOOO!!!{END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent168Text00",
+   "pool": "event_text",
+   "symbol": "gEvent168Text00",
+   "en": "Why so glum, Naminé?\nIs something on your mind?{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent168Text01",
+   "pool": "event_text",
+   "symbol": "gEvent168Text01",
+   "en": "Feeling bad about tinkering\nwith Sora’s memory?  Or maybe\nyou―{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent168Text02",
+   "pool": "event_text",
+   "symbol": "gEvent168Text02",
+   "en": "Knock it off, Larxene.{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent168Text03",
+   "pool": "event_text",
+   "symbol": "gEvent168Text03",
+   "en": "Naminé wants to forget about\nSora.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent168Text04",
+   "pool": "event_text",
+   "symbol": "gEvent168Text04",
+   "en": "You don't say.{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent168Text05",
+   "pool": "event_text",
+   "symbol": "gEvent168Text05",
+   "en": "Don't worry, Naminé.\nI'll make whatever's hurting\nyou go away.{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent168Text06",
+   "pool": "event_text",
+   "symbol": "gEvent168Text06",
+   "en": "I swear it on the good luck\ncharm you gave me.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent168Text07",
+   "pool": "event_text",
+   "symbol": "gEvent168Text07",
+   "en": "I’ll be back.{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent168Text08",
+   "pool": "event_text",
+   "symbol": "gEvent168Text08",
+   "en": "Simply amazing.\nIt's like you completely rebuilt\nhis heart…{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent168Text09",
+   "pool": "event_text",
+   "symbol": "gEvent168Text09",
+   "en": "The good luck charm was an\nespecially nice touch.\n\nI didn't know you could use\nmemories to transform objects\nlike cards into keepsakes.{END}",
+   "max_units": 145,
+   "units": 145,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent168Text10",
+   "pool": "event_text",
+   "symbol": "gEvent168Text10",
+   "en": "Just like you changed Kairi's\ngood luck charm.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent168Text11",
+   "pool": "event_text",
+   "symbol": "gEvent168Text11",
+   "en": "It won't be long before Sora\nforgets her completely!  And\nthen he'll be yours to―{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent168Text12",
+   "pool": "event_text",
+   "symbol": "gEvent168Text12",
+   "en": "He won’t forget.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent168Text13",
+   "pool": "event_text",
+   "symbol": "gEvent168Text13",
+   "en": "No matter how much I change\nhis memory, Sora will never\nforget Kairi.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent168Text14",
+   "pool": "event_text",
+   "symbol": "gEvent168Text14",
+   "en": "Memories of me will just make\nhis feelings for Kairi stronger.\nBecause…{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  }
+ ]
+}

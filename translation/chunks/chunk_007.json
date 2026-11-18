@@ -1,0 +1,942 @@
+{
+ "chunk": 7,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 127,
+ "items": [
+  {
+   "id": "card_message_text:gGoofyTalkText19",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText19",
+   "en": "I got a bad feeling about all\nthis.  We should be careful.{END}",
+   "max_units": 80,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText20",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText20",
+   "en": "You think there are memories\non the other side of MY heart?\nKinda scary…{END}",
+   "max_units": 80,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText21",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText21",
+   "en": "Riku’s good luck charm turned\ninto…a card?!{END}",
+   "max_units": 80,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText22",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText22",
+   "en": "You’re a nice guy.\nWhy?  It’s a secret, a-hyuck!{END}",
+   "max_units": 80,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText23",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText23",
+   "en": "Promises never fade, even if\nall our memories do.{END}",
+   "max_units": 80,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gGoofyExitHallTalkText",
+   "pool": "card_message_text",
+   "symbol": "gGoofyExitHallTalkText",
+   "en": "As long as we remember our\npromise, there’s nothing we\ncan’t take on!{END}",
+   "max_units": 80,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gNamineTalkText0",
+   "pool": "card_message_text",
+   "symbol": "gNamineTalkText0",
+   "en": "I wish I could help Riku.\nI’m the one who made him\nsuffer…{END}",
+   "max_units": 80,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gNamineTalkText1",
+   "pool": "card_message_text",
+   "symbol": "gNamineTalkText1",
+   "en": "Your heart can withstand\neven Marluxia’s power.  I just\nknow it!{END}",
+   "max_units": 80,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gRikuReplicaTalkText",
+   "pool": "card_message_text",
+   "symbol": "gRikuReplicaTalkText",
+   "en": "I’ll take care of Naminé.\nI promise.{END}",
+   "max_units": 80,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMickeyTalkText0",
+   "pool": "card_message_text",
+   "symbol": "gMickeyTalkText0",
+   "en": "Golly, it sure feels like I’ve\nmet DiZ somewhere before.{END}",
+   "max_units": 80,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMickeyTalkText1",
+   "pool": "card_message_text",
+   "symbol": "gMickeyTalkText1",
+   "en": "You’d never let the darkness\nget the best of you.  I’m sure\nof that.{END}",
+   "max_units": 80,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gMickeyTalkText2",
+   "pool": "card_message_text",
+   "symbol": "gMickeyTalkText2",
+   "en": "The power of light should keep\nAnsem locked up for a while.{END}",
+   "max_units": 80,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMsTopIntroText0",
+   "pool": "card_message_text",
+   "symbol": "gMsTopIntroText0",
+   "en": "The {HIGHLIGHT}Moogle Shop{PLAIN} is a moogle\nestablishment where you can\ntrade in cards.{END}",
+   "max_units": 96,
+   "units": 96,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gMsTopIntroText1",
+   "pool": "card_message_text",
+   "symbol": "gMsTopIntroText1",
+   "en": "Exchange cards you don’t\nneed anymore for {HIGHLIGHT}Moogle{PLAIN}\n{HIGHLIGHT}Points{PLAIN}.\nSave up enough points and\nyou can trade them in for a\nnew card pack. {END}",
+   "max_units": 172,
+   "units": 172,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "card_message_text:gMsTopIntroText2",
+   "pool": "card_message_text",
+   "symbol": "gMsTopIntroText2",
+   "en": "You can get a free card pack\nthe first time you visit the\nMoogle Shop.{END}",
+   "max_units": 80,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gMsTopFreePackText",
+   "pool": "card_message_text",
+   "symbol": "gMsTopFreePackText",
+   "en": "Here's a card pack for you,\nkupo!{END}",
+   "max_units": 80,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMsTopShopOptionText",
+   "pool": "card_message_text",
+   "symbol": "gMsTopShopOptionText",
+   "en": "Hiya, kupo!\nBuy some card packs before\nyou go, kupo!{END}",
+   "max_units": 80,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gMsTopChargeOptionText",
+   "pool": "card_message_text",
+   "symbol": "gMsTopChargeOptionText",
+   "en": "Got any old cards, kupo?\nTrade them in for points!{END}",
+   "max_units": 80,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gRikuDeckTutorialText",
+   "pool": "card_message_text",
+   "symbol": "gRikuDeckTutorialText",
+   "en": "Riku can’t build his own deck.\nHe must battle using a {HIGHLIGHT}closed\ndeck{PLAIN} with preselected cards.\nThe deck Riku uses changes\nas he proceeds through the\ncastle.{END}",
+   "max_units": 179,
+   "units": 179,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "card_message_text:gRikuBattleTutorialText",
+   "pool": "card_message_text",
+   "symbol": "gRikuBattleTutorialText",
+   "en": "Riku does not have to reload\ncards during battle.\n\nUsed cards will automatically\nreturn to the card reel.{END}",
+   "max_units": 114,
+   "units": 114,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "card_message_text:gLearnedWarpinatorText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedWarpinatorText",
+   "en": "Learned {HIGHLIGHT}Warpinator{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 42,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedTerrorText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedTerrorText",
+   "en": "Learned {HIGHLIGHT}Terror{PLAIN}!\n\n\nObtained {HIGHLIGHT}Key of Beginnings{PLAIN}.{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "card_message_text:gLearnedSynchroText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedSynchroText",
+   "en": "Learned {HIGHLIGHT}Synchro{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 39,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedBindText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedBindText",
+   "en": "Learned {HIGHLIGHT}Bind{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 36,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedIdyllRompText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedIdyllRompText",
+   "en": "Learned {HIGHLIGHT}Idyll Romp{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 42,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedTrinityLimitText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedTrinityLimitText",
+   "en": "Learned {HIGHLIGHT}Trinity Limit{PLAIN}!\n\n\nObtained {HIGHLIGHT}Key of Beginnings{PLAIN}.{END}",
+   "max_units": 96,
+   "units": 96,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "card_message_text:gLearnedConfuseText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedConfuseText",
+   "en": "Learned {HIGHLIGHT}Confuse{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 39,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedThunderRaidText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedThunderRaidText",
+   "en": "Learned {HIGHLIGHT}Thunder Raid{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedGiftedMiracleText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedGiftedMiracleText",
+   "en": "Learned {HIGHLIGHT}Gifted Miracle{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 46,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedGravityRaidText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedGravityRaidText",
+   "en": "Learned {HIGHLIGHT}Gravity Raid{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedFireRaidText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedFireRaidText",
+   "en": "Learned {HIGHLIGHT}Fire Raid{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 41,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedAquaSplashText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedAquaSplashText",
+   "en": "Learned {HIGHLIGHT}Aqua Splash{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 43,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedBlizzardRaidText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedBlizzardRaidText",
+   "en": "Learned {HIGHLIGHT}Blizzard Raid{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 45,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedStopRaidText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedStopRaidText",
+   "en": "Learned {HIGHLIGHT}Stop Raid{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 41,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedShockImpactText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedShockImpactText",
+   "en": "Learned {HIGHLIGHT}Shock Impact{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedHomingBlizzaraText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedHomingBlizzaraText",
+   "en": "Learned {HIGHLIGHT}Homing Blizzara{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 47,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedQuakeText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedQuakeText",
+   "en": "Learned {HIGHLIGHT}Quake{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 37,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedBlazingDonaldText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedBlazingDonaldText",
+   "en": "Learned {HIGHLIGHT}Blazing Donald{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 46,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedHomingFiraText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedHomingFiraText",
+   "en": "Learned {HIGHLIGHT}Homing Fira{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 43,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedTeleportText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedTeleportText",
+   "en": "Learned {HIGHLIGHT}Teleport{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 40,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedTornadoText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedTornadoText",
+   "en": "Learned {HIGHLIGHT}Tornado{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 39,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedCrossSlashPlusText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedCrossSlashPlusText",
+   "en": "Learned {HIGHLIGHT}Cross-slash+{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedReflectRaidText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedReflectRaidText",
+   "en": "Learned {HIGHLIGHT}Reflect Raid{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedFiragaBreakText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedFiragaBreakText",
+   "en": "Learned {HIGHLIGHT}Firaga Break{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedWarpText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedWarpText",
+   "en": "Learned {HIGHLIGHT}Warp{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 36,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gLearnedJudgmentText",
+   "pool": "card_message_text",
+   "symbol": "gLearnedJudgmentText",
+   "en": "Learned {HIGHLIGHT}Judgment{PLAIN}!{END}",
+   "max_units": 80,
+   "units": 40,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gUnusedObtainedMegaPotionText",
+   "pool": "card_message_text",
+   "symbol": "gUnusedObtainedMegaPotionText",
+   "en": "Obtained {HIGHLIGHT}Mega-Potion{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gUnusedObtainedMegaEtherText",
+   "pool": "card_message_text",
+   "symbol": "gUnusedObtainedMegaEtherText",
+   "en": "Obtained {HIGHLIGHT}Mega-Ether{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 43,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedElixirText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedElixirText",
+   "en": "Obtained {HIGHLIGHT}Elixir{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 39,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedSpellbinderText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedSpellbinderText",
+   "en": "Obtained {HIGHLIGHT}Spellbinder{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedGenieText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedGenieText",
+   "en": "Obtained {HIGHLIGHT}Genie{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 38,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedCloudText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedCloudText",
+   "en": "Obtained {HIGHLIGHT}Cloud{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 38,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gUnusedLearnedZantetsukenText",
+   "pool": "card_message_text",
+   "symbol": "gUnusedLearnedZantetsukenText",
+   "en": "Obtained {HIGHLIGHT}World Cards{PLAIN}.\n\n\nLearned {HIGHLIGHT}Zantetsuken{PLAIN}!{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "card_message_text:gObtainedOathkeeperText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedOathkeeperText",
+   "en": "Obtained {HIGHLIGHT}Oathkeeper{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 43,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedBambiText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedBambiText",
+   "en": "Obtained {HIGHLIGHT}Bambi{PLAIN}.\n\n\n          Save your game?{END}",
+   "max_units": 80,
+   "units": 69,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "card_message_text:gEventSaveConfirmText",
+   "pool": "card_message_text",
+   "symbol": "gEventSaveConfirmText",
+   "en": "          Save your game?{END}",
+   "max_units": 80,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedKeyOfBeginningsText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedKeyOfBeginningsText",
+   "en": "Obtained {HIGHLIGHT}Key of Beginnings{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 50,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedKeyOfGuidanceText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedKeyOfGuidanceText",
+   "en": "Obtained {HIGHLIGHT}Key of Guidance{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 48,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedKeyToTruthText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedKeyToTruthText",
+   "en": "Obtained {HIGHLIGHT}Key to Truth{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 45,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedKeyToRewardsText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedKeyToRewardsText",
+   "en": "Obtained {HIGHLIGHT}Key to Rewards{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 47,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedTinkerBellText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedTinkerBellText",
+   "en": "Obtained {HIGHLIGHT}Tinker Bell{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedOblivionText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedOblivionText",
+   "en": "Obtained {HIGHLIGHT}Oblivion{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 41,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedWorldCardsText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedWorldCardsText",
+   "en": "Obtained {HIGHLIGHT}world cards{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedWorldCardText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedWorldCardText",
+   "en": "Obtained a {HIGHLIGHT}world card{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 45,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gObtainedSimbaText",
+   "pool": "card_message_text",
+   "symbol": "gObtainedSimbaText",
+   "en": "Obtained {HIGHLIGHT}Simba{PLAIN}.\n\n\nObtained {HIGHLIGHT}Key of Guidance{PLAIN}.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "card_message_text:gSaveDataLostText",
+   "pool": "card_message_text",
+   "symbol": "gSaveDataLostText",
+   "en": "Sorry, your save data\nhas been lost.{END}",
+   "max_units": 80,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gQuickSaveCompleteText",
+   "pool": "card_message_text",
+   "symbol": "gQuickSaveCompleteText",
+   "en": "Quick Save complete.\nContinuing later will erase\nQuick Save data.{END}",
+   "max_units": 80,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gCardMessageNoText",
+   "pool": "card_message_text",
+   "symbol": "gCardMessageNoText",
+   "en": "NO TEXT{END}",
+   "max_units": 80,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gMapSaveConfirmText",
+   "pool": "common_text",
+   "symbol": "gMapSaveConfirmText",
+   "en": "Save your game?{END}",
+   "max_units": 20,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gYesChoiceText",
+   "pool": "common_text",
+   "symbol": "gYesChoiceText",
+   "en": "Yes{END}",
+   "max_units": 19,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

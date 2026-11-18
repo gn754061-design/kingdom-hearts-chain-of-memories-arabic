@@ -1,0 +1,848 @@
+{
+ "chunk": 54,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 139,
+ "items": [
+  {
+   "id": "event_text:gEvent183Text06",
+   "pool": "event_text",
+   "symbol": "gEvent183Text06",
+   "en": "Since when?\nYou were terrified of the dark\nbefore―{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent183Text07",
+   "pool": "event_text",
+   "symbol": "gEvent183Text07",
+   "en": "I’m not now!{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent183Text08",
+   "pool": "event_text",
+   "symbol": "gEvent183Text08",
+   "en": "Ngaah…\nHypocrite!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent183Text09",
+   "pool": "event_text",
+   "symbol": "gEvent183Text09",
+   "en": "He got away.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent184Text00",
+   "pool": "event_text",
+   "symbol": "gEvent184Text00",
+   "en": "What, what IS he?!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent184Text01",
+   "pool": "event_text",
+   "symbol": "gEvent184Text01",
+   "en": "No one’s ever worn the\ndarkness the way he does.\nIt’s NOT POSSIBLE!{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent184Text02",
+   "pool": "event_text",
+   "symbol": "gEvent184Text02",
+   "en": "Waaah!  Riku?!{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent184Text03",
+   "pool": "event_text",
+   "symbol": "gEvent184Text03",
+   "en": "Oh…Oh, yes, of course.\nVexen’s replica.{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent184Text04",
+   "pool": "event_text",
+   "symbol": "gEvent184Text04",
+   "en": "Good thinking.\nWe can use this Riku to defeat\nthe real one.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent184Text05",
+   "pool": "event_text",
+   "symbol": "gEvent184Text05",
+   "en": "Axel?{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent184Text06",
+   "pool": "event_text",
+   "symbol": "gEvent184Text06",
+   "en": "Say, Riku.\nIt must be hard now that you\nknow you're not real.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent184Text07",
+   "pool": "event_text",
+   "symbol": "gEvent184Text07",
+   "en": "I bet you'd LIKE to be real.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent184Text08",
+   "pool": "event_text",
+   "symbol": "gEvent184Text08",
+   "en": "Yeah.{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent184Text09",
+   "pool": "event_text",
+   "symbol": "gEvent184Text09",
+   "en": "Well, you can.\nAll you need is strength that\nthe real Riku doesn't have.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent184Text10",
+   "pool": "event_text",
+   "symbol": "gEvent184Text10",
+   "en": "Get that, and you can be a\nnew person, your OWN person.\nNot Riku, not anybody else.{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent184Text11",
+   "pool": "event_text",
+   "symbol": "gEvent184Text11",
+   "en": "You won’t be someone else’s\ncopy.  You’ll be you.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent184Text12",
+   "pool": "event_text",
+   "symbol": "gEvent184Text12",
+   "en": "Axel!\nWhat are you telling him?!{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent184Text13",
+   "pool": "event_text",
+   "symbol": "gEvent184Text13",
+   "en": "You know, I bet he's as good a\nplace to start as any.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent184Text14",
+   "pool": "event_text",
+   "symbol": "gEvent184Text14",
+   "en": "Have you lost your mind?!{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent184Text15",
+   "pool": "event_text",
+   "symbol": "gEvent184Text15",
+   "en": "Sorry, Zexy.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent184Text16",
+   "pool": "event_text",
+   "symbol": "gEvent184Text16",
+   "en": "Saving you doesn’t seem half\nas entertaining as observing\nSora and Riku.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent184Text17",
+   "pool": "event_text",
+   "symbol": "gEvent184Text17",
+   "en": "No…STOP!!!{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text00",
+   "pool": "event_text",
+   "symbol": "gEvent185Text00",
+   "en": "Riku…  Riku…{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text01",
+   "pool": "event_text",
+   "symbol": "gEvent185Text01",
+   "en": "Who’s there?{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text02",
+   "pool": "event_text",
+   "symbol": "gEvent185Text02",
+   "en": "Of course, that voice!{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text03",
+   "pool": "event_text",
+   "symbol": "gEvent185Text03",
+   "en": "I know you can feel it, Riku―\nthe grip I have on your heart.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent185Text04",
+   "pool": "event_text",
+   "symbol": "gEvent185Text04",
+   "en": "You've let the darkness in.\n\n\nAnd all-consuming darkness is\nwhat your heart shall become!{END}",
+   "max_units": 98,
+   "units": 98,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent185Text05",
+   "pool": "event_text",
+   "symbol": "gEvent185Text05",
+   "en": "I’m not like that anymore!{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text06",
+   "pool": "event_text",
+   "symbol": "gEvent185Text06",
+   "en": "I think you are.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text07",
+   "pool": "event_text",
+   "symbol": "gEvent185Text07",
+   "en": "I…I can’t move!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text08",
+   "pool": "event_text",
+   "symbol": "gEvent185Text08",
+   "en": "The deeper the darkness runs\nin you, the stronger I become.\n\nControlling your body is an\neffortless task.{END}",
+   "max_units": 114,
+   "units": 114,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent185Text09",
+   "pool": "event_text",
+   "symbol": "gEvent185Text09",
+   "en": "Graah…\nYou, interfering again!{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent185Text10",
+   "pool": "event_text",
+   "symbol": "gEvent185Text10",
+   "en": "Golly, I’m glad I made it in time!\nThat should keep Ansem tied\nup for a while.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent185Text11",
+   "pool": "event_text",
+   "symbol": "gEvent185Text11",
+   "en": "Sorry I couldn’t come sooner,\nRiku.{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent185Text12",
+   "pool": "event_text",
+   "symbol": "gEvent185Text12",
+   "en": "Your Majesty, it’s you!{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text13",
+   "pool": "event_text",
+   "symbol": "gEvent185Text13",
+   "en": "You betcha!{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text14",
+   "pool": "event_text",
+   "symbol": "gEvent185Text14",
+   "en": "Huh…  Hey!!\nCut it out, that tickles!{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent185Text15",
+   "pool": "event_text",
+   "symbol": "gEvent185Text15",
+   "en": "Ha ha, this time you’re real.\nNo illusions.  I’m so glad you\ncame!{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent185Text16",
+   "pool": "event_text",
+   "symbol": "gEvent185Text16",
+   "en": "I promised, didn’t I?{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text17",
+   "pool": "event_text",
+   "symbol": "gEvent185Text17",
+   "en": "Don’t worry, I’m okay.\nJust really relieved, that’s all.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent185Text18",
+   "pool": "event_text",
+   "symbol": "gEvent185Text18",
+   "en": "I’ve been alone so long that\nhaving someone else around is\na little…overwhelming.{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent185Text19",
+   "pool": "event_text",
+   "symbol": "gEvent185Text19",
+   "en": "But how did you get here,\nYour Majesty?  I thought you\nwere really far away.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent185Text20",
+   "pool": "event_text",
+   "symbol": "gEvent185Text20",
+   "en": "This card showed me the way.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent185Text21",
+   "pool": "event_text",
+   "symbol": "gEvent185Text21",
+   "en": "I was lookin' for the way out\nof the realm of darkness, and\nthen this card came along.{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent185Text22",
+   "pool": "event_text",
+   "symbol": "gEvent185Text22",
+   "en": "As soon as I picked it up, it\nshowed me your heart, waaay\nout beyond the darkness.\nAnd that’s how I tracked you\ndown.{END}",
+   "max_units": 126,
+   "units": 126,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent185Text23",
+   "pool": "event_text",
+   "symbol": "gEvent185Text23",
+   "en": "I guess the card thought it\nbelonged with you.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent185Text24",
+   "pool": "event_text",
+   "symbol": "gEvent185Text24",
+   "en": "Maybe you’re right.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent186Text00",
+   "pool": "event_text",
+   "symbol": "gEvent186Text00",
+   "en": "Where am I now?\nI don’t remember this place.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent186Text01",
+   "pool": "event_text",
+   "symbol": "gEvent186Text01",
+   "en": "Your Majesty, do you know\nwhere we are?{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent186Text02",
+   "pool": "event_text",
+   "symbol": "gEvent186Text02",
+   "en": "Your Majesty?{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent186Text03",
+   "pool": "event_text",
+   "symbol": "gEvent186Text03",
+   "en": "His Majesty is not here.{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent186Text04",
+   "pool": "event_text",
+   "symbol": "gEvent186Text04",
+   "en": "You must battle me and the\ndarkness alone!{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent186Text05",
+   "pool": "event_text",
+   "symbol": "gEvent186Text05",
+   "en": "Giving up already?\nThen accept your fate, and\naccept Ansem as your master!{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent186Text06",
+   "pool": "event_text",
+   "symbol": "gEvent186Text06",
+   "en": "You’re not Ansem.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent186Text07",
+   "pool": "event_text",
+   "symbol": "gEvent186Text07",
+   "en": "Your scent―it's different.\nThe Ansem in my heart smells\ndarker, more foul.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent186Text08",
+   "pool": "event_text",
+   "symbol": "gEvent186Text08",
+   "en": "But not you.\nIt’s not darkness I smell, it’s…\nsomething else.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent186Text09",
+   "pool": "event_text",
+   "symbol": "gEvent186Text09",
+   "en": "I know.\nYou’re the one who guided me\nwhen this all started.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent186Text10",
+   "pool": "event_text",
+   "symbol": "gEvent186Text10",
+   "en": "You pretended to be Ansem\nand gave me the card, to make\nme face the darkness.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent186Text11",
+   "pool": "event_text",
+   "symbol": "gEvent186Text11",
+   "en": "Correct.{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent186Text12",
+   "pool": "event_text",
+   "symbol": "gEvent186Text12",
+   "en": "Call me DiZ―it’s as good a\nname as any.  I’ve been\nwatching you all along.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent186Text13",
+   "pool": "event_text",
+   "symbol": "gEvent186Text13",
+   "en": "Who are you really?\nWhat do you want from me?{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent186Text14",
+   "pool": "event_text",
+   "symbol": "gEvent186Text14",
+   "en": "I want you to choose.{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent186Text15",
+   "pool": "event_text",
+   "symbol": "gEvent186Text15",
+   "en": "Choose?{END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent186Text16",
+   "pool": "event_text",
+   "symbol": "gEvent186Text16",
+   "en": "You are special.\nYou exist between light and\ndark.\nYou stand in the twilight.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent186Text17",
+   "pool": "event_text",
+   "symbol": "gEvent186Text17",
+   "en": "I want you to meet Naminé,\nthen choose.{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent186Text18",
+   "pool": "event_text",
+   "symbol": "gEvent186Text18",
+   "en": "Naminé?\nWho’s that?{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent186Text19",
+   "pool": "event_text",
+   "symbol": "gEvent186Text19",
+   "en": "You’ll just have to meet her\nand find out.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent186Text20",
+   "pool": "event_text",
+   "symbol": "gEvent186Text20",
+   "en": "Hey, wait a sec!{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent187Text00",
+   "pool": "event_text",
+   "symbol": "gEvent187Text00",
+   "en": "Maybe Naminé is in here…{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent187Text01",
+   "pool": "event_text",
+   "symbol": "gEvent187Text01",
+   "en": "Hold it, Real Thing.{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+@gMovieSubTextUs_0886A6D4
+أمامك شيء تحتاجه―{END}
+@gMovieSubTextUs_0886A712
+―لكن لتحصل عليه، يجب أن تفقد{END}
+@gMovieSubTextUs_0886A752
+شيئاً عزيزاً.{END}
+@gMovieSubTextUs_0886A78A
+كايري!{END}
+@gMovieSubTextUs_0886A798
+كل أصدقائي...{END}
+@gMovieSubTextUs_0886A7B8
+ناميني؟{END}
+@gMovieSubTextUs_0886A7C8
+لا تقلق.{END}
+@gMovieSubTextUs_0886A7E2
+ستنساني...{END}
+@gMovieSubTextUs_0886A806
+...لكن لدينا وعدنا،{END}
+@gMovieSubTextUs_0886A83A
+لذلك يمكنني العودة إليك.{END}
+@gMovieSubTextUs_0886A870
+الوعد وعد.{END}
+@gMovieSubTextUs_0886A8A0
+يوماً ما سيكون نورنا،{END}
+@gMovieSubTextUs_0886A8E0
+النور الذي يجمعنا.{END}
+@gMovieSubTextUs_0886A91E
+سأكون في قلبك حتى{END}
+@gMovieSubTextUs_0886A960
+حينها.{END}
+@gMovieSubTextUs_0886A978
+أعرف.{END}
+@gMovieSubTextUs_0886A988
+منسي، لكن ليس مفقوداً.{END}
+@gMovieSubTextUs_0886A9BA
+ماذا تجعلني{END}
+@gMovieSubTextUs_0886A9E8
+أختار الآن؟{END}
+@gMovieSubTextUs_0886AA00
+هل ستأخذ طريق النور―{END}
+@gMovieSubTextUs_0886AA42
+―أم طريق الظلام؟{END}
+@gMovieSubTextUs_0886AA76
+لا هذا ولا ذاك.{END}
+@gMovieSubTextUs_0886AA88
+سآخذ الطريق الأوسط.{END}
+@gMovieSubTextUs_0886AAC0
+تعني طريق الغسق{END}
+@gMovieSubTextUs_0886AAF2
+إلى الليل؟{END}
+@gMovieSubTextUs_0886AB0E
+لا...{END}
+@gMovieSubTextUs_0886AB16
+طريق الفجر.{END}
+@gMovieSubTextUs_0886AB3A
+ {END}

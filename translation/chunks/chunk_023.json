@@ -1,0 +1,848 @@
+{
+ "chunk": 23,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 141,
+ "items": [
+  {
+   "id": "event_text:gEvent111Text17",
+   "pool": "event_text",
+   "symbol": "gEvent111Text17",
+   "en": "Sorry, Al.  My hands are tied\non this one.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent111Text18",
+   "pool": "event_text",
+   "symbol": "gEvent111Text18",
+   "en": "I gotta obey whoever has his\nmitts on the lamp.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent111Text19",
+   "pool": "event_text",
+   "symbol": "gEvent111Text19",
+   "en": "Precisely.\nFarewell, Aladdin…you fool!{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent111Text20",
+   "pool": "event_text",
+   "symbol": "gEvent111Text20",
+   "en": "Great.  Now I’ve lost Jasmine\nAND the lamp.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent111Text21",
+   "pool": "event_text",
+   "symbol": "gEvent111Text21",
+   "en": "Well, you can feel bad about\nit some other time!\n\nIf you don’t pull yourself\ntogether, you’ll never see\nJasmine again!{END}",
+   "max_units": 128,
+   "units": 128,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent111Text22",
+   "pool": "event_text",
+   "symbol": "gEvent111Text22",
+   "en": "You lost the lamp.  So what?\nYou can still save her on your\nown!{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent111Text23",
+   "pool": "event_text",
+   "symbol": "gEvent111Text23",
+   "en": "Losing someone you care\nabout is bad, but not as bad\nas never getting them back!{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent111Text24",
+   "pool": "event_text",
+   "symbol": "gEvent111Text24",
+   "en": "Sora…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent111Text25",
+   "pool": "event_text",
+   "symbol": "gEvent111Text25",
+   "en": "You’re right.\nI can’t give up now!  I’m going\nto save Jasmine!{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent111Text26",
+   "pool": "event_text",
+   "symbol": "gEvent111Text26",
+   "en": "But Jafar’s got the lamp.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent111Text27",
+   "pool": "event_text",
+   "symbol": "gEvent111Text27",
+   "en": "We can’t just walk up to him\nand expect to win…{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent111Text28",
+   "pool": "event_text",
+   "symbol": "gEvent111Text28",
+   "en": "Maybe we can.\nI’ve got an idea.  Listen up!{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent112Text00",
+   "pool": "event_text",
+   "symbol": "gEvent112Text00",
+   "en": "What’s this?\nHas Aladdin given up on his\nprecious Jasmine already?{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent112Text01",
+   "pool": "event_text",
+   "symbol": "gEvent112Text01",
+   "en": "Well, I’m not going to waste a\nwish on the likes of you three.\nI’ll deal with you myself!{END}",
+   "max_units": 96,
+   "units": 96,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent112Text02",
+   "pool": "event_text",
+   "symbol": "gEvent112Text02",
+   "en": "Aladdin!  Now!{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent112Text03",
+   "pool": "event_text",
+   "symbol": "gEvent112Text03",
+   "en": "What?  You!\nGenie, seize him!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent112Text04",
+   "pool": "event_text",
+   "symbol": "gEvent112Text04",
+   "en": "Al, forgive me!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent112Text05",
+   "pool": "event_text",
+   "symbol": "gEvent112Text05",
+   "en": "Oof…{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent112Text06",
+   "pool": "event_text",
+   "symbol": "gEvent112Text06",
+   "en": "You fell for it, Jafar!{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent112Text07",
+   "pool": "event_text",
+   "symbol": "gEvent112Text07",
+   "en": "What do you mean?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent112Text08",
+   "pool": "event_text",
+   "symbol": "gEvent112Text08",
+   "en": "He means that you just blew\nyour second wish!  Only one\nleft!{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent112Text09",
+   "pool": "event_text",
+   "symbol": "gEvent112Text09",
+   "en": "Go ahead, use it to win\nJasmine’s heart.  You’ll still\nhave us to deal with!{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent112Text10",
+   "pool": "event_text",
+   "symbol": "gEvent112Text10",
+   "en": "Oh, NOW I get it.\nAl, you are so clever!{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent112Text11",
+   "pool": "event_text",
+   "symbol": "gEvent112Text11",
+   "en": "Well, well.\nThe cunning of a rat.{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent112Text12",
+   "pool": "event_text",
+   "symbol": "gEvent112Text12",
+   "en": "But unfortunately, you can’t\nsee beyond the cheese.  Your\nlittle ploy changes nothing!{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent112Text13",
+   "pool": "event_text",
+   "symbol": "gEvent112Text13",
+   "en": "I can crush you once and for\nall AND make Jasmine my own!{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent112Text14",
+   "pool": "event_text",
+   "symbol": "gEvent112Text14",
+   "en": "Genie!  My last wish!\nTransform me into an all-\npowerful genie!{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent113Text00",
+   "pool": "event_text",
+   "symbol": "gEvent113Text00",
+   "en": "It’s so hot!\nJafar must be doing this…{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent114Text00",
+   "pool": "event_text",
+   "symbol": "gEvent114Text00",
+   "en": "That takes care of that!{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text01",
+   "pool": "event_text",
+   "symbol": "gEvent114Text01",
+   "en": "Yep!  Jasmine’s saved and we\ngot the lamp back, too!\n\nHey, Aladdin, don’t you still\nhave one wish left?{END}",
+   "max_units": 112,
+   "units": 112,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent114Text02",
+   "pool": "event_text",
+   "symbol": "gEvent114Text02",
+   "en": "He sure does.  Time for me to\nmake a prince outta this guy!{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent114Text03",
+   "pool": "event_text",
+   "symbol": "gEvent114Text03",
+   "en": "’Course, I’d like to be free.\nBut like they always say,\ngenies can’t be choosers.\nYou’re probably miffed about\nthat whole puppet-of-Jafar\nthing, anyway.{END}",
+   "max_units": 162,
+   "units": 162,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent114Text04",
+   "pool": "event_text",
+   "symbol": "gEvent114Text04",
+   "en": "Go on, Al.  Wish for what’s\nreally in your heart.  Be a\nprince.  Get the girl.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent114Text05",
+   "pool": "event_text",
+   "symbol": "gEvent114Text05",
+   "en": "Okay, here goes.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text06",
+   "pool": "event_text",
+   "symbol": "gEvent114Text06",
+   "en": "I wish for Genie’s freedom!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text07",
+   "pool": "event_text",
+   "symbol": "gEvent114Text07",
+   "en": "But Al…!{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text08",
+   "pool": "event_text",
+   "symbol": "gEvent114Text08",
+   "en": "Now no one like Jafar can use\nyou for evil again.  Genie,\nyou’re free!{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent114Text09",
+   "pool": "event_text",
+   "symbol": "gEvent114Text09",
+   "en": "Al, I’ll never forget this.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text10",
+   "pool": "event_text",
+   "symbol": "gEvent114Text10",
+   "en": "But what about Jasmine?\nWhat are you gonna do?{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent114Text11",
+   "pool": "event_text",
+   "symbol": "gEvent114Text11",
+   "en": "I was wrong, Genie.\nIf I used your help to win\nJasmine…{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent114Text12",
+   "pool": "event_text",
+   "symbol": "gEvent114Text12",
+   "en": "…I’d be no better than Jafar.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text13",
+   "pool": "event_text",
+   "symbol": "gEvent114Text13",
+   "en": "Jasmine means the world to\nme.{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent114Text14",
+   "pool": "event_text",
+   "symbol": "gEvent114Text14",
+   "en": "I want to show her the real\nme.{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent114Text15",
+   "pool": "event_text",
+   "symbol": "gEvent114Text15",
+   "en": "That’s the spirit!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text16",
+   "pool": "event_text",
+   "symbol": "gEvent114Text16",
+   "en": "Thanks, Sora.  And good luck!{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text17",
+   "pool": "event_text",
+   "symbol": "gEvent114Text17",
+   "en": "What for?{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text18",
+   "pool": "event_text",
+   "symbol": "gEvent114Text18",
+   "en": "I was ready to give up back\nthere, but then you said some\nthings to keep me going.{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent114Text19",
+   "pool": "event_text",
+   "symbol": "gEvent114Text19",
+   "en": "That’s when it hit me.\nYou must be looking for\nsomeone you care about, too.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent114Text20",
+   "pool": "event_text",
+   "symbol": "gEvent114Text20",
+   "en": "Yeah…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text21",
+   "pool": "event_text",
+   "symbol": "gEvent114Text21",
+   "en": "Listen, Genie…{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text22",
+   "pool": "event_text",
+   "symbol": "gEvent114Text22",
+   "en": "Say no more, little pal! \nI know JUST what you’re \nthinking.  Here you go, Sora!{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent114Text23",
+   "pool": "event_text",
+   "symbol": "gEvent114Text23",
+   "en": "Whenever you need me, just\ncall.{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent114Text24",
+   "pool": "event_text",
+   "symbol": "gEvent114Text24",
+   "en": "That okay with you, Al?{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text25",
+   "pool": "event_text",
+   "symbol": "gEvent114Text25",
+   "en": "Of course!{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text26",
+   "pool": "event_text",
+   "symbol": "gEvent114Text26",
+   "en": "Are you sure?{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text27",
+   "pool": "event_text",
+   "symbol": "gEvent114Text27",
+   "en": "Anytime at all.  Hey, without\nyou guys, I might never have\nbeen able to ditch that lamp!{END}",
+   "max_units": 95,
+   "units": 95,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent114Text28",
+   "pool": "event_text",
+   "symbol": "gEvent114Text28",
+   "en": "And I think Aladdin will be fine\non his own now.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent114Text29",
+   "pool": "event_text",
+   "symbol": "gEvent114Text29",
+   "en": "Wow, thanks a lot!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent114Text30",
+   "pool": "event_text",
+   "symbol": "gEvent114Text30",
+   "en": "Let’s hope both our wishes\ncome true, then.  Take care,\nSora!{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent115Text00",
+   "pool": "event_text",
+   "symbol": "gEvent115Text00",
+   "en": "Now where are we?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent115Text01",
+   "pool": "event_text",
+   "symbol": "gEvent115Text01",
+   "en": "The floor is kinda unsteady.\nI can hear the ocean, too…{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent115Text02",
+   "pool": "event_text",
+   "symbol": "gEvent115Text02",
+   "en": "I know!\nWe must be inside a ship!{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent115Text03",
+   "pool": "event_text",
+   "symbol": "gEvent115Text03",
+   "en": "Well, we’d better find a way\nout.  But which way do we go?{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent115Text04",
+   "pool": "event_text",
+   "symbol": "gEvent115Text04",
+   "en": "Wak!{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent115Text05",
+   "pool": "event_text",
+   "symbol": "gEvent115Text05",
+   "en": "Who are you?{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent115Text06",
+   "pool": "event_text",
+   "symbol": "gEvent115Text06",
+   "en": "Maybe she’s trying to help us.{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent115Text07",
+   "pool": "event_text",
+   "symbol": "gEvent115Text07",
+   "en": "Looks like you’re right!{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent116Text00",
+   "pool": "event_text",
+   "symbol": "gEvent116Text00",
+   "en": "Is it just me, or are all the\nrooms starting to look the\nsame?{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent116Text01",
+   "pool": "event_text",
+   "symbol": "gEvent116Text01",
+   "en": "Maybe we’re just goin’ in\ncircles?{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent116Text02",
+   "pool": "event_text",
+   "symbol": "gEvent116Text02",
+   "en": "Some help SHE was.{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

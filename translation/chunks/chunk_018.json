@@ -1,0 +1,848 @@
+{
+ "chunk": 18,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 139,
+ "items": [
+  {
+   "id": "event_text:gEvent089Text14",
+   "pool": "event_text",
+   "symbol": "gEvent089Text14",
+   "en": "As soon as the doctor got a\nwhiff of the potion, Heartless\nstarted popping up!{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text15",
+   "pool": "event_text",
+   "symbol": "gEvent089Text15",
+   "en": "Sounds to me like the\nexperiment failed.{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent089Text16",
+   "pool": "event_text",
+   "symbol": "gEvent089Text16",
+   "en": "No!  My research is flawless!{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent089Text17",
+   "pool": "event_text",
+   "symbol": "gEvent089Text17",
+   "en": "I just need another look at\nthe potion to find out what\nwent wrong!{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text18",
+   "pool": "event_text",
+   "symbol": "gEvent089Text18",
+   "en": "Unfortunately…it’s vanished.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent089Text19",
+   "pool": "event_text",
+   "symbol": "gEvent089Text19",
+   "en": "Maybe someone swiped it?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent089Text20",
+   "pool": "event_text",
+   "symbol": "gEvent089Text20",
+   "en": "It must’ve been Sally!\nJack, you’ve got to find her \nand get my potion back.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text21",
+   "pool": "event_text",
+   "symbol": "gEvent089Text21",
+   "en": "Leave it to me!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent089Text22",
+   "pool": "event_text",
+   "symbol": "gEvent089Text22",
+   "en": "Can I tag along?{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent089Text23",
+   "pool": "event_text",
+   "symbol": "gEvent089Text23",
+   "en": "What for?{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent089Text24",
+   "pool": "event_text",
+   "symbol": "gEvent089Text24",
+   "en": "I want to know more about\nthese “true memories” the\ndoctor keeps mentioning.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text25",
+   "pool": "event_text",
+   "symbol": "gEvent089Text25",
+   "en": "Excellent!\nLet’s go find Sally, then!{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent090Text00",
+   "pool": "event_text",
+   "symbol": "gEvent090Text00",
+   "en": "There you are, Sally! \nI thought I’d find you here.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent090Text01",
+   "pool": "event_text",
+   "symbol": "gEvent090Text01",
+   "en": "Who are your friends?{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent090Text02",
+   "pool": "event_text",
+   "symbol": "gEvent090Text02",
+   "en": "They’re interested in true\nmemories.  You have the potion,\ndon’t you?{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent090Text03",
+   "pool": "event_text",
+   "symbol": "gEvent090Text03",
+   "en": "Well…yes.{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent090Text04",
+   "pool": "event_text",
+   "symbol": "gEvent090Text04",
+   "en": "Could you give it back?{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent090Text05",
+   "pool": "event_text",
+   "symbol": "gEvent090Text05",
+   "en": "I guess so, if you insist.\nBut…I’m afraid.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent090Text06",
+   "pool": "event_text",
+   "symbol": "gEvent090Text06",
+   "en": "All the Doctor did was smell it,\nand the Heartless appeared.\nWhat if someone drinks it?{END}",
+   "max_units": 94,
+   "units": 94,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent090Text07",
+   "pool": "event_text",
+   "symbol": "gEvent090Text07",
+   "en": "Are you kidding?\nWhat could be more exciting?{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent090Text08",
+   "pool": "event_text",
+   "symbol": "gEvent090Text08",
+   "en": "I’m worried, Jack.\nIsn’t there another way?{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent090Text09",
+   "pool": "event_text",
+   "symbol": "gEvent090Text09",
+   "en": "Any ideas, Jack?{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent090Text10",
+   "pool": "event_text",
+   "symbol": "gEvent090Text10",
+   "en": "I can’t think of a thing.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent090Text11",
+   "pool": "event_text",
+   "symbol": "gEvent090Text11",
+   "en": "I can!\nGive it here!{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent090Text12",
+   "pool": "event_text",
+   "symbol": "gEvent090Text12",
+   "en": "Oh, no!  The potion!{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent090Text13",
+   "pool": "event_text",
+   "symbol": "gEvent090Text13",
+   "en": "Oogie!  You again!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent090Text14",
+   "pool": "event_text",
+   "symbol": "gEvent090Text14",
+   "en": "Jack, where are your\nmanners?{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent090Text15",
+   "pool": "event_text",
+   "symbol": "gEvent090Text15",
+   "en": "I’m just helping you put the\npotion to good use!  You\nshould thank me!{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent090Text16",
+   "pool": "event_text",
+   "symbol": "gEvent090Text16",
+   "en": "Well, well.  Just one sniff, and\nthe Heartless appeared.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent090Text17",
+   "pool": "event_text",
+   "symbol": "gEvent090Text17",
+   "en": "What would happen if I\nchugged the whole thing?\nTHAT would be scary!{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent090Text18",
+   "pool": "event_text",
+   "symbol": "gEvent090Text18",
+   "en": "Poor Jack!  You can’t hold a\ncandle to Oogie Boogie.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent090Text19",
+   "pool": "event_text",
+   "symbol": "gEvent090Text19",
+   "en": "Halloween Town is going to\ntaste pain and despair beyond\nany nightmare!{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent090Text20",
+   "pool": "event_text",
+   "symbol": "gEvent090Text20",
+   "en": "Pain and despair? \nOogie, you monster!{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent090Text21",
+   "pool": "event_text",
+   "symbol": "gEvent090Text21",
+   "en": "C’mon, Jack!\nWe’ve gotta go after him!{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent091Text00",
+   "pool": "event_text",
+   "symbol": "gEvent091Text00",
+   "en": "Oogie!\nHand over the potion!{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent091Text01",
+   "pool": "event_text",
+   "symbol": "gEvent091Text01",
+   "en": "You fools don’t know when to\nquit!  Say…all this running\naround is making me thirsty!{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent091Text02",
+   "pool": "event_text",
+   "symbol": "gEvent091Text02",
+   "en": "Oogie!  No!{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent091Text03",
+   "pool": "event_text",
+   "symbol": "gEvent091Text03",
+   "en": "Yes!{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent091Text04",
+   "pool": "event_text",
+   "symbol": "gEvent091Text04",
+   "en": "Oh, no…{END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent091Text05",
+   "pool": "event_text",
+   "symbol": "gEvent091Text05",
+   "en": "Ahh!  Lip-smacking good!{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent091Text06",
+   "pool": "event_text",
+   "symbol": "gEvent091Text06",
+   "en": "Now I can awaken my true\nmemories!{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent091Text07",
+   "pool": "event_text",
+   "symbol": "gEvent091Text07",
+   "en": "Agh!  What’s this?{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent091Text08",
+   "pool": "event_text",
+   "symbol": "gEvent091Text08",
+   "en": "What…\nSomething’s welling up deep\ninside me―something…scary!{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent091Text09",
+   "pool": "event_text",
+   "symbol": "gEvent091Text09",
+   "en": "Oogie!  What’s going on? {END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent091Text10",
+   "pool": "event_text",
+   "symbol": "gEvent091Text10",
+   "en": "No!  Get back!\nStay away from me!{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent092Text00",
+   "pool": "event_text",
+   "symbol": "gEvent092Text00",
+   "en": "Get away!\nYou’re s-s-scaring me!{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent093Text00",
+   "pool": "event_text",
+   "symbol": "gEvent093Text00",
+   "en": "Confound that Oogie Boogie! \nHe drank nearly all of my\nprecious potion!{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text01",
+   "pool": "event_text",
+   "symbol": "gEvent093Text01",
+   "en": "There are only a few drops\nleft!{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent093Text02",
+   "pool": "event_text",
+   "symbol": "gEvent093Text02",
+   "en": "Sora, why don’t you ask the \ndoc if you can drink the rest?{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent093Text03",
+   "pool": "event_text",
+   "symbol": "gEvent093Text03",
+   "en": "No.  I’d better not.{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent093Text04",
+   "pool": "event_text",
+   "symbol": "gEvent093Text04",
+   "en": "What, don’t you want it? \nToo bad.  It would’ve been a\ngreat experiment.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text05",
+   "pool": "event_text",
+   "symbol": "gEvent093Text05",
+   "en": "Now, Doctor…{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent093Text06",
+   "pool": "event_text",
+   "symbol": "gEvent093Text06",
+   "en": "Don’t you want to find out\nabout your true memories?{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent093Text07",
+   "pool": "event_text",
+   "symbol": "gEvent093Text07",
+   "en": "Of course―now more than\never.{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent093Text08",
+   "pool": "event_text",
+   "symbol": "gEvent093Text08",
+   "en": "But there’s this guy―Axel.\nI promised him I’d find the\ntruth on my own.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text09",
+   "pool": "event_text",
+   "symbol": "gEvent093Text09",
+   "en": "I just don’t understand.\nWhen I inhaled the potion,\nHeartless appeared…{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text10",
+   "pool": "event_text",
+   "symbol": "gEvent093Text10",
+   "en": "…and when Oogie drank it,\nhe was overcome with fear.\nWhat could it mean?{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text11",
+   "pool": "event_text",
+   "symbol": "gEvent093Text11",
+   "en": "It means the potion was a\nfailure.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent093Text12",
+   "pool": "event_text",
+   "symbol": "gEvent093Text12",
+   "en": "No!  I can’t be wrong!\nOogie MUST have found his\ntrue memories!{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text13",
+   "pool": "event_text",
+   "symbol": "gEvent093Text13",
+   "en": "Hmm…  True memories must\nunbalance the heart and cause\nunpredictable changes within!{END}",
+   "max_units": 91,
+   "units": 91,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text14",
+   "pool": "event_text",
+   "symbol": "gEvent093Text14",
+   "en": "Then…what about me?\nWhat happens when my true\nmemories awaken?{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text15",
+   "pool": "event_text",
+   "symbol": "gEvent093Text15",
+   "en": "Perhaps something even more\nterrifying…{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent093Text16",
+   "pool": "event_text",
+   "symbol": "gEvent093Text16",
+   "en": "But this is all just a\nhypothesis.  I can’t be sure\nwithout further research.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text17",
+   "pool": "event_text",
+   "symbol": "gEvent093Text17",
+   "en": "What’s wrong, Sora?\nDoes the doctor’s theory\nscare you?{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text18",
+   "pool": "event_text",
+   "symbol": "gEvent093Text18",
+   "en": "Well, yeah―a little.{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent093Text19",
+   "pool": "event_text",
+   "symbol": "gEvent093Text19",
+   "en": "That’s good to hear!{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent093Text20",
+   "pool": "event_text",
+   "symbol": "gEvent093Text20",
+   "en": "Fear and insecurity are signs\nof a strong heart.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent093Text21",
+   "pool": "event_text",
+   "symbol": "gEvent093Text21",
+   "en": "Without that strength, your\nzest for life would fade…{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent093Text22",
+   "pool": "event_text",
+   "symbol": "gEvent093Text22",
+   "en": "…as would your taste for\nfear.  And believe me, that\nwould really ruin my fun.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent093Text23",
+   "pool": "event_text",
+   "symbol": "gEvent093Text23",
+   "en": "Thanks, Jack.\nI’ll remember that.{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 43,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 146,
+ "items": [
+  {
+   "id": "event_text:gEvent060Text48",
+   "pool": "event_text",
+   "symbol": "gEvent060Text48",
+   "en": "Marluxia is up there, so you’d\nbetter stay here, Naminé.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent060Text49",
+   "pool": "event_text",
+   "symbol": "gEvent060Text49",
+   "en": "Goofy’s right.\nCould you look after Riku for\nme?\nWe’ll come get you after this\nis over.{END}",
+   "max_units": 96,
+   "units": 96,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent060Text50",
+   "pool": "event_text",
+   "symbol": "gEvent060Text50",
+   "en": "Okay.{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent060Text51",
+   "pool": "event_text",
+   "symbol": "gEvent060Text51",
+   "en": "Be careful, Sora.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent060Text52",
+   "pool": "event_text",
+   "symbol": "gEvent060Text52",
+   "en": "I’ll be fine…\nI promise!{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent061Text00",
+   "pool": "event_text",
+   "symbol": "gEvent061Text00",
+   "en": "Who was it?\nWho gave me this?{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent061Text01",
+   "pool": "event_text",
+   "symbol": "gEvent061Text01",
+   "en": "It’s no use.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent061Text02",
+   "pool": "event_text",
+   "symbol": "gEvent061Text02",
+   "en": "Can’t you remember?{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent061Text03",
+   "pool": "event_text",
+   "symbol": "gEvent061Text03",
+   "en": "I only remember Naminé.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent061Text04",
+   "pool": "event_text",
+   "symbol": "gEvent061Text04",
+   "en": "Do either of you remember\nanything?{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent061Text05",
+   "pool": "event_text",
+   "symbol": "gEvent061Text05",
+   "en": "No, nothing.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent061Text06",
+   "pool": "event_text",
+   "symbol": "gEvent061Text06",
+   "en": "I think Goofy and I are\nsupposed to be looking for\nsomeone important, too.\nBut I can’t remember…{END}",
+   "max_units": 104,
+   "units": 104,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent061Text07",
+   "pool": "event_text",
+   "symbol": "gEvent061Text07",
+   "en": "Um…you know, I’m just a\nteeny-weeny bit…scared.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent061Text08",
+   "pool": "event_text",
+   "symbol": "gEvent061Text08",
+   "en": "Then let’s make a promise!{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent061Text09",
+   "pool": "event_text",
+   "symbol": "gEvent061Text09",
+   "en": "Huh?{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent061Text10",
+   "pool": "event_text",
+   "symbol": "gEvent061Text10",
+   "en": "What you said back there got\nme thinking.{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent061Text11",
+   "pool": "event_text",
+   "symbol": "gEvent061Text11",
+   "en": "It's easier to face the scary\nstuff when you've got a\npromise to keep!{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent061Text12",
+   "pool": "event_text",
+   "symbol": "gEvent061Text12",
+   "en": "So it’s like…courage.{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent061Text13",
+   "pool": "event_text",
+   "symbol": "gEvent061Text13",
+   "en": "That’s a great idea!\nSo…what should we promise?{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent061Text14",
+   "pool": "event_text",
+   "symbol": "gEvent061Text14",
+   "en": "That’s easy!{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent061Text15",
+   "pool": "event_text",
+   "symbol": "gEvent061Text15",
+   "en": "No matter what happens―\neven if we end up far apart\nor forget each other…{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent061Text16",
+   "pool": "event_text",
+   "symbol": "gEvent061Text16",
+   "en": "All for one, one for all.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent061Text17",
+   "pool": "event_text",
+   "symbol": "gEvent061Text17",
+   "en": "And that’s a promise.{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent062Text00",
+   "pool": "event_text",
+   "symbol": "gEvent062Text00",
+   "en": "アブナイ！ナミネェ～！{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent063Text00",
+   "pool": "event_text",
+   "symbol": "gEvent063Text00",
+   "en": "You’re a fool among fools to\nshow your face here, traitor!{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent063Text01",
+   "pool": "event_text",
+   "symbol": "gEvent063Text01",
+   "en": "Traitor?\nI don’t know what you’re\ntalking about.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent063Text02",
+   "pool": "event_text",
+   "symbol": "gEvent063Text02",
+   "en": "Why did you let her go?{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent063Text03",
+   "pool": "event_text",
+   "symbol": "gEvent063Text03",
+   "en": "You and your cursed meddling!{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent063Text04",
+   "pool": "event_text",
+   "symbol": "gEvent063Text04",
+   "en": "He was ours!\nThe Keyblade master could\nhave been our slave!{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent063Text05",
+   "pool": "event_text",
+   "symbol": "gEvent063Text05",
+   "en": "Right, your big plan.{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent063Text06",
+   "pool": "event_text",
+   "symbol": "gEvent063Text06",
+   "en": "You use Naminé to rewrite\nSora’s memory piece by piece.\nHe becomes her puppet.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent063Text07",
+   "pool": "event_text",
+   "symbol": "gEvent063Text07",
+   "en": "Then, using Naminé and Sora,\nyou and Larxene overthrow\nthe Organization.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent063Text08",
+   "pool": "event_text",
+   "symbol": "gEvent063Text08",
+   "en": "Did I get it right?\n'Cause that would make YOU\nthe traitor, Marluxia.  Not me.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent063Text09",
+   "pool": "event_text",
+   "symbol": "gEvent063Text09",
+   "en": "But you eliminated Vexen!{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent063Text10",
+   "pool": "event_text",
+   "symbol": "gEvent063Text10",
+   "en": "Yeah, come to think of it.\nSo what?{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent063Text11",
+   "pool": "event_text",
+   "symbol": "gEvent063Text11",
+   "en": "All I did was weed the garden.\nAnd I had to be sure you two\ntrusted me.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent063Text12",
+   "pool": "event_text",
+   "symbol": "gEvent063Text12",
+   "en": "I see…a double agent.\nYou've been investigating our\nconspiracy from the start.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent063Text13",
+   "pool": "event_text",
+   "symbol": "gEvent063Text13",
+   "en": "Moving on…\nI believe you ordered me to\n“rid us of our traitors.”{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent063Text14",
+   "pool": "event_text",
+   "symbol": "gEvent063Text14",
+   "en": "I always follow orders,\nMarluxia.{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent064Text00",
+   "pool": "event_text",
+   "symbol": "gEvent064Text00",
+   "en": "Larxene paid the price for\ndisloyalty.{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent064Text01",
+   "pool": "event_text",
+   "symbol": "gEvent064Text01",
+   "en": "You’re next, Marluxia.\n\n\nIn the name of the\nOrganization you betrayed,\nI will annihilate you!{END}",
+   "max_units": 103,
+   "units": 103,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent064Text02",
+   "pool": "event_text",
+   "symbol": "gEvent064Text02",
+   "en": "Go ahead, then―strike!{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent064Text03",
+   "pool": "event_text",
+   "symbol": "gEvent064Text03",
+   "en": "What kind of game is this?\nYou think cowering behind\nNaminé will stop me?{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent064Text04",
+   "pool": "event_text",
+   "symbol": "gEvent064Text04",
+   "en": "Think again.\nYour little mascot can keep\nyou company in the void.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent064Text05",
+   "pool": "event_text",
+   "symbol": "gEvent064Text05",
+   "en": "Farewell, Marluxia.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent064Text06",
+   "pool": "event_text",
+   "symbol": "gEvent064Text06",
+   "en": "Oh, I think not.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent064Text07",
+   "pool": "event_text",
+   "symbol": "gEvent064Text07",
+   "en": "Are you listening, Sora?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent064Text08",
+   "pool": "event_text",
+   "symbol": "gEvent064Text08",
+   "en": "Huh?{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent064Text09",
+   "pool": "event_text",
+   "symbol": "gEvent064Text09",
+   "en": "Axel is willing to harm Naminé\njust to get at me!  Destroy him!{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent064Text10",
+   "pool": "event_text",
+   "symbol": "gEvent064Text10",
+   "en": "Well, well, Sora.\nMarluxia made you his puppet\nafter all.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent064Text11",
+   "pool": "event_text",
+   "symbol": "gEvent064Text11",
+   "en": "Never.\nAfter I finish you, he’s next.{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent064Text12",
+   "pool": "event_text",
+   "symbol": "gEvent064Text12",
+   "en": "Hmm…{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent064Text13",
+   "pool": "event_text",
+   "symbol": "gEvent064Text13",
+   "en": "Listen, Sora.\nWe’ve got more in common than\nyou think.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent064Text14",
+   "pool": "event_text",
+   "symbol": "gEvent064Text14",
+   "en": "I’d rather not fight you…{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent064Text15",
+   "pool": "event_text",
+   "symbol": "gEvent064Text15",
+   "en": "…but I do have a reputation\nto think of!{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent065Text00",
+   "pool": "event_text",
+   "symbol": "gEvent065Text00",
+   "en": "You’re not half bad.\nLooks like it was worth saving\nyour hide after all.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent065Text01",
+   "pool": "event_text",
+   "symbol": "gEvent065Text01",
+   "en": "Saving me?\nWhat do you mean?{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent065Text02",
+   "pool": "event_text",
+   "symbol": "gEvent065Text02",
+   "en": "Sorry…\nI’d hate to kill the suspense.{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent065Text03",
+   "pool": "event_text",
+   "symbol": "gEvent065Text03",
+   "en": "Axel!{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text00",
+   "pool": "event_text",
+   "symbol": "gEvent066Text00",
+   "en": "So you’ve destroyed Axel.\nYou have my thanks, Sora.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text01",
+   "pool": "event_text",
+   "symbol": "gEvent066Text01",
+   "en": "Or perhaps I should thank the\npower of the Keyblade.\n\nHow I long to make it my own,\nand have the Organization at\nmy mercy!{END}",
+   "max_units": 132,
+   "units": 132,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent066Text02",
+   "pool": "event_text",
+   "symbol": "gEvent066Text02",
+   "en": "Get real, Marluxia.\nLet Naminé go!{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text03",
+   "pool": "event_text",
+   "symbol": "gEvent066Text03",
+   "en": "You cannot win as long as she\nis in my hands.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text04",
+   "pool": "event_text",
+   "symbol": "gEvent066Text04",
+   "en": "Naminé…\nErase Sora’s memory! {END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text05",
+   "pool": "event_text",
+   "symbol": "gEvent066Text05",
+   "en": "But…if I do that…{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text06",
+   "pool": "event_text",
+   "symbol": "gEvent066Text06",
+   "en": "Yes.\nIf you uproot the memories\nyou planted…{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent066Text07",
+   "pool": "event_text",
+   "symbol": "gEvent066Text07",
+   "en": "…then Sora’s heart will\ncollapse and all his memories\nwill be torn asunder.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent066Text08",
+   "pool": "event_text",
+   "symbol": "gEvent066Text08",
+   "en": "Sora’s heart…{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text09",
+   "pool": "event_text",
+   "symbol": "gEvent066Text09",
+   "en": "Collapse?!{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text10",
+   "pool": "event_text",
+   "symbol": "gEvent066Text10",
+   "en": "I’d prefer the Keyblade\nmaster unmarred…\n\n…but even a riven heart can\nbe rebuilt with time.  Sora will\nyet be my slave.{END}",
+   "max_units": 129,
+   "units": 129,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  }
+ ]
+}

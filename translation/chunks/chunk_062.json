@@ -1,0 +1,848 @@
+{
+ "chunk": 62,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine0",
+   "en": "A small elephant born in{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine1",
+   "en": "a circus.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine3",
+   "en": "The other animals{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine4",
+   "en": "laughed at his big ears,{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine5",
+   "en": "but the courage to fly{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine6",
+   "en": "made Dumbo the star of{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine7",
+   "en": "the circus.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine8",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine9",
+   "en": "If Sora calls, Dumbo will{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDumboLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDumboLine10",
+   "en": "come to the rescue.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBambiLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBambiLine0",
+   "en": "A young deer prince{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBambiLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBambiLine1",
+   "en": "whose father is king of{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBambiLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBambiLine2",
+   "en": "the Forest.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBambiLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBambiLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBambiLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBambiLine4",
+   "en": "Sora can call on Bambi{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBambiLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBambiLine5",
+   "en": "for help anytime.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMushuLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMushuLine0",
+   "en": "Once a guardian dragon{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMushuLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMushuLine1",
+   "en": "of a Chinese family.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMushuLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMushuLine2",
+   "en": "Due to past mistakes,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMushuLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMushuLine3",
+   "en": "he lost much of his{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMushuLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMushuLine4",
+   "en": "former power.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMushuLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMushuLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMushuLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMushuLine6",
+   "en": "If Sora calls, Mushu will{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMushuLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMushuLine7",
+   "en": "come to our aid.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMooglesLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMooglesLine0",
+   "en": "A strange race that{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMooglesLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMooglesLine1",
+   "en": "seems to pop up just{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMooglesLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMooglesLine2",
+   "en": "about anywhere.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMooglesLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMooglesLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMooglesLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMooglesLine4",
+   "en": "In Castle Oblivion, the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMooglesLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMooglesLine5",
+   "en": "moogles run shops{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMooglesLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMooglesLine6",
+   "en": "where Sora can trade{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMooglesLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMooglesLine7",
+   "en": "in unwanted cards.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine0",
+   "en": "A cool and collected{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine1",
+   "en": "swordsman who wields{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine2",
+   "en": "a gunblade.  His real{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine3",
+   "en": "name: Squall Leonhart.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine5",
+   "en": "Leon once fought with{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine6",
+   "en": "Sora against the{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine7",
+   "en": "Heartless, but the{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine8",
+   "en": "Leon we met in Castle{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine9",
+   "en": "Oblivion is a product of{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine10",
+   "en": "Sora’s memory, so he{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine11",
+   "en": "can’t remember much of{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterLeonLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterLeonLine12",
+   "en": "what happened before.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine0",
+   "en": "A girl whose cheerful{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine1",
+   "en": "personality belies her{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine2",
+   "en": "painful memories.  When{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine3",
+   "en": "she was still young the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine4",
+   "en": "Heartless robbed her{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine5",
+   "en": "of her home.{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine7",
+   "en": "Never one to sweat the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine8",
+   "en": "small stuff, Yuffie{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine9",
+   "en": "seems unfazed by her{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterYuffieLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterYuffieLine10",
+   "en": "fuddled memory.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine0",
+   "en": "A young woman who{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine1",
+   "en": "fought the Heartless.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine2",
+   "en": "Her calm demeanor hides{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine3",
+   "en": "an unbreakable will.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine5",
+   "en": "Aerith also has a{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine6",
+   "en": "mysterious sense of{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine7",
+   "en": "truth, and is aware{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine8",
+   "en": "that Traverse Town{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine9",
+   "en": "and its inhabitants are{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine10",
+   "en": "a figment of Sora’s{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAerithLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAerithLine11",
+   "en": "memory.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCidLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCidLine0",
+   "en": "A gifted pilot who{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

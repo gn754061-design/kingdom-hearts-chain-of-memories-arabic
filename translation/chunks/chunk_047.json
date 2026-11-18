@@ -1,0 +1,848 @@
+{
+ "chunk": 47,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 149,
+ "items": [
+  {
+   "id": "event_text:gEvent141Text04",
+   "pool": "event_text",
+   "symbol": "gEvent141Text04",
+   "en": "Just imitating Tigger’s no good,\nno matter how much you like my\nbouncin’!{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent141Text05",
+   "pool": "event_text",
+   "symbol": "gEvent141Text05",
+   "en": "You gotta try all kinds of\nbouncin’!  Make up your own\nstyle!{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent141Text06",
+   "pool": "event_text",
+   "symbol": "gEvent141Text06",
+   "en": "I’m Tigger, and you’re you!\nThat’s why it’s fun!{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent141Text07",
+   "pool": "event_text",
+   "symbol": "gEvent141Text07",
+   "en": "We wanted you to notice.\nThat’s why Pooh was imitating\nyou.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent141Text08",
+   "pool": "event_text",
+   "symbol": "gEvent141Text08",
+   "en": "Now I see!\nIf you wanna see Tigger\nbounce, just say the word!{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent141Text09",
+   "pool": "event_text",
+   "symbol": "gEvent141Text09",
+   "en": "Here I go!{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent141Text10",
+   "pool": "event_text",
+   "symbol": "gEvent141Text10",
+   "en": "How’m I doin’?{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent141Text11",
+   "pool": "event_text",
+   "symbol": "gEvent141Text11",
+   "en": "Ha ha…\nNobody bounces better!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent141Text12",
+   "pool": "event_text",
+   "symbol": "gEvent141Text12",
+   "en": "But don’t just do what I do!{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent141Text13",
+   "pool": "event_text",
+   "symbol": "gEvent141Text13",
+   "en": "You gotta bounce your own\nway if you wanna be a bouncer\nlike Tigger!  Hoo hoo hoo!{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent141Text14",
+   "pool": "event_text",
+   "symbol": "gEvent141Text14",
+   "en": "Why, look Sora.\nTigger dropped something…{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent142Text00",
+   "pool": "event_text",
+   "symbol": "gEvent142Text00",
+   "en": "That was close!\nAre you okay, Pooh?{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent142Text01",
+   "pool": "event_text",
+   "symbol": "gEvent142Text01",
+   "en": "Yes…I seem to be.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent142Text02",
+   "pool": "event_text",
+   "symbol": "gEvent142Text02",
+   "en": "Where did all those cabbages\ncome from?{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent142Text03",
+   "pool": "event_text",
+   "symbol": "gEvent142Text03",
+   "en": "Yoo-hoo!{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent142Text04",
+   "pool": "event_text",
+   "symbol": "gEvent142Text04",
+   "en": "Hello, Rabbit.\nWhat’s all the fuss?{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent142Text05",
+   "pool": "event_text",
+   "symbol": "gEvent142Text05",
+   "en": "Did you see my cabbages come\nrolling past?{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent142Text06",
+   "pool": "event_text",
+   "symbol": "gEvent142Text06",
+   "en": "You mean THOSE cabbages?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent142Text07",
+   "pool": "event_text",
+   "symbol": "gEvent142Text07",
+   "en": "My goodness!\nThere they are, all nicely\nstacked!  How kind of you.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent142Text08",
+   "pool": "event_text",
+   "symbol": "gEvent142Text08",
+   "en": "Carrying them is so\ntroublesome, I thought I’d try\nrolling them!\nBut it didn’t work very well.{END}",
+   "max_units": 102,
+   "units": 102,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent142Text09",
+   "pool": "event_text",
+   "symbol": "gEvent142Text09",
+   "en": "So that’s why those cabbages\ncame chasing after us.  It gave\nus quite a turn.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent142Text10",
+   "pool": "event_text",
+   "symbol": "gEvent142Text10",
+   "en": "We almost got bowled over,\nyou know.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent142Text11",
+   "pool": "event_text",
+   "symbol": "gEvent142Text11",
+   "en": "I’m very sorry…\nI was going to carry them in my\ncart, but someone broke it!{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent142Text12",
+   "pool": "event_text",
+   "symbol": "gEvent142Text12",
+   "en": "It’s quite annoying!\nI wonder who it was?{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent142Text13",
+   "pool": "event_text",
+   "symbol": "gEvent142Text13",
+   "en": "Well, Rabbit, Sora and I―{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent142Text14",
+   "pool": "event_text",
+   "symbol": "gEvent142Text14",
+   "en": "Whoa, whoa!\nUmm…Pooh, we’d better get\ngoing!  We’re in a hurry, right?{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent142Text15",
+   "pool": "event_text",
+   "symbol": "gEvent142Text15",
+   "en": "Yes, I suppose you’re right.\nGoodbye, Rabbit.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent142Text16",
+   "pool": "event_text",
+   "symbol": "gEvent142Text16",
+   "en": "Just a moment!\nI must repay you for stacking\nmy cabbages.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent142Text17",
+   "pool": "event_text",
+   "symbol": "gEvent142Text17",
+   "en": "Thank you very much.\nI don’t know how I would’ve\nmanaged without you.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent142Text18",
+   "pool": "event_text",
+   "symbol": "gEvent142Text18",
+   "en": "Ha ha ha…\nMaybe you would’ve managed\nBETTER without us…{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent142Text19",
+   "pool": "event_text",
+   "symbol": "gEvent142Text19",
+   "en": "Now, what do you mean by\nthat?{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent142Text20",
+   "pool": "event_text",
+   "symbol": "gEvent142Text20",
+   "en": "N-Nothing!{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent143Text00",
+   "pool": "event_text",
+   "symbol": "gEvent143Text00",
+   "en": "I guess we can’t go any\nfarther.{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent143Text01",
+   "pool": "event_text",
+   "symbol": "gEvent143Text01",
+   "en": "So what do you think, Pooh?\nWasn’t it more fun looking for\nfriends together?{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent143Text02",
+   "pool": "event_text",
+   "symbol": "gEvent143Text02",
+   "en": "Yes…you were right, Sora.\nI’d like you to have this, with\nmy thanks.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent143Text03",
+   "pool": "event_text",
+   "symbol": "gEvent143Text03",
+   "en": "Whew…\nI’ve walked so far, I think I\nneed a little rest.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent143Text04",
+   "pool": "event_text",
+   "symbol": "gEvent143Text04",
+   "en": "If only I had a nice pot of\nhoney to keep me company…{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent143Text05",
+   "pool": "event_text",
+   "symbol": "gEvent143Text05",
+   "en": "Well, I’d better be going.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent143Text06",
+   "pool": "event_text",
+   "symbol": "gEvent143Text06",
+   "en": "Where are you going?{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent143Text07",
+   "pool": "event_text",
+   "symbol": "gEvent143Text07",
+   "en": "I’ve gotta keep looking for my\nfriends.{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent143Text08",
+   "pool": "event_text",
+   "symbol": "gEvent143Text08",
+   "en": "Then I’d better help you look\nfor them, too.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent143Text09",
+   "pool": "event_text",
+   "symbol": "gEvent143Text09",
+   "en": "That’s okay, Pooh.\nYou should stay here, in the\nHundred Acre Wood.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent143Text10",
+   "pool": "event_text",
+   "symbol": "gEvent143Text10",
+   "en": "You mean…this is goodbye?{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent143Text11",
+   "pool": "event_text",
+   "symbol": "gEvent143Text11",
+   "en": "No way!  I’ll always know\nwhere to find you.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent143Text12",
+   "pool": "event_text",
+   "symbol": "gEvent143Text12",
+   "en": "If I don’t forget…{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent143Text13",
+   "pool": "event_text",
+   "symbol": "gEvent143Text13",
+   "en": "Don’t worry, Sora.\nYou can count on me.{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent143Text14",
+   "pool": "event_text",
+   "symbol": "gEvent143Text14",
+   "en": "Even if you forget Pooh,\nI won’t forget you.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent143Text15",
+   "pool": "event_text",
+   "symbol": "gEvent143Text15",
+   "en": "Thanks, Pooh.{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent145Text00",
+   "pool": "event_text",
+   "symbol": "gEvent145Text00",
+   "en": "I’ve been walking so long, my\ntumbly is getting rather\nrumbly.\nIf only I had a little honey…{END}",
+   "max_units": 100,
+   "units": 100,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent145Text01",
+   "pool": "event_text",
+   "symbol": "gEvent145Text01",
+   "en": "Well, I’d better be going.\nI gotta keep looking for my\nfriends.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent147Text02",
+   "pool": "event_text",
+   "symbol": "gEvent147Text02",
+   "en": "Are you sure you don’t need\nmy help?{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent147Text03",
+   "pool": "event_text",
+   "symbol": "gEvent147Text03",
+   "en": "That’s okay, Pooh.\nYou should stay close to home.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent147Text04",
+   "pool": "event_text",
+   "symbol": "gEvent147Text04",
+   "en": "All right, Sora.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent147Text05",
+   "pool": "event_text",
+   "symbol": "gEvent147Text05",
+   "en": "In that case, I’ll be sure to do\nall the remembering for the\nboth of us.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent148Text00",
+   "pool": "event_text",
+   "symbol": "gEvent148Text00",
+   "en": "I’d like to stay, Pooh.\nBut I’ve got to go.  Take care!{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent149Text00",
+   "pool": "event_text",
+   "symbol": "gEvent149Text00",
+   "en": "Ungh…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent149Text01",
+   "pool": "event_text",
+   "symbol": "gEvent149Text01",
+   "en": "Where…where am I…{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent149Text02",
+   "pool": "event_text",
+   "symbol": "gEvent149Text02",
+   "en": "Sleep. {END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent149Text03",
+   "pool": "event_text",
+   "symbol": "gEvent149Text03",
+   "en": "Who’s there?!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent149Text04",
+   "pool": "event_text",
+   "symbol": "gEvent149Text04",
+   "en": "Sleep.\nHere, between light and dark.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent149Text05",
+   "pool": "event_text",
+   "symbol": "gEvent149Text05",
+   "en": "Between…what?{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent149Text06",
+   "pool": "event_text",
+   "symbol": "gEvent149Text06",
+   "en": "The king!  Where’s the king?!\nTogether we closed the door\nto darkness, and after that…{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent149Text07",
+   "pool": "event_text",
+   "symbol": "gEvent149Text07",
+   "en": "Grr, why can't I remember?{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent149Text08",
+   "pool": "event_text",
+   "symbol": "gEvent149Text08",
+   "en": "Your king is far away.\nSleep, and leave the war with\ndarkness in his hands.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent149Text09",
+   "pool": "event_text",
+   "symbol": "gEvent149Text09",
+   "en": "The thorny light of awakening\nwill bring only anguish to one\nin your state.\nTurn from the light.\nShut your eyes.{END}",
+   "max_units": 121,
+   "units": 121,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent149Text10",
+   "pool": "event_text",
+   "symbol": "gEvent149Text10",
+   "en": "You talk like I'm some kind of\ndemon of the dark.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent149Text11",
+   "pool": "event_text",
+   "symbol": "gEvent149Text11",
+   "en": "Can you face the truth?{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent149Text12",
+   "pool": "event_text",
+   "symbol": "gEvent149Text12",
+   "en": "Here, blanketed by the\ndarkness, sleep is safety.\nSleep is eternal.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent149Text13",
+   "pool": "event_text",
+   "symbol": "gEvent149Text13",
+   "en": "Is this…a card?{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent149Text14",
+   "pool": "event_text",
+   "symbol": "gEvent149Text14",
+   "en": "It is a door to the truth.\nTake it, and your sleep ends.\n\nTake it, and take the first\nstep toward the truth.{END}",
+   "max_units": 117,
+   "units": 117,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  }
+ ]
+}

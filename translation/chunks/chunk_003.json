@@ -1,0 +1,848 @@
+{
+ "chunk": 3,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 172,
+ "items": [
+  {
+   "id": "card_help_text:gCardHelpTextUs_090383C4",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090383C4",
+   "en": "· Three attack cards of\n  differing types\n· Total value 20-23{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038440",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038440",
+   "en": "Rain a flurry of blows upon\nthe enemy.{END}",
+   "max_units": 50,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903848E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903848E",
+   "en": "· Three attack cards\n· Total value 1-6{END}",
+   "max_units": 50,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090384DC",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090384DC",
+   "en": "Hurl the Keyblade forward,\nstunning and dealing damage\nto enemies in its path.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903857A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903857A",
+   "en": "· Three attack cards\n· Total value 24-26{END}",
+   "max_units": 50,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090385CC",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090385CC",
+   "en": "Leap into the air and fire a\nstream of rays in front of\nyou.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038646",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038646",
+   "en": "· Three attack cards\n· Total value 7-9{END}",
+   "max_units": 50,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038694",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038694",
+   "en": "Inflict heavy damage on all\nenemies in sight.{END}",
+   "max_units": 51,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090386F0",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090386F0",
+   "en": "· Any attack card\n· Donald\n· Goofy{END}",
+   "max_units": 50,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038736",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038736",
+   "en": "Slide toward distant\ntargets for a close-range\nattack.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090387A4",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090387A4",
+   "en": "· Three attack cards of the\n  same type\n· Total value 10-15{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903881C",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903881C",
+   "en": "Stun surrounding enemies\nwith a single attack.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903887A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903887A",
+   "en": "· Three attack cards of the\n  same type\n· Total value 20-23{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090388F2",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090388F2",
+   "en": "Break a card and render it\nunreloadable until the end\nof the battle.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903897C",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903897C",
+   "en": "· Three attack cards\n· Total value 0 or 27{END}",
+   "max_units": 50,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090389D2",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090389D2",
+   "en": "Sizzle the opposition with\npowerful fire magic.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038A32",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038A32",
+   "en": "· Fire\n· Fire{END}",
+   "max_units": 50,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038A4E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038A4E",
+   "en": "Chill the opposition with\npowerful ice magic.{END}",
+   "max_units": 51,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038AAA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038AAA",
+   "en": "· Blizzard\n· Blizzard{END}",
+   "max_units": 50,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038AD6",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038AD6",
+   "en": "Shock the opposition with\npowerful lightning magic.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038B3E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038B3E",
+   "en": "· Thunder\n· Thunder{END}",
+   "max_units": 50,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038B66",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038B66",
+   "en": "Restore a lot of HP.{END}",
+   "max_units": 50,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038B90",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038B90",
+   "en": "· Cure\n· Cure{END}",
+   "max_units": 50,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038BAC",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038BAC",
+   "en": "Deal damage relative to the\nenemy's remaining HP.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038C10",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038C10",
+   "en": "· Gravity\n· Gravity{END}",
+   "max_units": 50,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038C38",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038C38",
+   "en": "Halt enemy movement for a\nlong period of time.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038C96",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038C96",
+   "en": "· Stop\n· Stop{END}",
+   "max_units": 50,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038CB2",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038CB2",
+   "en": "Blow away surrounding\nenemies and inflict damage.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038D16",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038D16",
+   "en": "· Aero\n· Aero{END}",
+   "max_units": 50,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038D32",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038D32",
+   "en": "Scorch the opposition with\nsupreme fire magic.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038D90",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038D90",
+   "en": "· Fire\n· Fire\n· Fire{END}",
+   "max_units": 50,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038DBA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038DBA",
+   "en": "Freeze the opposition with\nsupreme ice magic.{END}",
+   "max_units": 51,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038E16",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038E16",
+   "en": "· Blizzard\n· Blizzard\n· Blizzard{END}",
+   "max_units": 50,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038E58",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038E58",
+   "en": "Fry the opposition with\nsupreme lightning magic.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038EBA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038EBA",
+   "en": "· Thunder\n· Thunder\n· Thunder{END}",
+   "max_units": 50,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038EF6",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038EF6",
+   "en": "Restore a very large\namount of HP.{END}",
+   "max_units": 50,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038F3C",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038F3C",
+   "en": "· Cure\n· Cure\n· Cure{END}",
+   "max_units": 50,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038F66",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038F66",
+   "en": "Deal damage relative to the\nenemy's remaining HP.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09038FCA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09038FCA",
+   "en": "· Gravity\n· Gravity\n· Gravity{END}",
+   "max_units": 50,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039006",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039006",
+   "en": "Halt enemy movement for a\nvery long period of time.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903906E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903906E",
+   "en": "· Stop\n· Stop\n· Stop{END}",
+   "max_units": 50,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039098",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039098",
+   "en": "Blow away all enemies in a\nlarge radius and inflict\ndamage.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039110",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039110",
+   "en": "· Aero\n· Aero\n· Aero{END}",
+   "max_units": 50,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903913A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903913A",
+   "en": "Simba's roar stuns and\ndeals damage to enemies in\nfront of him.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090391BA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090391BA",
+   "en": "· Simba\n· Simba{END}",
+   "max_units": 50,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090391DA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090391DA",
+   "en": "Simba's roar stuns and\ndeals even more damage to\nenemies in front of him.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903926E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903926E",
+   "en": "· Simba\n· Simba\n· Simba{END}",
+   "max_units": 50,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903929E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903929E",
+   "en": "Genie randomly casts two\nspells chosen from Gravira,\nThundara, and Stopra.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039334",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039334",
+   "en": "· Genie\n· Genie{END}",
+   "max_units": 50,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039354",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039354",
+   "en": "Genie randomly casts three\nspells chosen from Gravira,\nThundara, and Stopra.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090393EE",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090393EE",
+   "en": "· Genie\n· Genie\n· Genie{END}",
+   "max_units": 50,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903941E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903941E",
+   "en": "Tinker Bell restores a lot of\nHP over a set time period.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039490",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039490",
+   "en": "· Tinker Bell\n· Tinker Bell{END}",
+   "max_units": 50,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090394C8",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090394C8",
+   "en": "Tinker Bell restores a very\nlarge amount of HP over an\nextended time period.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039562",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039562",
+   "en": "· Tinker Bell\n· Tinker Bell\n· Tinker Bell{END}",
+   "max_units": 50,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090395B6",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090395B6",
+   "en": "Mushu breathes fire at \nenemies in a wide area,\ninflicting fire damage.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039646",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039646",
+   "en": "· Mushu\n· Mushu{END}",
+   "max_units": 50,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039666",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039666",
+   "en": "Mushu breathes even more\nfire at enemies in a wide\narea, inflicting fire damage.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039708",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039708",
+   "en": "· Mushu\n· Mushu\n· Mushu{END}",
+   "max_units": 50,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039738",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039738",
+   "en": "Cloud assaults the enemy\nwith a three-hit combo.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903979A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903979A",
+   "en": "· Cloud\n· Cloud{END}",
+   "max_units": 50,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090397BA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090397BA",
+   "en": "Cloud swoops down from\nthe skies, attacking enemies\nin a wide area.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039842",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039842",
+   "en": "· Cloud\n· Cloud\n· Cloud{END}",
+   "max_units": 50,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039872",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039872",
+   "en": "Bambi bounds around and\ndrops HP recovery items.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090398D4",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090398D4",
+   "en": "· Bambi\n· Bambi{END}",
+   "max_units": 50,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090398F4",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090398F4",
+   "en": "Bambi bounds around and\ndrops HP recovery items\nwhile stunning the enemy.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039988",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039988",
+   "en": "· Bambi\n· Bambi\n· Bambi{END}",
+   "max_units": 50,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_090399B8",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_090399B8",
+   "en": "Dumbo douses enemies over\na set time period, dealing ice\ndamage.{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039A3A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039A3A",
+   "en": "· Dumbo\n· Dumbo{END}",
+   "max_units": 50,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039A5A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039A5A",
+   "en": "Dumbo douses enemies in a\nwide area for a set time\nperiod, dealing ice damage.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  }
+ ]
+}

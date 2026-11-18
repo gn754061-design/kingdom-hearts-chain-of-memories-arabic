@@ -1,0 +1,848 @@
+{
+ "chunk": 75,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterJafarGenieLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterJafarGenieLine2",
+   "en": "transformed by magic.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterJafarGenieLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterJafarGenieLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterJafarGenieLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterJafarGenieLine4",
+   "en": "Jafar appeared before{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterJafarGenieLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterJafarGenieLine5",
+   "en": "Riku as a token of the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterJafarGenieLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterJafarGenieLine6",
+   "en": "indelible darkness in his{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterJafarGenieLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterJafarGenieLine7",
+   "en": "heart.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterUrsulaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterUrsulaLine0",
+   "en": "The sea witch who{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterUrsulaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterUrsulaLine1",
+   "en": "plotted to rule all of{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterUrsulaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterUrsulaLine2",
+   "en": "the undersea kingdom{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterUrsulaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterUrsulaLine3",
+   "en": "Atlantica.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterUrsulaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterUrsulaLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterUrsulaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterUrsulaLine5",
+   "en": "Ursula appeared before{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterUrsulaLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterUrsulaLine6",
+   "en": "Riku as a token of the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterUrsulaLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterUrsulaLine7",
+   "en": "indelible darkness in his{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterUrsulaLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterUrsulaLine8",
+   "en": "heart.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHadesLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHadesLine0",
+   "en": "God of the Underworld{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHadesLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHadesLine1",
+   "en": "who seeks to rule over{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHadesLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHadesLine2",
+   "en": "all.{END}",
+   "max_units": 22,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHadesLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHadesLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHadesLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHadesLine4",
+   "en": "Hades appeared before{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHadesLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHadesLine5",
+   "en": "Riku as a token of the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHadesLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHadesLine6",
+   "en": "indelible darkness in his{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHadesLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHadesLine7",
+   "en": "heart.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterOogieBoogieLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterOogieBoogieLine0",
+   "en": "A villain who’s always{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterOogieBoogieLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterOogieBoogieLine1",
+   "en": "causing trouble in{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterOogieBoogieLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterOogieBoogieLine2",
+   "en": "Halloween Town.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterOogieBoogieLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterOogieBoogieLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterOogieBoogieLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterOogieBoogieLine4",
+   "en": "He appeared before{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterOogieBoogieLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterOogieBoogieLine5",
+   "en": "Riku as a token of the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterOogieBoogieLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterOogieBoogieLine6",
+   "en": "indelible darkness in his{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterOogieBoogieLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterOogieBoogieLine7",
+   "en": "heart.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHookLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHookLine0",
+   "en": "A pirate of Never Land.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHookLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHookLine1",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHookLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHookLine2",
+   "en": "Hook appeared before{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHookLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHookLine3",
+   "en": "Riku as a token of the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHookLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHookLine4",
+   "en": "indelible darkness in his{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterHookLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterHookLine5",
+   "en": "heart.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessGuardArmorLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessGuardArmorLine0",
+   "en": "A Heartless that{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessGuardArmorLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessGuardArmorLine1",
+   "en": "haunts Traverse Town.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessGuardArmorLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessGuardArmorLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessGuardArmorLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessGuardArmorLine3",
+   "en": "It appeared before{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessGuardArmorLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessGuardArmorLine4",
+   "en": "Riku as a token of the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessGuardArmorLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessGuardArmorLine5",
+   "en": "indelible darkness in his{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessGuardArmorLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessGuardArmorLine6",
+   "en": "heart.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessParasiteCageLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessParasiteCageLine0",
+   "en": "A Heartless that{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessParasiteCageLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessParasiteCageLine1",
+   "en": "dwelled inside Monstro.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessParasiteCageLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessParasiteCageLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessParasiteCageLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessParasiteCageLine3",
+   "en": "It appeared before{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessParasiteCageLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessParasiteCageLine4",
+   "en": "Riku as a token of the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessParasiteCageLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessParasiteCageLine5",
+   "en": "indelible darkness in his{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessParasiteCageLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessParasiteCageLine6",
+   "en": "heart.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessTrickmasterLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessTrickmasterLine0",
+   "en": "The Heartless that{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessTrickmasterLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessTrickmasterLine1",
+   "en": "threw Wonderland into{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessTrickmasterLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessTrickmasterLine2",
+   "en": "chaos.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessTrickmasterLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessTrickmasterLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessTrickmasterLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessTrickmasterLine4",
+   "en": "It appeared before{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessTrickmasterLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessTrickmasterLine5",
+   "en": "Riku as a token of the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessTrickmasterLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessTrickmasterLine6",
+   "en": "indelible darkness in his{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessTrickmasterLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessTrickmasterLine7",
+   "en": "heart.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessDarksideLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessDarksideLine0",
+   "en": "The Heartless Riku{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessDarksideLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessDarksideLine1",
+   "en": "attracted when he was{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessDarksideLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessDarksideLine2",
+   "en": "seduced by darkness.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessDarksideLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessDarksideLine3",
+   "en": "It destroyed Destiny{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessDarksideLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessDarksideLine4",
+   "en": "Islands.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessDarksideLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessDarksideLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessDarksideLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessDarksideLine6",
+   "en": "Zexion called Darkside{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuHeartlessDarksideLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuHeartlessDarksideLine7",
+   "en": "in order to subdue Riku.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardFireLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardFireLine0",
+   "en": "Magic that deals fire{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardFireLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardFireLine1",
+   "en": "damage.  Stock 2 cards{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyMagicCardFireLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyMagicCardFireLine2",
+   "en": "for Fira and 3 cards for{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

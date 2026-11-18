@@ -1,0 +1,848 @@
+{
+ "chunk": 48,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 160,
+ "items": [
+  {
+   "id": "event_text:gEvent149Text15",
+   "pool": "event_text",
+   "symbol": "gEvent149Text15",
+   "en": "But know this:\nThe truth will bring you pain.\nWill you still go?{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent149Text16",
+   "pool": "event_text",
+   "symbol": "gEvent149Text16",
+   "en": "There can be no returning to\nthe sweet security of sleep.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent149Text17",
+   "pool": "event_text",
+   "symbol": "gEvent149Text17",
+   "en": "Yeah, well…\nSeems like a boring place to\ntake a nap anyway.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent149Text18",
+   "pool": "event_text",
+   "symbol": "gEvent149Text18",
+   "en": "Well said, Riku.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent150Text00",
+   "pool": "event_text",
+   "symbol": "gEvent150Text00",
+   "en": "A door to the truth, huh…{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent151Text00",
+   "pool": "event_text",
+   "symbol": "gEvent151Text00",
+   "en": "This is Maleficent’s castle!\nHow’d I end up HERE?{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent151Text01",
+   "pool": "event_text",
+   "symbol": "gEvent151Text01",
+   "en": "Someone must have brought\nme here while I was sleeping.\nBut who?{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent151Text02",
+   "pool": "event_text",
+   "symbol": "gEvent151Text02",
+   "en": "What you see is not real.\nIt's the world of your memory.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent151Text03",
+   "pool": "event_text",
+   "symbol": "gEvent151Text03",
+   "en": "My memory?{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent151Text04",
+   "pool": "event_text",
+   "symbol": "gEvent151Text04",
+   "en": "The things you remember of\nMaleficent's castle from your\ntime there.\nThose memories became a card,\nand that card made this world.{END}",
+   "max_units": 138,
+   "units": 138,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent151Text05",
+   "pool": "event_text",
+   "symbol": "gEvent151Text05",
+   "en": "The things you see―you've\nseen them all before, haven't\nyou?{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent151Text06",
+   "pool": "event_text",
+   "symbol": "gEvent151Text06",
+   "en": "Yeah…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent151Text07",
+   "pool": "event_text",
+   "symbol": "gEvent151Text07",
+   "en": "So what now?\nAm I supposed to learn\nsomething while I'm here?\nMaybe run into someone I\nknow?{END}",
+   "max_units": 101,
+   "units": 101,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent151Text08",
+   "pool": "event_text",
+   "symbol": "gEvent151Text08",
+   "en": "Ordinarily…yes.\nYou would meet the people in\nyour memories.{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent151Text09",
+   "pool": "event_text",
+   "symbol": "gEvent151Text09",
+   "en": "Ordinarily?{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent151Text10",
+   "pool": "event_text",
+   "symbol": "gEvent151Text10",
+   "en": "Hey, I’m asking you a question!{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent151Text11",
+   "pool": "event_text",
+   "symbol": "gEvent151Text11",
+   "en": "Fine.{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent151Text12",
+   "pool": "event_text",
+   "symbol": "gEvent151Text12",
+   "en": "But it'd better be you I run\nacross next, Voice.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent151Text13",
+   "pool": "event_text",
+   "symbol": "gEvent151Text13",
+   "en": "I'm sick of talking to thin air.{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent152Text00",
+   "pool": "event_text",
+   "symbol": "gEvent152Text00",
+   "en": "It's like he said―everything's\njust how I remember it.  Even\nthis room…{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent152Text01",
+   "pool": "event_text",
+   "symbol": "gEvent152Text01",
+   "en": "It must be nice being back in\nyour old bedroom.  Think of all\nthe memories…{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent152Text02",
+   "pool": "event_text",
+   "symbol": "gEvent152Text02",
+   "en": "You again.{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent152Text03",
+   "pool": "event_text",
+   "symbol": "gEvent152Text03",
+   "en": "Sorry, but these memories I\ncould do without.  Maleficent\ngave me this room.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent152Text04",
+   "pool": "event_text",
+   "symbol": "gEvent152Text04",
+   "en": "So she did.\nAnd you lived here, tempted\nby the darkness she offered.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent152Text05",
+   "pool": "event_text",
+   "symbol": "gEvent152Text05",
+   "en": "You cast away your home,\nyour friends, everything…\n\nBut at least they gave you a\nnice room.{END}",
+   "max_units": 100,
+   "units": 100,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent152Text06",
+   "pool": "event_text",
+   "symbol": "gEvent152Text06",
+   "en": "Shut up.{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent153Text00",
+   "pool": "event_text",
+   "symbol": "gEvent153Text00",
+   "en": "No one here, either…{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent153Text01",
+   "pool": "event_text",
+   "symbol": "gEvent153Text01",
+   "en": "There's nothing but Heartless\nin this castle.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent153Text02",
+   "pool": "event_text",
+   "symbol": "gEvent153Text02",
+   "en": "Voice!\nI know you're watching―so\nexplain this.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent153Text03",
+   "pool": "event_text",
+   "symbol": "gEvent153Text03",
+   "en": "Where are the people from my\nmemories?  Tell me!{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent153Text04",
+   "pool": "event_text",
+   "symbol": "gEvent153Text04",
+   "en": "Are you sure you want to see\nthem?{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent153Text05",
+   "pool": "event_text",
+   "symbol": "gEvent153Text05",
+   "en": "Of course I do.{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent153Text06",
+   "pool": "event_text",
+   "symbol": "gEvent153Text06",
+   "en": "But you cast them aside.{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent153Text07",
+   "pool": "event_text",
+   "symbol": "gEvent153Text07",
+   "en": "To reach the outside world,\nyou passed through the door\nto darkness.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent153Text08",
+   "pool": "event_text",
+   "symbol": "gEvent153Text08",
+   "en": "Behind you, you left family,\nfriends, home―everything―\nall in pursuit of darkness.{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent153Text09",
+   "pool": "event_text",
+   "symbol": "gEvent153Text09",
+   "en": "But I cast that aside, too!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent153Text10",
+   "pool": "event_text",
+   "symbol": "gEvent153Text10",
+   "en": "Then what do you have to\nshow for it?{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent153Text11",
+   "pool": "event_text",
+   "symbol": "gEvent153Text11",
+   "en": "First your home, then the dark.\nYour heart only knows how to\nthrow things away.{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent153Text12",
+   "pool": "event_text",
+   "symbol": "gEvent153Text12",
+   "en": "It’s empty, like that room.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent153Text13",
+   "pool": "event_text",
+   "symbol": "gEvent153Text13",
+   "en": "Like your memories.\nThat's why no one is in the\ncastle with you.{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent153Text14",
+   "pool": "event_text",
+   "symbol": "gEvent153Text14",
+   "en": "Your heart is hollow except\nfor the darkness you couldn't\nquite shake off.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent153Text15",
+   "pool": "event_text",
+   "symbol": "gEvent153Text15",
+   "en": "You’re full of it!\nI rejected the darkness!{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent153Text16",
+   "pool": "event_text",
+   "symbol": "gEvent153Text16",
+   "en": "Ha ha ha…\nDid you really, now? {END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent154Text00",
+   "pool": "event_text",
+   "symbol": "gEvent154Text00",
+   "en": "I knew you’d return, Riku.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent154Text01",
+   "pool": "event_text",
+   "symbol": "gEvent154Text01",
+   "en": "Maleficent!\nYou’re alive?!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent154Text02",
+   "pool": "event_text",
+   "symbol": "gEvent154Text02",
+   "en": "You haven't been paying\nattention.  I am but a figment\nof your memory.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text03",
+   "pool": "event_text",
+   "symbol": "gEvent154Text03",
+   "en": "Of all the people I could run\ninto, it had to be you…{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent154Text04",
+   "pool": "event_text",
+   "symbol": "gEvent154Text04",
+   "en": "Who else?\nYour heart is steeped in\ndarkness.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text05",
+   "pool": "event_text",
+   "symbol": "gEvent154Text05",
+   "en": "You can only see people who\nexist in that same darkness―\npeople like me.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text06",
+   "pool": "event_text",
+   "symbol": "gEvent154Text06",
+   "en": "No…{END}",
+   "max_units": 52,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent154Text07",
+   "pool": "event_text",
+   "symbol": "gEvent154Text07",
+   "en": "Be grateful you have someone\nto keep you company.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent154Text08",
+   "pool": "event_text",
+   "symbol": "gEvent154Text08",
+   "en": "Your heart is empty.\nWere it not for the darkness\nin your heart…\n…you would be completely\nalone.{END}",
+   "max_units": 105,
+   "units": 105,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent154Text09",
+   "pool": "event_text",
+   "symbol": "gEvent154Text09",
+   "en": "That's sounding pretty good\nright about now.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent154Text10",
+   "pool": "event_text",
+   "symbol": "gEvent154Text10",
+   "en": "Come, now.\nYou once clung to me to sate\nyour hunger for darkness.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text11",
+   "pool": "event_text",
+   "symbol": "gEvent154Text11",
+   "en": "You want me here.\nWho else but I can give you\nthe darkness you long for?{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text12",
+   "pool": "event_text",
+   "symbol": "gEvent154Text12",
+   "en": "There was a time I did want\nyou around.  I surrendered my\nheart to the dark.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text13",
+   "pool": "event_text",
+   "symbol": "gEvent154Text13",
+   "en": "But never again.\nYou and your darkness have\nnothing to offer.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text14",
+   "pool": "event_text",
+   "symbol": "gEvent154Text14",
+   "en": "All I did was lose myself…\nEmpty myself!{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent154Text15",
+   "pool": "event_text",
+   "symbol": "gEvent154Text15",
+   "en": "I’m finished with all that.\nIf I’m stuck seeing people like\nyou, people of the dark…{END}",
+   "max_units": 91,
+   "units": 91,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text16",
+   "pool": "event_text",
+   "symbol": "gEvent154Text16",
+   "en": "I’ll take you out one by one.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent154Text17",
+   "pool": "event_text",
+   "symbol": "gEvent154Text17",
+   "en": "Then don’t forget to take\nyourself out last.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent154Text18",
+   "pool": "event_text",
+   "symbol": "gEvent154Text18",
+   "en": "Because you, like me, are one\nof the dark.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent154Text19",
+   "pool": "event_text",
+   "symbol": "gEvent154Text19",
+   "en": "That's fine with me.\nI turned to darkness because\nmy heart was weak.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text20",
+   "pool": "event_text",
+   "symbol": "gEvent154Text20",
+   "en": "I hate that weakness.\nIt's like I'm my own enemy.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent154Text21",
+   "pool": "event_text",
+   "symbol": "gEvent154Text21",
+   "en": "And seeing people like you\nembrace the darkness just\nmakes it worse!{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text22",
+   "pool": "event_text",
+   "symbol": "gEvent154Text22",
+   "en": "Enough talk, Maleficent.{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent154Text23",
+   "pool": "event_text",
+   "symbol": "gEvent154Text23",
+   "en": "So you hate the darkness\nenough to fight it…  Oh, the\nagony you must feel!{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent154Text24",
+   "pool": "event_text",
+   "symbol": "gEvent154Text24",
+   "en": "Let me end your pain, Riku―\nend it forever with the\nwondrous power of darkness!{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent155Text00",
+   "pool": "event_text",
+   "symbol": "gEvent155Text00",
+   "en": "Why do you shun the dark?{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text01",
+   "pool": "event_text",
+   "symbol": "gEvent155Text01",
+   "en": "Oh, come on.\nI know you heard every word\nI said to Maleficent.{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  }
+ ]
+}

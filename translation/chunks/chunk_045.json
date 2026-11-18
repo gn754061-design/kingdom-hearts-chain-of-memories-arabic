@@ -1,0 +1,848 @@
+{
+ "chunk": 45,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 150,
+ "items": [
+  {
+   "id": "event_text:gEvent072Text21",
+   "pool": "event_text",
+   "symbol": "gEvent072Text21",
+   "en": "Those same chains are what\nanchor us all together.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text22",
+   "pool": "event_text",
+   "symbol": "gEvent072Text22",
+   "en": "I don’t destroy memories.\nI just take apart the links and\nrearrange them.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text23",
+   "pool": "event_text",
+   "symbol": "gEvent072Text23",
+   "en": "You still have all your\nmemories.{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text24",
+   "pool": "event_text",
+   "symbol": "gEvent072Text24",
+   "en": "So you can put them back\ntogether?{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text25",
+   "pool": "event_text",
+   "symbol": "gEvent072Text25",
+   "en": "Yes, but first I have to undo\nthe links I made.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text26",
+   "pool": "event_text",
+   "symbol": "gEvent072Text26",
+   "en": "Then I have to gather up the\nmemories scattered in your\nhearts and reconnect them.{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text27",
+   "pool": "event_text",
+   "symbol": "gEvent072Text27",
+   "en": "It will take time.\nBut I think it will work.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text28",
+   "pool": "event_text",
+   "symbol": "gEvent072Text28",
+   "en": "No, I’ll MAKE it work.\nIt’s my turn to help you out.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text29",
+   "pool": "event_text",
+   "symbol": "gEvent072Text29",
+   "en": "All right.\nWe’re in your hands.{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text30",
+   "pool": "event_text",
+   "symbol": "gEvent072Text30",
+   "en": "Hey…\nWait just a second!{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text31",
+   "pool": "event_text",
+   "symbol": "gEvent072Text31",
+   "en": "You said you’d have to undo\nthe links you made.  But that\nmeans―{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text32",
+   "pool": "event_text",
+   "symbol": "gEvent072Text32",
+   "en": "Yes, Jiminy.\nYou won’t be able to recall\nwhat happened in this castle.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text33",
+   "pool": "event_text",
+   "symbol": "gEvent072Text33",
+   "en": "Not even you? {END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text34",
+   "pool": "event_text",
+   "symbol": "gEvent072Text34",
+   "en": "I’m sorry.\nIt’s the only way.{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text35",
+   "pool": "event_text",
+   "symbol": "gEvent072Text35",
+   "en": "You have to choose, Sora.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text36",
+   "pool": "event_text",
+   "symbol": "gEvent072Text36",
+   "en": "You can lose your memories of\nthis castle and reclaim your\nold memories…{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text37",
+   "pool": "event_text",
+   "symbol": "gEvent072Text37",
+   "en": "…or keep your memories here\nand give up the memories that\nyou’ve lost.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text38",
+   "pool": "event_text",
+   "symbol": "gEvent072Text38",
+   "en": "I have to choose?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text39",
+   "pool": "event_text",
+   "symbol": "gEvent072Text39",
+   "en": "Yes.{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text40",
+   "pool": "event_text",
+   "symbol": "gEvent072Text40",
+   "en": "Put me back the way I was.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text41",
+   "pool": "event_text",
+   "symbol": "gEvent072Text41",
+   "en": "Okay, I understand!\nWho needs false memories,\nright?{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text42",
+   "pool": "event_text",
+   "symbol": "gEvent072Text42",
+   "en": "Especially when you have real\nmemories of people who are\nreally important to you.{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text43",
+   "pool": "event_text",
+   "symbol": "gEvent072Text43",
+   "en": "Anyone would say the same.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text00",
+   "pool": "event_text",
+   "symbol": "gEvent073Text00",
+   "en": "We have to sleep in these to\nget our memories back?{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent073Text01",
+   "pool": "event_text",
+   "symbol": "gEvent073Text01",
+   "en": "You’ll be fine.\nIt might take a little time, but\nI’ll take care of you.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent073Text02",
+   "pool": "event_text",
+   "symbol": "gEvent073Text02",
+   "en": "But when we wake up, we\nwon’t remember you anymore…{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent073Text03",
+   "pool": "event_text",
+   "symbol": "gEvent073Text03",
+   "en": "How are we going to thank\nyou later?{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent073Text04",
+   "pool": "event_text",
+   "symbol": "gEvent073Text04",
+   "en": "No problem, Donald!\nI’ll make a note in my journal:\n“Thank Naminé.”{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent073Text05",
+   "pool": "event_text",
+   "symbol": "gEvent073Text05",
+   "en": "Of course!\nWhy didn’t I think of that!{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent073Text06",
+   "pool": "event_text",
+   "symbol": "gEvent073Text06",
+   "en": "Good night, Naminé.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text07",
+   "pool": "event_text",
+   "symbol": "gEvent073Text07",
+   "en": "Good night.{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text08",
+   "pool": "event_text",
+   "symbol": "gEvent073Text08",
+   "en": "You too, Sora.{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text09",
+   "pool": "event_text",
+   "symbol": "gEvent073Text09",
+   "en": "Okay.{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text10",
+   "pool": "event_text",
+   "symbol": "gEvent073Text10",
+   "en": "It may have started with a lie,\nbut I’m really glad I met you,\nSora.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent073Text11",
+   "pool": "event_text",
+   "symbol": "gEvent073Text11",
+   "en": "Yeah, me too.{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text12",
+   "pool": "event_text",
+   "symbol": "gEvent073Text12",
+   "en": "When I found you…\nEven when I remembered your\nname, I was so, so happy.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent073Text13",
+   "pool": "event_text",
+   "symbol": "gEvent073Text13",
+   "en": "The way I felt was no lie.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text14",
+   "pool": "event_text",
+   "symbol": "gEvent073Text14",
+   "en": "Goodbye.{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text15",
+   "pool": "event_text",
+   "symbol": "gEvent073Text15",
+   "en": "No, not goodbye!\nI’ll find you again after I wake\nup.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent073Text16",
+   "pool": "event_text",
+   "symbol": "gEvent073Text16",
+   "en": "And we’ll be friends for real.\nPromise me, Naminé.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent073Text17",
+   "pool": "event_text",
+   "symbol": "gEvent073Text17",
+   "en": "You’ll only forget.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text18",
+   "pool": "event_text",
+   "symbol": "gEvent073Text18",
+   "en": "I won’t.\n\n\nEven if you take apart the\nchain of memories in my heart,\nthe links will stay there.{END}",
+   "max_units": 105,
+   "units": 105,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent073Text19",
+   "pool": "event_text",
+   "symbol": "gEvent073Text19",
+   "en": "This memory will always be\ninside me somewhere.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent073Text20",
+   "pool": "event_text",
+   "symbol": "gEvent073Text20",
+   "en": "I guess you’re right.\nLet’s promise, then.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent073Text21",
+   "pool": "event_text",
+   "symbol": "gEvent073Text21",
+   "en": "I'll see you again, Naminé.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text22",
+   "pool": "event_text",
+   "symbol": "gEvent073Text22",
+   "en": "Sora…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text23",
+   "pool": "event_text",
+   "symbol": "gEvent073Text23",
+   "en": "The loose links will sink into\nthe darkness in your heart.\n\nYou won’t be able to just\nreach in and pick the one you\nwant.{END}",
+   "max_units": 131,
+   "units": 131,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent073Text24",
+   "pool": "event_text",
+   "symbol": "gEvent073Text24",
+   "en": "But there’s another promise\nyou made―\n\n―a promise to someone you\ncould never replace.{END}",
+   "max_units": 94,
+   "units": 94,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent073Text25",
+   "pool": "event_text",
+   "symbol": "gEvent073Text25",
+   "en": "She’s your light.\nThe light within the darkness.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent073Text26",
+   "pool": "event_text",
+   "symbol": "gEvent073Text26",
+   "en": "If you can remember her…\n\n\n…all the memories lost in the\nshadows of your heart will\ncome into the light.{END}",
+   "max_units": 114,
+   "units": 114,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent073Text27",
+   "pool": "event_text",
+   "symbol": "gEvent073Text27",
+   "en": "Another promise…{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent073Text28",
+   "pool": "event_text",
+   "symbol": "gEvent073Text28",
+   "en": "Look at the good luck charm.\nI changed its shape when I\nchanged your memory.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent073Text29",
+   "pool": "event_text",
+   "symbol": "gEvent073Text29",
+   "en": "But when you thought of her,\nit went back to the way it was.\nYou’re remembering…{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent134Text00",
+   "pool": "event_text",
+   "symbol": "gEvent134Text00",
+   "en": "What’s wrong, little fella?{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent134Text01",
+   "pool": "event_text",
+   "symbol": "gEvent134Text01",
+   "en": "I’m looking for my friends.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent134Text02",
+   "pool": "event_text",
+   "symbol": "gEvent134Text02",
+   "en": "Are they around here?{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent134Text03",
+   "pool": "event_text",
+   "symbol": "gEvent134Text03",
+   "en": "It looks like nobody’s here.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent134Text04",
+   "pool": "event_text",
+   "symbol": "gEvent134Text04",
+   "en": "So I guess I’m looking for\nnobody.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent134Text05",
+   "pool": "event_text",
+   "symbol": "gEvent134Text05",
+   "en": "Hmm?\nYou’re looking for nobody?{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent134Text06",
+   "pool": "event_text",
+   "symbol": "gEvent134Text06",
+   "en": "Yes.  I keep looking, but I’m\ngetting nowhere.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent134Text07",
+   "pool": "event_text",
+   "symbol": "gEvent134Text07",
+   "en": "All this searching is making me\nhungry.  I wonder if there’s a\nbit of honey around here.{END}",
+   "max_units": 95,
+   "units": 95,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent134Text08",
+   "pool": "event_text",
+   "symbol": "gEvent134Text08",
+   "en": "But if I start eating, I’ll have\nto stop searching…{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent134Text09",
+   "pool": "event_text",
+   "symbol": "gEvent134Text09",
+   "en": "Why don’t we look for your\nfriends together?{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent134Text10",
+   "pool": "event_text",
+   "symbol": "gEvent134Text10",
+   "en": "You mean, look for nobody?{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent134Text11",
+   "pool": "event_text",
+   "symbol": "gEvent134Text11",
+   "en": "No, for your friends.\nThey might be around here.\nLet’s find them together.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent134Text12",
+   "pool": "event_text",
+   "symbol": "gEvent134Text12",
+   "en": "Are you looking for my friends\ntoo?{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent134Text13",
+   "pool": "event_text",
+   "symbol": "gEvent134Text13",
+   "en": "No, but I’m looking for some\nfriends of my own.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent134Text14",
+   "pool": "event_text",
+   "symbol": "gEvent134Text14",
+   "en": "Are they Pooh’s friends?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent134Text15",
+   "pool": "event_text",
+   "symbol": "gEvent134Text15",
+   "en": "Now, just a minute…\nI’m Pooh, not you.{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent134Text16",
+   "pool": "event_text",
+   "symbol": "gEvent134Text16",
+   "en": "That’s right.  I’m Sora!\nMy friends are different from\nyour friends.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  }
+ ]
+}

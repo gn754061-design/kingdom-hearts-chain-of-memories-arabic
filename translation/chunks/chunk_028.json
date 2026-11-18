@@ -1,0 +1,849 @@
+{
+ "chunk": 28,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 153,
+ "items": [
+  {
+   "id": "event_text:gEvent131Text02",
+   "pool": "event_text",
+   "symbol": "gEvent131Text02",
+   "en": "Then I shall make you scream!\nThe fool will come running the\nmoment he hears your cries.{END}",
+   "max_units": 95,
+   "units": 95,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text03",
+   "pool": "event_text",
+   "symbol": "gEvent131Text03",
+   "en": "Enough!{END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text04",
+   "pool": "event_text",
+   "symbol": "gEvent131Text04",
+   "en": "The Beast isn’t the only one\nyou have to deal with.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text05",
+   "pool": "event_text",
+   "symbol": "gEvent131Text05",
+   "en": "Begone, boy.\nYou have no business here.\n\nUnless, of course, you wish to\njoin in the screaming!{END}",
+   "max_units": 103,
+   "units": 103,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent131Text06",
+   "pool": "event_text",
+   "symbol": "gEvent131Text06",
+   "en": "Yes…  When that brute hears\nyour shrieks of terror, he’ll\ncome right to me!{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text07",
+   "pool": "event_text",
+   "symbol": "gEvent131Text07",
+   "en": "Don’t trouble yourself,\nMaleficent.  I’m here.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text08",
+   "pool": "event_text",
+   "symbol": "gEvent131Text08",
+   "en": "You came!{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text09",
+   "pool": "event_text",
+   "symbol": "gEvent131Text09",
+   "en": "No!  You mustn’t!\nI told you to leave this place!{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text10",
+   "pool": "event_text",
+   "symbol": "gEvent131Text10",
+   "en": "Leave me alone!\nI never want to see your face\nagain!{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text11",
+   "pool": "event_text",
+   "symbol": "gEvent131Text11",
+   "en": "Belle…{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text12",
+   "pool": "event_text",
+   "symbol": "gEvent131Text12",
+   "en": "What an awful thing to say!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text13",
+   "pool": "event_text",
+   "symbol": "gEvent131Text13",
+   "en": "All right.  If that’s how you\nfeel, I understand.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text14",
+   "pool": "event_text",
+   "symbol": "gEvent131Text14",
+   "en": "My hideous form is punishment\nfor being selfish and unable to\nlove.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text15",
+   "pool": "event_text",
+   "symbol": "gEvent131Text15",
+   "en": "Transformed into a monster,\nloved by no one, I only became\nmore selfish.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text16",
+   "pool": "event_text",
+   "symbol": "gEvent131Text16",
+   "en": "And then I met you, Belle.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text17",
+   "pool": "event_text",
+   "symbol": "gEvent131Text17",
+   "en": "You’re the only person who \naccepted me.\n\nLittle by little, you warmed my\ncold, selfish heart.{END}",
+   "max_units": 103,
+   "units": 103,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent131Text18",
+   "pool": "event_text",
+   "symbol": "gEvent131Text18",
+   "en": "The memories of our days\ntogether are my most precious.\nI won’t cast them aside.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text19",
+   "pool": "event_text",
+   "symbol": "gEvent131Text19",
+   "en": "So I’m sorry, but I can’t leave\nyou here…even if you hate me\nfor it.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text20",
+   "pool": "event_text",
+   "symbol": "gEvent131Text20",
+   "en": "Consider it my final selfish act.{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text21",
+   "pool": "event_text",
+   "symbol": "gEvent131Text21",
+   "en": "But why…{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text22",
+   "pool": "event_text",
+   "symbol": "gEvent131Text22",
+   "en": "Well, well.  I never dreamed\nsuch ugliness could hide so\nbeautiful a heart.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text23",
+   "pool": "event_text",
+   "symbol": "gEvent131Text23",
+   "en": "This calls for a change of\nplan.  Beast, I shall claim your\nheart instead of Belle’s!{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text24",
+   "pool": "event_text",
+   "symbol": "gEvent131Text24",
+   "en": "No!  Please!{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text25",
+   "pool": "event_text",
+   "symbol": "gEvent131Text25",
+   "en": "Unnh…?{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text26",
+   "pool": "event_text",
+   "symbol": "gEvent131Text26",
+   "en": "Well, so much for the change\nof plan.  Belle’s heart it is.{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text27",
+   "pool": "event_text",
+   "symbol": "gEvent131Text27",
+   "en": "It seems her cold words spoke\nlittle of her true feelings.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text28",
+   "pool": "event_text",
+   "symbol": "gEvent131Text28",
+   "en": "Ha ha ha, she loves you,\nBeast!  I can feel it shining in\nher heart!{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text29",
+   "pool": "event_text",
+   "symbol": "gEvent131Text29",
+   "en": "You fiend!\nRelease Belle’s heart at once!{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text30",
+   "pool": "event_text",
+   "symbol": "gEvent131Text30",
+   "en": "Where is she?{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text31",
+   "pool": "event_text",
+   "symbol": "gEvent131Text31",
+   "en": "She went that way!\nThat’s the way the shadows\nfled.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text32",
+   "pool": "event_text",
+   "symbol": "gEvent131Text32",
+   "en": "What are you doing here?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text33",
+   "pool": "event_text",
+   "symbol": "gEvent131Text33",
+   "en": "No time to talk! \nWe gotta go after them right\naway!{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent131Text34",
+   "pool": "event_text",
+   "symbol": "gEvent131Text34",
+   "en": "You’d help me?{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent131Text35",
+   "pool": "event_text",
+   "symbol": "gEvent131Text35",
+   "en": "You bet!  After what you just\nsaid, we GOTTA help you!{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text36",
+   "pool": "event_text",
+   "symbol": "gEvent131Text36",
+   "en": "Let’s go get Belle’s heart\nback!{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text37",
+   "pool": "event_text",
+   "symbol": "gEvent131Text37",
+   "en": "Right!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent132Text00",
+   "pool": "event_text",
+   "symbol": "gEvent132Text00",
+   "en": "You’ve done well to make it\nthis far, Beast.\n\nAs your reward, I’ll tell you\nwhy Belle rejected you.{END}",
+   "max_units": 108,
+   "units": 108,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent132Text01",
+   "pool": "event_text",
+   "symbol": "gEvent132Text01",
+   "en": "My dark magic requires hearts\nof utmost beauty.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent132Text02",
+   "pool": "event_text",
+   "symbol": "gEvent132Text02",
+   "en": "Belle was perfect.  Deep in her\nheart, her love for you shone\nwith uncommon radiance.{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent132Text03",
+   "pool": "event_text",
+   "symbol": "gEvent132Text03",
+   "en": "But she guessed my plans.\n\n\nBy denying her love for you, \nshe put her heart beyond my\nreach.{END}",
+   "max_units": 102,
+   "units": 102,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent132Text04",
+   "pool": "event_text",
+   "symbol": "gEvent132Text04",
+   "en": "But she saved me!\nShe protected me!{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent132Text05",
+   "pool": "event_text",
+   "symbol": "gEvent132Text05",
+   "en": "She couldn’t hide how she\nreally felt…{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent132Text06",
+   "pool": "event_text",
+   "symbol": "gEvent132Text06",
+   "en": "I’ve heard enough!\nRelease her heart, Maleficent!\nIf you don’t…{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent132Text07",
+   "pool": "event_text",
+   "symbol": "gEvent132Text07",
+   "en": "Hm hm hm…{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent132Text08",
+   "pool": "event_text",
+   "symbol": "gEvent132Text08",
+   "en": "Witch!\nDo not try my patience!{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent132Text09",
+   "pool": "event_text",
+   "symbol": "gEvent132Text09",
+   "en": "Don’t you realize why I am\ntelling you all this?  Did you\nthink it was out of kindness?{END}",
+   "max_units": 94,
+   "units": 94,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent132Text10",
+   "pool": "event_text",
+   "symbol": "gEvent132Text10",
+   "en": "I did it to erase your doubts.\nNow your heart is beginning to\nshine with love for Belle.{END}",
+   "max_units": 95,
+   "units": 95,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent132Text11",
+   "pool": "event_text",
+   "symbol": "gEvent132Text11",
+   "en": "The perfect fuel for my dark\nmagic!  I shall have your heart,\ntoo, monster!{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent132Text12",
+   "pool": "event_text",
+   "symbol": "gEvent132Text12",
+   "en": "Not if we stop you!{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent132Text13",
+   "pool": "event_text",
+   "symbol": "gEvent132Text13",
+   "en": "You dare to challenge me?\nPitiful fools!{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent133Text00",
+   "pool": "event_text",
+   "symbol": "gEvent133Text00",
+   "en": "Belle!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent133Text01",
+   "pool": "event_text",
+   "symbol": "gEvent133Text01",
+   "en": "Thank goodness…{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent133Text02",
+   "pool": "event_text",
+   "symbol": "gEvent133Text02",
+   "en": "Please forgive me.\nI had to be cruel to you.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent133Text03",
+   "pool": "event_text",
+   "symbol": "gEvent133Text03",
+   "en": "But I guess I couldn't hide my\ntrue feelings…{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent133Text04",
+   "pool": "event_text",
+   "symbol": "gEvent133Text04",
+   "en": "I’m the one who should\napologize.  For just a moment,\nI doubted your love.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent133Text05",
+   "pool": "event_text",
+   "symbol": "gEvent133Text05",
+   "en": "I never want to remember\nthose feelings of despair.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent133Text06",
+   "pool": "event_text",
+   "symbol": "gEvent133Text06",
+   "en": "Then don’t.  Let’s replace the\nsad memories with happier\nones―starting now.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent133Text07",
+   "pool": "event_text",
+   "symbol": "gEvent133Text07",
+   "en": "Belle…{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent133Text08",
+   "pool": "event_text",
+   "symbol": "gEvent133Text08",
+   "en": "There they go with the mushy\nstuff, a-hyuck!{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent133Text09",
+   "pool": "event_text",
+   "symbol": "gEvent133Text09",
+   "en": "Yeah.  We’d better give them\nsome privacy.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent133Text10",
+   "pool": "event_text",
+   "symbol": "gEvent133Text10",
+   "en": "Good idea!\nLet’s keep moving.{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent000Text00",
+   "pool": "event_text",
+   "symbol": "gEvent000Text00",
+   "en": "Looks like nobody’s home.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent000Text01",
+   "pool": "event_text",
+   "symbol": "gEvent000Text01",
+   "en": "You sure we should just barge in like this?{END}",
+   "max_units": 45,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1,
+   "ar": null
+  },
+  {
+   "id": "event_text:gEvent000Text02",
+   "pool": "event_text",
+   "symbol": "gEvent000Text02",
+   "en": "We have to if we're gonna\nfind the king…{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent000Text03",
+   "pool": "event_text",
+   "symbol": "gEvent000Text03",
+   "en": "The king?!\nKing Mickey's here?{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent000Text04",
+   "pool": "event_text",
+   "symbol": "gEvent000Text04",
+   "en": "Maybe, maybe not.\nSomething told me he'd be\nhere, that's all.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent000Text05",
+   "pool": "event_text",
+   "symbol": "gEvent000Text05",
+   "en": "Really?!{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent000Text06",
+   "pool": "event_text",
+   "symbol": "gEvent000Text06",
+   "en": "But…now that you mention it,\nI was thinkin' the same thing.{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent000Text07",
+   "pool": "event_text",
+   "symbol": "gEvent000Text07",
+   "en": "Are you serious?\nSo was I!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent000Text08",
+   "pool": "event_text",
+   "symbol": "gEvent000Text08",
+   "en": "One look at this castle, and I\njust knew: They're here.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

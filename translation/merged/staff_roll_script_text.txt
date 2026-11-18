@@ -1,0 +1,510 @@
+@gStaffRollLogoJupiterText
+*J{END}
+@gStaffRollLogoSquareEnixText
+*S{END}
+@gStaffRollLogoDisneyText
+*D{END}
+@gStaffRollFinalExecutiveProducerNamesText
+Yoichi Wada{END}
+@gStaffRollJupiterCorporationExecutiveProducerNamesText
+Makoto Nakayama (Jupiter Corporation){END}
+@gStaffRollExecutiveProducerText
+@Executive Producer{END}
+@gStaffRollJupiterCorporationProducerNamesText
+Hatao Ogata (Jupiter Corporation){END}
+@gStaffRollSecnJupiterCorporationText
+<Jupiter Corporation>{END}
+@gStaffRollAllStaffFansText
+...and ALL SQUARE ENIX + DISNEY STAFF & FANS{END}
+@gStaffRollSpecialThanks6NamesText
+Hiroshi Takemoto   Atsushi Fukuda{END}
+@gStaffRollSpecialThanks5Names18Text
+Yosuke Ikeda   Ayako Kizaki{END}
+@gStaffRollSpecialThanks5Names17Text
+Kazuyoshi Tashiro   Yoshinori Kamei{END}
+@gStaffRollSpecialThanks5Names16Text
+Miyako Kibe   Makiko Noda{END}
+@gStaffRollSpecialThanks5Names15Text
+Izumi Tsukushi   Hidemi Matsuzuka{END}
+@gStaffRollSpecialThanks5Names14Text
+Kazuhiro Nakata   Hiroyuki Ando{END}
+@gStaffRollSpecialThanks5Names13Text
+Ryo Hasegawa   Kengo Naka{END}
+@gStaffRollSpecialThanks5Names12Text
+Keiko Matsuda   Masami Imamura{END}
+@gStaffRollSpecialThanks5Names11Text
+Tatsuo Heianzan   Hiroyuki Mashita{END}
+@gStaffRollSpecialThanks5Names10Text
+Hiromichi Morita   Koji Ida{END}
+@gStaffRollSpecialThanks5Names9Text
+Takeo Kujiraoka   Hideo Kubota{END}
+@gStaffRollSpecialThanks5Names8Text
+Toshiaki Matsumoto   Mai Okauchi{END}
+@gStaffRollSpecialThanks5Names7Text
+Eri Dobashi   Daiju Komatsu{END}
+@gStaffRollSpecialThanks5Names6Text
+Takashi Wakou   Mayumi Okamoto{END}
+@gStaffRollSpecialThanks5Names5Text
+Toshihiko Nakai   Masahiro Saito{END}
+@gStaffRollSpecialThanks5Names4Text
+Kazuhiro Ookawa   Sayoko Hoshino{END}
+@gStaffRollSpecialThanks5Names3Text
+Takashi Oota   Shinichi Matsuda{END}
+@gStaffRollSpecialThanks5Names2Text
+Yusuke Takano   Kenji Kadonishi{END}
+@gStaffRollSpecialThanks5Names1Text
+Hiroshi Harata   Takeshi Endo{END}
+@gStaffRollSpecialThanks4NamesText
+Hideki Imaizumi   Katsumi Miyazaki{END}
+@gStaffRollSpecialThanks3Names5Text
+Jin Saburi{END}
+@gStaffRollSpecialThanks3Names4Text
+Gosuke Yonezawa (DENTSU INC.){END}
+@gStaffRollSpecialThanks3Names3Text
+Kentaro Kawai (DENTSU INC.){END}
+@gStaffRollSpecialThanks3Names2Text
+Taku Nishida (LANSDALE INC.){END}
+@gStaffRollSpecialThanks3Names1Text
+Hiroshi Emori (LE BLEU CO., LTD.){END}
+@gStaffRollSpecialThanks2Names3Text
+Hidenobu Okita (TOSHIBA EMI){END}
+@gStaffRollSpecialThanks2Names2Text
+Akira Miyake (TOSHIBA EMI){END}
+@gStaffRollSpecialThanks2Names1Text
+Utada Skingg Teruzane (U3 MUSIC){END}
+@gStaffRollSpecialThanks1Names1Text
+Disney Character Voices{END}
+@gStaffRollSecnSpecialThanksText
+<Special Thanks>{END}
+@gStaffRollPresidentCooNamesText
+Ichiro Otobe{END}
+@gStaffRollPresidentCooText
+@President & COO{END}
+@gStaffRollSalesNamesText
+Alaine C. DeLeon   Traci Jones{END}
+@gStaffRollSalesText
+@Sales{END}
+@gStaffRollMarketingNamesText
+Fernando Bustamante   Patrick H. Cervantes{END}
+@gStaffRollMarketingText
+@Marketing{END}
+@gStaffRollMarketingCommunicationsNamesText
+Sonia Im   Felice Wu{END}
+@gStaffRollMarketingCommunicationsText
+@Marketing Communications{END}
+@gStaffRollCustomerSupportNamesText
+Ryan Riley   Anthony Montana{END}
+@gStaffRollCustomerSupportText
+@Customer Support{END}
+@gStaffRollSquareEnixIncLocalizationManagerNamesText
+Yutaka Sano{END}
+@gStaffRollQaTranslatorsNamesText
+Frederick K. Hashi   Kazuo M. Tanaka{END}
+@gStaffRollQaTranslatorsText
+@QA Translators{END}
+@gStaffRollProductAnalystsNames5Text
+Francis M. Vita{END}
+@gStaffRollProductAnalystsNames4Text
+Jason Sanders   Jonathan Shipley{END}
+@gStaffRollProductAnalystsNames3Text
+Bernard Lee   Erin Nakagawa{END}
+@gStaffRollProductAnalystsNames2Text
+Eric Y. Kwan   Timothy Law{END}
+@gStaffRollProductAnalystsNames1Text
+Carmelo Cabezo   David T. Doan{END}
+@gStaffRollProductAnalystsText
+@Product Analysts{END}
+@gStaffRollLeadProductAnalystNamesText
+Keith P. Martz{END}
+@gStaffRollLeadProductAnalystText
+@Lead Product Analyst{END}
+@gStaffRollSeniorLeadProductAnalystNamesText
+Jonathan Cooperson{END}
+@gStaffRollSeniorLeadProductAnalystText
+@Senior Lead Product Analyst{END}
+@gStaffRollAssistantQaManagerNamesText
+محمد أ.ك. رايت{END}
+@gStaffRollAssistantQaManagerText
+@مساعد مدير الجودة{END}
+@gStaffRollQualityAssuranceManagerNamesText
+ديفيد ”ريبس” كاريو{END}
+@gStaffRollQualityAssuranceManagerText
+@مدير ضمان الجودة{END}
+@gStaffRollSecnSquareEnixIncText
+<سكوير إينكس، إنك.>{END}
+@gStaffRollLocalizationAssistantNamesText
+جونكو موموي{END}
+@gStaffRollLocalizationAssistantText
+@مساعد التعريب{END}
+@gStaffRollLocalizationSpecialistNamesText
+برايان غراي{END}
+@gStaffRollLocalizationSpecialistText
+@أخصائي التعريب{END}
+@gStaffRollLocalizationDirectorNamesText
+تاكويا شيرايوا{END}
+@gStaffRollLocalizationDirectorText
+@مدير التعريب{END}
+@gStaffRollLocalizationTeamGeneralManagerNamesText
+أكيرا كاشيواغي{END}
+@gStaffRollSecnLocalizationTeamText
+<فريق التعريب>{END}
+@gStaffRollPatentDepartmentStaffNamesText
+تاكاهيرو فوجي{END}
+@gStaffRollPatentDepartmentStaffText
+@موظف قسم البراءات{END}
+@gStaffRollLegalAffairsCoordinatorsNamesText
+هيروشي هارادا   أياكو هينو{END}
+@gStaffRollLegalAffairsCoordinatorsText
+@منسقو الشؤون القانونية{END}
+@gStaffRollLegalManagerNamesText
+ميتشيورو ساساكي{END}
+@gStaffRollLegalManagerText
+@المدير القانوني{END}
+@gStaffRollSecnLegalAffairsText
+<الشؤون القانونية وقسم البراءات>{END}
+@gStaffRollAllQaStaffText
+...وجميع موظفي ضمان الجودة{END}
+@gStaffRollQaStaffNames3Text
+تاكاشي غوتو   تاكوما تادوكورو{END}
+@gStaffRollQaStaffNames2Text
+ساتومي غوتو   شوزو شينداте{END}
+@gStaffRollQaStaffNames1Text
+أكيتوشي يوكاوا   هيروشي كوندو{END}
+@gStaffRollQaStaffText
+@موظفو ضمان الجودة{END}
+@gStaffRollQaAssistantCoordinatorsNames2Text
+يوسكي ساداماسا   هيساتو إيواتسوكي{END}
+@gStaffRollQaAssistantCoordinatorsNames1Text
+ياسوهيتو سوزوكي   هيروكي ساتو{END}
+@gStaffRollQaAssistantCoordinatorsText
+@مساعدو منسقي الجودة{END}
+@gStaffRollQualityAssuranceQaCoordinatorsNamesText
+تيتسويا هيراوكا   مادوكا أسانو{END}
+@gStaffRollQaCoordinatorsText
+@منسقو الجودة{END}
+@gStaffRollQaDirectorNamesText
+يوكيهيرو شيبويا{END}
+@gStaffRollQaDirectorText
+@مدير الجودة{END}
+@gStaffRollQualityAssuranceGeneralManagerNamesText
+أكيهيتو شوجي{END}
+@gStaffRollSecnQualityAssuranceText
+<ضمان الجودة>{END}
+@gStaffRollProductionAssistantNamesText
+إيري موريموتو{END}
+@gStaffRollProductionAssistantText
+@مساعد الإنتاج{END}
+@gStaffRollBusinessManagerNamesText
+إيتشيرو هازاما{END}
+@gStaffRollBusinessManagerText
+@مدير الأعمال{END}
+@gStaffRollManagementProductionManagerNamesText
+باتريك تشن{END}
+@gStaffRollSecnManagementText
+<الإدارة>{END}
+@gStaffRollPvCmMaterialsCoordinatorNamesText
+يوكيهيكو كونو (LANSDALE INC.){END}
+@gStaffRollCoordinatorText
+@منسق{END}
+@gStaffRollPvCmMaterialsEditorNamesText
+شونجي ماتسوتاني (drop in company){END}
+@gStaffRollEditorText
+@محرر{END}
+@gStaffRollPvCmMaterialsDirectorNamesText
+إيساو ناكاجيما (SLACK KEY INC.){END}
+@gStaffRollDirectorText
+@مخرج{END}
+@gStaffRollPvCmMaterialsText
+@إعلانات ومواد ترويجية{END}
+@gStaffRollMovieCompressionNames8Text
+emcStudios, LLC{END}
+@gStaffRollMovieCompressionNames7Text
+إيمانويل ماركيز   باسكال أورو{END}
+@gStaffRollMovieCompressionNames6Text
+IMAGICA Corp.{END}
+@gStaffRollMovieCompressionNames5Text
+شوزو هاشيموتو{END}
+@gStaffRollMovieCompressionNames4Text
+MAC Inc.{END}
+@gStaffRollMovieCompressionNames3Text
+شين موريتا{END}
+@gStaffRollMovieCompressionNames2Text
+am3 Inc.{END}
+@gStaffRollMovieCompressionNames1Text
+تاكاشي سايبا{END}
+@gStaffRollMovieCompressionText
+@ضغط الفيلم{END}
+@gStaffRollSecnOutsideContractorsText
+<المقاولون الخارجيون>{END}
+@gStaffRollUnderTheSeaCopyright2Text
+/شركة والت ديزني للموسيقى{END}
+@gStaffRollUnderTheSeaCopyright1Text
+＠1988 شركة wonderland للموسيقى، إنك.{END}
+@gStaffRollUnderTheSeaMusicWordsByText
+الموسيقى آلان مينكن والكلمات هوارد أشفمان{END}
+@gStaffRollUnderTheSeaTitleText
+”تحت البحر”{END}
+@gStaffRollThisIsHalloweenCopyrightText
+＠1993 شركة بوينا فيستا للموسيقى{END}
+@gStaffRollThisIsHalloweenWordsMusicByText
+الكلمات والموسيقى داني إلفمان{END}
+@gStaffRollThisIsHalloweenTitleText
+”هذا هو الهالوين”{END}
+@gStaffRollWinnieThePoohCopyrightText
+＠1963 شركة wonderland للموسيقى، إنك.{END}
+@gStaffRollWinnieThePoohWordsMusicByText
+الكلمات والموسيقى ريتشارد شيرمان وروبرت شيرمان{END}
+@gStaffRollWinnieThePoohTitleText
+”ويني الدبدوب”{END}
+@gStaffRollAndAlsoNames2Text
+رييكو كاتاياما{END}
+@gStaffRollAndAlsoNames1Text
+تاتسويا كاندو{END}
+@gStaffRollAxelVoiceText
+كيجي فوجيوارا{END}
+@gStaffRollCloudVoiceText
+ستيف بورتون{END}
+@gStaffRollCaptainHookVoiceText
+كوري بورتون{END}
+@gStaffRollPeterPanVoiceText
+كريس سтил{END}
+@gStaffRollHadesVoiceText
+جيمس وودز{END}
+@gStaffRollBoogieVoiceText
+كين بيج{END}
+@gStaffRollJackVoiceText
+كريس ساراندون{END}
+@gStaffRollUrsulaVoiceText
+بات كارول{END}
+@gStaffRollArielVoiceText
+جودي بنسون{END}
+@gStaffRollIagoVoiceText
+جيلبرتو غوتفريد{END}
+@gStaffRollGenieVoiceText
+دان كاستلانيتا{END}
+@gStaffRollAladdinVoiceText
+سكوت ويينغر{END}
+@gStaffRollTheBeastVoiceText
+روبي بنسون{END}
+@gStaffRollAnsemVoiceText
+بيلي زين{END}
+@gStaffRollGoofyVoiceText
+بيل فارمر{END}
+@gStaffRollDonaldDuckVoiceText
+توني أنسلمو{END}
+@gStaffRollRikuVoiceText
+ديفيد غالاغر{END}
+@gStaffRollSoraVoiceText
+هايلي جويل أوزمنت{END}
+@gStaffRollSecnVoiceTalentsText
+<مع أصوات>{END}
+@gStaffRollManagerMarketingNamesText
+مايك شارنيكو{END}
+@gStaffRollManagerMarketingText
+@مدير، التسويق{END}
+@gStaffRollDirectorMarketingNamesText
+بوب بيكونكو{END}
+@gStaffRollDirectorMarketingText
+@مدير، التسويق{END}
+@gStaffRollVpMarketingNamesText
+سانجيف لامبا{END}
+@gStaffRollVpMarketingText
+@نائب الرئيس، التسويق{END}
+@gStaffRollBuenaVistaGamesLocalizationManagerNamesText
+ميغومي أراي{END}
+@gStaffRollLocalizationManagerText
+@مدير التعريب{END}
+@gStaffRollBuenaVistaGamesProducerNamesText
+سونوكو إيشيوكا{END}
+@gStaffRollProducerText
+@منتج{END}
+@gStaffRollBuenaVistaGamesSeniorProducerNamesText
+لويجي بريوري{END}
+@gStaffRollVpGlobalProductionNamesText
+مايك رايدر{END}
+@gStaffRollVpGlobalProductionText
+@نائب رئيس الإنتاج العالمي{END}
+@gStaffRollSecnBuenaVistaGamesText
+<بوينا فيستا غيمز>{END}
+@gStaffRollBuenaVistaGamesJapanGeneralManagerNamesText
+أكيرا ماتسوموتو{END}
+@gStaffRollGeneralManagerText
+@المدير العام{END}
+@gStaffRollSeniorManagerMarketingNamesText
+ميكي نيشيمورا{END}
+@gStaffRollSeniorManagerMarketingText
+@مدير أول، التسويق{END}
+@gStaffRollBuenaVistaGamesJapanSeniorProducerNamesText
+إميكو ياماموتو{END}
+@gStaffRollSeniorProducerText
+@منتج أول{END}
+@gStaffRollSecnBuenaVistaGamesJapanText
+<بوينا فيستا غيمز اليابان>{END}
+@gStaffRollFont0Text
+#0{END}
+@gStaffRollThemeSongSoundtrackText
+الألبوم الموسيقي متوفر أيضاً من TOSHIBA EMI{END}
+@gStaffRollThemeSongLicensedByText
+مرخص من TOSHIBA-EMI LIMITED{END}
+@gStaffRollThemeSongMixedByText
+ميكس غوه هوتودا في استوديو بونكامورا{END}
+@gStaffRollThemeSongRecordedByText
+تسجيل أوغاجين ماساأكي في استوديو بونكامورا{END}
+@gStaffRollThemeSongAllVocalsText
+جميع الأصوات: أوتادا هيكارو{END}
+@gStaffRollThemeSongAcousticGuitarText
+الغيتار الصوتي: أكياما هيرونوري{END}
+@gStaffRollThemeSongSynthesizerProgrammingText
+برمجة السينثسايزر: تسونيمي كازوهيدي{END}
+@gStaffRollThemeSongBasicProgrammingText
+البرمجة الأساسية: أوتادا هيكارو{END}
+@gStaffRollThemeSongKeyboardsProgrammingText
+لوحات المفاتيح والبرمجة: كاوانو كي{END}
+@gStaffRollThemeSongArrangedByText
+توزيع كاوانو كي وأوتادا هيكارو{END}
+@gStaffRollThemeSongProducedBy2Text
+أوتادا هيكارو وأوتادا سنكينغ تيروزان{END}
+@gStaffRollThemeSongProducedBy1Text
+إنتاج مييكي أكيرا،{END}
+@gStaffRollThemeSongWrittenByText
+كتابة أوتادا هيكارو{END}
+@gStaffRollFont1Text
+#1{END}
+@gStaffRollSecnThemeSongText
+[HIKARI]{END}
+@gStaffRollSecnEndingThemeText
+<أغنية النهاية>{END}
+@gStaffRollProductionAssistantsNamesText
+ماساشي كيتاغاوا   ريه تسوكاموتو{END}
+@gStaffRollProductionAssistantsText
+@مساعدو الإنتاج{END}
+@gStaffRollSoundProductionManagerNamesText
+ماساويكي تاناكا{END}
+@gStaffRollProductionManagerText
+@مدير الإنتاج{END}
+@gStaffRollDialogueEditorNamesText
+أساكو سوغا{END}
+@gStaffRollDialogueEditorText
+@محرر الحوار{END}
+@gStaffRollSoundEditorNamesText
+ريو إيناكورا{END}
+@gStaffRollSoundEditorText
+@محرر الصوت{END}
+@gStaffRollSynthesizerOperatorNamesText
+تاكيهارو إيشيموتو{END}
+@gStaffRollSynthesizerOperatorText
+@مشغل السينثسايزر{END}
+@gStaffRollSecnSoundText
+<الصوت>{END}
+@gStaffRollMenuDesignerNamesText
+ساتشيكو أراكاوا{END}
+@gStaffRollMenuDesignerText
+@مصمم القوائم{END}
+@gStaffRollVfxDesignerNamesText
+جون كومينامي{END}
+@gStaffRollVfxDesignerText
+@مصمم المؤثرات البصرية{END}
+@gStaffRollBgDesignersNames4Text
+ماسanori نيشيشيتا{END}
+@gStaffRollBgDesignersNames3Text
+أريتو تشوجو   ماسارو موريا{END}
+@gStaffRollBgDesignersNames2Text
+ماريكو كاواباتا   تاكاويكي كوروكاوا{END}
+@gStaffRollBgDesignersNames1Text
+نوريكو شيبويا   إيمي أراي{END}
+@gStaffRollBgDesignersText
+@مصممو الخلفيات{END}
+@gStaffRollCharacterArtistsNames7Text
+هيروشي تانيغاوا{END}
+@gStaffRollCharacterArtistsNames6Text
+ساتشيو كوريتا   ماسارو كوريباياشي{END}
+@gStaffRollCharacterArtistsNames5Text
+يوكيهيرو يامادا   ماسافومي تيراي{END}
+@gStaffRollCharacterArtistsNames4Text
+أكيكو تسوتسومي   هيديتو أوموري{END}
+@gStaffRollCharacterArtistsNames3Text
+تيرويه هاياشي   شيزويه إينويه{END}
+@gStaffRollCharacterArtistsNames2Text
+توموكو ياماشيتا   ساتوشي ساكاتا{END}
+@gStaffRollCharacterArtistsNames1Text
+هيديكي إيشي   هيديمي شيمومورا{END}
+@gStaffRollCharacterArtistsText
+@فنانو الشخصيات{END}
+@gStaffRollSecnGraphicDesignText
+<التصميم الجرافيكي>{END}
+@gStaffRollProgrammingNames3Text
+ماسanori فوناكوشي{END}
+@gStaffRollProgrammingNames2Text
+هيراكو كيتاواكي   جون سوغاتا{END}
+@gStaffRollProgrammingNames1Text
+تيتسويا كاناتاني   ماساميتسو تاكامي{END}
+@gStaffRollSecnProgrammingText
+<البرمجة>{END}
+@gStaffRollScriptWriterNamesText
+هيديمي شيمومورا{END}
+@gStaffRollScriptWriterText
+@كاتب السيناريو{END}
+@gStaffRollSecnEventCreationText
+<إنشاء الأحداث>{END}
+@gStaffRollTheHundredAcreWoodNamesText
+توموكو ياماشيتا{END}
+@gStaffRollTheHundredAcreWoodText
+@”غابة المئة فدان”{END}
+@gStaffRollGeneralPlannersNamesText
+أغورو تاناكا   كازوكي أونو{END}
+@gStaffRollGeneralPlannersText
+@المخططون العامون{END}
+@gStaffRollSecnPlanningText
+<التخطيط>{END}
+@gStaffRollDevelopmentTeamText
+فريق التطوير - شركة جوبيتر{END}
+@gStaffRollAnimationStaffNames4Text
+ياسواو أوجيما   كايوكو ياجيما{END}
+@gStaffRollAnimationStaffNames3Text
+أكيرا إيواساوا   شوسكي موموي{END}
+@gStaffRollAnimationStaffNames2Text
+تايسكي أو   كينيتشي شيدا{END}
+@gStaffRollAnimationStaffNames1Text
+رينا إيكيدا   تاكوتشي إيواساكي{END}
+@gStaffRollAnimationStaffText
+@موظفو الرسوم المتحركة{END}
+@gStaffRollSecn3DAnimationText
+<رسوم 3D>{END}
+@gStaffRoll2DArtistsNames2Text
+تشيهارو تسوتسوي{END}
+@gStaffRoll2DArtistsNames1Text
+فومي ناكاشيما   ميهوكو إيشي{END}
+@gStaffRoll2DArtistsText
+@فنانو ثنائي الأبعاد{END}
+@gStaffRollEnemyDesignNames2Text
+تومويوكي ساتو   داايغو تسوكادا{END}
+@gStaffRollEnemyDesignNames1Text
+توموهيرو هاسيغاوا   تاكوتشي إيواساكي{END}
+@gStaffRollEnemyDesignText
+@تصميم الأعداء{END}
+@gStaffRollCharacterDesignersNamesText
+تيتسويا نومورا   ماميكو فوكودا{END}
+@gStaffRollCharacterDesignersText
+@مصممو الشخصيات{END}
+@gStaffRollCharacterFaceArtistNamesText
+إيكومي هاتشيرو{END}
+@gStaffRollCharacterFaceArtistText
+@فنان وجوه الشخصيات{END}
+@gStaffRollCharacterArtSupervisorNamesText
+شينيتشيرو أوكانيوا{END}
+@gStaffRollCharacterArtSupervisorText
+@مشرف فن الشخصيات{END}
+@gStaffRollSecn2DArtText
+<فن ثنائي الأبعاد>{END}
+@gStaffRollBlankText
+{END}
+@gStaffRollScenarioSupervisorsNamesText
+تيتسويا نومورا   كازوشيغي نوجيما{END}
+@gStaffRollSkipText
+!{END}
+@gStaffRollScenarioSupervisorsText
+@مشرفو السيناريو{END}
+@gStaffRollSpaceText
+ {END}
+@gStaffRollSecnScenarioText
+<السيناريو>{END}

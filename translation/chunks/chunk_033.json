@@ -1,0 +1,848 @@
+{
+ "chunk": 33,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 147,
+ "items": [
+  {
+   "id": "event_text:gEvent015Text11",
+   "pool": "event_text",
+   "symbol": "gEvent015Text11",
+   "en": "What if we forget everything\nand can’t get it back?{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent015Text12",
+   "pool": "event_text",
+   "symbol": "gEvent015Text12",
+   "en": "I’d forget Riku and Kairi, too…{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent015Text13",
+   "pool": "event_text",
+   "symbol": "gEvent015Text13",
+   "en": "Maybe we should turn back.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent015Text14",
+   "pool": "event_text",
+   "symbol": "gEvent015Text14",
+   "en": "Don’t worry!{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent015Text15",
+   "pool": "event_text",
+   "symbol": "gEvent015Text15",
+   "en": "We might forget where we’ve\nbeen or what we saw, but we\nwon’t forget our friends.{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent015Text16",
+   "pool": "event_text",
+   "symbol": "gEvent015Text16",
+   "en": "What makes you so sure?{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent015Text17",
+   "pool": "event_text",
+   "symbol": "gEvent015Text17",
+   "en": "Sora, when you turned into a\nHeartless, did you forget\nabout us?{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent015Text18",
+   "pool": "event_text",
+   "symbol": "gEvent015Text18",
+   "en": "Of course not!\nI’d never forget you!{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent015Text19",
+   "pool": "event_text",
+   "symbol": "gEvent015Text19",
+   "en": "Well, see, there ya go!\nNo matter what happens, you\nwon’t forget your friends.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent015Text20",
+   "pool": "event_text",
+   "symbol": "gEvent015Text20",
+   "en": "Yeah… You’re right.\nThanks, Goofy.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent015Text21",
+   "pool": "event_text",
+   "symbol": "gEvent015Text21",
+   "en": "I guess there’s nothing to be\nscared of after all.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent015Text22",
+   "pool": "event_text",
+   "symbol": "gEvent015Text22",
+   "en": "So let’s go!{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent015Text23",
+   "pool": "event_text",
+   "symbol": "gEvent015Text23",
+   "en": "Hey, Donald…  Back when I\nwas a Heartless, who was the\none who clobbered me, hmm?{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent015Text24",
+   "pool": "event_text",
+   "symbol": "gEvent015Text24",
+   "en": "THAT’S what you should be\nforgetting!{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent015Text25",
+   "pool": "event_text",
+   "symbol": "gEvent015Text25",
+   "en": "Ha ha ha!{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent016Text00",
+   "pool": "event_text",
+   "symbol": "gEvent016Text00",
+   "en": "I hope the king is okay…{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent016Text01",
+   "pool": "event_text",
+   "symbol": "gEvent016Text01",
+   "en": "Why bring that up all of a\nsudden?{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent016Text02",
+   "pool": "event_text",
+   "symbol": "gEvent016Text02",
+   "en": "I just wanted to make sure I\nhaven’t forgotten about him.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent016Text03",
+   "pool": "event_text",
+   "symbol": "gEvent016Text03",
+   "en": "And?{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent016Text04",
+   "pool": "event_text",
+   "symbol": "gEvent016Text04",
+   "en": "I still remember perfectly!\nGoofy and I are on a quest to\nfind him.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent016Text05",
+   "pool": "event_text",
+   "symbol": "gEvent016Text05",
+   "en": "Yep!  The king helped save the\nworld by staying on the other\nside of the door to darkness.{END}",
+   "max_units": 97,
+   "units": 97,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent016Text06",
+   "pool": "event_text",
+   "symbol": "gEvent016Text06",
+   "en": "If Goofy still remembers, then\nI won’t forget anytime soon.{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent016Text07",
+   "pool": "event_text",
+   "symbol": "gEvent016Text07",
+   "en": "And me―I’m looking for Riku.\nHe was with the king when the\ndoor closed.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent016Text08",
+   "pool": "event_text",
+   "symbol": "gEvent016Text08",
+   "en": "That was easy.\nI guess we really can’t forget\nthe most important memories.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent016Text09",
+   "pool": "event_text",
+   "symbol": "gEvent016Text09",
+   "en": "I hope not…{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent017Text00",
+   "pool": "event_text",
+   "symbol": "gEvent017Text00",
+   "en": "Wow, Axel, you seem pretty\nintrigued by this Sora kid.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent017Text01",
+   "pool": "event_text",
+   "symbol": "gEvent017Text01",
+   "en": "And you’re not?{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent017Text02",
+   "pool": "event_text",
+   "symbol": "gEvent017Text02",
+   "en": "I haven’t made up my mind…\nbut I’d like to know what’s on\nyours.{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent017Text03",
+   "pool": "event_text",
+   "symbol": "gEvent017Text03",
+   "en": "He became a Heartless,\nLarxene―and you know what\nhappens to people who do.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent017Text04",
+   "pool": "event_text",
+   "symbol": "gEvent017Text04",
+   "en": "People who lose their hearts\nalso lose their minds, their\nfeelings…\nThey’re consumed by the\ndarkness.{END}",
+   "max_units": 110,
+   "units": 110,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent017Text05",
+   "pool": "event_text",
+   "symbol": "gEvent017Text05",
+   "en": "Right.  But that didn’t happen\nto Sora.  He held on to his\nfeelings, even as a Heartless.{END}",
+   "max_units": 96,
+   "units": 96,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent017Text06",
+   "pool": "event_text",
+   "symbol": "gEvent017Text06",
+   "en": "Only one other man ever\nmanaged to do that.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent017Text07",
+   "pool": "event_text",
+   "symbol": "gEvent017Text07",
+   "en": "So it’s the strength of his\nheart that intrigues you―\n\n―the heart chosen by the\nKeyblade.{END}",
+   "max_units": 98,
+   "units": 98,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent017Text08",
+   "pool": "event_text",
+   "symbol": "gEvent017Text08",
+   "en": "What makes his heart shine\nlike that?  What sleeps in its\nmost secret depths?{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent017Text09",
+   "pool": "event_text",
+   "symbol": "gEvent017Text09",
+   "en": "The heart is a mysterious\nthing, Axel.{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent017Text10",
+   "pool": "event_text",
+   "symbol": "gEvent017Text10",
+   "en": "Maybe so.  But unlocking its\nsecrets is the whole reason\nwe, the Organization, exist.{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent018Text00",
+   "pool": "event_text",
+   "symbol": "gEvent018Text00",
+   "en": "So except for our friends,\nwe’re forgetting everything\nbit by bit…{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent018Text01",
+   "pool": "event_text",
+   "symbol": "gEvent018Text01",
+   "en": "Hmm…  I wonder what we just\nforgot.{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent018Text02",
+   "pool": "event_text",
+   "symbol": "gEvent018Text02",
+   "en": "I can’t think of anything.\nGuess I musta forgot it…{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent018Text03",
+   "pool": "event_text",
+   "symbol": "gEvent018Text03",
+   "en": "But whatever it was, it must\nnot have been that important,\na-hyuck!{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent018Text04",
+   "pool": "event_text",
+   "symbol": "gEvent018Text04",
+   "en": "Right, or else you wouldn’t\nhave forgot it.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent018Text05",
+   "pool": "event_text",
+   "symbol": "gEvent018Text05",
+   "en": "See, look at this.{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent018Text06",
+   "pool": "event_text",
+   "symbol": "gEvent018Text06",
+   "en": "What’s that?{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent018Text07",
+   "pool": "event_text",
+   "symbol": "gEvent018Text07",
+   "en": "It's a good luck charm Kairi\ngave me.  It’s special to her,\nso I promised I’d return it.{END}",
+   "max_units": 95,
+   "units": 95,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent018Text08",
+   "pool": "event_text",
+   "symbol": "gEvent018Text08",
+   "en": "I’ll never forget that promise.\nThat’s why I’ll never forget\nKairi.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent018Text09",
+   "pool": "event_text",
+   "symbol": "gEvent018Text09",
+   "en": "I wonder what she’s doing\nnow…{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent018Text10",
+   "pool": "event_text",
+   "symbol": "gEvent018Text10",
+   "en": "What―{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent018Text11",
+   "pool": "event_text",
+   "symbol": "gEvent018Text11",
+   "en": "Oh…{END}",
+   "max_units": 52,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent018Text12",
+   "pool": "event_text",
+   "symbol": "gEvent018Text12",
+   "en": "Who…who was that?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent018Text13",
+   "pool": "event_text",
+   "symbol": "gEvent018Text13",
+   "en": "Hello?\nYou still with us?{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent018Text14",
+   "pool": "event_text",
+   "symbol": "gEvent018Text14",
+   "en": "Huh?\nOh, nothing.  Never mind.{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent018Text15",
+   "pool": "event_text",
+   "symbol": "gEvent018Text15",
+   "en": "Well, let’s keep going.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent019Text00",
+   "pool": "event_text",
+   "symbol": "gEvent019Text00",
+   "en": "Who was that I remembered\nearlier?  It wasn’t Kairi…{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent019Text01",
+   "pool": "event_text",
+   "symbol": "gEvent019Text01",
+   "en": "Was there…someone else?{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent019Text02",
+   "pool": "event_text",
+   "symbol": "gEvent019Text02",
+   "en": "What was her name again?\nI know it, it was… It was…{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent019Text03",
+   "pool": "event_text",
+   "symbol": "gEvent019Text03",
+   "en": "Sora, snap out of it!{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent019Text04",
+   "pool": "event_text",
+   "symbol": "gEvent019Text04",
+   "en": "Wh-What?!{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent019Text05",
+   "pool": "event_text",
+   "symbol": "gEvent019Text05",
+   "en": "Get a move on!\nYou want to find Riku and the\nking, don’t you?{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent019Text06",
+   "pool": "event_text",
+   "symbol": "gEvent019Text06",
+   "en": "Well, yeah…{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent019Text07",
+   "pool": "event_text",
+   "symbol": "gEvent019Text07",
+   "en": "Darn!  It was on the tip of my\ntongue…{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent020Text00",
+   "pool": "event_text",
+   "symbol": "gEvent020Text00",
+   "en": "ナミネが、まだなんかかいてはる{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent021Text00",
+   "pool": "event_text",
+   "symbol": "gEvent021Text00",
+   "en": "I remember!{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent021Text01",
+   "pool": "event_text",
+   "symbol": "gEvent021Text01",
+   "en": "There was another girl.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent021Text02",
+   "pool": "event_text",
+   "symbol": "gEvent021Text02",
+   "en": "What?  Where?{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent021Text03",
+   "pool": "event_text",
+   "symbol": "gEvent021Text03",
+   "en": "No, no, I mean on the islands\nwhere I used to live.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent021Text04",
+   "pool": "event_text",
+   "symbol": "gEvent021Text04",
+   "en": "Besides Kairi and Riku, there\nwas one other girl I was\nfriends with.\nThe four of us used to play\ntogether all the time.{END}",
+   "max_units": 128,
+   "units": 128,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent021Text05",
+   "pool": "event_text",
+   "symbol": "gEvent021Text05",
+   "en": "Well, I’ll be!\nI think that’s the first time\nyou’ve ever mentioned her.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent021Text06",
+   "pool": "event_text",
+   "symbol": "gEvent021Text06",
+   "en": "Yeah…I forgot all about her.\nI think she went away when I\nwas still little.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent021Text07",
+   "pool": "event_text",
+   "symbol": "gEvent021Text07",
+   "en": "That’s strange.\nWhy are you remembering all\nthat now?{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent021Text08",
+   "pool": "event_text",
+   "symbol": "gEvent021Text08",
+   "en": "I’m not sure.  But it’s been\ncoming back to me in pieces as\nwe go through the castle.{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  }
+ ]
+}

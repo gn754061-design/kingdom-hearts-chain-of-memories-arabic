@@ -1,0 +1,848 @@
+{
+ "chunk": 74,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine7",
+   "en": "Axel has no qualms{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine8",
+   "en": "about exploiting others{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine9",
+   "en": "to suit his needs.  He{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine10",
+   "en": "used Sora and Naminé{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine11",
+   "en": "to silence Marluxia and{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine12",
+   "en": "halt his plot against{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine13",
+   "en": "the Organization.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine14",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine15",
+   "en": "Axel claims that he and{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine16",
+   "en": "Sora have something in{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine17",
+   "en": "common, but that{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine18",
+   "en": "connection is unclear.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine0",
+   "en": "No. 11 in the{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine1",
+   "en": "Organization.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine3",
+   "en": "Marluxia lured Sora to{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine4",
+   "en": "Castle Oblivion in hopes{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine5",
+   "en": "of using his power to{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine6",
+   "en": "seize the Organization.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine8",
+   "en": "He ordered Naminé to{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine9",
+   "en": "alter Sora’s memories,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine10",
+   "en": "and fooled Vexen into{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine11",
+   "en": "challenging him.  All was{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine12",
+   "en": "going according to plan,{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine13",
+   "en": "but Marluxia’s scheme{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine14",
+   "en": "dissolved when Axel{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine15",
+   "en": "set Naminé free.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine16",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine17",
+   "en": "Marluxia was ultimately{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMarluxiaLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMarluxiaLine18",
+   "en": "destroyed by Sora.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine0",
+   "en": "No. 12 in the{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine1",
+   "en": "Organization.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine3",
+   "en": "Larxene conspired with{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine4",
+   "en": "Marluxia to take over{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine5",
+   "en": "the group, and intended{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine6",
+   "en": "to pull Axel in as well.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine8",
+   "en": "However, her abrasive,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine9",
+   "en": "unfeeling personality{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine10",
+   "en": "proved her downfall―{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine11",
+   "en": "provoking Sora’s anger{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLarxeneLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLarxeneLine12",
+   "en": "was a fatal error.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine0",
+   "en": "Truly an enigma.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine1",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine2",
+   "en": "DiZ appeared before{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine3",
+   "en": "Riku in the guise of{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine4",
+   "en": "Ansem, presenting him{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine5",
+   "en": "with choices regarding{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine6",
+   "en": "the darkness within his{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine7",
+   "en": "heart.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine8",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine9",
+   "en": "It is said he and the{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterDiZLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterDiZLine10",
+   "en": "king have met.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine0",
+   "en": "A witch who commands{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine1",
+   "en": "the darkness.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine3",
+   "en": "Maleficent’s charms{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine4",
+   "en": "won over Riku, and she{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine5",
+   "en": "empowered him with{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine6",
+   "en": "darkness.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine8",
+   "en": "In Castle Oblivion she{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine9",
+   "en": "stood before Riku again,{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine10",
+   "en": "this time as a token of{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine11",
+   "en": "the indelible darkness{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterMaleficentLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterMaleficentLine12",
+   "en": "in his heart.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterJafarGenieLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterJafarGenieLine0",
+   "en": "A sorcerer and also{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterJafarGenieLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterJafarGenieLine1",
+   "en": "Agrabah’s royal vizier,{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

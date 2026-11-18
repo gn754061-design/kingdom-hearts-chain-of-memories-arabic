@@ -1,0 +1,848 @@
+{
+ "chunk": 63,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyCharacterCidLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCidLine1",
+   "en": "saved Leon and the{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCidLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCidLine2",
+   "en": "others from the{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCidLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCidLine3",
+   "en": "Heartless when they{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCidLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCidLine4",
+   "en": "were just children.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCidLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCidLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCidLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCidLine6",
+   "en": "Cid lives in Traverse{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCidLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCidLine7",
+   "en": "Town now.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCloudLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCloudLine0",
+   "en": "A swordsman hired by{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCloudLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCloudLine1",
+   "en": "Hades to take out{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCloudLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCloudLine2",
+   "en": "Hercules.  Cloud seeks{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCloudLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCloudLine3",
+   "en": "the true memories he{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCloudLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCloudLine4",
+   "en": "has lost.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCloudLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCloudLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCloudLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCloudLine6",
+   "en": "Were they memories of{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCloudLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCloudLine7",
+   "en": "someone dear to him, or{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCloudLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCloudLine8",
+   "en": "memories of his own{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterCloudLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterCloudLine9",
+   "en": "hazy past?{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine0",
+   "en": "A young witch who,{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine1",
+   "en": "under orders from{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine2",
+   "en": "Marluxia, rewrote much{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine3",
+   "en": "of Sora’s memory.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine5",
+   "en": "Because Naminé based{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine6",
+   "en": "the false memories on{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine7",
+   "en": "Sora’s feelings toward{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine8",
+   "en": "Kairi, Sora believed he{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine9",
+   "en": "and Naminé had been{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine10",
+   "en": "friends since childhood.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine11",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine12",
+   "en": "But truth be told, the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine13",
+   "en": "two had never met{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterNamineLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterNamineLine14",
+   "en": "before Castle Oblivion.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine0",
+   "en": "A replica of Riku{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine1",
+   "en": "created by Vexen from{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine2",
+   "en": "the real Riku’s data.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine4",
+   "en": "Through Naminé’s{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine5",
+   "en": "power he was infused{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine6",
+   "en": "with false memories{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine7",
+   "en": "and made to believe he{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine8",
+   "en": "was the real Riku.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine9",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine10",
+   "en": "The truth has wounded{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterRikuReplicaLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterRikuReplicaLine11",
+   "en": "him deeply.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine0",
+   "en": "A mysterious figure{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine1",
+   "en": "who stands in Sora’s{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine2",
+   "en": "path.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine4",
+   "en": "Hard to read, half the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine5",
+   "en": "time Axel seems to just{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine6",
+   "en": "be messing around…{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine7",
+   "en": "but for all we know,{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine8",
+   "en": "he’s done more thinking{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine9",
+   "en": "than everyone else{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterAxelLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterAxelLine10",
+   "en": "put together.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine0",
+   "en": "A man absorbed in his{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine1",
+   "en": "dubious research in{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine2",
+   "en": "Castle Oblivion.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine4",
+   "en": "Vexen tried to destroy{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine5",
+   "en": "Sora by controlling Riku{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine6",
+   "en": "and pitting the two{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine7",
+   "en": "against each other.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine8",
+   "en": "When this plan failed,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine9",
+   "en": "he confronted Sora{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterVexenLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterVexenLine10",
+   "en": "personally.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMarluxiaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMarluxiaLine0",
+   "en": "Lord of Castle Oblivion{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMarluxiaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMarluxiaLine1",
+   "en": "and a member of the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMarluxiaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMarluxiaLine2",
+   "en": "Organization.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMarluxiaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMarluxiaLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

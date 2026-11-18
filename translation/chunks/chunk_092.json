@@ -1,0 +1,848 @@
+{
+ "chunk": 92,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine0",
+   "en": "Well, we’ve made it to{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine1",
+   "en": "the top, and many of{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine2",
+   "en": "our memories are gone.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine3",
+   "en": "Sora can’t even recall{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine4",
+   "en": "the name of the person{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine5",
+   "en": "he cares for most.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine7",
+   "en": "But we’ve made a{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine8",
+   "en": "promise.  No distance{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine9",
+   "en": "can separate us, and{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine10",
+   "en": "we’ll be friends even if{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine11",
+   "en": "we can’t remember it to{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine12",
+   "en": "be so.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine13",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine14",
+   "en": "Axel is out of the way.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine15",
+   "en": "We just have to stop{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine16",
+   "en": "Marluxia.  He ordered{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine17",
+   "en": "Naminé to wipe Sora’s{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine18",
+   "en": "memory, but it doesn’t{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine19",
+   "en": "matter.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine20",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine21",
+   "en": "Sora knows that{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine22",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine22",
+   "en": "promises don’t fade as{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryCastleOblivionLine23",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryCastleOblivionLine23",
+   "en": "easily as memories.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardUltimaWeaponLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardUltimaWeaponLine0",
+   "en": "Strike:  ★{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardUltimaWeaponLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardUltimaWeaponLine1",
+   "en": "Thrust:  ★{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardUltimaWeaponLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardUltimaWeaponLine2",
+   "en": "Combo Finish:  A{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardUltimaWeaponLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardUltimaWeaponLine3",
+   "en": "Swing Speed:  B{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardUltimaWeaponLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardUltimaWeaponLine4",
+   "en": "Element:  Physical{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardUltimaWeaponLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardUltimaWeaponLine5",
+   "en": "Break Recovery:  B{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardUltimaWeaponLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardUltimaWeaponLine6",
+   "en": "Required CP:  D{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardUltimaWeaponLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardUltimaWeaponLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardUltimaWeaponLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardUltimaWeaponLine8",
+   "en": "The strongest attack{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardUltimaWeaponLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardUltimaWeaponLine9",
+   "en": "card to be found.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessNeoshadowLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessNeoshadowLine0",
+   "en": "A nimble Heartless that{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessNeoshadowLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessNeoshadowLine1",
+   "en": "swims through the{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessNeoshadowLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessNeoshadowLine2",
+   "en": "shadows.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText0",
+   "en": "?{END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText1",
+   "en": "??{END}",
+   "max_units": 22,
+   "units": 7,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText2",
+   "en": "???{END}",
+   "max_units": 22,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText3",
+   "en": "????{END}",
+   "max_units": 22,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText4",
+   "en": "?????{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText5",
+   "en": "??????{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText6",
+   "en": "???????{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText7",
+   "en": "????????{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText8",
+   "en": "?????????{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText9",
+   "en": "??????????{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText10",
+   "en": "???????????{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText11",
+   "en": "????????????{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHiddenText12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHiddenText12",
+   "en": "?????????????{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A6D4",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A6D4",
+   "en": "Ahead lies something you need―{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A712",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A712",
+   "en": "―but to claim it, you must lose{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A752",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A752",
+   "en": "            something dear.{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A78A",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A78A",
+   "en": "Kairi!{END}",
+   "max_units": 25,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A798",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A798",
+   "en": "All my friends…{END}",
+   "max_units": 25,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A7B8",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A7B8",
+   "en": "Naminé?{END}",
+   "max_units": 25,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A7C8",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A7C8",
+   "en": "Don’t worry.{END}",
+   "max_units": 25,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A7E2",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A7E2",
+   "en": "You’ll forget me…{END}",
+   "max_units": 25,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A806",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A806",
+   "en": "…but we have our promise,{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A83A",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A83A",
+   "en": "so I can come back to you.{END}",
+   "max_units": 31,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A870",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A870",
+   "en": "A promise is a promise.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A8A0",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A8A0",
+   "en": "One day it’ll be our light, the{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A8E0",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A8E0",
+   "en": "light that brings us together.{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A91E",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A91E",
+   "en": "I’ll be in your heart until that{END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A960",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A960",
+   "en": "time comes.{END}",
+   "max_units": 25,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A978",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A978",
+   "en": "I know.{END}",
+   "max_units": 25,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A988",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A988",
+   "en": "Forgotten, but not lost.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A9BA",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A9BA",
+   "en": "What are you making me{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886A9E8",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886A9E8",
+   "en": "choose now?{END}",
+   "max_units": 25,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "movie_subtitle_text:gMovieSubTextUs_0886AA00",
+   "pool": "movie_subtitle_text",
+   "symbol": "gMovieSubTextUs_0886AA00",
+   "en": "Will you take the road to light―{END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

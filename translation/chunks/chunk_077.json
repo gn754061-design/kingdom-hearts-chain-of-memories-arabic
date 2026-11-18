@@ -1,0 +1,848 @@
+{
+ "chunk": 77,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyItemCardHiPotionLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardHiPotionLine3",
+   "en": "normally unreloadable{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardHiPotionLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardHiPotionLine4",
+   "en": "cards are restored.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaPotionLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaPotionLine0",
+   "en": "Quickly reloads attack{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaPotionLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaPotionLine1",
+   "en": "cards with no charge{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaPotionLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaPotionLine2",
+   "en": "time and resets the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaPotionLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaPotionLine3",
+   "en": "reload counter.  Even{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaPotionLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaPotionLine4",
+   "en": "normally unreloadable{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaPotionLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaPotionLine5",
+   "en": "cards are restored.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardEtherLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardEtherLine0",
+   "en": "Quickly reloads magic{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardEtherLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardEtherLine1",
+   "en": "cards with no charge{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardEtherLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardEtherLine2",
+   "en": "time required.  It does{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardEtherLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardEtherLine3",
+   "en": "not work on cards that{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardEtherLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardEtherLine4",
+   "en": "cannot be reloaded.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaEtherLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaEtherLine0",
+   "en": "Quickly reloads magic{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaEtherLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaEtherLine1",
+   "en": "cards with no charge{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaEtherLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaEtherLine2",
+   "en": "time and resets the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaEtherLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaEtherLine3",
+   "en": "reload counter.  Even{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaEtherLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaEtherLine4",
+   "en": "normally unreloadable{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegaEtherLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegaEtherLine5",
+   "en": "cards are restored.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardElixirLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardElixirLine0",
+   "en": "Quickly reloads attack{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardElixirLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardElixirLine1",
+   "en": "cards and magic cards,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardElixirLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardElixirLine2",
+   "en": "including normally{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardElixirLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardElixirLine3",
+   "en": "unreloadable cards.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegalixirLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegalixirLine0",
+   "en": "Quickly reloads attack{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegalixirLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegalixirLine1",
+   "en": "cards and magic cards,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegalixirLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegalixirLine2",
+   "en": "including normally{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegalixirLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegalixirLine3",
+   "en": "unreloadable cards.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegalixirLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegalixirLine4",
+   "en": "The reload counter is{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyItemCardMegalixirLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyItemCardMegalixirLine5",
+   "en": "also reset.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardDonaldDuckLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardDonaldDuckLine0",
+   "en": "Donald randomly casts{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardDonaldDuckLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardDonaldDuckLine1",
+   "en": "Fire, Blizzard, Thunder,{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardDonaldDuckLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardDonaldDuckLine2",
+   "en": "or Cure.  Stock more{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardDonaldDuckLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardDonaldDuckLine3",
+   "en": "than one to power up{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardDonaldDuckLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardDonaldDuckLine4",
+   "en": "Donald's magic.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardGoofyLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardGoofyLine0",
+   "en": "Goofy swings his shield{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardGoofyLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardGoofyLine1",
+   "en": "at the enemy.  Stock{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardGoofyLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardGoofyLine2",
+   "en": "more than one to power{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardGoofyLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardGoofyLine3",
+   "en": "up Goofy's attack.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardAladdinLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardAladdinLine0",
+   "en": "Aladdin swings his{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardAladdinLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardAladdinLine1",
+   "en": "sword at the enemy{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardAladdinLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardAladdinLine2",
+   "en": "repeatedly.  Stock more{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardAladdinLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardAladdinLine3",
+   "en": "than one to power up{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardAladdinLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardAladdinLine4",
+   "en": "Aladdin's attack.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardJackLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardJackLine0",
+   "en": "Jack casts Fire,{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardJackLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardJackLine1",
+   "en": "Blizzard, Thunder, or{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardJackLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardJackLine2",
+   "en": "Gravity.  Stock more{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardJackLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardJackLine3",
+   "en": "than one to power up{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardJackLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardJackLine4",
+   "en": "Jack's magic.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardArielLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardArielLine0",
+   "en": "Ariel whirls across the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardArielLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardArielLine1",
+   "en": "field, striking many{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardArielLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardArielLine2",
+   "en": "enemies.  Stock more{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardArielLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardArielLine3",
+   "en": "than one to power up{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardArielLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardArielLine4",
+   "en": "Ariel's attack.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardPeterPanLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardPeterPanLine0",
+   "en": "Peter Pan attacks with{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardPeterPanLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardPeterPanLine1",
+   "en": "his dagger.  Stock more{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardPeterPanLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardPeterPanLine2",
+   "en": "than one to power up{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardPeterPanLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardPeterPanLine3",
+   "en": "Peter's attack.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardBeastLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardBeastLine0",
+   "en": "The Beast mows down{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardBeastLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardBeastLine1",
+   "en": "anyone in Sora's path.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardBeastLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardBeastLine2",
+   "en": "Stock more than one to{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardBeastLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardBeastLine3",
+   "en": "power up the Beast's{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyFriendCardBeastLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyFriendCardBeastLine4",
+   "en": "attack.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardShadowLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardShadowLine0",
+   "en": "■ Incrementor{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardShadowLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardShadowLine1",
+   "en": "Increase the value of{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardShadowLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardShadowLine2",
+   "en": "all cards by 1.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardShadowLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardShadowLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardShadowLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardShadowLine4",
+   "en": "Duration:  2 reloads{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardSoldierLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardSoldierLine0",
+   "en": "■ Combo Plus{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardSoldierLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardSoldierLine1",
+   "en": "Add an extra hit to{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardSoldierLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardSoldierLine2",
+   "en": "normal combos.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

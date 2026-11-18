@@ -1,0 +1,848 @@
+{
+ "chunk": 15,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 101,
+ "items": [
+  {
+   "id": "event_name_text:gEventName039",
+   "pool": "event_name_text",
+   "symbol": "gEventName039",
+   "en": "１０Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName038",
+   "pool": "event_name_text",
+   "symbol": "gEventName038",
+   "en": "９Ｆ　ｄｅｍｏ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName037",
+   "pool": "event_name_text",
+   "symbol": "gEventName037",
+   "en": "９Ｆ　Ｇｏａｌ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName036",
+   "pool": "event_name_text",
+   "symbol": "gEventName036",
+   "en": "９Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName035",
+   "pool": "event_name_text",
+   "symbol": "gEventName035",
+   "en": "８Ｆ　ｄｅｍｏ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName034",
+   "pool": "event_name_text",
+   "symbol": "gEventName034",
+   "en": "８Ｆ　Ｇｏａｌ　２　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName033",
+   "pool": "event_name_text",
+   "symbol": "gEventName033",
+   "en": "８Ｆ　Ｇｏａｌ　１　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName032",
+   "pool": "event_name_text",
+   "symbol": "gEventName032",
+   "en": "８Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName031",
+   "pool": "event_name_text",
+   "symbol": "gEventName031",
+   "en": "７Ｆ　Ｇｏａｌ　２　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName030",
+   "pool": "event_name_text",
+   "symbol": "gEventName030",
+   "en": "７Ｆ　Ｇｏａｌ　１　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName029",
+   "pool": "event_name_text",
+   "symbol": "gEventName029",
+   "en": "７Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName028",
+   "pool": "event_name_text",
+   "symbol": "gEventName028",
+   "en": "６Ｆ　ｄｅｍｏ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName027",
+   "pool": "event_name_text",
+   "symbol": "gEventName027",
+   "en": "６Ｆ　Ｇｏａｌ　３　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName026",
+   "pool": "event_name_text",
+   "symbol": "gEventName026",
+   "en": "６Ｆ　Ｇｏａｌ　２　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName025",
+   "pool": "event_name_text",
+   "symbol": "gEventName025",
+   "en": "６Ｆ　Ｇｏａｌ　１　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName024",
+   "pool": "event_name_text",
+   "symbol": "gEventName024",
+   "en": "６Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName023",
+   "pool": "event_name_text",
+   "symbol": "gEventName023",
+   "en": "５Ｆ　ｄｅｍｏ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName022",
+   "pool": "event_name_text",
+   "symbol": "gEventName022",
+   "en": "５Ｆ　Ｇｏａｌ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName021",
+   "pool": "event_name_text",
+   "symbol": "gEventName021",
+   "en": "５Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName020",
+   "pool": "event_name_text",
+   "symbol": "gEventName020",
+   "en": "４Ｆ　ｄｅｍｏ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName019",
+   "pool": "event_name_text",
+   "symbol": "gEventName019",
+   "en": "４Ｆ　ＧＯＡＬ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName018",
+   "pool": "event_name_text",
+   "symbol": "gEventName018",
+   "en": "４Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName017",
+   "pool": "event_name_text",
+   "symbol": "gEventName017",
+   "en": "３Ｆ　ｄｅｍｏ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName016",
+   "pool": "event_name_text",
+   "symbol": "gEventName016",
+   "en": "３Ｆ　ＧＯＡＬ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName015",
+   "pool": "event_name_text",
+   "symbol": "gEventName015",
+   "en": "３Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName014",
+   "pool": "event_name_text",
+   "symbol": "gEventName014",
+   "en": "２Ｆ　ｄｅｍｏ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName013",
+   "pool": "event_name_text",
+   "symbol": "gEventName013",
+   "en": "２Ｆ　ＧＯＡＬ　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName012",
+   "pool": "event_name_text",
+   "symbol": "gEventName012",
+   "en": "２Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName011",
+   "pool": "event_name_text",
+   "symbol": "gEventName011",
+   "en": "１Ｆ　ＧＯＡＬ　２　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName010",
+   "pool": "event_name_text",
+   "symbol": "gEventName010",
+   "en": "１Ｆ　ＧＯＡＬ　１　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName009",
+   "pool": "event_name_text",
+   "symbol": "gEventName009",
+   "en": "１Ｆ　Ｔｒａｖｅｒｓｅ　Ｔｏｗｎ　Ｅ４　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName008",
+   "pool": "event_name_text",
+   "symbol": "gEventName008",
+   "en": "１Ｆ　Ｂａｔｔｌｅ　ＧｕａｒｄＡｒｍｏｒ　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName007",
+   "pool": "event_name_text",
+   "symbol": "gEventName007",
+   "en": "１Ｆ　Ｔｒａｖｅｒｓｅ　Ｔｏｗｎ　Ｅ３　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName006",
+   "pool": "event_name_text",
+   "symbol": "gEventName006",
+   "en": "１Ｆ　Ｔｒａｖｅｒｓｅ　Ｔｏｗｎ　Ｅ２　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName005",
+   "pool": "event_name_text",
+   "symbol": "gEventName005",
+   "en": "１Ｆ　Ｔｒａｖｅｒｓｅ　Ｔｏｗｎ　Ｅ１　２　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName004",
+   "pool": "event_name_text",
+   "symbol": "gEventName004",
+   "en": "１Ｆ　Ｔｒａｖｅｒｓｅ　Ｔｏｗｎ　Ｅ１　１　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName003",
+   "pool": "event_name_text",
+   "symbol": "gEventName003",
+   "en": "１Ｆ　Ｔｒａｖｅｒｓｅ　Ｔｏｗｎ　Ｅ０　２　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName002",
+   "pool": "event_name_text",
+   "symbol": "gEventName002",
+   "en": "１Ｆ　Ｔｒａｖｅｒｓｅ　Ｔｏｗｎ　Ｅ０　１　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName001",
+   "pool": "event_name_text",
+   "symbol": "gEventName001",
+   "en": "１Ｆ　Ｅｎｔｒａｎｃｅ　Ｐａｒｔ２　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName000",
+   "pool": "event_name_text",
+   "symbol": "gEventName000",
+   "en": "１Ｆ　Ｅｎｔｒａｎｃｅ　Ｐａｒｔ１　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent074Text00",
+   "pool": "event_text",
+   "symbol": "gEvent074Text00",
+   "en": "What a weird place!\nEverything’s kinda springy and\nsoft.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent074Text01",
+   "pool": "event_text",
+   "symbol": "gEvent074Text01",
+   "en": "Nice and warm, too.\nI’m startin’ to feel like a nap.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent074Text02",
+   "pool": "event_text",
+   "symbol": "gEvent074Text02",
+   "en": "Shouldn’t you be a little more\nworried?{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent074Text03",
+   "pool": "event_text",
+   "symbol": "gEvent074Text03",
+   "en": "Who’s there?{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent074Text04",
+   "pool": "event_text",
+   "symbol": "gEvent074Text04",
+   "en": "Don’t you get it?\nYou’re inside the belly of\nMonstro the Whale.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent074Text05",
+   "pool": "event_text",
+   "symbol": "gEvent074Text05",
+   "en": "Why, I know that voice…{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent074Text06",
+   "pool": "event_text",
+   "symbol": "gEvent074Text06",
+   "en": "Pinocchio?  Pinoke, it’s you!\nCome on out!{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent074Text07",
+   "pool": "event_text",
+   "symbol": "gEvent074Text07",
+   "en": "Is that you, Jiminy?\nGosh, I never thought I’d meet\nyou here.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent074Text08",
+   "pool": "event_text",
+   "symbol": "gEvent074Text08",
+   "en": "You can’t get away from me,\nson.  I’m your conscience.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent074Text09",
+   "pool": "event_text",
+   "symbol": "gEvent074Text09",
+   "en": "Your conscience should guide\nwhatever you do.  Remember?{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent074Text10",
+   "pool": "event_text",
+   "symbol": "gEvent074Text10",
+   "en": "Sure, Jiminy. \nI’ve been a good boy while you\nwere gone.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent074Text11",
+   "pool": "event_text",
+   "symbol": "gEvent074Text11",
+   "en": "I didn’t tell a single lie.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent074Text12",
+   "pool": "event_text",
+   "symbol": "gEvent074Text12",
+   "en": "Uh-oh!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent074Text13",
+   "pool": "event_text",
+   "symbol": "gEvent074Text13",
+   "en": "Well, for Pete’s sake!{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent074Text14",
+   "pool": "event_text",
+   "symbol": "gEvent074Text14",
+   "en": "Oops!\nBut…how did YOU end up inside\nMonstro, anyway?{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent074Text15",
+   "pool": "event_text",
+   "symbol": "gEvent074Text15",
+   "en": "We, uh, sort of used a special\nway…{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent074Text16",
+   "pool": "event_text",
+   "symbol": "gEvent074Text16",
+   "en": "It’s so special, we don’t know\nhow we did it!{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent074Text17",
+   "pool": "event_text",
+   "symbol": "gEvent074Text17",
+   "en": "That’s too bad…  I was hoping\nyou could help me and Father\nget out of here.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent074Text18",
+   "pool": "event_text",
+   "symbol": "gEvent074Text18",
+   "en": "Well, I’ll be!\nGeppetto’s here, too?{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent074Text19",
+   "pool": "event_text",
+   "symbol": "gEvent074Text19",
+   "en": "Sure.\nWant to see him?  Follow me!{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent075Text00",
+   "pool": "event_text",
+   "symbol": "gEvent075Text00",
+   "en": "Geppetto!{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent075Text01",
+   "pool": "event_text",
+   "symbol": "gEvent075Text01",
+   "en": "Bless my soul, it’s Jiminy\nCricket.  How in the world did\nyou get here?{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent075Text02",
+   "pool": "event_text",
+   "symbol": "gEvent075Text02",
+   "en": "You tell me!  How does a\nclockmaker wind up in the belly\nof a whale?{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent075Text03",
+   "pool": "event_text",
+   "symbol": "gEvent075Text03",
+   "en": "Well, it’s a long story…{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent075Text04",
+   "pool": "event_text",
+   "symbol": "gEvent075Text04",
+   "en": "So you sailed out to look for\nPinocchio…{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent075Text05",
+   "pool": "event_text",
+   "symbol": "gEvent075Text05",
+   "en": "…and Monstro swallowed you!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent075Text06",
+   "pool": "event_text",
+   "symbol": "gEvent075Text06",
+   "en": "Well, it was worth it, because\nI found my son.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent075Text07",
+   "pool": "event_text",
+   "symbol": "gEvent075Text07",
+   "en": "But now you can’t get out,\ncan you?{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent075Text08",
+   "pool": "event_text",
+   "symbol": "gEvent075Text08",
+   "en": "It must be awful being stuck\ninside Monstro.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent075Text09",
+   "pool": "event_text",
+   "symbol": "gEvent075Text09",
+   "en": "Not if Pinocchio and I are\ntogether.  I couldn’t live\nwithout him.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  }
+ ]
+}

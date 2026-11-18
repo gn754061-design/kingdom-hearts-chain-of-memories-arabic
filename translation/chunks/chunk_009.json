@@ -1,0 +1,848 @@
+{
+ "chunk": 9,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "common_text:gCardNameOneWingedAngel",
+   "pool": "common_text",
+   "symbol": "gCardNameOneWingedAngel",
+   "en": "One-Winged Angel{END}",
+   "max_units": 21,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameFire",
+   "pool": "common_text",
+   "symbol": "gCardNameFire",
+   "en": "Fire{END}",
+   "max_units": 19,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameBlizzard",
+   "pool": "common_text",
+   "symbol": "gCardNameBlizzard",
+   "en": "Blizzard{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameThunder",
+   "pool": "common_text",
+   "symbol": "gCardNameThunder",
+   "en": "Thunder{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameCure",
+   "pool": "common_text",
+   "symbol": "gCardNameCure",
+   "en": "Cure{END}",
+   "max_units": 19,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameGravity",
+   "pool": "common_text",
+   "symbol": "gCardNameGravity",
+   "en": "Gravity{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameStop",
+   "pool": "common_text",
+   "symbol": "gCardNameStop",
+   "en": "Stop{END}",
+   "max_units": 19,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameAero",
+   "pool": "common_text",
+   "symbol": "gCardNameAero",
+   "en": "Aero{END}",
+   "max_units": 19,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameSimba",
+   "pool": "common_text",
+   "symbol": "gCardNameSimba",
+   "en": "Simba{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameGenie",
+   "pool": "common_text",
+   "symbol": "gCardNameGenie",
+   "en": "Genie{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameBambi",
+   "pool": "common_text",
+   "symbol": "gCardNameBambi",
+   "en": "Bambi{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameDumbo",
+   "pool": "common_text",
+   "symbol": "gCardNameDumbo",
+   "en": "Dumbo{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameTinkerBell",
+   "pool": "common_text",
+   "symbol": "gCardNameTinkerBell",
+   "en": "Tinker Bell{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameMushu",
+   "pool": "common_text",
+   "symbol": "gCardNameMushu",
+   "en": "Mushu{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameCloud",
+   "pool": "common_text",
+   "symbol": "gCardNameCloud",
+   "en": "Cloud{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNamePotion",
+   "pool": "common_text",
+   "symbol": "gCardNamePotion",
+   "en": "Potion{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameHiPotion",
+   "pool": "common_text",
+   "symbol": "gCardNameHiPotion",
+   "en": "Hi-Potion{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameMegaPotion",
+   "pool": "common_text",
+   "symbol": "gCardNameMegaPotion",
+   "en": "Mega-Potion{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameEther",
+   "pool": "common_text",
+   "symbol": "gCardNameEther",
+   "en": "Ether{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameMegaEther",
+   "pool": "common_text",
+   "symbol": "gCardNameMegaEther",
+   "en": "Mega-Ether{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameElixir",
+   "pool": "common_text",
+   "symbol": "gCardNameElixir",
+   "en": "Elixir{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameMegalixir",
+   "pool": "common_text",
+   "symbol": "gCardNameMegalixir",
+   "en": "Megalixir{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameDonaldDuck",
+   "pool": "common_text",
+   "symbol": "gCardNameDonaldDuck",
+   "en": "Donald Duck{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameGoofy",
+   "pool": "common_text",
+   "symbol": "gCardNameGoofy",
+   "en": "Goofy{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameAladdin",
+   "pool": "common_text",
+   "symbol": "gCardNameAladdin",
+   "en": "Aladdin{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameAriel",
+   "pool": "common_text",
+   "symbol": "gCardNameAriel",
+   "en": "Ariel{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameJack",
+   "pool": "common_text",
+   "symbol": "gCardNameJack",
+   "en": "Jack{END}",
+   "max_units": 19,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNamePeterPan",
+   "pool": "common_text",
+   "symbol": "gCardNamePeterPan",
+   "en": "Peter Pan{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameBeast",
+   "pool": "common_text",
+   "symbol": "gCardNameBeast",
+   "en": "The Beast{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameShadow",
+   "pool": "common_text",
+   "symbol": "gEnemyNameShadow",
+   "en": "Shadow{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameSoldier",
+   "pool": "common_text",
+   "symbol": "gEnemyNameSoldier",
+   "en": "Soldier{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNamePowerwild",
+   "pool": "common_text",
+   "symbol": "gEnemyNamePowerwild",
+   "en": "Powerwild{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameBouncywild",
+   "pool": "common_text",
+   "symbol": "gEnemyNameBouncywild",
+   "en": "Bouncywild{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameLargeBody",
+   "pool": "common_text",
+   "symbol": "gEnemyNameLargeBody",
+   "en": "Large Body{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameFatBandit",
+   "pool": "common_text",
+   "symbol": "gEnemyNameFatBandit",
+   "en": "Fat Bandit{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameSeaNeon",
+   "pool": "common_text",
+   "symbol": "gEnemyNameSeaNeon",
+   "en": "Sea Neon{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameBandit",
+   "pool": "common_text",
+   "symbol": "gEnemyNameBandit",
+   "en": "Bandit{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNamePirate",
+   "pool": "common_text",
+   "symbol": "gEnemyNamePirate",
+   "en": "Pirate{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameRedNocturne",
+   "pool": "common_text",
+   "symbol": "gEnemyNameRedNocturne",
+   "en": "Red Nocturne{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameBlueRhapsody",
+   "pool": "common_text",
+   "symbol": "gEnemyNameBlueRhapsody",
+   "en": "Blue Rhapsody{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameYellowOpera",
+   "pool": "common_text",
+   "symbol": "gEnemyNameYellowOpera",
+   "en": "Yellow Opera{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameGreenRequiem",
+   "pool": "common_text",
+   "symbol": "gEnemyNameGreenRequiem",
+   "en": "Green Requiem{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameWizard",
+   "pool": "common_text",
+   "symbol": "gEnemyNameWizard",
+   "en": "Wizard{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameAirSoldier",
+   "pool": "common_text",
+   "symbol": "gEnemyNameAirSoldier",
+   "en": "Air Soldier{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameBarrelSpider",
+   "pool": "common_text",
+   "symbol": "gEnemyNameBarrelSpider",
+   "en": "Barrel Spider{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameWightKnight",
+   "pool": "common_text",
+   "symbol": "gEnemyNameWightKnight",
+   "en": "Wight Knight{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameAirPirate",
+   "pool": "common_text",
+   "symbol": "gEnemyNameAirPirate",
+   "en": "Air Pirate{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameGargoyle",
+   "pool": "common_text",
+   "symbol": "gEnemyNameGargoyle",
+   "en": "Gargoyle{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameSearchGhost",
+   "pool": "common_text",
+   "symbol": "gEnemyNameSearchGhost",
+   "en": "Search Ghost{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameAquatank",
+   "pool": "common_text",
+   "symbol": "gEnemyNameAquatank",
+   "en": "Aquatank{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameScrewdiver",
+   "pool": "common_text",
+   "symbol": "gEnemyNameScrewdiver",
+   "en": "Screwdiver{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameDarkball",
+   "pool": "common_text",
+   "symbol": "gEnemyNameDarkball",
+   "en": "Darkball{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameWyvern",
+   "pool": "common_text",
+   "symbol": "gEnemyNameWyvern",
+   "en": "Wyvern{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameDefender",
+   "pool": "common_text",
+   "symbol": "gEnemyNameDefender",
+   "en": "Defender{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameWhiteMushroom",
+   "pool": "common_text",
+   "symbol": "gEnemyNameWhiteMushroom",
+   "en": "White Mushroom{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameBlackFungus",
+   "pool": "common_text",
+   "symbol": "gEnemyNameBlackFungus",
+   "en": "Black Fungus{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameCreeperPlant",
+   "pool": "common_text",
+   "symbol": "gEnemyNameCreeperPlant",
+   "en": "Creeper Plant{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameTornadoStep",
+   "pool": "common_text",
+   "symbol": "gEnemyNameTornadoStep",
+   "en": "Tornado Step{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameCrescendo",
+   "pool": "common_text",
+   "symbol": "gEnemyNameCrescendo",
+   "en": "Crescendo{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameNeoshadow",
+   "pool": "common_text",
+   "symbol": "gEnemyNameNeoshadow",
+   "en": "Neoshadow{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameGuardArmor",
+   "pool": "common_text",
+   "symbol": "gEnemyNameGuardArmor",
+   "en": "Guard Armor{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameHades",
+   "pool": "common_text",
+   "symbol": "gEnemyNameHades",
+   "en": "Hades{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameTrickmaster",
+   "pool": "common_text",
+   "symbol": "gEnemyNameTrickmaster",
+   "en": "Trickmaster{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameJafar",
+   "pool": "common_text",
+   "symbol": "gEnemyNameJafar",
+   "en": "Jafar{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameUrsula",
+   "pool": "common_text",
+   "symbol": "gEnemyNameUrsula",
+   "en": "Ursula{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameOogieBoogie",
+   "pool": "common_text",
+   "symbol": "gEnemyNameOogieBoogie",
+   "en": "Oogie Boogie{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameParasiteCage",
+   "pool": "common_text",
+   "symbol": "gEnemyNameParasiteCage",
+   "en": "Parasite Cage{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameHook",
+   "pool": "common_text",
+   "symbol": "gEnemyNameHook",
+   "en": "Hook{END}",
+   "max_units": 19,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameDragonMaleficent",
+   "pool": "common_text",
+   "symbol": "gEnemyNameDragonMaleficent",
+   "en": "Dragon Maleficent{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyNameDarkside",
+   "pool": "common_text",
+   "symbol": "gEnemyNameDarkside",
+   "en": "Darkside{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

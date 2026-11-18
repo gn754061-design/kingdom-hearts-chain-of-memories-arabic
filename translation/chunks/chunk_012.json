@@ -1,0 +1,848 @@
+{
+ "chunk": 12,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 77,
+ "items": [
+  {
+   "id": "common_text:gEnemyCardEffectNameFloat",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameFloat",
+   "en": "Float{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameDrain",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameDrain",
+   "en": "Drain{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameLeafBracer",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameLeafBracer",
+   "en": "Leaf Bracer{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameDecrementor",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameDecrementor",
+   "en": "Decrementor{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameCardblind",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameCardblind",
+   "en": "Cardblind{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameReloadLock",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameReloadLock",
+   "en": "Reload Lock{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameProtect",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameProtect",
+   "en": "Protect{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameHyperHealing",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameHyperHealing",
+   "en": "Hyper Healing{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameRandomFlush",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameRandomFlush",
+   "en": "Random Flush{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameReloadKinesis",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameReloadKinesis",
+   "en": "Reload Kinesis{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameReloadHaste",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameReloadHaste",
+   "en": "Reload Haste{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameAutoReload",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameAutoReload",
+   "en": "Auto-Reload{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameQuickReload",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameQuickReload",
+   "en": "Quick Reload{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameWideAttack",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameWideAttack",
+   "en": "Wide Attack{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameMagicBoost",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameMagicBoost",
+   "en": "Magic Boost{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameAttackBracer",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameAttackBracer",
+   "en": "Attack Bracer{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameMimic",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameMimic",
+   "en": "Mimic{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameShell",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameShell",
+   "en": "Shell{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameRegen",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameRegen",
+   "en": "Regen{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameDispel",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameDispel",
+   "en": "Dispel{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameSecondChance",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameSecondChance",
+   "en": "Second Chance{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameOverdrive",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameOverdrive",
+   "en": "Overdrive{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameAttackHaste",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameAttackHaste",
+   "en": "Attack Haste{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameQuickRecovery",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameQuickRecovery",
+   "en": "Quick Recovery{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameSleightblind",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameSleightblind",
+   "en": "Sleightblind{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameSleightLock",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameSleightLock",
+   "en": "Sleight Lock{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameAutoLife",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameAutoLife",
+   "en": "Auto-Life{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameDoubleSleight",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameDoubleSleight",
+   "en": "Double Sleight{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameValueBreak",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameValueBreak",
+   "en": "Value Break{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameDash",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameDash",
+   "en": "Dash{END}",
+   "max_units": 19,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameWarpBreak",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameWarpBreak",
+   "en": "Warp Break{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNameZexion",
+   "pool": "common_text",
+   "symbol": "gCharacterNameZexion",
+   "en": "Zexion{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyRikuStoryTale1Name",
+   "pool": "common_text",
+   "symbol": "gJiminyRikuStoryTale1Name",
+   "en": "Riku's Tale I{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyRikuStoryTale2Name",
+   "pool": "common_text",
+   "symbol": "gJiminyRikuStoryTale2Name",
+   "en": "Riku's Tale II{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyRikuStoryTale3Name",
+   "pool": "common_text",
+   "symbol": "gJiminyRikuStoryTale3Name",
+   "en": "Riku's Tale III{END}",
+   "max_units": 20,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyRikuStoryTale4Name",
+   "pool": "common_text",
+   "symbol": "gJiminyRikuStoryTale4Name",
+   "en": "Riku's Tale IV{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyRikuStoryTale5Name",
+   "pool": "common_text",
+   "symbol": "gJiminyRikuStoryTale5Name",
+   "en": "Riku's Tale V{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyRikuStoryTale6Name",
+   "pool": "common_text",
+   "symbol": "gJiminyRikuStoryTale6Name",
+   "en": "Riku's Tale VI{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNameRikuReplica",
+   "pool": "common_text",
+   "symbol": "gCharacterNameRikuReplica",
+   "en": "Riku Replica{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNameDiZ",
+   "pool": "common_text",
+   "symbol": "gCharacterNameDiZ",
+   "en": "DiZ{END}",
+   "max_units": 19,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuPremiumCardsName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuPremiumCardsName",
+   "en": "Premium Cards{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyPremiumCardsName",
+   "pool": "common_text",
+   "symbol": "gJiminyPremiumCardsName",
+   "en": "About Premium Cards{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gMapInspectNoticeText",
+   "pool": "common_text",
+   "symbol": "gMapInspectNoticeText",
+   "en": "You can't delete any\nmore cards.{END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gEnemyNameCardSoldier",
+   "pool": "common_text",
+   "symbol": "gEnemyNameCardSoldier",
+   "en": "Card Soldier{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:common_text_326",
+   "pool": "common_text",
+   "symbol": "common_text_326",
+   "en": "NO TEXT{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:common_text_327",
+   "pool": "common_text",
+   "symbol": "common_text_327",
+   "en": "NO TEXT{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:common_text_328",
+   "pool": "common_text",
+   "symbol": "common_text_328",
+   "en": "NO TEXT{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gDeckClearConfirmText",
+   "pool": "common_text",
+   "symbol": "gDeckClearConfirmText",
+   "en": "Remove all cards from\nthis deck?{END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gMsChargeNoticeText",
+   "pool": "common_text",
+   "symbol": "gMsChargeNoticeText",
+   "en": "Sorry, kupo―we can't accept\nany more cards.{END}",
+   "max_units": 49,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gDeckEquipText",
+   "pool": "common_text",
+   "symbol": "gDeckEquipText",
+   "en": "Equipped {END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gDeckErrorDeckFullText",
+   "pool": "common_text",
+   "symbol": "gDeckErrorDeckFullText",
+   "en": "You can't add any more\ncards.{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gDeckErrorLastAttackCardText",
+   "pool": "common_text",
+   "symbol": "gDeckErrorLastAttackCardText",
+   "en": "You can't delete any\nmore cards.{END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "common_text:gDeckErrorNoAttackCardText",
+   "pool": "common_text",
+   "symbol": "gDeckErrorNoAttackCardText",
+   "en": "You need at least one\nattack card in your\nequipped deck.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "common_text:gCardNameKing",
+   "pool": "common_text",
+   "symbol": "gCardNameKing",
+   "en": "The King{END}",
+   "max_units": 19,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCardNameSoulEater",
+   "pool": "common_text",
+   "symbol": "gCardNameSoulEater",
+   "en": "Soul Eater{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName196",
+   "pool": "event_name_text",
+   "symbol": "gEventName196",
+   "en": "だみー　じゅうじろ　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName195",
+   "pool": "event_name_text",
+   "symbol": "gEventName195",
+   "en": "Ｒｉｋｕ　Ｅｎｄｉｎｇ　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName194",
+   "pool": "event_name_text",
+   "symbol": "gEventName194",
+   "en": "Ｒｉｋｕ　Ｂ１Ｆ　ＬＡＳＴ２　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName193",
+   "pool": "event_name_text",
+   "symbol": "gEventName193",
+   "en": "Ｒｉｋｕ　Ｂ１Ｆ　ＬＡＳＴ１　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName192",
+   "pool": "event_name_text",
+   "symbol": "gEventName192",
+   "en": "Ｒｉｋｕ　Ｂ１Ｆ　Ｅ０　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName191",
+   "pool": "event_name_text",
+   "symbol": "gEventName191",
+   "en": "Ｒｉｋｕ　Ｂ１Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName190",
+   "pool": "event_name_text",
+   "symbol": "gEventName190",
+   "en": "Ｒｉｋｕ　Ｂ２Ｆ　Ｇｏａｌ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName189",
+   "pool": "event_name_text",
+   "symbol": "gEventName189",
+   "en": "Ｒｉｋｕ　Ｂ２Ｆ　Ｅ２　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName188",
+   "pool": "event_name_text",
+   "symbol": "gEventName188",
+   "en": "Ｒｉｋｕ　Ｂ２Ｆ　Ｅ１　２　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName187",
+   "pool": "event_name_text",
+   "symbol": "gEventName187",
+   "en": "Ｒｉｋｕ　Ｂ２Ｆ　Ｅ１　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName186",
+   "pool": "event_name_text",
+   "symbol": "gEventName186",
+   "en": "Ｒｉｋｕ　Ｂ２Ｆ　Ｅ０　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName185",
+   "pool": "event_name_text",
+   "symbol": "gEventName185",
+   "en": "Ｒｉｋｕ　Ｂ２Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName184",
+   "pool": "event_name_text",
+   "symbol": "gEventName184",
+   "en": "Ｒｉｋｕ　Ｂ３Ｆ　ＤＥＭＯ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName183",
+   "pool": "event_name_text",
+   "symbol": "gEventName183",
+   "en": "Ｒｉｋｕ　Ｂ３Ｆ　Ｅ２　３　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName182",
+   "pool": "event_name_text",
+   "symbol": "gEventName182",
+   "en": "Ｒｉｋｕ　Ｂ３Ｆ　Ｌｉｇｈｔ　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

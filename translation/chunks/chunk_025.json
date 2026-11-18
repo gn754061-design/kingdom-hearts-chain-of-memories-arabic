@@ -1,0 +1,848 @@
+{
+ "chunk": 25,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 158,
+ "items": [
+  {
+   "id": "event_text:gEvent118Text18",
+   "pool": "event_text",
+   "symbol": "gEvent118Text18",
+   "en": "Here I am, Hook!\nMiss me?{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent118Text19",
+   "pool": "event_text",
+   "symbol": "gEvent118Text19",
+   "en": "Insolent pup!\nToday is the day you pay for\ntaking my hand!{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent118Text20",
+   "pool": "event_text",
+   "symbol": "gEvent118Text20",
+   "en": "Uh-oh!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent118Text21",
+   "pool": "event_text",
+   "symbol": "gEvent118Text21",
+   "en": "Agh?\nWa-wa-wa-wa-whoa!{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent118Text22",
+   "pool": "event_text",
+   "symbol": "gEvent118Text22",
+   "en": "You’ve made a fool of me for\nthe last time, Pan!  I’ll skewer\nthe lot of you!{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text00",
+   "pool": "event_text",
+   "symbol": "gEvent119Text00",
+   "en": "Thanks, Peter, we owe you\none.{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent119Text01",
+   "pool": "event_text",
+   "symbol": "gEvent119Text01",
+   "en": "Well, at first I thought I’d let\nyou handle the situation…\n\nBut I couldn’t just stand by\nwhen things got out of hand.{END}",
+   "max_units": 126,
+   "units": 126,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent119Text02",
+   "pool": "event_text",
+   "symbol": "gEvent119Text02",
+   "en": "It looks like I might’ve\nunderestimated you, though.\nYou did good!{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text03",
+   "pool": "event_text",
+   "symbol": "gEvent119Text03",
+   "en": "Look, Wendy, about London…\nAre you sure you won’t\nchange your mind?{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text04",
+   "pool": "event_text",
+   "symbol": "gEvent119Text04",
+   "en": "Peter, I’m sorry.\nBut I really want to go home.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent119Text05",
+   "pool": "event_text",
+   "symbol": "gEvent119Text05",
+   "en": "I was afraid of that…\nEveryone grows up―and\ngrownups always forget.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text06",
+   "pool": "event_text",
+   "symbol": "gEvent119Text06",
+   "en": "First you’ll forget what it\nfeels like to be a kid, and then\nyou’ll forget about me.{END}",
+   "max_units": 91,
+   "units": 91,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text07",
+   "pool": "event_text",
+   "symbol": "gEvent119Text07",
+   "en": "How can you say such a thing,\nPeter?  I’ll never, ever forget\nyou.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text08",
+   "pool": "event_text",
+   "symbol": "gEvent119Text08",
+   "en": "Sure, that’s what you think\nnow.\n\nBut when you try to remember\nme, the memories will be gone.{END}",
+   "max_units": 102,
+   "units": 102,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent119Text09",
+   "pool": "event_text",
+   "symbol": "gEvent119Text09",
+   "en": "You’ll forget―little by little,\none memory at a time.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent119Text10",
+   "pool": "event_text",
+   "symbol": "gEvent119Text10",
+   "en": "Once you’re grown up, there\nwon’t be a single memory left.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent119Text11",
+   "pool": "event_text",
+   "symbol": "gEvent119Text11",
+   "en": "Don’t say that.{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent119Text12",
+   "pool": "event_text",
+   "symbol": "gEvent119Text12",
+   "en": "Memories―even important\nones―don’t come back to us\nwhenever we want them to.{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text13",
+   "pool": "event_text",
+   "symbol": "gEvent119Text13",
+   "en": "But that doesn’t mean the\nmemories are gone.  It’s more\nlike…like they’re sleeping.{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text14",
+   "pool": "event_text",
+   "symbol": "gEvent119Text14",
+   "en": "So when the right thing comes\nalong and wakes the memory\nup, we can remember it.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text15",
+   "pool": "event_text",
+   "symbol": "gEvent119Text15",
+   "en": "The memories engraved in our\nhearts never go away.  I’m\nsure of it.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text16",
+   "pool": "event_text",
+   "symbol": "gEvent119Text16",
+   "en": "He’s right, Peter.{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent119Text17",
+   "pool": "event_text",
+   "symbol": "gEvent119Text17",
+   "en": "Never, huh?{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent119Text18",
+   "pool": "event_text",
+   "symbol": "gEvent119Text18",
+   "en": "It’s funny. \nGrownups shouldn’t be able\nto see me anymore…{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text19",
+   "pool": "event_text",
+   "symbol": "gEvent119Text19",
+   "en": "But I have a feeling you guys \njust might be different.{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent119Text20",
+   "pool": "event_text",
+   "symbol": "gEvent119Text20",
+   "en": "Okay, Sora!\nIf you say we’ll meet again,\nthen I believe you!{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text21",
+   "pool": "event_text",
+   "symbol": "gEvent119Text21",
+   "en": "Oh, Peter!{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent119Text22",
+   "pool": "event_text",
+   "symbol": "gEvent119Text22",
+   "en": "Let’s go, Wendy. \nLondon is waiting.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent119Text23",
+   "pool": "event_text",
+   "symbol": "gEvent119Text23",
+   "en": "Goodbye, Sora.\nI’ll be waiting to see what you\nlook like all grown up!{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent119Text24",
+   "pool": "event_text",
+   "symbol": "gEvent119Text24",
+   "en": "What’s the matter, Tink?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent119Text25",
+   "pool": "event_text",
+   "symbol": "gEvent119Text25",
+   "en": "This must be a gift from Peter.{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent119Text26",
+   "pool": "event_text",
+   "symbol": "gEvent119Text26",
+   "en": "Maybe he’s not such a\nthoughtless guy after all.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent119Text27",
+   "pool": "event_text",
+   "symbol": "gEvent119Text27",
+   "en": "Oww!{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent119Text28",
+   "pool": "event_text",
+   "symbol": "gEvent119Text28",
+   "en": "Another gift from Peter?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent119Text29",
+   "pool": "event_text",
+   "symbol": "gEvent119Text29",
+   "en": "What’s the big idea!{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent120Text00",
+   "pool": "event_text",
+   "symbol": "gEvent120Text00",
+   "en": "Look, an announcement!{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent120Text01",
+   "pool": "event_text",
+   "symbol": "gEvent120Text01",
+   "en": "Well, I’ll be.{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent120Text02",
+   "pool": "event_text",
+   "symbol": "gEvent120Text02",
+   "en": "It’s for some sort of contest.\nThey’re calling it the “Olympus\nColiseum Survival Cup.”{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent120Text03",
+   "pool": "event_text",
+   "symbol": "gEvent120Text03",
+   "en": "Contenders have to run an\nobstacle course, battling each\nother along the way.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent120Text04",
+   "pool": "event_text",
+   "symbol": "gEvent120Text04",
+   "en": "And listen to this:\n“The great hero Hercules will\nalso compete for the Cup.”{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent120Text05",
+   "pool": "event_text",
+   "symbol": "gEvent120Text05",
+   "en": "It says here he’s never been\nbeaten.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text06",
+   "pool": "event_text",
+   "symbol": "gEvent120Text06",
+   "en": "Sounds like fun.\nWhy don’t we enter, too?{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text07",
+   "pool": "event_text",
+   "symbol": "gEvent120Text07",
+   "en": "I thought you’d say that.\nWhenever there’s a contest,\nyou’re rarin’ to join up.{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent120Text08",
+   "pool": "event_text",
+   "symbol": "gEvent120Text08",
+   "en": "You’re going to compete even\nif we don’t, right?{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text09",
+   "pool": "event_text",
+   "symbol": "gEvent120Text09",
+   "en": "Uh-huh.{END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent120Text10",
+   "pool": "event_text",
+   "symbol": "gEvent120Text10",
+   "en": "Guess we’d better tag along,\nthen.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text11",
+   "pool": "event_text",
+   "symbol": "gEvent120Text11",
+   "en": "Hold it, everyone.\nThere’s more…{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text12",
+   "pool": "event_text",
+   "symbol": "gEvent120Text12",
+   "en": "“Only contenders who finish\nthe preliminary course may\nenter the main competition.”{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent120Text13",
+   "pool": "event_text",
+   "symbol": "gEvent120Text13",
+   "en": "It says the preliminary course\nis just ahead.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text14",
+   "pool": "event_text",
+   "symbol": "gEvent120Text14",
+   "en": "Then what are we waiting for?\nLet’s go!{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text15",
+   "pool": "event_text",
+   "symbol": "gEvent120Text15",
+   "en": "Whoa-whoa-whoa, wait just\na MINUTE!  What is THIS?\n\n“Hercules is a model of true\nstrength and gallantry―the\nperfect hero”?!{END}",
+   "max_units": 133,
+   "units": 133,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent120Text16",
+   "pool": "event_text",
+   "symbol": "gEvent120Text16",
+   "en": "Oh, he’s perfect, all right.\nPERFECTLY INFURIATING!!{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text17",
+   "pool": "event_text",
+   "symbol": "gEvent120Text17",
+   "en": "Just thinking about that little\nsunspot makes me boil!\n\nGrraah!  I’d like to send him to\nthe Underworld…permanently!{END}",
+   "max_units": 125,
+   "units": 125,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent120Text18",
+   "pool": "event_text",
+   "symbol": "gEvent120Text18",
+   "en": "Which is why you hired me.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent120Text19",
+   "pool": "event_text",
+   "symbol": "gEvent120Text19",
+   "en": "That’s right.\nYou’re my man…Cloud.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text20",
+   "pool": "event_text",
+   "symbol": "gEvent120Text20",
+   "en": "Your job is to beat Hercules\nin the games.  And once you’ve\ngot him cornered…{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent120Text21",
+   "pool": "event_text",
+   "symbol": "gEvent120Text21",
+   "en": "…finish the job.\nDo that for me, and―{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text22",
+   "pool": "event_text",
+   "symbol": "gEvent120Text22",
+   "en": "You restore my lost memories.\nAs we agreed.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent120Text23",
+   "pool": "event_text",
+   "symbol": "gEvent120Text23",
+   "en": "You have my word.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text00",
+   "pool": "event_text",
+   "symbol": "gEvent121Text00",
+   "en": "Huh?  Where did you come\nfrom?  Don’t tell me you guys\nfinished the prelims!{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text01",
+   "pool": "event_text",
+   "symbol": "gEvent121Text01",
+   "en": "We sure did.\nAnd now we want to go for\nthe Cup!{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text02",
+   "pool": "event_text",
+   "symbol": "gEvent121Text02",
+   "en": "Well, you came to the right\nplace.  Not that you stand a \nchance against Herc.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text03",
+   "pool": "event_text",
+   "symbol": "gEvent121Text03",
+   "en": "Why not?{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text04",
+   "pool": "event_text",
+   "symbol": "gEvent121Text04",
+   "en": "Two words.{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text05",
+   "pool": "event_text",
+   "symbol": "gEvent121Text05",
+   "en": "You―ain’t―heroes.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text06",
+   "pool": "event_text",
+   "symbol": "gEvent121Text06",
+   "en": "You’re wrong!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text07",
+   "pool": "event_text",
+   "symbol": "gEvent121Text07",
+   "en": "Yeah, he said three words.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent121Text08",
+   "pool": "event_text",
+   "symbol": "gEvent121Text08",
+   "en": "Not that!  I mean, how can we\nprove we’re heroes unless\nyou give us a chance?{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text09",
+   "pool": "event_text",
+   "symbol": "gEvent121Text09",
+   "en": "He’s right, Phil.\nThey cleared the prelims.\nI think they deserve a shot.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent121Text10",
+   "pool": "event_text",
+   "symbol": "gEvent121Text10",
+   "en": "Hmm…you got a point there,\nHerc.  But still―{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

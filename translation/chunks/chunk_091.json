@@ -1,0 +1,848 @@
+{
+ "chunk": 91,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyPremiumCardsLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyPremiumCardsLine11",
+   "en": "upgraded to premium{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyPremiumCardsLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyPremiumCardsLine12",
+   "en": "cards.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyPremiumCardsLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyPremiumCardsLine13",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyPremiumCardsLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyPremiumCardsLine14",
+   "en": "You can forfeit a{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyPremiumCardsLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyPremiumCardsLine15",
+   "en": "Premium Bonus by{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyPremiumCardsLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyPremiumCardsLine16",
+   "en": "pressing the B Button.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCardKingLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCardKingLine0",
+   "en": "The king restores HP,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCardKingLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCardKingLine1",
+   "en": "stuns and deals{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCardKingLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCardKingLine2",
+   "en": "damage to all enemies,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCardKingLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCardKingLine3",
+   "en": "and reloads cards.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine0",
+   "en": "Ariel, Princess of{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine1",
+   "en": "Atlantica, was worried{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine2",
+   "en": "about her little friend{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine3",
+   "en": "Flounder, who was{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine4",
+   "en": "nowhere to be found.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine6",
+   "en": "The sea witch Ursula{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine7",
+   "en": "told Ariel Flounder was{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine8",
+   "en": "trapped in the outside{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine9",
+   "en": "world, and King Triton’s{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine10",
+   "en": "trident was the only{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine11",
+   "en": "way to save him.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine12",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine13",
+   "en": "Ariel was so worried,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine14",
+   "en": "she stole the trident{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine15",
+   "en": "for Ursula,  but it was{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine16",
+   "en": "all a trick―Ursula had{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine17",
+   "en": "Flounder all along.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine18",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine19",
+   "en": "With the trident’s{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine20",
+   "en": "power Ursula became a{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine21",
+   "en": "giant, but we stopped{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine22",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine22",
+   "en": "her and Ariel resolved{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine23",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine23",
+   "en": "to apologize to her{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryAtlanticaLine24",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryAtlanticaLine24",
+   "en": "father, the king.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStory100AcreWoodLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStory100AcreWoodLine0",
+   "en": "Pooh seemed to have{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStory100AcreWoodLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStory100AcreWoodLine1",
+   "en": "lost his friends, so{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStory100AcreWoodLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStory100AcreWoodLine2",
+   "en": "Sora stopped to help{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStory100AcreWoodLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStory100AcreWoodLine3",
+   "en": "him look.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStory100AcreWoodLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStory100AcreWoodLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStory100AcreWoodLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStory100AcreWoodLine5",
+   "en": "Maybe Sora saw{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStory100AcreWoodLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStory100AcreWoodLine6",
+   "en": "something of himself in{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStory100AcreWoodLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStory100AcreWoodLine7",
+   "en": "Pooh, since he’s looking{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStory100AcreWoodLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStory100AcreWoodLine8",
+   "en": "for friends too.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardSearchGhostLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardSearchGhostLine0",
+   "en": "■ Drain{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardSearchGhostLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardSearchGhostLine1",
+   "en": "Absorb enemy HP when{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardSearchGhostLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardSearchGhostLine2",
+   "en": "striking with attack{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardSearchGhostLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardSearchGhostLine3",
+   "en": "cards, but enemies will{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardSearchGhostLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardSearchGhostLine4",
+   "en": "drop fewer items.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardSearchGhostLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardSearchGhostLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardSearchGhostLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardSearchGhostLine6",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWyvernLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWyvernLine0",
+   "en": "■ Reload Lock{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWyvernLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWyvernLine1",
+   "en": "Reload without{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWyvernLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWyvernLine2",
+   "en": "incrementing the reload{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWyvernLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWyvernLine3",
+   "en": "counter.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWyvernLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWyvernLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardWyvernLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardWyvernLine5",
+   "en": "Duration:  3 reloads{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardTornadoStepLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardTornadoStepLine0",
+   "en": "■ Reload Haste{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardTornadoStepLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardTornadoStepLine1",
+   "en": "Subtract 2 from the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardTornadoStepLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardTornadoStepLine2",
+   "en": "reload counter.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardTornadoStepLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardTornadoStepLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyEnemyCardTornadoStepLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyEnemyCardTornadoStepLine4",
+   "en": "Duration:  1 reload{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessSeaNeonLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessSeaNeonLine0",
+   "en": "A jellyfish-like{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessSeaNeonLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessSeaNeonLine1",
+   "en": "Heartless.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessSeaNeonLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessSeaNeonLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessSeaNeonLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessSeaNeonLine3",
+   "en": "It might look laid back,{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessSeaNeonLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessSeaNeonLine4",
+   "en": "but the Sea Neon’s long{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessSeaNeonLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessSeaNeonLine5",
+   "en": "tentacles can propel it{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessSeaNeonLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessSeaNeonLine6",
+   "en": "toward enemies for a{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessSeaNeonLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessSeaNeonLine7",
+   "en": "ferocious attack.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

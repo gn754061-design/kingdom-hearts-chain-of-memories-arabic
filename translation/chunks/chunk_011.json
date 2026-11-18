@@ -1,0 +1,848 @@
+{
+ "chunk": 11,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "common_text:gCharacterNameMaleficent",
+   "pool": "common_text",
+   "symbol": "gCharacterNameMaleficent",
+   "en": "Maleficent{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNameWinnieThePooh",
+   "pool": "common_text",
+   "symbol": "gCharacterNameWinnieThePooh",
+   "en": "Winnie the Pooh{END}",
+   "max_units": 20,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNamePiglet",
+   "pool": "common_text",
+   "symbol": "gCharacterNamePiglet",
+   "en": "Piglet{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNameOwl",
+   "pool": "common_text",
+   "symbol": "gCharacterNameOwl",
+   "en": "Owl{END}",
+   "max_units": 19,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNameRoo",
+   "pool": "common_text",
+   "symbol": "gCharacterNameRoo",
+   "en": "Roo{END}",
+   "max_units": 19,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNameEeyore",
+   "pool": "common_text",
+   "symbol": "gCharacterNameEeyore",
+   "en": "Eeyore{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNameTigger",
+   "pool": "common_text",
+   "symbol": "gCharacterNameTigger",
+   "en": "Tigger{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNameRabbit",
+   "pool": "common_text",
+   "symbol": "gCharacterNameRabbit",
+   "en": "Rabbit{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gSioBtlSendingDeckText",
+   "pool": "common_text",
+   "symbol": "gSioBtlSendingDeckText",
+   "en": "Sending deck data…{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gSioChgSaveCompleteText",
+   "pool": "common_text",
+   "symbol": "gSioChgSaveCompleteText",
+   "en": "Save complete.{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuHeartlessName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuHeartlessName",
+   "en": "The Heartless{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gCharacterNameJiminyCricket",
+   "pool": "common_text",
+   "symbol": "gCharacterNameJiminyCricket",
+   "en": "Jiminy Cricket{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuAttackCardsName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuAttackCardsName",
+   "en": "Attack Cards{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuMagicCardsName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuMagicCardsName",
+   "en": "Magic Cards{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuItemCardsName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuItemCardsName",
+   "en": "Item Cards{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuFriendCardsName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuFriendCardsName",
+   "en": "Friend Cards{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuEnemyCardsName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuEnemyCardsName",
+   "en": "Enemy Cards{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuCharacters1Name",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuCharacters1Name",
+   "en": "Characters I{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuCharacters2Name",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuCharacters2Name",
+   "en": "Characters II{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyStoryTale1Name",
+   "pool": "common_text",
+   "symbol": "gJiminyStoryTale1Name",
+   "en": "Sora's Tale I{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyStoryTale2Name",
+   "pool": "common_text",
+   "symbol": "gJiminyStoryTale2Name",
+   "en": "Sora's Tale II{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyStoryTale3Name",
+   "pool": "common_text",
+   "symbol": "gJiminyStoryTale3Name",
+   "en": "Sora's Tale III{END}",
+   "max_units": 20,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyStoryTale4Name",
+   "pool": "common_text",
+   "symbol": "gJiminyStoryTale4Name",
+   "en": "Sora's Tale IV{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gWorldNameCastleOblivionHall",
+   "pool": "common_text",
+   "symbol": "gWorldNameCastleOblivionHall",
+   "en": "Castle Oblivion, Hall{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gMapSaveCompleteText",
+   "pool": "common_text",
+   "symbol": "gMapSaveCompleteText",
+   "en": "Save complete.{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gRoomNameHiddenChamber",
+   "pool": "common_text",
+   "symbol": "gRoomNameHiddenChamber",
+   "en": "Hidden Chamber{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gJiminyMenuMapCardsName",
+   "pool": "common_text",
+   "symbol": "gJiminyMenuMapCardsName",
+   "en": "Map Cards{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName1",
+   "pool": "common_text",
+   "symbol": "gFloorName1",
+   "en": "Castle Oblivion, First Floor{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName2",
+   "pool": "common_text",
+   "symbol": "gFloorName2",
+   "en": "Castle Oblivion, Second Floor{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName3",
+   "pool": "common_text",
+   "symbol": "gFloorName3",
+   "en": "Castle Oblivion, Third Floor{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName4",
+   "pool": "common_text",
+   "symbol": "gFloorName4",
+   "en": "Castle Oblivion, Fourth Floor{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName5",
+   "pool": "common_text",
+   "symbol": "gFloorName5",
+   "en": "Castle Oblivion, Fifth Floor{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName6",
+   "pool": "common_text",
+   "symbol": "gFloorName6",
+   "en": "Castle Oblivion, Sixth Floor{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName7",
+   "pool": "common_text",
+   "symbol": "gFloorName7",
+   "en": "Castle Oblivion, Seventh Floor{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName8",
+   "pool": "common_text",
+   "symbol": "gFloorName8",
+   "en": "Castle Oblivion, Eighth Floor{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName9",
+   "pool": "common_text",
+   "symbol": "gFloorName9",
+   "en": "Castle Oblivion, Ninth Floor{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName10",
+   "pool": "common_text",
+   "symbol": "gFloorName10",
+   "en": "Castle Oblivion, Tenth Floor{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName11",
+   "pool": "common_text",
+   "symbol": "gFloorName11",
+   "en": "Castle Oblivion, Eleventh Floor{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName12",
+   "pool": "common_text",
+   "symbol": "gFloorName12",
+   "en": "Castle Oblivion, Twelfth Floor{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gFloorName13",
+   "pool": "common_text",
+   "symbol": "gFloorName13",
+   "en": "Castle Oblivion, Thirteenth Floor{END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName12",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName12",
+   "en": "Castle Oblivion, Basement Twelve{END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName11",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName11",
+   "en": "Castle Oblivion, Basement Eleven{END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName10",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName10",
+   "en": "Castle Oblivion, Basement Ten{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName9",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName9",
+   "en": "Castle Oblivion, Basement Nine{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName8",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName8",
+   "en": "Castle Oblivion, Basement Eight{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName7",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName7",
+   "en": "Castle Oblivion, Basement Seven{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName6",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName6",
+   "en": "Castle Oblivion, Basement Six{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName5",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName5",
+   "en": "Castle Oblivion, Basement Five{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName4",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName4",
+   "en": "Castle Oblivion, Basement Four{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName3",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName3",
+   "en": "Castle Oblivion, Basement Three{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName2",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName2",
+   "en": "Castle Oblivion, Basement Two{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gBasementFloorName1",
+   "pool": "common_text",
+   "symbol": "gBasementFloorName1",
+   "en": "Castle Oblivion, Basement One{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameIncrementor",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameIncrementor",
+   "en": "Incrementor{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameComboPlus",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameComboPlus",
+   "en": "Combo Plus{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameRetrograde",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameRetrograde",
+   "en": "Retrograde{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameDraw",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameDraw",
+   "en": "Draw{END}",
+   "max_units": 19,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameBackAttack",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameBackAttack",
+   "en": "Back Attack{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameGuard",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameGuard",
+   "en": "Guard{END}",
+   "max_units": 19,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameRandomizer",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameRandomizer",
+   "en": "Randomizer{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameComboFinish",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameComboFinish",
+   "en": "Combo Finish{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameAllZeros",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameAllZeros",
+   "en": "All Zeros{END}",
+   "max_units": 19,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameFireBoost",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameFireBoost",
+   "en": "Fire Boost{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameBlizzardBoost",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameBlizzardBoost",
+   "en": "Blizzard Boost{END}",
+   "max_units": 19,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameThunderBoost",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameThunderBoost",
+   "en": "Thunder Boost{END}",
+   "max_units": 19,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameCureBoost",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameCureBoost",
+   "en": "Cure Boost{END}",
+   "max_units": 19,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameSummonBoost",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameSummonBoost",
+   "en": "Summon Boost{END}",
+   "max_units": 19,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameBerserk",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameBerserk",
+   "en": "Berserk{END}",
+   "max_units": 19,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameBio",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameBio",
+   "en": "Bio{END}",
+   "max_units": 19,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameVanish",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameVanish",
+   "en": "Vanish{END}",
+   "max_units": 19,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "common_text:gEnemyCardEffectNameItemBracer",
+   "pool": "common_text",
+   "symbol": "gEnemyCardEffectNameItemBracer",
+   "en": "Item Bracer{END}",
+   "max_units": 19,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

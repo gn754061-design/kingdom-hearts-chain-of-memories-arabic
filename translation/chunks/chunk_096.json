@@ -1,0 +1,848 @@
+{
+ "chunk": 96,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "staff_roll_script_text:gStaffRollVfxDesignerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollVfxDesignerText",
+   "en": "@VFX Designer{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBgDesignersNames4Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBgDesignersNames4Text",
+   "en": "Masanori Nishishita{END}",
+   "max_units": 27,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBgDesignersNames3Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBgDesignersNames3Text",
+   "en": "Arito Chujo   Masaru Moriya{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBgDesignersNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBgDesignersNames2Text",
+   "en": "Mariko Kawabata   Takayuki Kurokawa{END}",
+   "max_units": 40,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBgDesignersNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBgDesignersNames1Text",
+   "en": "Noriko Shibuya   Emi Arai{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBgDesignersText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBgDesignersText",
+   "en": "@BG Designers{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterArtistsNames7Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterArtistsNames7Text",
+   "en": "Hiroshi Tanigawa{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterArtistsNames6Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterArtistsNames6Text",
+   "en": "Sachio Kurita   Masaru Kuribayashi{END}",
+   "max_units": 39,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterArtistsNames5Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterArtistsNames5Text",
+   "en": "Yukihiro Yamada   Masafumi Terai{END}",
+   "max_units": 37,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterArtistsNames4Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterArtistsNames4Text",
+   "en": "Akiko Tsutsumi   Hideto Oomori{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterArtistsNames3Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterArtistsNames3Text",
+   "en": "Terue Hayashi   Shizue Inoue{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterArtistsNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterArtistsNames2Text",
+   "en": "Tomoko Yamashita   Satoshi Sakata{END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterArtistsNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterArtistsNames1Text",
+   "en": "Hideki Ishii   Hidemi Shimomura{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterArtistsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterArtistsText",
+   "en": "@Character Artists{END}",
+   "max_units": 27,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnGraphicDesignText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnGraphicDesignText",
+   "en": "<Graphic Design>{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProgrammingNames3Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProgrammingNames3Text",
+   "en": "Masanori Funakoshi{END}",
+   "max_units": 27,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProgrammingNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProgrammingNames2Text",
+   "en": "Hiraku Kitawaki   Jun Sugata{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProgrammingNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProgrammingNames1Text",
+   "en": "Tetsuya Kanatani   Masamitsu Takami{END}",
+   "max_units": 40,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnProgrammingText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnProgrammingText",
+   "en": "<Programming>{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollScriptWriterNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollScriptWriterNamesText",
+   "en": "Hidemi Shimomura{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollScriptWriterText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollScriptWriterText",
+   "en": "@Script Writer{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnEventCreationText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnEventCreationText",
+   "en": "<Event Creation>{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollTheHundredAcreWoodNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollTheHundredAcreWoodNamesText",
+   "en": "Tomoko Yamashita{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollTheHundredAcreWoodText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollTheHundredAcreWoodText",
+   "en": "@”The Hundred Acre Wood”{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollGeneralPlannersNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollGeneralPlannersNamesText",
+   "en": "Aguru Tanaka   Kazuki Oono{END}",
+   "max_units": 31,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollGeneralPlannersText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollGeneralPlannersText",
+   "en": "@General Planners{END}",
+   "max_units": 27,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnPlanningText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnPlanningText",
+   "en": "<Planning>{END}",
+   "max_units": 27,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollDevelopmentTeamText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollDevelopmentTeamText",
+   "en": "DEVELOPMENT TEAM - JUPITER Corporation{END}",
+   "max_units": 43,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAnimationStaffNames4Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAnimationStaffNames4Text",
+   "en": "Yasuo Uchijima   Kayoko Yajima{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAnimationStaffNames3Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAnimationStaffNames3Text",
+   "en": "Akira Iwasawa   Shusuke Momoi{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAnimationStaffNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAnimationStaffNames2Text",
+   "en": "Taisuke Ooe   Kenichi Shida{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAnimationStaffNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAnimationStaffNames1Text",
+   "en": "Reina Ikeda   Takuya Iwasaki{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAnimationStaffText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAnimationStaffText",
+   "en": "@Animation Staff{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecn3DAnimationText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecn3DAnimationText",
+   "en": "<3D Animation>{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRoll2DArtistsNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRoll2DArtistsNames2Text",
+   "en": "Chiharu Tsutsui{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRoll2DArtistsNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRoll2DArtistsNames1Text",
+   "en": "Fumi Nakashima   Mihoko Ishii{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRoll2DArtistsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRoll2DArtistsText",
+   "en": "@2D Artists{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollEnemyDesignNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollEnemyDesignNames2Text",
+   "en": "Tomoyuki Sato   Daigo Tsukada{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollEnemyDesignNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollEnemyDesignNames1Text",
+   "en": "Tomohiro Hasegawa   Takuya Iwasaki{END}",
+   "max_units": 39,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollEnemyDesignText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollEnemyDesignText",
+   "en": "@Enemy Design{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterDesignersNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterDesignersNamesText",
+   "en": "Tetsuya Nomura   Mamiko Fukuda{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterDesignersText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterDesignersText",
+   "en": "@Character Designers{END}",
+   "max_units": 27,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterFaceArtistNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterFaceArtistNamesText",
+   "en": "Ikumi Hachiro{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterFaceArtistText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterFaceArtistText",
+   "en": "@Character Face Artist{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterArtSupervisorNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterArtSupervisorNamesText",
+   "en": "Shinichiro Okaniwa{END}",
+   "max_units": 27,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCharacterArtSupervisorText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCharacterArtSupervisorText",
+   "en": "@Character Art Supervisor{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecn2DArtText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecn2DArtText",
+   "en": "<2D Art>{END}",
+   "max_units": 27,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBlankText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBlankText",
+   "en": "{END}",
+   "max_units": 27,
+   "units": 5,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollScenarioSupervisorsNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollScenarioSupervisorsNamesText",
+   "en": "Tetsuya Nomura   Kazushige Nojima{END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSkipText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSkipText",
+   "en": "!{END}",
+   "max_units": 27,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollScenarioSupervisorsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollScenarioSupervisorsText",
+   "en": "@Scenario Supervisors{END}",
+   "max_units": 27,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSpaceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSpaceText",
+   "en": " {END}",
+   "max_units": 27,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnScenarioText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnScenarioText",
+   "en": "<Scenario>{END}",
+   "max_units": 27,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_00",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_00",
+   "en": "アクセル１{END}",
+   "max_units": 107,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_01",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_01",
+   "en": "クラウド{END}",
+   "max_units": 107,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_02",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_02",
+   "en": "ハデス{END}",
+   "max_units": 107,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_03",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_03",
+   "en": "ラクシーヌ１{END}",
+   "max_units": 107,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_04",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_04",
+   "en": "フック{END}",
+   "max_units": 107,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_05",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_05",
+   "en": "偽リク１{END}",
+   "max_units": 107,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_06",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_06",
+   "en": "偽リク２{END}",
+   "max_units": 107,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_07",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_07",
+   "en": "ヴィクセン１{END}",
+   "max_units": 107,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_08",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_08",
+   "en": "ヴィクセン２{END}",
+   "max_units": 107,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_09",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_09",
+   "en": "偽リク３{END}",
+   "max_units": 107,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_10",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_10",
+   "en": "偽リク４{END}",
+   "max_units": 107,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_11",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_11",
+   "en": "ラクシーヌ２{END}",
+   "max_units": 107,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_12",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_12",
+   "en": "アクセル２{END}",
+   "max_units": 107,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_13",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_13",
+   "en": "マールーシャ{END}",
+   "max_units": 107,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_14",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_14",
+   "en": "アンセム{END}",
+   "max_units": 107,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_15",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_15",
+   "en": "ヴィクセン３{END}",
+   "max_units": 107,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_16",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_16",
+   "en": "偽リク５{END}",
+   "max_units": 107,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 17,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 141,
+ "items": [
+  {
+   "id": "event_text:gEvent082Text00",
+   "pool": "event_text",
+   "symbol": "gEvent082Text00",
+   "en": "Whew…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent082Text01",
+   "pool": "event_text",
+   "symbol": "gEvent082Text01",
+   "en": "What now?{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent082Text02",
+   "pool": "event_text",
+   "symbol": "gEvent082Text02",
+   "en": "It’s working!\nMonstro’s gonna sneeze!{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent083Text00",
+   "pool": "event_text",
+   "symbol": "gEvent083Text00",
+   "en": "All right, Monstro!\nCough us up this instant!{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent083Text01",
+   "pool": "event_text",
+   "symbol": "gEvent083Text01",
+   "en": "It didn’t work…{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent083Text02",
+   "pool": "event_text",
+   "symbol": "gEvent083Text02",
+   "en": "Maybe we did it wrong?{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent083Text03",
+   "pool": "event_text",
+   "symbol": "gEvent083Text03",
+   "en": "We’ll just have to put up a\nbetter fight.\n\nIt might work better if we\ndefeat the Heartless in rapid\nsuccession.{END}",
+   "max_units": 121,
+   "units": 121,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent083Text04",
+   "pool": "event_text",
+   "symbol": "gEvent083Text04",
+   "en": "Wanna give it another go?{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent084Text00",
+   "pool": "event_text",
+   "symbol": "gEvent084Text00",
+   "en": "Come on, we were just getting\nstarted!  Why’d you give up?{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent084Text01",
+   "pool": "event_text",
+   "symbol": "gEvent084Text01",
+   "en": "I dunno…\nI guess I didn’t think it was\ngoing that well.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent084Text02",
+   "pool": "event_text",
+   "symbol": "gEvent084Text02",
+   "en": "You want to try again?{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent085Text00",
+   "pool": "event_text",
+   "symbol": "gEvent085Text00",
+   "en": "You guys ready?\nThis time we’ll get it right!{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent086Text00",
+   "pool": "event_text",
+   "symbol": "gEvent086Text00",
+   "en": "Oww…  Now I know what\ngetting shot out of a cannon\nfeels like.{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent086Text01",
+   "pool": "event_text",
+   "symbol": "gEvent086Text01",
+   "en": "Where’s Pinocchio and his dad?{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent086Text02",
+   "pool": "event_text",
+   "symbol": "gEvent086Text02",
+   "en": "They’re gone.  They must’ve\ngotten out safely.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent086Text03",
+   "pool": "event_text",
+   "symbol": "gEvent086Text03",
+   "en": "Without you, Jiminy?\nI thought there was no\nescaping your conscience!{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent086Text04",
+   "pool": "event_text",
+   "symbol": "gEvent086Text04",
+   "en": "I don’t mind being left behind,\nas long as they’re both safe.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent086Text05",
+   "pool": "event_text",
+   "symbol": "gEvent086Text05",
+   "en": "Maybe Pinocchio doesn’t need\nme after all.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent086Text06",
+   "pool": "event_text",
+   "symbol": "gEvent086Text06",
+   "en": "What do you mean?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent086Text07",
+   "pool": "event_text",
+   "symbol": "gEvent086Text07",
+   "en": "That little puppet used to\nhave trouble telling right from\nwrong.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent086Text08",
+   "pool": "event_text",
+   "symbol": "gEvent086Text08",
+   "en": "But he’s come a long way. \nMaybe he doesn’t need Jiminy\nCricket anymore.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent086Text09",
+   "pool": "event_text",
+   "symbol": "gEvent086Text09",
+   "en": "Maybe he’s better off without\nme nagging him all the time…{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent086Text10",
+   "pool": "event_text",
+   "symbol": "gEvent086Text10",
+   "en": "Don’t you remember what\nGeppetto said?{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent086Text11",
+   "pool": "event_text",
+   "symbol": "gEvent086Text11",
+   "en": "“There’s nothing better than\nbeing reunited with someone\nyou care about.”{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent086Text12",
+   "pool": "event_text",
+   "symbol": "gEvent086Text12",
+   "en": "I bet Pinocchio’s counting the\ndays till he can see you again.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent086Text13",
+   "pool": "event_text",
+   "symbol": "gEvent086Text13",
+   "en": "Well, what do you know…\nYou might be right.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent087Text00",
+   "pool": "event_text",
+   "symbol": "gEvent087Text00",
+   "en": "Gawrsh!  Don’t like the looks of\nthis place.  I bet it’s crawlin’\nwith ghosts!{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent087Text01",
+   "pool": "event_text",
+   "symbol": "gEvent087Text01",
+   "en": "Well, then.  What’s there to\nworry about?{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent087Text02",
+   "pool": "event_text",
+   "symbol": "gEvent087Text02",
+   "en": "You won’t be spooked if you\nalready know what’s coming!{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent087Text03",
+   "pool": "event_text",
+   "symbol": "gEvent087Text03",
+   "en": "You really think so?{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent087Text04",
+   "pool": "event_text",
+   "symbol": "gEvent087Text04",
+   "en": "Trust me!{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent087Text05",
+   "pool": "event_text",
+   "symbol": "gEvent087Text05",
+   "en": "Welcome to Halloween Town!{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent087Text06",
+   "pool": "event_text",
+   "symbol": "gEvent087Text06",
+   "en": "Wak!  A ghost!{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent087Text07",
+   "pool": "event_text",
+   "symbol": "gEvent087Text07",
+   "en": "Wow, that was the best \nshriek I’ve heard in ages!{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent087Text08",
+   "pool": "event_text",
+   "symbol": "gEvent087Text08",
+   "en": "If you’re THAT easy to scare, \nI’m gonna have a great time!{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent087Text09",
+   "pool": "event_text",
+   "symbol": "gEvent087Text09",
+   "en": "Sorry, I haven’t even\nintroduced myself.{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent087Text10",
+   "pool": "event_text",
+   "symbol": "gEvent087Text10",
+   "en": "I’m Jack Skellington!{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent087Text11",
+   "pool": "event_text",
+   "symbol": "gEvent087Text11",
+   "en": "Halloween Town is my town.\nI’m the king of nightmares and \nthe master of terror!{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent087Text12",
+   "pool": "event_text",
+   "symbol": "gEvent087Text12",
+   "en": "If you want chills and horror,\nyou’ve come to the right place!{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent087Text13",
+   "pool": "event_text",
+   "symbol": "gEvent087Text13",
+   "en": "Well, we don’t!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent087Text14",
+   "pool": "event_text",
+   "symbol": "gEvent087Text14",
+   "en": "At the moment, we’ve got a\nlittle problem in Halloween\nTown.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent087Text15",
+   "pool": "event_text",
+   "symbol": "gEvent087Text15",
+   "en": "What kind of problem?{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent087Text16",
+   "pool": "event_text",
+   "symbol": "gEvent087Text16",
+   "en": "Well…a problem like this!{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent087Text17",
+   "pool": "event_text",
+   "symbol": "gEvent087Text17",
+   "en": "Gyaaa!{END}",
+   "max_units": 52,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent088Text00",
+   "pool": "event_text",
+   "symbol": "gEvent088Text00",
+   "en": "What’s the big idea!\nWhy’d you go and call the\nHeartless?{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent088Text01",
+   "pool": "event_text",
+   "symbol": "gEvent088Text01",
+   "en": "I didn’t call them.\nIn fact, I’d love to get rid of\nthem.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent088Text02",
+   "pool": "event_text",
+   "symbol": "gEvent088Text02",
+   "en": "The Heartless go around \nattacking people, instead of\njust scaring them.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent088Text03",
+   "pool": "event_text",
+   "symbol": "gEvent088Text03",
+   "en": "Why are they here?{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent088Text04",
+   "pool": "event_text",
+   "symbol": "gEvent088Text04",
+   "en": "I was just going to go ask\nDr. Finkelstein the same\nquestion.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent088Text05",
+   "pool": "event_text",
+   "symbol": "gEvent088Text05",
+   "en": "I’m heading to his laboratory\nright now.  Follow me!{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent088Text06",
+   "pool": "event_text",
+   "symbol": "gEvent088Text06",
+   "en": "Sora, what should we do?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent088Text07",
+   "pool": "event_text",
+   "symbol": "gEvent088Text07",
+   "en": "I guess we’d better go.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent088Text08",
+   "pool": "event_text",
+   "symbol": "gEvent088Text08",
+   "en": "I don’t like this.\nWhat if he’s leading us right to\nthe Heartless?{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent088Text09",
+   "pool": "event_text",
+   "symbol": "gEvent088Text09",
+   "en": "Bingo!\nYou saw right through me!{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent088Text10",
+   "pool": "event_text",
+   "symbol": "gEvent088Text10",
+   "en": "Wak!{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent088Text11",
+   "pool": "event_text",
+   "symbol": "gEvent088Text11",
+   "en": "Ha ha ha, just a joke!\nNow let’s get going!{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent089Text00",
+   "pool": "event_text",
+   "symbol": "gEvent089Text00",
+   "en": "Allow me to introduce \nDr. Finkelstein, the world-\nfamous genius!{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text01",
+   "pool": "event_text",
+   "symbol": "gEvent089Text01",
+   "en": "Yes!  Maybe I’m TOO smart.\nI’m afraid I’ve created\nsomething horrible!{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text02",
+   "pool": "event_text",
+   "symbol": "gEvent089Text02",
+   "en": "Gawrsh!  What’s that?{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent089Text03",
+   "pool": "event_text",
+   "symbol": "gEvent089Text03",
+   "en": "Well…\nHave you ever stopped to\nthink about “true memories”?{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text04",
+   "pool": "event_text",
+   "symbol": "gEvent089Text04",
+   "en": "True memories?{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent089Text05",
+   "pool": "event_text",
+   "symbol": "gEvent089Text05",
+   "en": "Our hearts are full of\nmemories―but not all of them\nreflect the truth.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text06",
+   "pool": "event_text",
+   "symbol": "gEvent089Text06",
+   "en": "The heart isn’t a recording \ndevice.  Even important \nmemories change with time.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text07",
+   "pool": "event_text",
+   "symbol": "gEvent089Text07",
+   "en": "They warp or fade, leaving\nus with but a shadow of what\nwe hoped to remember.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text08",
+   "pool": "event_text",
+   "symbol": "gEvent089Text08",
+   "en": "Could that be happening to me?{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent089Text09",
+   "pool": "event_text",
+   "symbol": "gEvent089Text09",
+   "en": "It happens to everyone.\nSome memories grow ugly, and\nsome become more beautiful.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text10",
+   "pool": "event_text",
+   "symbol": "gEvent089Text10",
+   "en": "If we could recover our true\nmemories, the world would\nseem completely different.{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text11",
+   "pool": "event_text",
+   "symbol": "gEvent089Text11",
+   "en": "So, I devised a potion from\nforget-me-nots that brings\nour true memories back.{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent089Text12",
+   "pool": "event_text",
+   "symbol": "gEvent089Text12",
+   "en": "Did it work?{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent089Text13",
+   "pool": "event_text",
+   "symbol": "gEvent089Text13",
+   "en": "Well, that’s the problem…{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

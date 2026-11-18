@@ -1,0 +1,848 @@
+{
+ "chunk": 87,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine7",
+   "en": "journeyed to find her.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine8",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine9",
+   "en": "Kairi was held captive{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine10",
+   "en": "by the Heartless, but{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine11",
+   "en": "thanks to Sora she and{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine12",
+   "en": "the islands were saved.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine13",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine14",
+   "en": "She waits there for{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterKairiLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterKairiLine15",
+   "en": "Sora and Riku’s return.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine0",
+   "en": "No. 5 in the{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine1",
+   "en": "Organization.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine3",
+   "en": "A born warrior,{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine4",
+   "en": "Lexaeus effortlessly{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine5",
+   "en": "brandishes a gigantic{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine6",
+   "en": "tomahawk.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine8",
+   "en": "To counterbalance his{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine9",
+   "en": "rival Marluxia’s bid for{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine10",
+   "en": "Sora’s power, Lexaeus{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine11",
+   "en": "tried to conquer Riku.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine12",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine13",
+   "en": "He failed, but with his{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine14",
+   "en": "dying strength dragged{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine15",
+   "en": "Riku into the realm of{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterLexaeusLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterLexaeusLine16",
+   "en": "darkness.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine0",
+   "en": "Strike:  D+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine1",
+   "en": "Thrust:  D+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine2",
+   "en": "Combo Finish:  D+{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine3",
+   "en": "Swing Speed:  B{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine4",
+   "en": "Element:  Physical{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine5",
+   "en": "Break Recovery:  B{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine6",
+   "en": "Required CP:  ★{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine8",
+   "en": "The default weapon.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine9",
+   "en": "Not very powerful, but{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine10",
+   "en": "reliable and easy to{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardKingdomKeyLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardKingdomKeyLine11",
+   "en": "handle.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine0",
+   "en": "Strike:  C+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine1",
+   "en": "Thrust:  D+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine2",
+   "en": "Combo Finish:  B{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine3",
+   "en": "Swing Speed:  A{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine4",
+   "en": "Element:  Physical{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine5",
+   "en": "Break Recovery:  B{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine6",
+   "en": "Required CP:  A{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine8",
+   "en": "Obtained in Agrabah.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine9",
+   "en": "Fairly strong with a{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardThreeWishesLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardThreeWishesLine10",
+   "en": "fast swing.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine0",
+   "en": "Strike:  C{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine1",
+   "en": "Thrust:  C{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine2",
+   "en": "Combo Finish:  B+{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine3",
+   "en": "Swing Speed:  B{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine4",
+   "en": "Element:  Physical{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine5",
+   "en": "Break Recovery:  ★{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine6",
+   "en": "Required CP:  B{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine8",
+   "en": "Obtained in Atlantica.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine9",
+   "en": "Easy to handle with an{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine10",
+   "en": "impressive recovery{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardCrabclawLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardCrabclawLine11",
+   "en": "time after card breaks.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardPumpkinheadLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardPumpkinheadLine0",
+   "en": "Strike:  C+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardPumpkinheadLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardPumpkinheadLine1",
+   "en": "Thrust:  C+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardPumpkinheadLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardPumpkinheadLine2",
+   "en": "Combo Finish:  D+{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardPumpkinheadLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardPumpkinheadLine3",
+   "en": "Swing Speed:  B{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardPumpkinheadLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardPumpkinheadLine4",
+   "en": "Element:  Physical{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardPumpkinheadLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardPumpkinheadLine5",
+   "en": "Break Recovery:  A{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardPumpkinheadLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardPumpkinheadLine6",
+   "en": "Required CP:  A{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardPumpkinheadLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardPumpkinheadLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardPumpkinheadLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardPumpkinheadLine8",
+   "en": "Obtained in Halloween{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

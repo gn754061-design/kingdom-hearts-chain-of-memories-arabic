@@ -1,0 +1,66 @@
+@RIKU_DECK_NAME_00
+アクセル１{END}
+@RIKU_DECK_NAME_01
+クラウド{END}
+@RIKU_DECK_NAME_02
+ハデス{END}
+@RIKU_DECK_NAME_03
+ラクシーヌ１{END}
+@RIKU_DECK_NAME_04
+フック{END}
+@RIKU_DECK_NAME_05
+偽リク１{END}
+@RIKU_DECK_NAME_06
+偽リク２{END}
+@RIKU_DECK_NAME_07
+ヴィクセン１{END}
+@RIKU_DECK_NAME_08
+ヴィクセン２{END}
+@RIKU_DECK_NAME_09
+偽リク３{END}
+@RIKU_DECK_NAME_10
+偽リク４{END}
+@RIKU_DECK_NAME_11
+ラクシーヌ２{END}
+@RIKU_DECK_NAME_12
+アクセル２{END}
+@RIKU_DECK_NAME_13
+マールーシャ{END}
+@RIKU_DECK_NAME_14
+アンセム{END}
+@RIKU_DECK_NAME_15
+ヴィクセン３{END}
+@RIKU_DECK_NAME_16
+偽リク５{END}
+@RIKU_DECK_NAME_17
+Rik7{END}
+@RIKU_DECK_NAME_18
+Rik8{END}
+@RIKU_DECK_NAME_19
+Rik9{END}
+@RIKU_DECK_NAME_20
+Rik0{END}
+@gDeckKeyboardRow0
+ABCDEFGHIJKLMNO{END}
+@gDeckKeyboardRow1
+PQRSTUVWXYZ{END}
+@gDeckKeyboardRow2
+abcdefghijklmno{END}
+@gDeckKeyboardRow3
+pqrstuvwxyz{END}
+@gDeckKeyboardRow4
+0123456789♪♂♀#&{END}
+@gDeckKeyboardRow5
+!?※%$ ()<> 「」『』{END}
+@gDeckKeyboardRow6
+-~/.'↑↓←→_{END}
+@gPremiumCardMessageText
+أصبحت بطاقة ممتازة!{END}
+@gDeckEquipSuffixText
+.{END}
+@gDefaultDeckName0Text
+رزمة 1{END}
+@gDefaultDeckName1Text
+رزمة 2{END}
+@gDefaultDeckName2Text
+رزمة 3{END}

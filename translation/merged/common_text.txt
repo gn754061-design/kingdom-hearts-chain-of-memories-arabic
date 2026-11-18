@@ -1,0 +1,692 @@
+@gMapSaveConfirmText
+حفظ لعبتك؟{END}
+@gYesChoiceText
+نعم{END}
+@gNoChoiceText
+لا{END}
+@gNewGameSlotMenuText
+اختر ملفاً لاستخدامه.{END}
+@gSioBtlConnectText
+تحدَّ صديقك في معركة بطاقات!
+A Button . . . جاهز{END}
+@gSioChgConnectText
+اضغط زر A عندما تكون جاهزاً.{END}
+@common_text_006
+تعلمت {END}
+@gLeaveWorldText
+مغادرة هذا العالم؟{END}
+@gMsChargeConfirmText
+استبدالها بنقاط؟{END}
+@gDeckErrorCpText
+لا تملك نقاط
+CP كافية لتجهيز هذه الرزمة.{END}
+@gDeleteCardConfirmText
+حذف هذه البطاقة؟{END}
+@gJiminyChooseEntryText
+اختر مدخلاً.{END}
+@gJiminyMenuStoryName
+القصة{END}
+@gJiminyMenuCardIndexName
+فهرس البطاقات{END}
+@gJiminyMenuCharactersName
+الشخصيات{END}
+@gMapQuickSaveConfirmText
+حفظ سريع للعبة؟{END}
+@gLevelUpHpBoostText
+تعزيز HP{END}
+@gLevelUpRaiseSoraHpText
+ارفع HP سورا.{END}
+@gLvupMsgHpText
+HP{END}
+@gLvupMsgIncreasedText
+بزيادة{END}
+@gLevelUpCpBoostText
+تعزيز CP{END}
+@gLevelUpRaiseSoraCpText
+ارفع CP سورا.{END}
+@gLvupMsgCpText
+CP{END}
+@gLevelUpRaiseRikuHpText
+ارفع HP ريكو.{END}
+@gLevelUpAttackBoostText
+تعزيز الهجوم{END}
+@gLevelUpRaiseRikuApText
+ارفع AP ريكو.{END}
+@gLvupMsgApText
+AP{END}
+@gLevelUpDarknessBoostText
+تعزيز الظلام{END}
+@gLevelUpRaiseRikuDpText
+ارفع DP ريكو.{END}
+@gLvupMsgDpText
+DP{END}
+@common_text_030
+ أصبحت بطاقة ممتازة!{END}
+@common_text_031
+اضغط زر A
+عندما تكون جاهزاً.{END}
+@gSioBtlWaitingText
+بانتظار الخصم...{END}
+@gSioBtlReadyText
+مستعد للقتال؟
+A Button . . . متابعة{END}
+@gSioSavingText
+جارٍ الحفظ..{END}
+@gSioSaveCompleteText
+اكتمل الحفظ.{END}
+@gSioErrorText
+فشل الاتصال.
+أطفئ الجهاز، تحقق من كابل Game Boy Advance Game Link
+وأعد المحاولة.{END}
+@gSioChgWaitingText
+بانتظار الشريك..{END}
+@gSioChgSwapConfirmText
+اضغط زر A
+لتبديل البطاقات.{END}
+@gSioChgSwappingText
+تبديل البطاقات...{END}
+@gSioChgSwapCompleteText
+اكتمل التبديل.
+جارٍ الحفظ...{END}
+@gSioChgFailedPointsText
+فشل تبديل البطاقات.
+نقاط موغلي غير صحيحة.{END}
+@gSioChgFailedFullText
+فشل تبديل البطاقات.
+لا يمكنك حمل مزيد
+من البطاقات.{END}
+@gWorldNameTraverseTown
+بلدة العبور{END}
+@gWorldNameWonderland
+أرض العجائب{END}
+@gWorldNameOlympusColiseum
+كولوسيوم أوليمبوس{END}
+@gWorldNameAgrabah
+أگراباه{END}
+@gWorldNameHalloweenTown
+بلدة الهالوين{END}
+@gWorldNameMonstro
+مونسترو{END}
+@gWorldNameAtlantica
+أتلانتيكا{END}
+@gWorldNameNeverLand
+أرض الأحلام{END}
+@gWorldNameHollowBastion
+المعقل الأجوف{END}
+@gWorldName100AcreWood
+غابة المئة فدان{END}
+@gWorldNameTwilightTown
+بلدة الغسق{END}
+@gWorldNameDestinyIslands
+جزر القدر{END}
+@gWorldNameCastleOblivion
+قلعة النسيان{END}
+@gCardNameKingdomKey
+مفتاح المملكة{END}
+@gCardNameThreeWishes
+ثلاث أمنيات{END}
+@gCardNameCrabclaw
+مخلب السلطعون{END}
+@gCardNamePumpkinhead
+رأس اليقطين{END}
+@gCardNameFairyHarp
+قيثارة الجنية{END}
+@gCardNameWishingStar
+نجمة الأمنيات{END}
+@gCardNameSpellbinder
+ساحر{END}
+@gCardNameMetalChocobo
+تشوكوبو المعدني{END}
+@gCardNameOlympia
+أولمبيا{END}
+@gCardNameLionheart
+قلب الأسد{END}
+@gCardNameLadyLuck
+سيدة الحظ{END}
+@gCardNameDivineRose
+الوردة الإلهية{END}
+@gCardNameOathkeeper
+حارس القسم{END}
+@gCardNameOblivion
+النسيان{END}
+@gCardNameUltimaWeapon
+السلاح الأخير{END}
+@gCardNameDiamondDust
+غبار الماس{END}
+@gCardNameOneWingedAngel
+ملاك بجناح واحد{END}
+@gCardNameFire
+نار{END}
+@gCardNameBlizzard
+جليد{END}
+@gCardNameThunder
+رعد{END}
+@gCardNameCure
+علاج{END}
+@gCardNameGravity
+جاذبية{END}
+@gCardNameStop
+توقف{END}
+@gCardNameAero
+هواء{END}
+@gCardNameSimba
+سمبا{END}
+@gCardNameGenie
+الجني{END}
+@gCardNameBambi
+بامبي{END}
+@gCardNameDumbo
+دامبو{END}
+@gCardNameTinkerBell
+تينكر بيل{END}
+@gCardNameMushu
+موشو{END}
+@gCardNameCloud
+كلاود{END}
+@gCardNamePotion
+جرعة{END}
+@gCardNameHiPotion
+جرعة كبيرة{END}
+@gCardNameMegaPotion
+جرعة ضخمة{END}
+@gCardNameEther
+إيثر{END}
+@gCardNameMegaEther
+إيثر ضخم{END}
+@gCardNameElixir
+إكسير{END}
+@gCardNameMegalixir
+ميجالكسير{END}
+@gCardNameDonaldDuck
+دونالد داك{END}
+@gCardNameGoofy
+غوفي{END}
+@gCardNameAladdin
+علاء الدين{END}
+@gCardNameAriel
+آريل{END}
+@gCardNameJack
+جاك{END}
+@gCardNamePeterPan
+بيتر بان{END}
+@gCardNameBeast
+الوحش{END}
+@gEnemyNameShadow
+الظل{END}
+@gEnemyNameSoldier
+الجندي{END}
+@gEnemyNamePowerwild
+المتوحش القوي{END}
+@gEnemyNameBouncywild
+المتوحش القافز{END}
+@gEnemyNameLargeBody
+الجسم الضخم{END}
+@gEnemyNameFatBandit
+قاطع طريق سمين{END}
+@gEnemyNameSeaNeon
+نيون البحر{END}
+@gEnemyNameBandit
+قاطع طريق{END}
+@gEnemyNamePirate
+القرصان{END}
+@gEnemyNameRedNocturne
+سوناتة حمراء{END}
+@gEnemyNameBlueRhapsody
+رابسودي أزرق{END}
+@gEnemyNameYellowOpera
+أوبرا صفراء{END}
+@gEnemyNameGreenRequiem
+مرثم أخضر{END}
+@gEnemyNameWizard
+الساحر{END}
+@gEnemyNameAirSoldier
+جندي الهواء{END}
+@gEnemyNameBarrelSpider
+عنكبوت البرميل{END}
+@gEnemyNameWightKnight
+الفارس الشبح{END}
+@gEnemyNameAirPirate
+قرصان الهواء{END}
+@gEnemyNameGargoyle
+الغرغول{END}
+@gEnemyNameSearchGhost
+شبح البحث{END}
+@gEnemyNameAquatank
+دبابة الماء{END}
+@gEnemyNameScrewdiver
+الغوّاص اللولبي{END}
+@gEnemyNameDarkball
+كرة الظلام{END}
+@gEnemyNameWyvern
+الويفرن{END}
+@gEnemyNameDefender
+المدافع{END}
+@gEnemyNameWhiteMushroom
+الفطر الأبيض{END}
+@gEnemyNameBlackFungus
+الفطر الأسود{END}
+@gEnemyNameCreeperPlant
+نبتة الزاحف{END}
+@gEnemyNameTornadoStep
+خطوة الإعصار{END}
+@gEnemyNameCrescendo
+التصاعد{END}
+@gEnemyNameNeoshadow
+الظل الجديد{END}
+@gEnemyNameGuardArmor
+درع الحراسة{END}
+@gEnemyNameHades
+هادس{END}
+@gEnemyNameTrickmaster
+سيد الخدع{END}
+@gEnemyNameJafar
+جعفر{END}
+@gEnemyNameUrsula
+أورسولا{END}
+@gEnemyNameOogieBoogie
+أوجي بوجي{END}
+@gEnemyNameParasiteCage
+قفص الطفيلي{END}
+@gEnemyNameHook
+هوك{END}
+@gEnemyNameDragonMaleficent
+التنين ماليفيسنت{END}
+@gEnemyNameDarkside
+الجانب المظلم{END}
+@gEnemyNameAxel
+أكسل{END}
+@gEnemyNameLarxene
+لاركسين{END}
+@gEnemyNameRikuReplica
+نسخة ريكو{END}
+@gEnemyNameVexen
+فاكسين{END}
+@gEnemyNameMarluxia
+مارلوكسيا{END}
+@gCharacterNameCardOfHearts
+بطاقة القلوب{END}
+@gCharacterNameCardOfSpades
+بطاقة البستوني{END}
+@gEnemyNameLexaeus
+ليكسايوس{END}
+@gEnemyNameAnsem
+أنسيم{END}
+@gRoomNameUnknownPlace
+مكان مجهول{END}
+@gRoomNameTeemingDarkness
+ظلام زاخر{END}
+@gRoomNameTranquilDarkness
+ظلام هادئ{END}
+@gRoomNameGuardedTrove
+كنز محروس{END}
+@gRoomNameLoomingDarkness
+ظلام مخيف{END}
+@gRoomNameSleepingDarkness
+ظلام نائم{END}
+@gRoomNameMomentsReprieve
+لحظة راحة{END}
+@gRoomNameFeebleDarkness
+ظلام ضعيف{END}
+@gRoomNameAlmightyDarkness
+ظلام جبار{END}
+@gRoomNameCalmBounty
+غنيمة هادئة{END}
+@gRoomNameFalseBounty
+غنيمة زائفة{END}
+@gRoomNameStrongInitiative
+مبادرة قوية{END}
+@gRoomNameLastingDaze
+دوخة دائمة{END}
+@gRoomNameStagnantSpace
+فضاء راكد{END}
+@gRoomNameMeetingGround
+أرض اللقاء{END}
+@gRoomNamePremiumRoom
+غرفة ممتازة{END}
+@gRoomNameWhiteRoom
+الغرفة البيضاء{END}
+@gRoomNameBlackRoom
+الغرفة السوداء{END}
+@gRoomNameMoogleRoom
+غرفة الموغلي{END}
+@gRoomNameSorcerousWaking
+يقظة سحرية{END}
+@gRoomNameAlchemicWaking
+يقظة كيميائية{END}
+@gRoomNameMartialWaking
+يقظة قتالية{END}
+@gRoomNameMinglingWorlds
+عوالم متداخلة{END}
+@gRoomNameKeyOfBeginnings
+مفتاح البدايات{END}
+@gRoomNameKeyOfGuidance
+مفتاح التوجيه{END}
+@gRoomNameKeyToTruth
+مفتاح الحقيقة{END}
+@gRoomNameKeyToRewards
+مفتاح المكافآت{END}
+@gCharacterNameSora
+سورا{END}
+@gEnemyNameRiku
+ريكو{END}
+@gCharacterNameKairi
+كايري{END}
+@gCharacterNameNamine
+ناميني{END}
+@gCharacterNameYuffie
+يوفي{END}
+@gCharacterNameAerith
+إيريس{END}
+@gCharacterNameWakka
+واكا{END}
+@gCharacterNameSquall
+سكوال{END}
+@gCharacterNameLeon
+ليون{END}
+@gCharacterNameSephiroth
+سيفيروث{END}
+@gCharacterNameSelphie
+سيلفي{END}
+@gCharacterNameTidus
+تيدوس{END}
+@gCharacterNameCid
+سيد{END}
+@gCharacterNameMoogles
+الموغلي{END}
+@gLevelUpLearnSleightText
+تعلم سحيلة جديدة.{END}
+@gLevelUpSleightsText
+السحيلات{END}
+@gCharacterNameJasmine
+ياسمين{END}
+@gCharacterNameIago
+ياغو{END}
+@gCharacterNameJafarGenie
+جعفر (جني){END}
+@gCharacterNameSally
+سالي{END}
+@gCharacterNameDrFinkelstein
+د. فينكلشتاين{END}
+@gCharacterNamePinocchio
+بينوكيو{END}
+@gCharacterNameGeppetto
+جيبيتو{END}
+@gCharacterNameHercules
+هرقل{END}
+@gCharacterNamePhiloctetes
+فيلوكتيتس{END}
+@gCharacterNameAlice
+أليس{END}
+@gCharacterNameQueenOfHearts
+ملكة القلوب{END}
+@gCharacterNameWhiteRabbit
+الأرنب الأبيض{END}
+@gCharacterNameCheshireCat
+قط شيشاير{END}
+@gCharacterNameSebastian
+سيباستيان{END}
+@gCharacterNameFlounder
+فلاوندر{END}
+@gCharacterNameWendy
+ويندي{END}
+@gCharacterNameHook
+هوك{END}
+@gCharacterNameBelle
+بيل{END}
+@gCharacterNameMaleficent
+ماليفيسنت{END}
+@gCharacterNameWinnieThePooh
+ويني الدبدوب{END}
+@gCharacterNamePiglet
+بيغليت{END}
+@gCharacterNameOwl
+البومة{END}
+@gCharacterNameRoo
+رو{END}
+@gCharacterNameEeyore
+إيور{END}
+@gCharacterNameTigger
+تيغر{END}
+@gCharacterNameRabbit
+الأرنب{END}
+@gSioBtlSendingDeckText
+إرسال بيانات الرزمة...{END}
+@gSioChgSaveCompleteText
+اكتمل الحفظ.{END}
+@gJiminyMenuHeartlessName
+فاقدو القلوب{END}
+@gCharacterNameJiminyCricket
+جيميني كريكيت{END}
+@gJiminyMenuAttackCardsName
+بطاقات الهجوم{END}
+@gJiminyMenuMagicCardsName
+بطاقات السحر{END}
+@gJiminyMenuItemCardsName
+بطاقات العناصر{END}
+@gJiminyMenuFriendCardsName
+بطاقات الأصدقاء{END}
+@gJiminyMenuEnemyCardsName
+بطاقات الأعداء{END}
+@gJiminyMenuCharacters1Name
+الشخصيات ١{END}
+@gJiminyMenuCharacters2Name
+الشخصيات ٢{END}
+@gJiminyStoryTale1Name
+حكاية سورا ١{END}
+@gJiminyStoryTale2Name
+حكاية سورا ٢{END}
+@gJiminyStoryTale3Name
+حكاية سورا ٣{END}
+@gJiminyStoryTale4Name
+حكاية سورا ٤{END}
+@gWorldNameCastleOblivionHall
+قلعة النسيان، البهو{END}
+@gMapSaveCompleteText
+اكتمل الحفظ.{END}
+@gRoomNameHiddenChamber
+غرفة خفية{END}
+@gJiminyMenuMapCardsName
+بطاقات الخريطة{END}
+@gFloorName1
+قلعة النسيان، الطابق الأول{END}
+@gFloorName2
+قلعة النسيان، الطابق الثاني{END}
+@gFloorName3
+قلعة النسيان، الطابق الثالث{END}
+@gFloorName4
+قلعة النسيان، الطابق الرابع{END}
+@gFloorName5
+قلعة النسيان، الطابق الخامس{END}
+@gFloorName6
+قلعة النسيان، الطابق السادس{END}
+@gFloorName7
+قلعة النسيان، الطابق السابع{END}
+@gFloorName8
+قلعة النسيان، الطابق الثامن{END}
+@gFloorName9
+قلعة النسيان، الطابق التاسع{END}
+@gFloorName10
+قلعة النسيان، الطابق العاشر{END}
+@gFloorName11
+قلعة النسيان، الطابق الحادي عشر{END}
+@gFloorName12
+قلعة النسيان، الطابق الثاني عشر{END}
+@gFloorName13
+قلعة النسيان، الطابق الثالث عشر{END}
+@gBasementFloorName12
+قلعة النسيان، القبو ١٢{END}
+@gBasementFloorName11
+قلعة النسيان، القبو ١١{END}
+@gBasementFloorName10
+قلعة النسيان، القبو ١٠{END}
+@gBasementFloorName9
+قلعة النسيان، القبو ٩{END}
+@gBasementFloorName8
+قلعة النسيان، القبو ٨{END}
+@gBasementFloorName7
+قلعة النسيان، القبو ٧{END}
+@gBasementFloorName6
+قلعة النسيان، القبو ٦{END}
+@gBasementFloorName5
+قلعة النسيان، القبو ٥{END}
+@gBasementFloorName4
+قلعة النسيان، القبو ٤{END}
+@gBasementFloorName3
+قلعة النسيان، القبو ٣{END}
+@gBasementFloorName2
+قلعة النسيان، القبو ٢{END}
+@gBasementFloorName1
+قلعة النسيان، القبو ١{END}
+@gEnemyCardEffectNameIncrementor
+المعزّز{END}
+@gEnemyCardEffectNameComboPlus
+كومبو زائد{END}
+@gEnemyCardEffectNameRetrograde
+تراجع{END}
+@gEnemyCardEffectNameDraw
+سحب{END}
+@gEnemyCardEffectNameBackAttack
+هجوم خلفي{END}
+@gEnemyCardEffectNameGuard
+حراسة{END}
+@gEnemyCardEffectNameRandomizer
+عشوائي{END}
+@gEnemyCardEffectNameComboFinish
+ختام كومبو{END}
+@gEnemyCardEffectNameAllZeros
+كلها أصفار{END}
+@gEnemyCardEffectNameFireBoost
+تعزيز نار{END}
+@gEnemyCardEffectNameBlizzardBoost
+تعزيز جليد{END}
+@gEnemyCardEffectNameThunderBoost
+تعزيز رعد{END}
+@gEnemyCardEffectNameCureBoost
+تعزيز علاج{END}
+@gEnemyCardEffectNameSummonBoost
+تعزيز استدعاء{END}
+@gEnemyCardEffectNameBerserk
+هياج{END}
+@gEnemyCardEffectNameBio
+سم بيولوجي{END}
+@gEnemyCardEffectNameVanish
+تلاشي{END}
+@gEnemyCardEffectNameItemBracer
+مصدّ عناصر{END}
+@gEnemyCardEffectNameFloat
+تحليق{END}
+@gEnemyCardEffectNameDrain
+استنزاف{END}
+@gEnemyCardEffectNameLeafBracer
+مصدّ الأوراق{END}
+@gEnemyCardEffectNameDecrementor
+المنقوص{END}
+@gEnemyCardEffectNameCardblind
+عمى البطاقات{END}
+@gEnemyCardEffectNameReloadLock
+قفل التعبئة{END}
+@gEnemyCardEffectNameProtect
+حماية{END}
+@gEnemyCardEffectNameHyperHealing
+شفاء فائق{END}
+@gEnemyCardEffectNameRandomFlush
+تعبئة عشوائية{END}
+@gEnemyCardEffectNameReloadKinesis
+حركة التعبئة{END}
+@gEnemyCardEffectNameReloadHaste
+تسريع التعبئة{END}
+@gEnemyCardEffectNameAutoReload
+تعبئة تلقائية{END}
+@gEnemyCardEffectNameQuickReload
+تعبئة سريعة{END}
+@gEnemyCardEffectNameWideAttack
+هجوم واسع{END}
+@gEnemyCardEffectNameMagicBoost
+تعزيز سحر{END}
+@gEnemyCardEffectNameAttackBracer
+مصدّ هجوم{END}
+@gEnemyCardEffectNameMimic
+محاكاة{END}
+@gEnemyCardEffectNameShell
+صدفة{END}
+@gEnemyCardEffectNameRegen
+تجدد{END}
+@gEnemyCardEffectNameDispel
+إبطال{END}
+@gEnemyCardEffectNameSecondChance
+فرصة ثانية{END}
+@gEnemyCardEffectNameOverdrive
+اندفاع{END}
+@gEnemyCardEffectNameAttackHaste
+تسريع الهجوم{END}
+@gEnemyCardEffectNameQuickRecovery
+تعافي سريع{END}
+@gEnemyCardEffectNameSleightblind
+عمى السحيلات{END}
+@gEnemyCardEffectNameSleightLock
+قفل السحيلات{END}
+@gEnemyCardEffectNameAutoLife
+حياة تلقائية{END}
+@gEnemyCardEffectNameDoubleSleight
+سحيلة مزدوجة{END}
+@gEnemyCardEffectNameValueBreak
+كسر القيمة{END}
+@gEnemyCardEffectNameDash
+اندفاع سريع{END}
+@gEnemyCardEffectNameWarpBreak
+كسر الانتقال{END}
+@gCharacterNameZexion
+زيكسيون{END}
+@gJiminyRikuStoryTale1Name
+حكاية ريكو ١{END}
+@gJiminyRikuStoryTale2Name
+حكاية ريكو ٢{END}
+@gJiminyRikuStoryTale3Name
+حكاية ريكو ٣{END}
+@gJiminyRikuStoryTale4Name
+حكاية ريكو ٤{END}
+@gJiminyRikuStoryTale5Name
+حكاية ريكو ٥{END}
+@gJiminyRikuStoryTale6Name
+حكاية ريكو ٦{END}
+@gCharacterNameRikuReplica
+نسخة ريكو{END}
+@gCharacterNameDiZ
+ديز{END}
+@gJiminyMenuPremiumCardsName
+البطاقات الممتازة{END}
+@gJiminyPremiumCardsName
+عن البطاقات الممتازة{END}
+@gMapInspectNoticeText
+لا يمكنك حذف
+مزيد من البطاقات.{END}
+@gEnemyNameCardSoldier
+جندي البطاقات{END}
+@common_text_326
+لا نص{END}
+@common_text_327
+لا نص{END}
+@common_text_328
+لا نص{END}
+@gDeckClearConfirmText
+إزالة كل البطاقات
+من هذه الرزمة؟{END}
+@gMsChargeNoticeText
+عذراً، كوبو―لا يمكننا
+قبول مزيد من البطاقات.{END}
+@gDeckEquipText
+مجهّز {END}
+@gDeckErrorDeckFullText
+لا يمكنك إضافة
+مزيد من البطاقات.{END}
+@gDeckErrorLastAttackCardText
+لا يمكنك حذف
+مزيد من البطاقات.{END}
+@gDeckErrorNoAttackCardText
+تحتاج على الأقل بطاقة
+هجوم واحدة في
+رزمتك المجهزة.{END}
+@gCardNameKing
+الملك{END}
+@gCardNameSoulEater
+آكل الأرواح{END}

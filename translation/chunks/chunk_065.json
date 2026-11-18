@@ -1,0 +1,848 @@
+{
+ "chunk": 65,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyCharacterSallyLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSallyLine2",
+   "en": "her from various odds{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSallyLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSallyLine3",
+   "en": "and ends.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSallyLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSallyLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSallyLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSallyLine5",
+   "en": "Sally is secretly in love{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterSallyLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterSallyLine6",
+   "en": "with Jack.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDrFinkelsteinLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDrFinkelsteinLine0",
+   "en": "The mad scientist of{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDrFinkelsteinLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDrFinkelsteinLine1",
+   "en": "Halloween Town.  He’s{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDrFinkelsteinLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDrFinkelsteinLine2",
+   "en": "always immersed in his{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDrFinkelsteinLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDrFinkelsteinLine3",
+   "en": "odd experiments.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDrFinkelsteinLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDrFinkelsteinLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDrFinkelsteinLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDrFinkelsteinLine5",
+   "en": "This time Dr. Finkelstein{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDrFinkelsteinLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDrFinkelsteinLine6",
+   "en": "came up with a potion to{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDrFinkelsteinLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDrFinkelsteinLine7",
+   "en": "restore true memories,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDrFinkelsteinLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDrFinkelsteinLine8",
+   "en": "only to have it guzzled{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterDrFinkelsteinLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterDrFinkelsteinLine9",
+   "en": "by Oogie Boogie.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOogieBoogieLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOogieBoogieLine0",
+   "en": "A villain who’s always{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOogieBoogieLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOogieBoogieLine1",
+   "en": "plotting against Jack.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOogieBoogieLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOogieBoogieLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOogieBoogieLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOogieBoogieLine3",
+   "en": "Oogie Boogie stole{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOogieBoogieLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOogieBoogieLine4",
+   "en": "Dr. Finkelstein’s potion{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOogieBoogieLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOogieBoogieLine5",
+   "en": "thinking it would make{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOogieBoogieLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOogieBoogieLine6",
+   "en": "him stronger, but it{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOogieBoogieLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOogieBoogieLine7",
+   "en": "drove him mad with fear{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterOogieBoogieLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterOogieBoogieLine8",
+   "en": "instead.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine0",
+   "en": "A wooden puppet{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine1",
+   "en": "Geppetto made, brought{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine2",
+   "en": "to life by the Blue Fairy.{END}",
+   "max_units": 31,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine4",
+   "en": "To become a real boy,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine5",
+   "en": "Pinocchio has to learn{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine6",
+   "en": "bravery, kindness, and{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine7",
+   "en": "honesty.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine8",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine9",
+   "en": "He and Geppetto were{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine10",
+   "en": "swallowed by Monstro,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine11",
+   "en": "but they escaped with{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPinocchioLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPinocchioLine12",
+   "en": "a little help from us.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine0",
+   "en": "A gentle and earnest{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine1",
+   "en": "clockmaker who carved{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine2",
+   "en": "Pinocchio from a block{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine3",
+   "en": "of wood.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine5",
+   "en": "Geppetto was{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine6",
+   "en": "swallowed by Monstro,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine7",
+   "en": "boat and all, while{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine8",
+   "en": "searching for Pinocchio.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine9",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine10",
+   "en": "The two were reunited{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine11",
+   "en": "inside the giant whale,{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine12",
+   "en": "and escaped with our{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterGeppettoLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterGeppettoLine13",
+   "en": "help.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHerculesLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHerculesLine0",
+   "en": "Son of the gods Zeus{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHerculesLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHerculesLine1",
+   "en": "and Hera, but not a god{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHerculesLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHerculesLine2",
+   "en": "himself.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHerculesLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHerculesLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHerculesLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHerculesLine4",
+   "en": "With godlike strength{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHerculesLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHerculesLine5",
+   "en": "and a gentle heart,{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHerculesLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHerculesLine6",
+   "en": "Hercules is a true hero.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHerculesLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHerculesLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHerculesLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHerculesLine8",
+   "en": "He has never lost at{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHerculesLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHerculesLine9",
+   "en": "the Coliseum games.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPhiloctetesLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPhiloctetesLine0",
+   "en": "Trainer of countless{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPhiloctetesLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPhiloctetesLine1",
+   "en": "heroes, including{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPhiloctetesLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPhiloctetesLine2",
+   "en": "Hercules.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPhiloctetesLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPhiloctetesLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPhiloctetesLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPhiloctetesLine4",
+   "en": "Nowadays Phil runs the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPhiloctetesLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPhiloctetesLine5",
+   "en": "Coliseum and manages{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPhiloctetesLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPhiloctetesLine6",
+   "en": "the games.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHadesLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHadesLine0",
+   "en": "Ruler of the{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHadesLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHadesLine1",
+   "en": "Underworld.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

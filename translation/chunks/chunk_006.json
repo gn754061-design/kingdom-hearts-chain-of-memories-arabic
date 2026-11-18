@@ -1,0 +1,864 @@
+{
+ "chunk": 6,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 230,
+ "items": [
+  {
+   "id": "card_message_text:gLeonTutorialText09",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText09",
+   "en": "Stocking cards and using them\nin threes is much stronger\nthan using cards individually.\nGo on, give it a try.\nStock any three cards in your\ndeck.\nRemember, you need three\ncards or it won’t work.{END}",
+   "max_units": 206,
+   "units": 206,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 8
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText10",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText10",
+   "en": "Stocking a Card\nPress the {HIGHLIGHT}L and R Buttons{PLAIN}\nsimultaneously.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText11",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText11",
+   "en": "The sum of your three stocked\ncards becomes the value you\nplay.\nThe value is usually high and\nhard to break, and the combo\nattack deals a lot of damage.\nDon’t hold back.\nShow me what you can do.{END}",
+   "max_units": 206,
+   "units": 206,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 8
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText12",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText12",
+   "en": "After stocking three cards,\npress the {HIGHLIGHT}L and R Buttons{PLAIN}\nsimultaneously to use them.{END}",
+   "max_units": 106,
+   "units": 106,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText13",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText13",
+   "en": "Combo attacks aren’t the only\nbenefit of stocking cards.\n\nChoose your cards carefully\nand you can unleash special\nabilities called “sleights.”\nSleights come in all varieties,\nand each has its own unique\ncard combination.\nYou should try it out once\nyou've collected more cards\nand learned a sleight or two.{END}",
+   "max_units": 321,
+   "units": 321,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 12
+  },
+  {
+   "id": "card_message_text:gLeonTutorialText14",
+   "pool": "card_message_text",
+   "symbol": "gLeonTutorialText14",
+   "en": "But keep one thing in mind.\n\n\nEvery time you use a sleight,\nyou lose the first card you\npicked for the sleight.\nYou can’t reload it.\nThe lost card won’t return\nuntil the end of the battle.\nRelying only on sleights will\ncause your cards to run out.\nThat means trouble.{END}",
+   "max_units": 283,
+   "units": 283,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 12
+  },
+  {
+   "id": "card_message_text:gMapSelectTutorialText0",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectTutorialText0",
+   "en": "To proceed to the next room,\nyou need a {HIGHLIGHT}map card{PLAIN}.{END}",
+   "max_units": 80,
+   "units": 73,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMapSelectTutorialText1",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectTutorialText1",
+   "en": "Map cards are used to\nsynthesize new, unexplored\nrooms.{END}",
+   "max_units": 80,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gMapSelectTutorialText2",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectTutorialText2",
+   "en": "First, select the map card you\nwant to use.{END}",
+   "max_units": 80,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMapSelectTutorialText3",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectTutorialText3",
+   "en": "{HIGHLIGHT}+Control Pad{PLAIN}:  Select a card\n       {HIGHLIGHT}A Button{PLAIN}:  Confirm\n       {HIGHLIGHT}B Button{PLAIN}:  Cancel{END}",
+   "max_units": 140,
+   "units": 140,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gMapSelectValueTutorialText0",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectValueTutorialText0",
+   "en": "The number you see in the\nmiddle of the screen is the\n{HIGHLIGHT}criterion{PLAIN} for opening the door.{END}",
+   "max_units": 110,
+   "units": 110,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gMapSelectValueTutorialText1",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectValueTutorialText1",
+   "en": "The criterion displayed now\nmeans that the door will open\nwith a value of 1 or greater.{END}",
+   "max_units": 94,
+   "units": 94,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gMapSelectValueTutorialText2",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectValueTutorialText2",
+   "en": "You need to pick a card that\nmeets this criterion.{END}",
+   "max_units": 80,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMapSelectValueTutorialText3",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectValueTutorialText3",
+   "en": "Cards have marked values\nfrom 0 to 9.\n\n{HIGHLIGHT}Zero cards{PLAIN} (marked 0) are\nspecial cards which meet all\ncriteria.\nThe card without a marked\nvalue is a {HIGHLIGHT}Keycard{PLAIN}.\n\nKeycards are only used at\nspecial doors.{END}",
+   "max_units": 242,
+   "units": 242,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 11
+  },
+  {
+   "id": "card_message_text:gSavePointTutorialText",
+   "pool": "card_message_text",
+   "symbol": "gSavePointTutorialText",
+   "en": "The swirling crystal in front\nof Sora is called a {HIGHLIGHT}save point{PLAIN}.\n\nStand near it and press the\n{HIGHLIGHT}A Button{PLAIN} to open the save\nmenu.{END}",
+   "max_units": 168,
+   "units": 168,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "card_message_text:gQuickSaveTutorialText",
+   "pool": "card_message_text",
+   "symbol": "gQuickSaveTutorialText",
+   "en": "Aside from saving at a save\npoint, you can also {HIGHLIGHT}Quick Save{PLAIN}\nanywhere in the field.\nOpen the game menu by\npressing {HIGHLIGHT}START{PLAIN}, choose “Quick\nSave” and press the {HIGHLIGHT}A Button{PLAIN}.{END}",
+   "max_units": 227,
+   "units": 227,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "card_message_text:gMapTutorialText0",
+   "pool": "card_message_text",
+   "symbol": "gMapTutorialText0",
+   "en": "Striking objects in the field\nwith your Keyblade yields\nvarious results.\nTry striking the barrel.{END}",
+   "max_units": 105,
+   "units": 105,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "card_message_text:gMapTutorialText1",
+   "pool": "card_message_text",
+   "symbol": "gMapTutorialText1",
+   "en": "Inanimate objects aren’t the\nonly things you can hit.{END}",
+   "max_units": 80,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMapTutorialText2",
+   "pool": "card_message_text",
+   "symbol": "gMapTutorialText2",
+   "en": "Touching a Heartless on the\nfield starts a battle…\n\n…but you can strike the\nHeartless first to gain the\nupper hand.{END}",
+   "max_units": 125,
+   "units": 125,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "card_message_text:gMapSelectEventDoorTutorialText0",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectEventDoorTutorialText0",
+   "en": "Doors emblazoned with a\ncrown are special doors.{END}",
+   "max_units": 80,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMapSelectEventDoorTutorialText1",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectEventDoorTutorialText1",
+   "en": "You need special cards called\nKeycards to open these doors.{END}",
+   "max_units": 80,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMapSelectEventDoorTutorialText2",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectEventDoorTutorialText2",
+   "en": "But just having the Keycard\nisn’t enough to open the door.{END}",
+   "max_units": 80,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gMapSelectEventDoorTutorialText3",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectEventDoorTutorialText3",
+   "en": "You need the Keycard AND\none or more additional cards\nmeeting certain criteria.{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gUnusedMapSelectEventDoorTutorialText",
+   "pool": "card_message_text",
+   "symbol": "gUnusedMapSelectEventDoorTutorialText",
+   "en": "This door requires two cards:\na card with a value of 1 or more\nand the Keycard.{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gMapSelectEventDoorTutorialText4",
+   "pool": "card_message_text",
+   "symbol": "gMapSelectEventDoorTutorialText4",
+   "en": "Pick map cards that meet the\ncriteria and you can open the\ndoor.{END}",
+   "max_units": 80,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gMapStairTutorialText",
+   "pool": "card_message_text",
+   "symbol": "gMapStairTutorialText",
+   "en": "Moving to another floor\nerases all the rooms you've\ncreated.\nIf you return to this floor\nlater, you'll need to make new\nrooms using new map cards.{END}",
+   "max_units": 156,
+   "units": 156,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText00",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText00",
+   "en": "There’s something weird\nabout this place…but I’m not\nscared one bit!{END}",
+   "max_units": 80,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText01",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText01",
+   "en": "If we face Axel again, you can\nleave him to me!{END}",
+   "max_units": 80,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText02",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText02",
+   "en": "We’ll be here all week if we\nwait for Goofy to remember!{END}",
+   "max_units": 80,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText03",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText03",
+   "en": "I don’t think Jiminy would\nerase his own journal.{END}",
+   "max_units": 80,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText04",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText04",
+   "en": "If you’re still remembering the\nsilly stuff, we’ll be fine.{END}",
+   "max_units": 80,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText05",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText05",
+   "en": "We’ve got to find the king\nsoon!  That much I know I’ll\nnever forget!{END}",
+   "max_units": 80,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText06",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText06",
+   "en": "Don’t you lose that good luck\ncharm Kairi gave you!{END}",
+   "max_units": 80,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText07",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText07",
+   "en": "Snap out of it!\nWe’ve gotta find the king and\nRiku!{END}",
+   "max_units": 80,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText08",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText08",
+   "en": "Another friend, huh…\nWhy didn’t you mention her\nbefore?{END}",
+   "max_units": 80,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText09",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText09",
+   "en": "Aww, I wish I had lots of\nburied memories to remember.{END}",
+   "max_units": 80,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText10",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText10",
+   "en": "If you ask me, you’re THIS\nclose to remembering your\nfriend’s name.{END}",
+   "max_units": 80,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText11",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText11",
+   "en": "Who cares what the bad guys\nsay, anyway?{END}",
+   "max_units": 80,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText12",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText12",
+   "en": "Come on, Sora!\nWe gotta rescue Naminé from\nthe bad guys!{END}",
+   "max_units": 80,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText13",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText13",
+   "en": "We’d better go after Riku!{END}",
+   "max_units": 80,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText14",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText14",
+   "en": "Try not to get TOO carried\naway, Sora!{END}",
+   "max_units": 80,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText15",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText15",
+   "en": "That Riku is so stubborn!\nHas he always been like that?{END}",
+   "max_units": 80,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText16",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText16",
+   "en": "Kai… Kai… Wak?!\nThat’s weird.  I can’t think of\nher name.{END}",
+   "max_units": 80,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText17",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText17",
+   "en": "Careful!\nYou never know where Riku\nmight be hiding!{END}",
+   "max_units": 80,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText18",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText18",
+   "en": "Special promises like yours are\nmeant to be kept.{END}",
+   "max_units": 80,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText19",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText19",
+   "en": "Another side of your heart?\nIs that where the stuff you\nforget goes?{END}",
+   "max_units": 80,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText20",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText20",
+   "en": "If you ask me, Vexen’s waiting\nto spring a trap on us!{END}",
+   "max_units": 80,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText21",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText21",
+   "en": "So you and Riku had the same\nmemory?  Umm…{END}",
+   "max_units": 80,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText22",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText22",
+   "en": "What if we have to face Axel\nAND Marluxia?{END}",
+   "max_units": 80,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldTalkText23",
+   "pool": "card_message_text",
+   "symbol": "gDonaldTalkText23",
+   "en": "Let’s put Marluxia in his place\nand get our memories back!{END}",
+   "max_units": 80,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gDonaldExitHallTalkText",
+   "pool": "card_message_text",
+   "symbol": "gDonaldExitHallTalkText",
+   "en": "You ready?\nWhatever’s behind that door\nsounds really powerful…{END}",
+   "max_units": 80,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText00",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText00",
+   "en": "Guess we’re not goin’ any\nfurther unless we figure out\nhow to use that card…{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText01",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText01",
+   "en": "Gawrsh, you think there are\nmore where Axel and that\nother guy came from?{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText02",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText02",
+   "en": "Harrow…  Halo…  Hmm…\nThat’s funny.  Why can’t I\nremember?{END}",
+   "max_units": 80,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText03",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText03",
+   "en": "Let’s help Jiminy rewrite the\njournal once we get out of\nthe castle!{END}",
+   "max_units": 80,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText04",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText04",
+   "en": "There’s no way we could ever\nforget our friends!{END}",
+   "max_units": 80,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText05",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText05",
+   "en": "I bet Riku and the king are\nstill together.{END}",
+   "max_units": 80,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText06",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText06",
+   "en": "Kairi will be so happy if you\nfind Riku and bring him home.{END}",
+   "max_units": 80,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText07",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText07",
+   "en": "What’s on your mind, Sora?\nIt’s like you’re in another\nworld.{END}",
+   "max_units": 80,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText08",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText08",
+   "en": "Something or another is bound\nto make you remember your\nfriend’s name.{END}",
+   "max_units": 80,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText09",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText09",
+   "en": "See how much you remember!\nIt can’t be long before her\nname comes back to you, too.{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText10",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText10",
+   "en": "Don’t you just hate it when\nsomething’s on the tip of your\ntongue?{END}",
+   "max_units": 80,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText11",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText11",
+   "en": "Naminé…  So that’s her name.\nAren’t you glad you finally\nremembered?{END}",
+   "max_units": 80,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText12",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText12",
+   "en": "Any friend of yours is a friend\nof ours.  Let’s go help Naminé! {END}",
+   "max_units": 80,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText13",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText13",
+   "en": "Gawrsh, what coulda\nhappened to make Riku talk like\nthat?{END}",
+   "max_units": 80,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText14",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText14",
+   "en": "It sure is nice to have the\nhappy Sora back.{END}",
+   "max_units": 80,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText15",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText15",
+   "en": "Once you help Riku get his\nmemories back, you’ll make up\nin no time.{END}",
+   "max_units": 80,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText16",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText16",
+   "en": "It’ll be real nice when you,\nRiku, and Naminé can laugh\ntogether again.{END}",
+   "max_units": 80,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText17",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText17",
+   "en": "Maybe Riku doesn’t want to\nfight with you anymore.{END}",
+   "max_units": 80,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_message_text:gGoofyTalkText18",
+   "pool": "card_message_text",
+   "symbol": "gGoofyTalkText18",
+   "en": "If you remember your promise\nto Naminé, then you must still\nhave your important memories.{END}",
+   "max_units": 96,
+   "units": 96,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  }
+ ]
+}

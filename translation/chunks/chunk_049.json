@@ -1,0 +1,852 @@
+{
+ "chunk": 49,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 164,
+ "items": [
+  {
+   "id": "event_text:gEvent155Text02",
+   "pool": "event_text",
+   "symbol": "gEvent155Text02",
+   "en": "Darkness is your weapon.\nI need you to accept it.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent155Text03",
+   "pool": "event_text",
+   "symbol": "gEvent155Text03",
+   "en": "What do you care?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text04",
+   "pool": "event_text",
+   "symbol": "gEvent155Text04",
+   "en": "Stop resisting and accept the\ndarkness.  You must…{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent155Text05",
+   "pool": "event_text",
+   "symbol": "gEvent155Text05",
+   "en": "…if you are to serve me again!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text06",
+   "pool": "event_text",
+   "symbol": "gEvent155Text06",
+   "en": "Ansem…\nJust as I thought.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent155Text07",
+   "pool": "event_text",
+   "symbol": "gEvent155Text07",
+   "en": "You don’t seem surprised.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text08",
+   "pool": "event_text",
+   "symbol": "gEvent155Text08",
+   "en": "You always were chatty when\nit came to darkness.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent155Text09",
+   "pool": "event_text",
+   "symbol": "gEvent155Text09",
+   "en": "So let me guess…\n\n\nYou want to pull me back into\nthe darkness and play puppet\nmaster again…right?{END}",
+   "max_units": 107,
+   "units": 107,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent155Text10",
+   "pool": "event_text",
+   "symbol": "gEvent155Text10",
+   "en": "Clever boy.\nYou'll make a fine host.  Now,\nsurrender to me again and―{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent155Text11",
+   "pool": "event_text",
+   "symbol": "gEvent155Text11",
+   "en": "You’re insane!\nThere won’t be an “again”!{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent155Text12",
+   "pool": "event_text",
+   "symbol": "gEvent155Text12",
+   "en": "Unnh…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text13",
+   "pool": "event_text",
+   "symbol": "gEvent155Text13",
+   "en": "Did you really think you could\nharm me?\n\nA weakling like you couldn’t\neven defeat Sora―and you\nhad darkness on your side.{END}",
+   "max_units": 131,
+   "units": 131,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent155Text14",
+   "pool": "event_text",
+   "symbol": "gEvent155Text14",
+   "en": "Excuse me for…being weak…{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text15",
+   "pool": "event_text",
+   "symbol": "gEvent155Text15",
+   "en": "You need the darkness.\nSubmit!  Bow to the darkness,\nand bow to me.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent155Text16",
+   "pool": "event_text",
+   "symbol": "gEvent155Text16",
+   "en": "Not a…chance…{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text17",
+   "pool": "event_text",
+   "symbol": "gEvent155Text17",
+   "en": "Only darkness can help you\nnow.{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent155Text18",
+   "pool": "event_text",
+   "symbol": "gEvent155Text18",
+   "en": "You’re wrong!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text19",
+   "pool": "event_text",
+   "symbol": "gEvent155Text19",
+   "en": "That voice…!{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text20",
+   "pool": "event_text",
+   "symbol": "gEvent155Text20",
+   "en": "Your Majesty, is that you?!{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text21",
+   "pool": "event_text",
+   "symbol": "gEvent155Text21",
+   "en": "You betcha!\nRiku, you’re not alone.{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent155Text22",
+   "pool": "event_text",
+   "symbol": "gEvent155Text22",
+   "en": "Listen careful now, Riku.\nThe light’ll never give up on\nyou.\nYou’ll always find it, even in\nthe deepest darkness!  But\nyou have to believe!{END}",
+   "max_units": 149,
+   "units": 149,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent155Text23",
+   "pool": "event_text",
+   "symbol": "gEvent155Text23",
+   "en": "I will.{END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent155Text24",
+   "pool": "event_text",
+   "symbol": "gEvent155Text24",
+   "en": "Hear that?\nI’m not losing to the darkness\ntoday, Ansem.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent155Text25",
+   "pool": "event_text",
+   "symbol": "gEvent155Text25",
+   "en": "You think some feeble light\ncan save you from the\ndarkness I command?  Fool!{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent156Text00",
+   "pool": "event_text",
+   "symbol": "gEvent156Text00",
+   "en": "That all you’ve got?{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent156Text01",
+   "pool": "event_text",
+   "symbol": "gEvent156Text01",
+   "en": "It seems you are intent on\nresisting the darkness.\n\nVery well.\nSee with your own eyes.{END}",
+   "max_units": 95,
+   "units": 95,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent156Text02",
+   "pool": "event_text",
+   "symbol": "gEvent156Text02",
+   "en": "What are those?{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent156Text03",
+   "pool": "event_text",
+   "symbol": "gEvent156Text03",
+   "en": "They are cards crafted from\nyour memory.\n\nAdvance through the worlds\nthey beget, and you will come\nto understand…{END}",
+   "max_units": 123,
+   "units": 123,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent156Text04",
+   "pool": "event_text",
+   "symbol": "gEvent156Text04",
+   "en": "Chasing the light will not\ndistance you from the dark.\nYou cannot run.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent156Text05",
+   "pool": "event_text",
+   "symbol": "gEvent156Text05",
+   "en": "Who’s running?\nGive me the cards.{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent156Text06",
+   "pool": "event_text",
+   "symbol": "gEvent156Text06",
+   "en": "I’ll enter those worlds.\nAnd in the end, if I haven’t\ngiven up…I win.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent156Text07",
+   "pool": "event_text",
+   "symbol": "gEvent156Text07",
+   "en": "I have one more gift for you.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent156Text08",
+   "pool": "event_text",
+   "symbol": "gEvent156Text08",
+   "en": "What did you do?!{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent156Text09",
+   "pool": "event_text",
+   "symbol": "gEvent156Text09",
+   "en": "I tempered the darkness that\nremains in your heart.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent156Text10",
+   "pool": "event_text",
+   "symbol": "gEvent156Text10",
+   "en": "What, you still think that I'd\nrely on darkness?{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent156Text11",
+   "pool": "event_text",
+   "symbol": "gEvent156Text11",
+   "en": "Whether or not you use it is\nyour choice.{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent156Text12",
+   "pool": "event_text",
+   "symbol": "gEvent156Text12",
+   "en": "I'll be waiting, Riku…for you to\ncome to your senses and yield\nto the darkness!{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent156Text13",
+   "pool": "event_text",
+   "symbol": "gEvent156Text13",
+   "en": "The darkness in Riku’s heart\nhas been fortified.  He can now\nenter {HIGHLIGHT}Dark Mode{PLAIN} in battle.{END}",
+   "max_units": 112,
+   "units": 112,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent156Text14",
+   "pool": "event_text",
+   "symbol": "gEvent156Text14",
+   "en": "Riku’s {HIGHLIGHT}Dark Points (DP){PLAIN} will fill\nas he takes damage or breaks\nopponents’ cards.{END}",
+   "max_units": 105,
+   "units": 105,
+   "controls": [
+    "{END}",
+    "{HIGHLIGHT}",
+    "{PLAIN}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent156Text15",
+   "pool": "event_text",
+   "symbol": "gEvent156Text15",
+   "en": "When the DP displayed below\nRiku's HP gauge reach a certain\nlevel…\n…Riku will transform and enter\nDark Mode.{END}",
+   "max_units": 117,
+   "units": 117,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent156Text16",
+   "pool": "event_text",
+   "symbol": "gEvent156Text16",
+   "en": "Riku can only use sleights\nwhile in Dark Mode.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent156Text17",
+   "pool": "event_text",
+   "symbol": "gEvent156Text17",
+   "en": "Losing a card break or taking\ndamage will deplete DP…{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent156Text18",
+   "pool": "event_text",
+   "symbol": "gEvent156Text18",
+   "en": "…and when Riku’s DP reach 0\nhe will return to normal.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent156Text19",
+   "pool": "event_text",
+   "symbol": "gEvent156Text19",
+   "en": "Riku can increase his maximum\nDP upon leveling up.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent156Text20",
+   "pool": "event_text",
+   "symbol": "gEvent156Text20",
+   "en": "With higher DP, Riku can stay\nin Dark Mode for a longer\nperiod of time.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent157Text00",
+   "pool": "event_text",
+   "symbol": "gEvent157Text00",
+   "en": "Don’t I even get a hello,\nLexaeus?{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent157Text01",
+   "pool": "event_text",
+   "symbol": "gEvent157Text01",
+   "en": "What’s going on, Zexion?\nI demand an explanation.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent157Text02",
+   "pool": "event_text",
+   "symbol": "gEvent157Text02",
+   "en": "Nice to see you too, Vexen.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent157Text03",
+   "pool": "event_text",
+   "symbol": "gEvent157Text03",
+   "en": "You know, it's deplorable…\nThe Organization used to be\nthe rope that binds us.\nAnd now it's full of kinks.{END}",
+   "max_units": 114,
+   "units": 114,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent157Text04",
+   "pool": "event_text",
+   "symbol": "gEvent157Text04",
+   "en": "How dare you!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent157Text05",
+   "pool": "event_text",
+   "symbol": "gEvent157Text05",
+   "en": "Let it go, Vexen.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent157Text06",
+   "pool": "event_text",
+   "symbol": "gEvent157Text06",
+   "en": "Zexion, tell us.\nWhat did you detect?{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent157Text07",
+   "pool": "event_text",
+   "symbol": "gEvent157Text07",
+   "en": "Visitors.\nI picked up two scents in the\ncastle's lowest basement.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent157Text08",
+   "pool": "event_text",
+   "symbol": "gEvent157Text08",
+   "en": "One of them was Maleficent,\nbut―{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent157Text09",
+   "pool": "event_text",
+   "symbol": "gEvent157Text09",
+   "en": "Absurd.\nThe witch is gone.\n\nShe cannot return from the\nrealm of darkness of her own\nvolition.{END}",
+   "max_units": 103,
+   "units": 103,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent157Text10",
+   "pool": "event_text",
+   "symbol": "gEvent157Text10",
+   "en": "If you’d let me finish…\n\n\nThe scent belonged to a very\nconvincing double.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent157Text11",
+   "pool": "event_text",
+   "symbol": "gEvent157Text11",
+   "en": "But I can't say much beyond\nthat, since the would-be\nMaleficent is no more.\nOur other visitor saw to that.{END}",
+   "max_units": 114,
+   "units": 114,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent157Text12",
+   "pool": "event_text",
+   "symbol": "gEvent157Text12",
+   "en": "Who is it?{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent157Text13",
+   "pool": "event_text",
+   "symbol": "gEvent157Text13",
+   "en": "I don’t know…{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent157Text14",
+   "pool": "event_text",
+   "symbol": "gEvent157Text14",
+   "en": "But the scent was very\nsimilar to the Superior's.\nExactly similar, if I may say.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent157Text15",
+   "pool": "event_text",
+   "symbol": "gEvent157Text15",
+   "en": "Rubbish!{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent157Text16",
+   "pool": "event_text",
+   "symbol": "gEvent157Text16",
+   "en": "Fact, Vexen.\nNow, what shall we do?{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent157Text17",
+   "pool": "event_text",
+   "symbol": "gEvent157Text17",
+   "en": "Let us bide our time and see\nwhat develops.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent158Text00",
+   "pool": "event_text",
+   "symbol": "gEvent158Text00",
+   "en": "Something…tastes kind of\nfunny…{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent158Text01",
+   "pool": "event_text",
+   "symbol": "gEvent158Text01",
+   "en": "What is it?\nIt's so familiar…{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent158Text02",
+   "pool": "event_text",
+   "symbol": "gEvent158Text02",
+   "en": "Darkness.\nThe taste of darkness.{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent158Text03",
+   "pool": "event_text",
+   "symbol": "gEvent158Text03",
+   "en": "What's happened to me…\nThe darkness even seeps into\nmy senses.{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent158Text04",
+   "pool": "event_text",
+   "symbol": "gEvent158Text04",
+   "en": "Don’t you worry, Riku.{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent158Text05",
+   "pool": "event_text",
+   "symbol": "gEvent158Text05",
+   "en": "Your Majesty!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent158Text06",
+   "pool": "event_text",
+   "symbol": "gEvent158Text06",
+   "en": "What happened to you?\nYou’re all…fuzzy.{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

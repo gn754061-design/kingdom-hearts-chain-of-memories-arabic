@@ -1,0 +1,848 @@
+{
+ "chunk": 67,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyCharacterFlounderLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterFlounderLine9",
+   "en": "steal the trident.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterUrsulaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterUrsulaLine0",
+   "en": "The sea witch.  She{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterUrsulaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterUrsulaLine1",
+   "en": "once lived in the palace,{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterUrsulaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterUrsulaLine2",
+   "en": "but was banished for{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterUrsulaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterUrsulaLine3",
+   "en": "her scheming.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterUrsulaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterUrsulaLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterUrsulaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterUrsulaLine5",
+   "en": "Ursula deceived Ariel{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterUrsulaLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterUrsulaLine6",
+   "en": "and stole the trident in{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterUrsulaLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterUrsulaLine7",
+   "en": "an attempt to rule all{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterUrsulaLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterUrsulaLine8",
+   "en": "Atlantica.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine0",
+   "en": "A boy who lives in{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine1",
+   "en": "Never Land, where no{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine2",
+   "en": "one ever grows up.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine4",
+   "en": "Peter can be stubborn,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine5",
+   "en": "but deep down he’s{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine6",
+   "en": "brave and just.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine8",
+   "en": "He was upset that{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine9",
+   "en": "Wendy wanted to{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine10",
+   "en": "return to London, but{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine11",
+   "en": "in the end he wished{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterPeterPanLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterPeterPanLine12",
+   "en": "her well.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTinkerBellLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTinkerBellLine0",
+   "en": "A fairy with a jealous{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTinkerBellLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTinkerBellLine1",
+   "en": "streak, especially when{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTinkerBellLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTinkerBellLine2",
+   "en": "Peter pays attention{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterTinkerBellLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterTinkerBellLine3",
+   "en": "to other girls.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWendyLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWendyLine0",
+   "en": "A dreamy English girl.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWendyLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWendyLine1",
+   "en": "Peter showed her the{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWendyLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWendyLine2",
+   "en": "way to Never Land.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWendyLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWendyLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWendyLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWendyLine4",
+   "en": "Wendy really likes{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWendyLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWendyLine5",
+   "en": "Peter, but decided to{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterWendyLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterWendyLine6",
+   "en": "return home to London.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine0",
+   "en": "A pirate who holds a{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine1",
+   "en": "grudge against Peter{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine2",
+   "en": "Pan.{END}",
+   "max_units": 22,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine4",
+   "en": "Hook kidnapped Wendy{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine5",
+   "en": "to lure Peter out.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine7",
+   "en": "Normally proud, Hook{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine8",
+   "en": "falls to pieces the{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine9",
+   "en": "moment the crocodile{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine10",
+   "en": "that took his hand{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterHookLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterHookLine11",
+   "en": "shows up.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBeastLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBeastLine0",
+   "en": "A prince transformed{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBeastLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBeastLine1",
+   "en": "into a beast because of{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBeastLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBeastLine2",
+   "en": "his selfishness.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBeastLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBeastLine3",
+   "en": "Meeting Belle restored{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBeastLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBeastLine4",
+   "en": "humanity to his heart.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBeastLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBeastLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBeastLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBeastLine6",
+   "en": "Though stunned by{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBeastLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBeastLine7",
+   "en": "Belle’s cold behavior,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBeastLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBeastLine8",
+   "en": "his faith in their love{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBeastLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBeastLine9",
+   "en": "never wavered.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine0",
+   "en": "A young woman who{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine1",
+   "en": "saw kindness behind{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine2",
+   "en": "the Beast’s gruff{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine3",
+   "en": "exterior.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine5",
+   "en": "Realizing Maleficent{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine6",
+   "en": "sought her heart, Belle{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine7",
+   "en": "acted coldly toward{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine8",
+   "en": "the Beast to keep her{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine9",
+   "en": "heart beyond the{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterBelleLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterBelleLine10",
+   "en": "witch’s reach.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine0",
+   "en": "A witch who commands{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine1",
+   "en": "the darkness.  Sora{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterMaleficentLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterMaleficentLine2",
+   "en": "faced Maleficent and{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 4,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 185,
+ "items": [
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039AF8",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039AF8",
+   "en": "· Dumbo\n· Dumbo\n· Dumbo{END}",
+   "max_units": 50,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039B28",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039B28",
+   "en": "Donald double-casts Fira,\nBlizzara, Thundara, or Cura.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039B96",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039B96",
+   "en": "· Donald\n· Donald{END}",
+   "max_units": 50,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039BBA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039BBA",
+   "en": "Donald double-casts\nFiraga, Blizzaga, Thundaga,\nor Curaga.{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039C30",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039C30",
+   "en": "· Donald\n· Donald\n· Donald{END}",
+   "max_units": 50,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039C66",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039C66",
+   "en": "Goofy rushes at enemies,\nbashing and stunning them\nwith his shield.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039CEE",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039CEE",
+   "en": "· Goofy\n· Goofy{END}",
+   "max_units": 50,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039D0E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039D0E",
+   "en": "Goofy whirls his shield\naround, bashing enemies in\na wide area.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039D8E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039D8E",
+   "en": "· Goofy\n· Goofy\n· Goofy{END}",
+   "max_units": 50,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039DBE",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039DBE",
+   "en": "Aladdin runs around while\nswinging his sword.{END}",
+   "max_units": 51,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039E1A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039E1A",
+   "en": "· Aladdin\n· Aladdin{END}",
+   "max_units": 50,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039E42",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039E42",
+   "en": "Aladdin runs around for a\nlonger period of time while\nswinging his sword.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039ED6",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039ED6",
+   "en": "· Aladdin\n· Aladdin\n· Aladdin{END}",
+   "max_units": 50,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039F12",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039F12",
+   "en": "Jack double-casts Fira,\nBlizzara, Thundara, or\nGravira.{END}",
+   "max_units": 62,
+   "units": 62,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039F82",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039F82",
+   "en": "· Jack\n· Jack{END}",
+   "max_units": 50,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_09039F9E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_09039F9E",
+   "en": "Jack triple-casts Firaga,\nBlizzaga, Thundaga, or\nGraviga.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A012",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A012",
+   "en": "· Jack\n· Jack\n· Jack{END}",
+   "max_units": 50,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A03C",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A03C",
+   "en": "Ariel whirls back and forth,\nstriking many enemies.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A0A4",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A0A4",
+   "en": "· Ariel\n· Ariel{END}",
+   "max_units": 50,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A0C4",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A0C4",
+   "en": "Ariel whirls back and forth,\nstriking many enemies for an\neven longer time.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A15C",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A15C",
+   "en": "· Ariel\n· Ariel\n· Ariel{END}",
+   "max_units": 50,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A18C",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A18C",
+   "en": "Peter Pan soars around,\nstriking enemies in a wide\narea.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A1FE",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A1FE",
+   "en": "· Peter Pan\n· Peter Pan{END}",
+   "max_units": 50,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A22E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A22E",
+   "en": "Peter Pan soars around for\nan even longer time, striking\nenemies in a wide area.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A2D0",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A2D0",
+   "en": "· Peter Pan\n· Peter Pan\n· Peter Pan{END}",
+   "max_units": 50,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A318",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A318",
+   "en": "The Beast charges in a\nstraight line, scattering the\nopposition.{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A39A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A39A",
+   "en": "· The Beast\n· The Beast{END}",
+   "max_units": 50,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A3CA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A3CA",
+   "en": "The Beast charges in a\nstraight line, crushing the\nopposition.{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A448",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A448",
+   "en": "· The Beast\n· The Beast\n· The Beast{END}",
+   "max_units": 50,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A490",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A490",
+   "en": "Eliminate all enemies in sight.{END}",
+   "max_units": 50,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A4D0",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A4D0",
+   "en": "· Stop\n· Aero\n· Aero{END}",
+   "max_units": 50,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A4FA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A4FA",
+   "en": "Eliminate the closest enemy.\nNot always successful.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A562",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A562",
+   "en": "· Stop\n· Gravity\n· Aero{END}",
+   "max_units": 50,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A592",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A592",
+   "en": "Strike fear in the enemy so\nthey no longer approach.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A5FC",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A5FC",
+   "en": "· Any summon card\n· Any summon card\n· Jack{END}",
+   "max_units": 50,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A652",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A652",
+   "en": "· Simba\n· Mushu\n· Any item card{END}",
+   "max_units": 50,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A692",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A692",
+   "en": "Temporarily confuse enemies\nso they attack less often.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A700",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A700",
+   "en": "· Genie\n· Tinker Bell\n· Any summon card{END}",
+   "max_units": 50,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A750",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A750",
+   "en": "Hurl the Keyblade and\ntrigger Stop upon impact.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A7B0",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A7B0",
+   "en": "· Stop\n· Any attack card\n· Any attack card{END}",
+   "max_units": 50,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A806",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A806",
+   "en": "Hurl the Keyblade toward\nthe enemy for multiple\nattacks.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A878",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A878",
+   "en": "· Aero\n· Any attack card\n· Any attack card{END}",
+   "max_units": 50,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A8CE",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A8CE",
+   "en": "Hurl the Keyblade and make\nit ricochet around to strike\nmany enemies.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A95A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A95A",
+   "en": "· Cloud\n· Any attack card\n· Any attack card{END}",
+   "max_units": 50,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903A9B2",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903A9B2",
+   "en": "Hurl the Keyblade and inflict\nfire damage.{END}",
+   "max_units": 50,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AA08",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AA08",
+   "en": "· Fire\n· Any attack card\n· Any attack card{END}",
+   "max_units": 50,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AA5E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AA5E",
+   "en": "Hurl the Keyblade and inflict\nice damage.{END}",
+   "max_units": 50,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AAB2",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AAB2",
+   "en": "· Blizzard\n· Any attack card\n· Any attack card{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AB10",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AB10",
+   "en": "Hurl the Keyblade and inflict\nlightning damage.{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AB70",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AB70",
+   "en": "· Thunder\n· Any attack card\n· Any attack card{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903ABCC",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903ABCC",
+   "en": "Hurl the Keyblade and\ntrigger Gravity upon impact.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AC32",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AC32",
+   "en": "· Gravity\n· Any attack card\n· Any attack card{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AC8E",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AC8E",
+   "en": "Spray melted ice at the\nenemy over a period of time,\ninflicting ice damage.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AD26",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AD26",
+   "en": "· Blizzard\n· Fire\n· Aero{END}",
+   "max_units": 50,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AD58",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AD58",
+   "en": "Inflict damage on a\ntargeted enemy and all\nsurrounding enemies.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903ADD8",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903ADD8",
+   "en": "· Mega-Ether\n· Megalixir\n· Any item card{END}",
+   "max_units": 50,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AE2A",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AE2A",
+   "en": "Donald flubs a Fire spell…{END}",
+   "max_units": 50,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AE60",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AE60",
+   "en": "· Fire\n· Donald\n· Any magic card{END}",
+   "max_units": 50,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AEA2",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AEA2",
+   "en": "Reload cards and reset the\ncounter while restoring HP\nto friends and foes alike.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AF44",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AF44",
+   "en": "· Any summon card\n· Any magic card\n· Jack{END}",
+   "max_units": 50,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AF98",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AF98",
+   "en": "· Bambi\n· Blizzard\n· Any item card{END}",
+   "max_units": 50,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903AFDE",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903AFDE",
+   "en": "Incinerate all enemies in a\nwide area.{END}",
+   "max_units": 50,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B02C",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B02C",
+   "en": "· Mushu\n· Fire\n· Fire{END}",
+   "max_units": 50,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B058",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B058",
+   "en": "Inflict fire damage on\nenemies in front of you with\na powerful attack.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B0E6",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B0E6",
+   "en": "· Fire\n· Mushu\n· Any attack card{END}",
+   "max_units": 50,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B128",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B128",
+   "en": "Simba's roar sends enemies\nflying and triggers Stop.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B192",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B192",
+   "en": "· Simba\n· Any attack card\n· Any attack card{END}",
+   "max_units": 50,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B1EA",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B1EA",
+   "en": "Bambi zigzags around the\nbattlefield, confusing the\nenemy.{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B260",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B260",
+   "en": "· Bambi\n· Any attack card\n· Any attack card{END}",
+   "max_units": 50,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "card_help_text:gCardHelpTextUs_0903B2B8",
+   "pool": "card_help_text",
+   "symbol": "gCardHelpTextUs_0903B2B8",
+   "en": "Cloud singles out an enemy\nand uses Cross-slash.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

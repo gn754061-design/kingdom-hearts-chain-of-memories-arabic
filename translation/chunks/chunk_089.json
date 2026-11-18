@@ -1,0 +1,848 @@
+{
+ "chunk": 89,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyAttackCardLionheartLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLionheartLine10",
+   "en": "attacks.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine0",
+   "en": "Strike:  C+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine1",
+   "en": "Thrust:  C+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine2",
+   "en": "Combo Finish:  D{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine3",
+   "en": "Swing Speed:  A{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine4",
+   "en": "Element:  Physical{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine5",
+   "en": "Break Recovery:  B{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine6",
+   "en": "Required CP:  A{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine8",
+   "en": "Obtained in Wonderland.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine9",
+   "en": "A balanced weapon{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardLadyLuckLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardLadyLuckLine10",
+   "en": "that is easy to handle.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine0",
+   "en": "Strike:  A{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine1",
+   "en": "Thrust:  D+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine2",
+   "en": "Combo Finish:  C{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine3",
+   "en": "Swing Speed:  A{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine4",
+   "en": "Element:  Physical{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine5",
+   "en": "Break Recovery:  C{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine6",
+   "en": "Required CP:  B{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine8",
+   "en": "Obtained in Hollow{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine9",
+   "en": "Bastion.  Features a{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine10",
+   "en": "powerful strike and{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDivineRoseLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDivineRoseLine11",
+   "en": "fast swing.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine0",
+   "en": "Strike:  B{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine1",
+   "en": "Thrust:  ★{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine2",
+   "en": "Combo Finish:  B+{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine3",
+   "en": "Swing Speed:  B{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine4",
+   "en": "Element:  Physical{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine5",
+   "en": "Break Recovery:  B{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine6",
+   "en": "Required CP:  C{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine8",
+   "en": "A well-balanced{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine9",
+   "en": "weapon with a very{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOathkeeperLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOathkeeperLine10",
+   "en": "powerful thrust.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine0",
+   "en": "Strike:  A{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine1",
+   "en": "Thrust:  A{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine2",
+   "en": "Combo Finish:  D{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine3",
+   "en": "Swing Speed:  C{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine4",
+   "en": "Element:  Neutral{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine5",
+   "en": "Break Recovery:  A{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine6",
+   "en": "Required CP:  C{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine8",
+   "en": "A special attack card{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine9",
+   "en": "that can break through{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine10",
+   "en": "physical defenses.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOblivionLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOblivionLine11",
+   "en": "First-class strength.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine0",
+   "en": "Strike:  B+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine1",
+   "en": "Thrust:  B+{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine2",
+   "en": "Combo Finish:  B{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine3",
+   "en": "Swing Speed:  ★{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine4",
+   "en": "Element:  Ice{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine5",
+   "en": "Break Recovery:  ★{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine6",
+   "en": "Required CP:  C{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine8",
+   "en": "A special attack card{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine9",
+   "en": "with ice-based attacks.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine10",
+   "en": "Powerful and the{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardDiamondDustLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardDiamondDustLine11",
+   "en": "easiest to handle.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine0",
+   "en": "Strike:  C{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine1",
+   "en": "Thrust:  C{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine2",
+   "en": "Combo Finish:  ★{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine3",
+   "en": "Swing Speed:  A{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine4",
+   "en": "Element:  Fire{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine5",
+   "en": "Break Recovery:  C{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine6",
+   "en": "Required CP:  C{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine8",
+   "en": "A special attack card{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine9",
+   "en": "with fire-based{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyAttackCardOneWingedAngelLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyAttackCardOneWingedAngelLine10",
+   "en": "attacks.  Exceptional{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 13,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "event_name_text:gEventName181",
+   "pool": "event_name_text",
+   "symbol": "gEventName181",
+   "en": "Ｒｉｋｕ　Ｂ３Ｆ　Ｅ２　２　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName180",
+   "pool": "event_name_text",
+   "symbol": "gEventName180",
+   "en": "Ｒｉｋｕ　Ｂ３Ｆ　Ｂｏｓｓ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName179",
+   "pool": "event_name_text",
+   "symbol": "gEventName179",
+   "en": "Ｒｉｋｕ　Ｂ３Ｆ　Ｅ２　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName178",
+   "pool": "event_name_text",
+   "symbol": "gEventName178",
+   "en": "Ｒｉｋｕ　Ｂ３Ｆ　Ｅ１　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName177",
+   "pool": "event_name_text",
+   "symbol": "gEventName177",
+   "en": "Ｒｉｋｕ　Ｂ３Ｆ　Ｅ０　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName176",
+   "pool": "event_name_text",
+   "symbol": "gEventName176",
+   "en": "Ｒｉｋｕ　Ｂ３Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName175",
+   "pool": "event_name_text",
+   "symbol": "gEventName175",
+   "en": "Ｒｉｋｕ　Ｂ４Ｆ　ＤＥＭＯ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName174",
+   "pool": "event_name_text",
+   "symbol": "gEventName174",
+   "en": "Ｒｉｋｕ　Ｂ４Ｆ　Ｇｏａｌ　３　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName173",
+   "pool": "event_name_text",
+   "symbol": "gEventName173",
+   "en": "Ｒｉｋｕ　Ｂ４Ｆ　Ｄａｒｋ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName172",
+   "pool": "event_name_text",
+   "symbol": "gEventName172",
+   "en": "Ｒｉｋｕ　Ｂ４Ｆ　Ｇｏａｌ　２　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName171",
+   "pool": "event_name_text",
+   "symbol": "gEventName171",
+   "en": "Ｒｉｋｕ　Ｂ４Ｆ　Ｇｏａｌ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName170",
+   "pool": "event_name_text",
+   "symbol": "gEventName170",
+   "en": "Ｒｉｋｕ　Ｂ４Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName169",
+   "pool": "event_name_text",
+   "symbol": "gEventName169",
+   "en": "Ｒｉｋｕ　Ｂ５Ｆ　ＤＥＭＯ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName168",
+   "pool": "event_name_text",
+   "symbol": "gEventName168",
+   "en": "Ｒｉｋｕ　Ｂ６Ｆ　ＤＥＭＯ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName167",
+   "pool": "event_name_text",
+   "symbol": "gEventName167",
+   "en": "Ｒｉｋｕ　Ｂ７Ｆ　ＤＥＭＯ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName166",
+   "pool": "event_name_text",
+   "symbol": "gEventName166",
+   "en": "Ｒｉｋｕ　Ｂ７Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName165",
+   "pool": "event_name_text",
+   "symbol": "gEventName165",
+   "en": "Ｒｉｋｕ　Ｂ８Ｆ　ＤＥＭＯ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName164",
+   "pool": "event_name_text",
+   "symbol": "gEventName164",
+   "en": "Ｒｉｋｕ　Ｂ８Ｆ　Ｇｏａｌ　２　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName163",
+   "pool": "event_name_text",
+   "symbol": "gEventName163",
+   "en": "Ｒｉｋｕ　Ｂ８Ｆ　Ｇｏａｌ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName162",
+   "pool": "event_name_text",
+   "symbol": "gEventName162",
+   "en": "Ｒｉｋｕ　Ｂ９Ｆ　ＤＥＭＯ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName161",
+   "pool": "event_name_text",
+   "symbol": "gEventName161",
+   "en": "Ｒｉｋｕ　Ｂ１０Ｆ　Ｇｏａｌ　２　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName160",
+   "pool": "event_name_text",
+   "symbol": "gEventName160",
+   "en": "Ｒｉｋｕ　Ｂ１０Ｆ　Ｇｏａｌ　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName159",
+   "pool": "event_name_text",
+   "symbol": "gEventName159",
+   "en": "Ｒｉｋｕ　Ｂ１１Ｆ　ＤＥＭＯ　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName158",
+   "pool": "event_name_text",
+   "symbol": "gEventName158",
+   "en": "Ｒｉｋｕ　Ｂ１１Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName157",
+   "pool": "event_name_text",
+   "symbol": "gEventName157",
+   "en": "Ｒｉｋｕ　Ｂ１２Ｆ　ＤＥＭＯ　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName156",
+   "pool": "event_name_text",
+   "symbol": "gEventName156",
+   "en": "Ｒｉｋｕ　Ｂ１２Ｆ　Ｇｏａｌ　２　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName155",
+   "pool": "event_name_text",
+   "symbol": "gEventName155",
+   "en": "Ｒｉｋｕ　Ｂ１２Ｆ　Ｇｏａｌ　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName154",
+   "pool": "event_name_text",
+   "symbol": "gEventName154",
+   "en": "Ｒｉｋｕ　Ｂ１２Ｆ　Ｅ３　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName153",
+   "pool": "event_name_text",
+   "symbol": "gEventName153",
+   "en": "Ｒｉｋｕ　Ｂ１２Ｆ　Ｅ２　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName152",
+   "pool": "event_name_text",
+   "symbol": "gEventName152",
+   "en": "Ｒｉｋｕ　Ｂ１２Ｆ　Ｅ１　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName151",
+   "pool": "event_name_text",
+   "symbol": "gEventName151",
+   "en": "Ｒｉｋｕ　Ｂ１２Ｆ　Ｅ０　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName150",
+   "pool": "event_name_text",
+   "symbol": "gEventName150",
+   "en": "Ｒｉｋｕ　Ｂ１２Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName149",
+   "pool": "event_name_text",
+   "symbol": "gEventName149",
+   "en": "Ｒｉｋｕ　Ｂ１２Ｆ　Ｏｐｎｉｎｇ　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName148",
+   "pool": "event_name_text",
+   "symbol": "gEventName148",
+   "en": "１００ａｃｒｅｗｏｏｄ　Ｅｎｄ　Ｓｏｒａｏｎｌｙ　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName147",
+   "pool": "event_name_text",
+   "symbol": "gEventName147",
+   "en": "１００ａｃｒｅｗｏｏｄ　Ｅｎｄ　Ｃｏｍｐｃｏｍｐ　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName146",
+   "pool": "event_name_text",
+   "symbol": "gEventName146",
+   "en": "１００ａｃｒｅｗｏｏｄ　Ｅｎｄ　ｎｏ　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName145",
+   "pool": "event_name_text",
+   "symbol": "gEventName145",
+   "en": "１００ａｃｒｅｗｏｏｄ　Ｅｎｄ　ｃｏｍｐ　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName144",
+   "pool": "event_name_text",
+   "symbol": "gEventName144",
+   "en": "１００ａｃｒｅｗｏｏｄ　Ｅｎｄ　１ｓｔ　ｎｏ　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName143",
+   "pool": "event_name_text",
+   "symbol": "gEventName143",
+   "en": "１００ａｃｒｅｗｏｏｄ　Ｅｎｄ　１ｓｔ　ｃｏｍｐ　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName142",
+   "pool": "event_name_text",
+   "symbol": "gEventName142",
+   "en": "１００ａｃｒｅｗｏｏｄ　ＬＶ６　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName141",
+   "pool": "event_name_text",
+   "symbol": "gEventName141",
+   "en": "１００ａｃｒｅｗｏｏｄ　ＬＶ５　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName140",
+   "pool": "event_name_text",
+   "symbol": "gEventName140",
+   "en": "１００ａｃｒｅｗｏｏｄ　ＬＶ４　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName139",
+   "pool": "event_name_text",
+   "symbol": "gEventName139",
+   "en": "１００ａｃｒｅｗｏｏｄ　ＬＶ３　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName138",
+   "pool": "event_name_text",
+   "symbol": "gEventName138",
+   "en": "１００ａｃｒｅｗｏｏｄ　ＬＶ２　Ｒｅｔｒｙ　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName137",
+   "pool": "event_name_text",
+   "symbol": "gEventName137",
+   "en": "１００ａｃｒｅｗｏｏｄ　ＬＶ２　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName136",
+   "pool": "event_name_text",
+   "symbol": "gEventName136",
+   "en": "１００ａｃｒｅｗｏｏｄ　ＬＶ１　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName135",
+   "pool": "event_name_text",
+   "symbol": "gEventName135",
+   "en": "１００ａｃｒｅｗｏｏｄ　Ｓｔａｒｔ　Ｒｅｔｒｙ　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName134",
+   "pool": "event_name_text",
+   "symbol": "gEventName134",
+   "en": "１００ａｃｒｅｗｏｏｄ　Ｓｔａｒｔ　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName133",
+   "pool": "event_name_text",
+   "symbol": "gEventName133",
+   "en": "Ｈｏｌｌｏｗｂａｓｔｉｏｎ　Ｅｎｄ　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName132",
+   "pool": "event_name_text",
+   "symbol": "gEventName132",
+   "en": "Ｈｏｌｌｏｗｂａｓｔｉｏｎ　Ｅ３　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName131",
+   "pool": "event_name_text",
+   "symbol": "gEventName131",
+   "en": "Ｈｏｌｌｏｗｂａｓｔｉｏｎ　Ｅ２　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName130",
+   "pool": "event_name_text",
+   "symbol": "gEventName130",
+   "en": "Ｈｏｌｌｏｗｂａｓｔｉｏｎ　Ｅ１　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName129",
+   "pool": "event_name_text",
+   "symbol": "gEventName129",
+   "en": "Ｈｏｌｌｏｗｂａｓｔｉｏｎ　Ｅ０　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName128",
+   "pool": "event_name_text",
+   "symbol": "gEventName128",
+   "en": "だみー　２　　　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName127",
+   "pool": "event_name_text",
+   "symbol": "gEventName127",
+   "en": "だみー　　　　　　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName126",
+   "pool": "event_name_text",
+   "symbol": "gEventName126",
+   "en": "Ｃｏｌｉｓｅｕｍ　Ｅｎｄ　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName125",
+   "pool": "event_name_text",
+   "symbol": "gEventName125",
+   "en": "Ｃｏｌｉｓｅｕｍ　Ｂｏｓｓ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName124",
+   "pool": "event_name_text",
+   "symbol": "gEventName124",
+   "en": "Ｃｏｌｉｓｅｕｍ　Ｅ３　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName123",
+   "pool": "event_name_text",
+   "symbol": "gEventName123",
+   "en": "Ｃｏｌｉｓｅｕｍ　Ｅ２　２　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName122",
+   "pool": "event_name_text",
+   "symbol": "gEventName122",
+   "en": "Ｃｏｌｉｓｅｕｍ　Ｅ２　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName121",
+   "pool": "event_name_text",
+   "symbol": "gEventName121",
+   "en": "Ｃｏｌｉｓｅｕｍ　Ｅ１　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName120",
+   "pool": "event_name_text",
+   "symbol": "gEventName120",
+   "en": "Ｃｏｌｉｓｅｕｍ　Ｅ０　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName119",
+   "pool": "event_name_text",
+   "symbol": "gEventName119",
+   "en": "Ｎｅｖｅｒｌａｎｄ　Ｅｎｄ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName118",
+   "pool": "event_name_text",
+   "symbol": "gEventName118",
+   "en": "Ｎｅｖｅｒｌａｎｄ　Ｅ３　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName117",
+   "pool": "event_name_text",
+   "symbol": "gEventName117",
+   "en": "Ｎｅｖｅｒｌａｎｄ　Ｅ２　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName116",
+   "pool": "event_name_text",
+   "symbol": "gEventName116",
+   "en": "Ｎｅｖｅｒｌａｎｄ　Ｅ１　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName115",
+   "pool": "event_name_text",
+   "symbol": "gEventName115",
+   "en": "Ｎｅｖｅｒｌａｎｄ　Ｅ０　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName114",
+   "pool": "event_name_text",
+   "symbol": "gEventName114",
+   "en": "Ａｇｒａｂａｈ　Ｅｎｄ　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName113",
+   "pool": "event_name_text",
+   "symbol": "gEventName113",
+   "en": "Ａｇｒａｂａｈ　Ｂｏｓｓ　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName112",
+   "pool": "event_name_text",
+   "symbol": "gEventName112",
+   "en": "Ａｇｒａｂａｈ　Ｅ３　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

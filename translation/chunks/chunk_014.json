@@ -1,0 +1,848 @@
+{
+ "chunk": 14,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "event_name_text:gEventName111",
+   "pool": "event_name_text",
+   "symbol": "gEventName111",
+   "en": "Ａｇｒａｂａｈ　Ｅ２　２　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName110",
+   "pool": "event_name_text",
+   "symbol": "gEventName110",
+   "en": "Ａｇｒａｂａｈ　Ｅ２　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName109",
+   "pool": "event_name_text",
+   "symbol": "gEventName109",
+   "en": "Ａｇｒａｂａｈ　Ｅ１　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName108",
+   "pool": "event_name_text",
+   "symbol": "gEventName108",
+   "en": "Ａｇｒａｂａｈ　Ｅ０　２　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName107",
+   "pool": "event_name_text",
+   "symbol": "gEventName107",
+   "en": "Ａｇｒａｂａｈ　Ｅ０　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName106",
+   "pool": "event_name_text",
+   "symbol": "gEventName106",
+   "en": "Ａｔｌａｎｔｉｃａ　Ｅｎｄ　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName105",
+   "pool": "event_name_text",
+   "symbol": "gEventName105",
+   "en": "Ａｔｌａｎｔｉｃａ　Ｂｏｓｓ　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName104",
+   "pool": "event_name_text",
+   "symbol": "gEventName104",
+   "en": "Ａｔｌａｎｔｉｃａ　Ｅ３　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName103",
+   "pool": "event_name_text",
+   "symbol": "gEventName103",
+   "en": "Ａｔｌａｎｔｉｃａ　Ｅ２　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName102",
+   "pool": "event_name_text",
+   "symbol": "gEventName102",
+   "en": "Ａｔｌａｎｔｉｃａ　Ｅ１　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName101",
+   "pool": "event_name_text",
+   "symbol": "gEventName101",
+   "en": "Ａｔｌａｎｔｉｃａ　Ｅ０　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName100",
+   "pool": "event_name_text",
+   "symbol": "gEventName100",
+   "en": "Ｗｏｎｄｅｒｌａｎｄ　Ｅｎｄ　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName099",
+   "pool": "event_name_text",
+   "symbol": "gEventName099",
+   "en": "Ｗｏｎｄｅｒｌａｎｄ　Ｂｏｓｓ　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName098",
+   "pool": "event_name_text",
+   "symbol": "gEventName098",
+   "en": "Ｗｏｎｄｅｒｌａｎｄ　Ｅ３　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName097",
+   "pool": "event_name_text",
+   "symbol": "gEventName097",
+   "en": "Ｗｏｎｄｅｒｌａｎｄ　Ｅ２　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName096",
+   "pool": "event_name_text",
+   "symbol": "gEventName096",
+   "en": "Ｗｏｎｄｅｒｌａｎｄ　Ｅ１　２　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName095",
+   "pool": "event_name_text",
+   "symbol": "gEventName095",
+   "en": "Ｗｏｎｄｅｒｌａｎｄ　Ｅ１　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName094",
+   "pool": "event_name_text",
+   "symbol": "gEventName094",
+   "en": "Ｗｏｎｄｅｒｌａｎｄ　Ｅ０　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName093",
+   "pool": "event_name_text",
+   "symbol": "gEventName093",
+   "en": "Ｈａｌｌｏｗｅｅｎ　Ｔｏｗｎ　Ｅｎｄ　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName091",
+   "pool": "event_name_text",
+   "symbol": "gEventName091",
+   "en": "Ｈａｌｌｏｗｅｅｎ　Ｔｏｗｎ　Ｅ３　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName090",
+   "pool": "event_name_text",
+   "symbol": "gEventName090",
+   "en": "Ｈａｌｌｏｗｅｅｎ　Ｔｏｗｎ　Ｅ２　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName089",
+   "pool": "event_name_text",
+   "symbol": "gEventName089",
+   "en": "Ｈａｌｌｏｗｅｅｎ　Ｔｏｗｎ　Ｅ１　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName088",
+   "pool": "event_name_text",
+   "symbol": "gEventName088",
+   "en": "Ｈａｌｌｏｗｅｅｎ　Ｔｏｗｎ　Ｅ０　２　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName087",
+   "pool": "event_name_text",
+   "symbol": "gEventName087",
+   "en": "Ｈａｌｌｏｗｅｅｎ　Ｔｏｗｎ　Ｅ０　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName086",
+   "pool": "event_name_text",
+   "symbol": "gEventName086",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ３　Ｅｎｄ　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName085",
+   "pool": "event_name_text",
+   "symbol": "gEventName085",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ３　Ｒｅｔｒｙ　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName084",
+   "pool": "event_name_text",
+   "symbol": "gEventName084",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ３　Ｆａｉｌｕｒｅ　２　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName083",
+   "pool": "event_name_text",
+   "symbol": "gEventName083",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ３　Ｆａｉｌｕｒｅ　１　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName082",
+   "pool": "event_name_text",
+   "symbol": "gEventName082",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ３　Ｓｕｃｃｅｓｓ　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName081",
+   "pool": "event_name_text",
+   "symbol": "gEventName081",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ３　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName080",
+   "pool": "event_name_text",
+   "symbol": "gEventName080",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ２　５　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName079",
+   "pool": "event_name_text",
+   "symbol": "gEventName079",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ２　４　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName078",
+   "pool": "event_name_text",
+   "symbol": "gEventName078",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ２　３　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName077",
+   "pool": "event_name_text",
+   "symbol": "gEventName077",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ２　２　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName076",
+   "pool": "event_name_text",
+   "symbol": "gEventName076",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ２　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName075",
+   "pool": "event_name_text",
+   "symbol": "gEventName075",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ１　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName074",
+   "pool": "event_name_text",
+   "symbol": "gEventName074",
+   "en": "Ｍｏｎｓｔｏｒｏ　Ｅ０　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName073",
+   "pool": "event_name_text",
+   "symbol": "gEventName073",
+   "en": "１３Ｆ　Ｃａｐｓｕｌｅ　Ｒｏｏｍ　Ｅｎｄｉｎｇ　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName072",
+   "pool": "event_name_text",
+   "symbol": "gEventName072",
+   "en": "１３Ｆ　Ｃａｓｌｔｅ　Ｏｂｌｉｖｉｏｎ　Ｌａｓｔ７{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName071",
+   "pool": "event_name_text",
+   "symbol": "gEventName071",
+   "en": "１３Ｆ　Ｃａｓｔｌｅ　Ｏｂｌｉｖｉｏｎ　Ｌａｓｔ６{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName070",
+   "pool": "event_name_text",
+   "symbol": "gEventName070",
+   "en": "１３Ｆ　Ｃａｓｔｌｅ　Ｏｂｌｉｖｉｏｎ　Ｌａｓｔ５{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName069",
+   "pool": "event_name_text",
+   "symbol": "gEventName069",
+   "en": "１３Ｆ　Ｃａｓｔｌｅ　Ｏｂｌｉｖｉｏｎ　Ｌａｓｔ４{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName068",
+   "pool": "event_name_text",
+   "symbol": "gEventName068",
+   "en": "１３Ｆ　Ｃａｓｔｌｅ　Ｏｂｌｉｖｉｏｎ　Ｌａｓｔ３{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName067",
+   "pool": "event_name_text",
+   "symbol": "gEventName067",
+   "en": "１３Ｆ　Ｃａｓｔｌｅ　Ｏｂｌｉｖｉｏｎ　Ｌａｓｔ２{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName066",
+   "pool": "event_name_text",
+   "symbol": "gEventName066",
+   "en": "１３Ｆ　Ｃａｓｔｌｅ　Ｏｂｌｉｖｉｏｎ　Ｌａｓｔ１{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName065",
+   "pool": "event_name_text",
+   "symbol": "gEventName065",
+   "en": "１３Ｆ　Ｃａｓｔｌｅ　Ｏｂｌｉｖｉｏｎ　Ｅ１　３　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName064",
+   "pool": "event_name_text",
+   "symbol": "gEventName064",
+   "en": "１３Ｆ　Ｃａｓｔｌｅ　Ｏｂｌｉｖｉｏｎ　Ｅ１　２　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName063",
+   "pool": "event_name_text",
+   "symbol": "gEventName063",
+   "en": "１３Ｆ　Ｃａｓｔｌｅ　Ｏｂｌｉｖｉｏｎ　Ｅ１　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName061",
+   "pool": "event_name_text",
+   "symbol": "gEventName061",
+   "en": "１３Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName060",
+   "pool": "event_name_text",
+   "symbol": "gEventName060",
+   "en": "１２Ｆ　Ｇｏａｌ　３　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName059",
+   "pool": "event_name_text",
+   "symbol": "gEventName059",
+   "en": "１２Ｆ　Ｇｏａｌ　２　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName058",
+   "pool": "event_name_text",
+   "symbol": "gEventName058",
+   "en": "１２Ｆ　Ｇｏａｌ　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName057",
+   "pool": "event_name_text",
+   "symbol": "gEventName057",
+   "en": "１２Ｆ　Ｄｅｓｔｉｎｙ　Ｉｓｌａｎｄ　Ｅ３　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName056",
+   "pool": "event_name_text",
+   "symbol": "gEventName056",
+   "en": "１２Ｆ　Ｄｅｓｔｉｎｙ　Ｉｓｌａｎｄ　Ｅ２　２　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName055",
+   "pool": "event_name_text",
+   "symbol": "gEventName055",
+   "en": "１２Ｆ　Ｄｅｓｔｉｎｙ　Ｉｓｌａｎｄ　Ｅ２　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName054",
+   "pool": "event_name_text",
+   "symbol": "gEventName054",
+   "en": "１２Ｆ　Ｄｅｓｔｉｎｙ　Ｉｓｌａｎｄ　Ｅ１　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName053",
+   "pool": "event_name_text",
+   "symbol": "gEventName053",
+   "en": "１２Ｆ　Ｄｅｓｔｉｎｙ　Ｉｓｌａｎｄ　Ｅ０　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName052",
+   "pool": "event_name_text",
+   "symbol": "gEventName052",
+   "en": "１２Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName051",
+   "pool": "event_name_text",
+   "symbol": "gEventName051",
+   "en": "１１Ｆ　ｄｅｍｏ　２　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName050",
+   "pool": "event_name_text",
+   "symbol": "gEventName050",
+   "en": "１１Ｆ　Ｇｏａｌ　３　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName049",
+   "pool": "event_name_text",
+   "symbol": "gEventName049",
+   "en": "１１Ｆ　Ｇｏａｌ　２　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName048",
+   "pool": "event_name_text",
+   "symbol": "gEventName048",
+   "en": "１１Ｆ　Ｇｏａｌ　１　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName047",
+   "pool": "event_name_text",
+   "symbol": "gEventName047",
+   "en": "１１Ｆ　ｄｅｍｏ　１　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName046",
+   "pool": "event_name_text",
+   "symbol": "gEventName046",
+   "en": "１１Ｆ　Ｔｗｉｌｉｇｈｔ　Ｔｏｗｎ　Ｅ１　２　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName045",
+   "pool": "event_name_text",
+   "symbol": "gEventName045",
+   "en": "１１Ｆ　Ｔｗｉｌｉｇｈｔ　Ｔｏｗｎ　Ｅ１　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName044",
+   "pool": "event_name_text",
+   "symbol": "gEventName044",
+   "en": "１１Ｆ　Ｔｗｉｌｉｇｈｔ　Ｔｏｗｎ　Ｅ０　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName043",
+   "pool": "event_name_text",
+   "symbol": "gEventName043",
+   "en": "１１Ｆ　Ｅｎｔｒａｎｃｅ　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName042",
+   "pool": "event_name_text",
+   "symbol": "gEventName042",
+   "en": "１０Ｆ　ｄｅｍｏ　　　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName041",
+   "pool": "event_name_text",
+   "symbol": "gEventName041",
+   "en": "１０Ｆ　Ｇｏａｌ　２　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_name_text:gEventName040",
+   "pool": "event_name_text",
+   "symbol": "gEventName040",
+   "en": "１０Ｆ　Ｇｏａｌ　１　　　　　　　　　　　　　　　{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

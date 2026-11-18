@@ -1,0 +1,848 @@
+{
+ "chunk": 27,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 139,
+ "items": [
+  {
+   "id": "event_text:gEvent126Text00",
+   "pool": "event_text",
+   "symbol": "gEvent126Text00",
+   "en": "What?!  The games are\ncancelled?  How come?{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent126Text01",
+   "pool": "event_text",
+   "symbol": "gEvent126Text01",
+   "en": "Three words!{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent126Text02",
+   "pool": "event_text",
+   "symbol": "gEvent126Text02",
+   "en": "Everyone’s pooped!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent126Text03",
+   "pool": "event_text",
+   "symbol": "gEvent126Text03",
+   "en": "Wait a minute, that was only\ntwo―{END}",
+   "max_units": 52,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent126Text04",
+   "pool": "event_text",
+   "symbol": "gEvent126Text04",
+   "en": "You gotta be kidding!\nWhat about my match with\nHercules?{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent126Text05",
+   "pool": "event_text",
+   "symbol": "gEvent126Text05",
+   "en": "I’m sorry, Sora.  But you\nwouldn’t want me to compete\nin this condition.{END}",
+   "max_units": 79,
+   "units": 79,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent126Text06",
+   "pool": "event_text",
+   "symbol": "gEvent126Text06",
+   "en": "Let’s have a match when I’m\nfit again.  Can you wait?{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent126Text07",
+   "pool": "event_text",
+   "symbol": "gEvent126Text07",
+   "en": "Okay.\nI’ll hold you to that.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent126Text08",
+   "pool": "event_text",
+   "symbol": "gEvent126Text08",
+   "en": "Then it’s settled!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent126Text09",
+   "pool": "event_text",
+   "symbol": "gEvent126Text09",
+   "en": "Sora, over here!\nHe’s coming around.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent126Text10",
+   "pool": "event_text",
+   "symbol": "gEvent126Text10",
+   "en": "You okay?{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent126Text11",
+   "pool": "event_text",
+   "symbol": "gEvent126Text11",
+   "en": "Yeah.{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent126Text12",
+   "pool": "event_text",
+   "symbol": "gEvent126Text12",
+   "en": "Sorry I messed up your games.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent126Text13",
+   "pool": "event_text",
+   "symbol": "gEvent126Text13",
+   "en": "Hey!  Hope you get your\nmemories back!{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent126Text14",
+   "pool": "event_text",
+   "symbol": "gEvent126Text14",
+   "en": "Forget about what Hades said.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent126Text15",
+   "pool": "event_text",
+   "symbol": "gEvent126Text15",
+   "en": "Sometimes the tiniest thing\ncan make you remember stuff\nyou forgot years ago.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent126Text16",
+   "pool": "event_text",
+   "symbol": "gEvent126Text16",
+   "en": "If it’s an important memory,\nthere’s no way it could ever\nbe gone forever.{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent126Text17",
+   "pool": "event_text",
+   "symbol": "gEvent126Text17",
+   "en": "That’s what I think, anyway.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent126Text18",
+   "pool": "event_text",
+   "symbol": "gEvent126Text18",
+   "en": "That’s for you. \nFor helping me out.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent126Text19",
+   "pool": "event_text",
+   "symbol": "gEvent126Text19",
+   "en": "Sure you don’t want to just\ncome with us instead?{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent126Text20",
+   "pool": "event_text",
+   "symbol": "gEvent126Text20",
+   "en": "Sorry.\nNot interested.{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent127Text06",
+   "pool": "event_text",
+   "symbol": "gEvent127Text06",
+   "en": "だいたい俺はおまえたちの\n名前すら知らないんだ。{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent127Text05",
+   "pool": "event_text",
+   "symbol": "gEvent127Text05",
+   "en": "悪いが、おまえと一緒に\n戦ったおぼえはない。{END}",
+   "max_units": 52,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent127Text04",
+   "pool": "event_text",
+   "symbol": "gEvent127Text04",
+   "en": "なに言ってるんだよ！\n俺たち、力を合わせて\nハートレスと戦ったじゃないか。{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent127Text03",
+   "pool": "event_text",
+   "symbol": "gEvent127Text03",
+   "en": "おまえたちとは会うのは\n初めてのはずだ。{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent127Text02",
+   "pool": "event_text",
+   "symbol": "gEvent127Text02",
+   "en": "だいたい、なぜ俺の名前を\n知っている。\nおまえ…誰だ？{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent127Text01",
+   "pool": "event_text",
+   "symbol": "gEvent127Text01",
+   "en": "忘却の…城？　なんのことだ。\nここはトラヴァースタウンだ。{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent127Text00",
+   "pool": "event_text",
+   "symbol": "gEvent127Text00",
+   "en": "レオンじゃないか！\nなんでレオンが忘却の城に\nいるんだ？{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent128Text03",
+   "pool": "event_text",
+   "symbol": "gEvent128Text03",
+   "en": "ソラの記憶が、私たちの心に\n響いてきて…知らないはずのことわかるんだと思う。{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent128Text02",
+   "pool": "event_text",
+   "symbol": "gEvent128Text02",
+   "en": "私たち、ソラを知らないけれど\nソラの心に、私たちの記憶がある。{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent128Text01",
+   "pool": "event_text",
+   "symbol": "gEvent128Text01",
+   "en": "俺の…心？{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent128Text00",
+   "pool": "event_text",
+   "symbol": "gEvent128Text00",
+   "en": "私にも、記憶ないんだ。\nでも…おぼえてる。\nそう、ソラの心がおぼえてる。{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent129Text00",
+   "pool": "event_text",
+   "symbol": "gEvent129Text00",
+   "en": "I hear voices!\nI wonder who it is.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent129Text01",
+   "pool": "event_text",
+   "symbol": "gEvent129Text01",
+   "en": "Shhh!\nI think something’s wrong!{END}",
+   "max_units": 52,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent129Text02",
+   "pool": "event_text",
+   "symbol": "gEvent129Text02",
+   "en": "But Belle, I don’t understand!\nI came here to rescue you!{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent129Text03",
+   "pool": "event_text",
+   "symbol": "gEvent129Text03",
+   "en": "I didn’t ask you to come.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent129Text04",
+   "pool": "event_text",
+   "symbol": "gEvent129Text04",
+   "en": "And it doesn’t matter anyway.\nI’m not going back with you, so\nyou’re wasting your time.{END}",
+   "max_units": 94,
+   "units": 94,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent129Text05",
+   "pool": "event_text",
+   "symbol": "gEvent129Text05",
+   "en": "Have you lost your mind?\nHow can you stay here with\nthat witch?{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent129Text06",
+   "pool": "event_text",
+   "symbol": "gEvent129Text06",
+   "en": "I’ve nothing more to say.\nNow leave, before Maleficent\nfinds you.{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent129Text07",
+   "pool": "event_text",
+   "symbol": "gEvent129Text07",
+   "en": "Belle…why?{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent129Text08",
+   "pool": "event_text",
+   "symbol": "gEvent129Text08",
+   "en": "I’m not sure what’s going on,\nbut…is everything okay?{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent129Text09",
+   "pool": "event_text",
+   "symbol": "gEvent129Text09",
+   "en": "Don’t feel bad.\nThere must be a reason she\nsaid those things.{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent129Text10",
+   "pool": "event_text",
+   "symbol": "gEvent129Text10",
+   "en": "Keep your sympathy. \nNo one could ever care for a\nbeast like me.{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent129Text11",
+   "pool": "event_text",
+   "symbol": "gEvent129Text11",
+   "en": "Sure wish there was somethin’\nwe could do for him.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent130Text00",
+   "pool": "event_text",
+   "symbol": "gEvent130Text00",
+   "en": "Who are you? \nDid Maleficent kidnap you, too?{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent130Text01",
+   "pool": "event_text",
+   "symbol": "gEvent130Text01",
+   "en": "Uh…not exactly.\nIt’s a long story.{END}",
+   "max_units": 52,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent130Text02",
+   "pool": "event_text",
+   "symbol": "gEvent130Text02",
+   "en": "Hey, wait a sec…\nSo you’ve been kidnapped?\nYou don’t want to be here?{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent130Text03",
+   "pool": "event_text",
+   "symbol": "gEvent130Text03",
+   "en": "No, I don’t.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent130Text04",
+   "pool": "event_text",
+   "symbol": "gEvent130Text04",
+   "en": "That witch Maleficent forced\nme to come here.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent130Text05",
+   "pool": "event_text",
+   "symbol": "gEvent130Text05",
+   "en": "I have no one to talk to.\nBooks are all I have to ease\nmy loneliness.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent130Text06",
+   "pool": "event_text",
+   "symbol": "gEvent130Text06",
+   "en": "And then there’s him…\nOh, I’ve missed him so much.{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent130Text07",
+   "pool": "event_text",
+   "symbol": "gEvent130Text07",
+   "en": "You mean the Beast?\nThen why were you so mean to\nhim before?{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent130Text08",
+   "pool": "event_text",
+   "symbol": "gEvent130Text08",
+   "en": "Yeah.  You really hurt his\nfeelings.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent130Text09",
+   "pool": "event_text",
+   "symbol": "gEvent130Text09",
+   "en": "You don’t understand.\nI can’t let him see how I really\nfeel.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent130Text10",
+   "pool": "event_text",
+   "symbol": "gEvent130Text10",
+   "en": "Why not?{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent130Text11",
+   "pool": "event_text",
+   "symbol": "gEvent130Text11",
+   "en": "It’s just that―{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent130Text12",
+   "pool": "event_text",
+   "symbol": "gEvent130Text12",
+   "en": "Oh no, she’s coming!\nHide, quickly!{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent130Text13",
+   "pool": "event_text",
+   "symbol": "gEvent130Text13",
+   "en": "There’s no time to explain.\nHide yourselves!  Now!{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent130Text14",
+   "pool": "event_text",
+   "symbol": "gEvent130Text14",
+   "en": "Oh…  Good day, Maleficent.\nWhat brings you here?{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent130Text15",
+   "pool": "event_text",
+   "symbol": "gEvent130Text15",
+   "en": "He was here―yes?{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent130Text16",
+   "pool": "event_text",
+   "symbol": "gEvent130Text16",
+   "en": "He risked his life to come and\nsave you.  Why do you reject\nhim?{END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent130Text17",
+   "pool": "event_text",
+   "symbol": "gEvent130Text17",
+   "en": "I won’t ask for his help.{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent130Text18",
+   "pool": "event_text",
+   "symbol": "gEvent130Text18",
+   "en": "Oh, and why is that?{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent130Text19",
+   "pool": "event_text",
+   "symbol": "gEvent130Text19",
+   "en": "You know very well why.\nI’m not going to fall into your\ntrap!{END}",
+   "max_units": 68,
+   "units": 68,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent130Text20",
+   "pool": "event_text",
+   "symbol": "gEvent130Text20",
+   "en": "Then I have no choice but to\nmake you BEG for his help!{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent130Text21",
+   "pool": "event_text",
+   "symbol": "gEvent130Text21",
+   "en": "No!  She got away!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent130Text22",
+   "pool": "event_text",
+   "symbol": "gEvent130Text22",
+   "en": "What should we do?{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent130Text23",
+   "pool": "event_text",
+   "symbol": "gEvent130Text23",
+   "en": "Help her, of course!\nWhat else?{END}",
+   "max_units": 52,
+   "units": 37,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text00",
+   "pool": "event_text",
+   "symbol": "gEvent131Text00",
+   "en": "What are you waiting for?\nCall to him!{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent131Text01",
+   "pool": "event_text",
+   "symbol": "gEvent131Text01",
+   "en": "No!  I won’t let you hurt him!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "chunk": 34,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 150,
+ "items": [
+  {
+   "id": "event_text:gEvent021Text09",
+   "pool": "event_text",
+   "symbol": "gEvent021Text09",
+   "en": "So what’s her name?{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent021Text10",
+   "pool": "event_text",
+   "symbol": "gEvent021Text10",
+   "en": "I don’t remember.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent021Text11",
+   "pool": "event_text",
+   "symbol": "gEvent021Text11",
+   "en": "I feel kinda dumb.\nHere we are, saying we won’t\nforget our friends…{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent021Text12",
+   "pool": "event_text",
+   "symbol": "gEvent021Text12",
+   "en": "…and I can’t even remember\nher name.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent021Text13",
+   "pool": "event_text",
+   "symbol": "gEvent021Text13",
+   "en": "Sora…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent021Text14",
+   "pool": "event_text",
+   "symbol": "gEvent021Text14",
+   "en": "Well, there’s no rush!{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent021Text15",
+   "pool": "event_text",
+   "symbol": "gEvent021Text15",
+   "en": "Let's keep going.\nYou’re bound to remember it,\njust like the rest!{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent021Text16",
+   "pool": "event_text",
+   "symbol": "gEvent021Text16",
+   "en": "I guess so.{END}",
+   "max_units": 52,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent022Text00",
+   "pool": "event_text",
+   "symbol": "gEvent022Text00",
+   "en": "Hey, Sora!\nDid you remember anything\nelse about that girl?{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent022Text01",
+   "pool": "event_text",
+   "symbol": "gEvent022Text01",
+   "en": "Yeah, bits and pieces.{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent022Text02",
+   "pool": "event_text",
+   "symbol": "gEvent022Text02",
+   "en": "Tell us about her!\nTalking about it might help you\nremember.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent022Text03",
+   "pool": "event_text",
+   "symbol": "gEvent022Text03",
+   "en": "Okay.  Um…{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent022Text13",
+   "pool": "event_text",
+   "symbol": "gEvent022Text13",
+   "en": "Still, up until now you didn’t\nremember any of that!{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent022Text14",
+   "pool": "event_text",
+   "symbol": "gEvent022Text14",
+   "en": "At this rate, you’ll think of\nher name in no time!{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent022Text15",
+   "pool": "event_text",
+   "symbol": "gEvent022Text15",
+   "en": "Anyone notice something odd?\nSora’s remembering things,\ninstead of forgetting them.{END}",
+   "max_units": 90,
+   "units": 90,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent022Text16",
+   "pool": "event_text",
+   "symbol": "gEvent022Text16",
+   "en": "Hmm… Maybe forgetting things\nis the only way to reach the\nmemories buried deeper down.{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent022Text17",
+   "pool": "event_text",
+   "symbol": "gEvent022Text17",
+   "en": "You mean you have to forget\nto remember?{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent022Text18",
+   "pool": "event_text",
+   "symbol": "gEvent022Text18",
+   "en": "So it’s like those black-robed\nguys said.{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent022Text19",
+   "pool": "event_text",
+   "symbol": "gEvent022Text19",
+   "en": "“Our most precious memories\nlie deep in our hearts, out of\nreach.”{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent022Text20",
+   "pool": "event_text",
+   "symbol": "gEvent022Text20",
+   "en": "And all that stuff about\nfinding being losing and losing\nbeing finding…{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent022Text21",
+   "pool": "event_text",
+   "symbol": "gEvent022Text21",
+   "en": "I didn’t get it at first, but\nmaybe this is what they were\ntalking about.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent022Text22",
+   "pool": "event_text",
+   "symbol": "gEvent022Text22",
+   "en": "Aww, that’s no fair!{END}",
+   "max_units": 52,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent022Text23",
+   "pool": "event_text",
+   "symbol": "gEvent022Text23",
+   "en": "Why aren’t the rest of us\nremembering anything yet?{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent022Text24",
+   "pool": "event_text",
+   "symbol": "gEvent022Text24",
+   "en": "Come on, Goofy!\nWe're not forgetting fast\nenough!  Let's move!{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent023Text00",
+   "pool": "event_text",
+   "symbol": "gEvent023Text00",
+   "en": "It looks like Sora’s memories\nhave taken root, just as we\nplanned.{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent023Text01",
+   "pool": "event_text",
+   "symbol": "gEvent023Text01",
+   "en": "Let’s see how far our boy will\ngo, then.  Think it’s time for\nanother round?{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent023Text02",
+   "pool": "event_text",
+   "symbol": "gEvent023Text02",
+   "en": "Only if it’s my turn to play.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent023Text03",
+   "pool": "event_text",
+   "symbol": "gEvent023Text03",
+   "en": "You had your fun on the first\nfloor.{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent023Text04",
+   "pool": "event_text",
+   "symbol": "gEvent023Text04",
+   "en": "Remember, Larxene.\nOur job is to deliver him in one\npiece.{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent023Text05",
+   "pool": "event_text",
+   "symbol": "gEvent023Text05",
+   "en": "Fine.  But who says I can’t\nhave my way with him first?{END}",
+   "max_units": 61,
+   "units": 61,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent023Text06",
+   "pool": "event_text",
+   "symbol": "gEvent023Text06",
+   "en": "Don’t break him.{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent023Text07",
+   "pool": "event_text",
+   "symbol": "gEvent023Text07",
+   "en": "Do I detect a soft spot?{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent023Text08",
+   "pool": "event_text",
+   "symbol": "gEvent023Text08",
+   "en": "He’s partly one of us.{END}",
+   "max_units": 52,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent023Text09",
+   "pool": "event_text",
+   "symbol": "gEvent023Text09",
+   "en": "I’m not going to break the toy,\nAxel―just play with it.  I’m not\ndumb.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent023Text10",
+   "pool": "event_text",
+   "symbol": "gEvent023Text10",
+   "en": "Then you won’t mind the\nwarning.  Remember, Sora is\nthe key.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent023Text11",
+   "pool": "event_text",
+   "symbol": "gEvent023Text11",
+   "en": "We need him if we’re going to\ntake the Organization.{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent023Text12",
+   "pool": "event_text",
+   "symbol": "gEvent023Text12",
+   "en": "So you’re in on it, too?\nWell, keep it under your hood\nuntil the time is right.{END}",
+   "max_units": 86,
+   "units": 86,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent023Text13",
+   "pool": "event_text",
+   "symbol": "gEvent023Text13",
+   "en": "You would have been wise to\ndo the same, Larxene.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent024Text00",
+   "pool": "event_text",
+   "symbol": "gEvent024Text00",
+   "en": "So, Sora…\nHave you remembered your\nfriend’s name yet?{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent024Text01",
+   "pool": "event_text",
+   "symbol": "gEvent024Text01",
+   "en": "Nope.  For whatever reason,\nher name’s the only thing that\nisn’t coming back.{END}",
+   "max_units": 84,
+   "units": 84,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent024Text02",
+   "pool": "event_text",
+   "symbol": "gEvent024Text02",
+   "en": "That must be driving you\ncrazy.  You have the memories,\nbut no name to go with them.{END}",
+   "max_units": 91,
+   "units": 91,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent024Text03",
+   "pool": "event_text",
+   "symbol": "gEvent024Text03",
+   "en": "Heh…yeah.{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent025Text00",
+   "pool": "event_text",
+   "symbol": "gEvent025Text00",
+   "en": "You’re with Axel, aren’t you!{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent025Text01",
+   "pool": "event_text",
+   "symbol": "gEvent025Text01",
+   "en": "Ooh, aren’t you clever.\nThe name’s Larxene.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent025Text02",
+   "pool": "event_text",
+   "symbol": "gEvent025Text02",
+   "en": "Are you enjoying your stay in\nCastle Oblivion? {END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent025Text03",
+   "pool": "event_text",
+   "symbol": "gEvent025Text03",
+   "en": "I bet it’s nice to peel all the\nworthless memories away…\n\n…and awaken the true\nmemories that lie deep in your\nheart.{END}",
+   "max_units": 126,
+   "units": 126,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 6
+  },
+  {
+   "id": "event_text:gEvent025Text04",
+   "pool": "event_text",
+   "symbol": "gEvent025Text04",
+   "en": "True memories?{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent025Text05",
+   "pool": "event_text",
+   "symbol": "gEvent025Text05",
+   "en": "But you’re still forgetting\nsomething, aren’t you, Sora?\nThe most important thing.{END}",
+   "max_units": 89,
+   "units": 89,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent025Text06",
+   "pool": "event_text",
+   "symbol": "gEvent025Text06",
+   "en": "When that poor girl hears\nyou’ve forgotten her name,\nshe’ll be heartbroken.{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent025Text07",
+   "pool": "event_text",
+   "symbol": "gEvent025Text07",
+   "en": "You know her?!{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent025Text08",
+   "pool": "event_text",
+   "symbol": "gEvent025Text08",
+   "en": "Is she…here?{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent025Text09",
+   "pool": "event_text",
+   "symbol": "gEvent025Text09",
+   "en": "Uh-huuuuh.\nThe bad guys are holding her\ndeep within the castle.{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent025Text10",
+   "pool": "event_text",
+   "symbol": "gEvent025Text10",
+   "en": "And you, the hero, have to go\nsave her.\n\nSadly, there’s a catch…{END}",
+   "max_units": 72,
+   "units": 72,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent026Text00",
+   "pool": "event_text",
+   "symbol": "gEvent026Text00",
+   "en": "I’M a bad guy, so you have to\ngo though me!{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent026Text01",
+   "pool": "event_text",
+   "symbol": "gEvent026Text01",
+   "en": "Unnh…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent026Text02",
+   "pool": "event_text",
+   "symbol": "gEvent026Text02",
+   "en": "Sora!{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent026Text03",
+   "pool": "event_text",
+   "symbol": "gEvent026Text03",
+   "en": "What’s…that?\nIs that mine?{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent026Text04",
+   "pool": "event_text",
+   "symbol": "gEvent026Text04",
+   "en": "Tsk, tsk.\nYou've been wearing it all this\ntime, and you forgot? {END}",
+   "max_units": 71,
+   "units": 71,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent026Text05",
+   "pool": "event_text",
+   "symbol": "gEvent026Text05",
+   "en": "No, you couldn’t have.\nThe memory is engraved in\nyour heart.{END}",
+   "max_units": 67,
+   "units": 67,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent026Text06",
+   "pool": "event_text",
+   "symbol": "gEvent026Text06",
+   "en": "Now think, Sora.\nWhat oh what could it be?\nWho gave it to you?{END}",
+   "max_units": 69,
+   "units": 69,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent026Text07",
+   "pool": "event_text",
+   "symbol": "gEvent026Text07",
+   "en": "Na…{END}",
+   "max_units": 52,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent026Text08",
+   "pool": "event_text",
+   "symbol": "gEvent026Text08",
+   "en": "Na…mi…?{END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent026Text09",
+   "pool": "event_text",
+   "symbol": "gEvent026Text09",
+   "en": "That’s right!\nFree the memory from your\nheart!{END}",
+   "max_units": 53,
+   "units": 53,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent026Text10",
+   "pool": "event_text",
+   "symbol": "gEvent026Text10",
+   "en": "Nami…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent026Text11",
+   "pool": "event_text",
+   "symbol": "gEvent026Text11",
+   "en": "Naminé.{END}",
+   "max_units": 52,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent026Text12",
+   "pool": "event_text",
+   "symbol": "gEvent026Text12",
+   "en": "Well, it’s about time.\nThat’s right…Naminé.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent026Text13",
+   "pool": "event_text",
+   "symbol": "gEvent026Text13",
+   "en": "She’s the one that gave you\nthe cheesy good luck charm.\nNot that you remembered.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent026Text14",
+   "pool": "event_text",
+   "symbol": "gEvent026Text14",
+   "en": "No surprise, seeing as you\nforgot her NAME.  Talk about\nheartless!{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent026Text15",
+   "pool": "event_text",
+   "symbol": "gEvent026Text15",
+   "en": "It’d serve you right if I\nsmashed this piece of junk!{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent026Text16",
+   "pool": "event_text",
+   "symbol": "gEvent026Text16",
+   "en": "Don’t you touch it!{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

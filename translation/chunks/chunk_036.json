@@ -1,0 +1,848 @@
+{
+ "chunk": 36,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 142,
+ "items": [
+  {
+   "id": "event_text:gEvent032Text05",
+   "pool": "event_text",
+   "symbol": "gEvent032Text05",
+   "en": "I wonder what’s wrong with\nhim, then… {END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text06",
+   "pool": "event_text",
+   "symbol": "gEvent032Text06",
+   "en": "Hold on…  Isn’t the king\nsupposed to be with Riku?{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text07",
+   "pool": "event_text",
+   "symbol": "gEvent032Text07",
+   "en": "If something’s happened to\nRiku, then the king might be in\ndanger!  We gotta help him!{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent032Text08",
+   "pool": "event_text",
+   "symbol": "gEvent032Text08",
+   "en": "Yeah…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent032Text09",
+   "pool": "event_text",
+   "symbol": "gEvent032Text09",
+   "en": "Sora…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent032Text10",
+   "pool": "event_text",
+   "symbol": "gEvent032Text10",
+   "en": "Hey, Riku is still your friend,\nand that’s no mistake.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text11",
+   "pool": "event_text",
+   "symbol": "gEvent032Text11",
+   "en": "You sure?{END}",
+   "max_units": 52,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent032Text12",
+   "pool": "event_text",
+   "symbol": "gEvent032Text12",
+   "en": "I know he said some awful\nthings to you back there.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text13",
+   "pool": "event_text",
+   "symbol": "gEvent032Text13",
+   "en": "But don’t forget―we’re in\nCastle Oblivion.{END}",
+   "max_units": 52,
+   "units": 48,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text14",
+   "pool": "event_text",
+   "symbol": "gEvent032Text14",
+   "en": "People lose their memory here\na little bit at a time.{END}",
+   "max_units": 59,
+   "units": 59,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text15",
+   "pool": "event_text",
+   "symbol": "gEvent032Text15",
+   "en": "Riku’s probably forgotten\nthat he and you were friends.\nThat’s all.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent032Text16",
+   "pool": "event_text",
+   "symbol": "gEvent032Text16",
+   "en": "So it’s not that he doesn’t\nlike me―he just forgot?{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text17",
+   "pool": "event_text",
+   "symbol": "gEvent032Text17",
+   "en": "That’d be my guess.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent032Text18",
+   "pool": "event_text",
+   "symbol": "gEvent032Text18",
+   "en": "So instead of being sad, let’s\nfigure out a way to make Riku\nremember.{END}",
+   "max_units": 77,
+   "units": 77,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent032Text19",
+   "pool": "event_text",
+   "symbol": "gEvent032Text19",
+   "en": "It’s not like you to mope.\nLet’s work together and get\nthrough this.{END}",
+   "max_units": 75,
+   "units": 75,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent032Text20",
+   "pool": "event_text",
+   "symbol": "gEvent032Text20",
+   "en": "Jiminy’s right.\nDon’t push your friends away.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text21",
+   "pool": "event_text",
+   "symbol": "gEvent032Text21",
+   "en": "Yeah…okay.{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent032Text22",
+   "pool": "event_text",
+   "symbol": "gEvent032Text22",
+   "en": "No, no, NO!\nThat’s not what the Keyblade\nmaster should sound like!{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent032Text23",
+   "pool": "event_text",
+   "symbol": "gEvent032Text23",
+   "en": "Huh?\nOkay, how’s this, then…{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text24",
+   "pool": "event_text",
+   "symbol": "gEvent032Text24",
+   "en": "I’ll save Naminé, Riku, AND the\nking…and I'll do it blindfolded!{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text25",
+   "pool": "event_text",
+   "symbol": "gEvent032Text25",
+   "en": "That’s it, that’s the spirit!{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent032Text26",
+   "pool": "event_text",
+   "symbol": "gEvent032Text26",
+   "en": "Heartless?  Hah!!\nForces of evil, do your worst!{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text27",
+   "pool": "event_text",
+   "symbol": "gEvent032Text27",
+   "en": "Good, good!\nNow you’re sounding heroic!{END}",
+   "max_units": 52,
+   "units": 45,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text28",
+   "pool": "event_text",
+   "symbol": "gEvent032Text28",
+   "en": "Boy, he sure knows how to\nget carried away…{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent032Text29",
+   "pool": "event_text",
+   "symbol": "gEvent032Text29",
+   "en": "Yep, that’s our Sora!{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent033Text00",
+   "pool": "event_text",
+   "symbol": "gEvent033Text00",
+   "en": "Can’t take a hint, can you?\nLeave, Sora.{END}",
+   "max_units": 52,
+   "units": 46,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent033Text01",
+   "pool": "event_text",
+   "symbol": "gEvent033Text01",
+   "en": "I’m not leaving until I rescue\nyou and Naminé.{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent033Text02",
+   "pool": "event_text",
+   "symbol": "gEvent033Text02",
+   "en": "Hah!  What makes you think I\nneed rescuing?{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent033Text03",
+   "pool": "event_text",
+   "symbol": "gEvent033Text03",
+   "en": "Then think of Kairi.\nShe wants you to come home,\ntoo.  Don’t you remember?{END}",
+   "max_units": 81,
+   "units": 81,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent033Text04",
+   "pool": "event_text",
+   "symbol": "gEvent033Text04",
+   "en": "You’re the one forgetting.\nI told YOU to take care of her.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent033Text05",
+   "pool": "event_text",
+   "symbol": "gEvent033Text05",
+   "en": "At Kingdom Hearts―when we\nclosed the door to darkness.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent033Text06",
+   "pool": "event_text",
+   "symbol": "gEvent033Text06",
+   "en": "Give it up, Sora.  I’m not going\nback to the islands, and you’re\nnot changing my mind.{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent033Text07",
+   "pool": "event_text",
+   "symbol": "gEvent033Text07",
+   "en": "It’s not just Kairi!\nWhat about the rest of our\nfriends?{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent033Text08",
+   "pool": "event_text",
+   "symbol": "gEvent033Text08",
+   "en": "You can have them.\nI forgot about those losers\nages ago.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent033Text09",
+   "pool": "event_text",
+   "symbol": "gEvent033Text09",
+   "en": "Listen to yourself!{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent033Text10",
+   "pool": "event_text",
+   "symbol": "gEvent033Text10",
+   "en": "What about you, Sora?\nDo you even remember what\nthey all look like?{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent033Text11",
+   "pool": "event_text",
+   "symbol": "gEvent033Text11",
+   "en": "Of course I…{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent033Text12",
+   "pool": "event_text",
+   "symbol": "gEvent033Text12",
+   "en": "Don’t feel bad.\nThat’s what this castle does\nto you if you stay too long.{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent033Text13",
+   "pool": "event_text",
+   "symbol": "gEvent033Text13",
+   "en": "You forget all the useless\nstuff and remember for the\nfirst time what really matters.{END}",
+   "max_units": 92,
+   "units": 92,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent033Text14",
+   "pool": "event_text",
+   "symbol": "gEvent033Text14",
+   "en": "I remembered it, Sora.\nThe one thing most important\nto me.{END}",
+   "max_units": 65,
+   "units": 65,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent033Text15",
+   "pool": "event_text",
+   "symbol": "gEvent033Text15",
+   "en": "I’m staying here to protect\nNaminé.  Nothing else matters!{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent033Text16",
+   "pool": "event_text",
+   "symbol": "gEvent033Text16",
+   "en": "Hey, Riku…{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent033Text17",
+   "pool": "event_text",
+   "symbol": "gEvent033Text17",
+   "en": "Mind if I jog your memory?{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent033Text18",
+   "pool": "event_text",
+   "symbol": "gEvent033Text18",
+   "en": "Go ahead and try.{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent034Text00",
+   "pool": "event_text",
+   "symbol": "gEvent034Text00",
+   "en": "Grrr…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent034Text01",
+   "pool": "event_text",
+   "symbol": "gEvent034Text01",
+   "en": "Too bad, Sora.\nNothing’s coming back to me.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent034Text02",
+   "pool": "event_text",
+   "symbol": "gEvent034Text02",
+   "en": "Maybe you should try hitting\na little harder.{END}",
+   "max_units": 52,
+   "units": 51,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent034Text03",
+   "pool": "event_text",
+   "symbol": "gEvent034Text03",
+   "en": "No, that’s enough!{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent034Text04",
+   "pool": "event_text",
+   "symbol": "gEvent034Text04",
+   "en": "C’mon, Riku…\nLet’s quit pushing each other\naround and go help Naminé.{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent034Text05",
+   "pool": "event_text",
+   "symbol": "gEvent034Text05",
+   "en": "What, together?{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent034Text06",
+   "pool": "event_text",
+   "symbol": "gEvent034Text06",
+   "en": "That is so like you.\nYou’re always trying to worm\nyour way into my heart!{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent034Text07",
+   "pool": "event_text",
+   "symbol": "gEvent034Text07",
+   "en": "Whoa, whoa, time out!\nWhen did I ever do that?{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent034Text08",
+   "pool": "event_text",
+   "symbol": "gEvent034Text08",
+   "en": "Hmph, you probably forgot.\nIt never mattered to you how\nI felt!{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent034Text09",
+   "pool": "event_text",
+   "symbol": "gEvent034Text09",
+   "en": "I won’t let you push me away.{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent035Text00",
+   "pool": "event_text",
+   "symbol": "gEvent035Text00",
+   "en": "Heh heh…\nI know exactly how you feel.{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent035Text01",
+   "pool": "event_text",
+   "symbol": "gEvent035Text01",
+   "en": "Don't get your hopes up.\nNobodies can't be somebodies.{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent035Text02",
+   "pool": "event_text",
+   "symbol": "gEvent035Text02",
+   "en": "But think, Naminé.\nI'm sure there's SOMETHING\nyou could do…{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent036Text00",
+   "pool": "event_text",
+   "symbol": "gEvent036Text00",
+   "en": "Why…{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent036Text01",
+   "pool": "event_text",
+   "symbol": "gEvent036Text01",
+   "en": "I don’t get it.\nWe both want the same thing.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent036Text02",
+   "pool": "event_text",
+   "symbol": "gEvent036Text02",
+   "en": "We both want to help Naminé.\nSo why are we fighting?{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent036Text03",
+   "pool": "event_text",
+   "symbol": "gEvent036Text03",
+   "en": "I mean, Riku and I have bumped\nheads over stuff in the past…{END}",
+   "max_units": 66,
+   "units": 66,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent036Text04",
+   "pool": "event_text",
+   "symbol": "gEvent036Text04",
+   "en": "That’s for sure!{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent036Text05",
+   "pool": "event_text",
+   "symbol": "gEvent036Text05",
+   "en": "Well, the more you fight the\ncloser you must be.{END}",
+   "max_units": 54,
+   "units": 54,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent036Text06",
+   "pool": "event_text",
+   "symbol": "gEvent036Text06",
+   "en": "Yeah, I know.\nBut Riku doesn’t seem to feel\nthat way…{END}",
+   "max_units": 60,
+   "units": 60,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent036Text07",
+   "pool": "event_text",
+   "symbol": "gEvent036Text07",
+   "en": "Have a little faith, Sora!\nYou guys used to be\ninseparable, right?{END}",
+   "max_units": 73,
+   "units": 73,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent036Text08",
+   "pool": "event_text",
+   "symbol": "gEvent036Text08",
+   "en": "You, Riku, and Kai…\nKai…{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent036Text09",
+   "pool": "event_text",
+   "symbol": "gEvent036Text09",
+   "en": "And, um, what’s-her-name. {END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent036Text10",
+   "pool": "event_text",
+   "symbol": "gEvent036Text10",
+   "en": "This is awful.\nOur memories are fading fast.{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent036Text11",
+   "pool": "event_text",
+   "symbol": "gEvent036Text11",
+   "en": "We’d better hurry, Sora.\nI’m sure you and Riku can talk\nthings out.{END}",
+   "max_units": 74,
+   "units": 74,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent036Text12",
+   "pool": "event_text",
+   "symbol": "gEvent036Text12",
+   "en": "You’re probably right.\nAfter all, the three of us were\nnever apart!  Me, Riku…{END}",
+   "max_units": 85,
+   "units": 85,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  }
+ ]
+}

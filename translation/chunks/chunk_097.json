@@ -1,0 +1,200 @@
+{
+ "chunk": 97,
+ "chunks_total": 97,
+ "entries": 16,
+ "lines": 16,
+ "items": [
+  {
+   "id": "ui_text:RIKU_DECK_NAME_17",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_17",
+   "en": "レクセウス{END}",
+   "max_units": 107,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_18",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_18",
+   "en": "偽リク５{END}",
+   "max_units": 107,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_19",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_19",
+   "en": "アンセム{END}",
+   "max_units": 107,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:RIKU_DECK_NAME_20",
+   "pool": "ui_text",
+   "symbol": "RIKU_DECK_NAME_20",
+   "en": "レオン{END}",
+   "max_units": 107,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDeckKeyboardRow0",
+   "pool": "ui_text",
+   "symbol": "gDeckKeyboardRow0",
+   "en": "ABCDEFGHIJKLMNO{END}",
+   "max_units": 20,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDeckKeyboardRow1",
+   "pool": "ui_text",
+   "symbol": "gDeckKeyboardRow1",
+   "en": "PQRSTUVWXYZ{END}",
+   "max_units": 16,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDeckKeyboardRow2",
+   "pool": "ui_text",
+   "symbol": "gDeckKeyboardRow2",
+   "en": "abcdefghijklmno{END}",
+   "max_units": 20,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDeckKeyboardRow3",
+   "pool": "ui_text",
+   "symbol": "gDeckKeyboardRow3",
+   "en": "pqrstuvwxyz{END}",
+   "max_units": 16,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDeckKeyboardRow4",
+   "pool": "ui_text",
+   "symbol": "gDeckKeyboardRow4",
+   "en": "0123456789♪♂♀#&{END}",
+   "max_units": 20,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDeckKeyboardRow5",
+   "pool": "ui_text",
+   "symbol": "gDeckKeyboardRow5",
+   "en": "!?※%$ ()<> 「」『』{END}",
+   "max_units": 20,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDeckKeyboardRow6",
+   "pool": "ui_text",
+   "symbol": "gDeckKeyboardRow6",
+   "en": "-~/.'↑↓←→_{END}",
+   "max_units": 15,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gPremiumCardMessageText",
+   "pool": "ui_text",
+   "symbol": "gPremiumCardMessageText",
+   "en": "became a premium card!{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDeckEquipSuffixText",
+   "pool": "ui_text",
+   "symbol": "gDeckEquipSuffixText",
+   "en": ".{END}",
+   "max_units": 12,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDefaultDeckName0Text",
+   "pool": "ui_text",
+   "symbol": "gDefaultDeckName0Text",
+   "en": "Deck 1{END}",
+   "max_units": 12,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDefaultDeckName1Text",
+   "pool": "ui_text",
+   "symbol": "gDefaultDeckName1Text",
+   "en": "Deck 2{END}",
+   "max_units": 12,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "ui_text:gDefaultDeckName2Text",
+   "pool": "ui_text",
+   "symbol": "gDefaultDeckName2Text",
+   "en": "Deck 3{END}",
+   "max_units": 12,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

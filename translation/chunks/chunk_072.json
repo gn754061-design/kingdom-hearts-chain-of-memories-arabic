@@ -1,0 +1,848 @@
+{
+ "chunk": 72,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyHeartlessWizardLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWizardLine1",
+   "en": "in magic.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWizardLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWizardLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWizardLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWizardLine3",
+   "en": "The Wizard is a{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWizardLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWizardLine4",
+   "en": "formidable opponent{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWizardLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWizardLine5",
+   "en": "that attacks with high-{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWizardLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWizardLine6",
+   "en": "level Fire, Blizzard, and{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWizardLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWizardLine7",
+   "en": "Thunder spells.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWhiteMushroomLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWhiteMushroomLine0",
+   "en": "A Heartless with an{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWhiteMushroomLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWhiteMushroomLine1",
+   "en": "unusual affinity for{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWhiteMushroomLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWhiteMushroomLine2",
+   "en": "people.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWhiteMushroomLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWhiteMushroomLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWhiteMushroomLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWhiteMushroomLine4",
+   "en": "The White Mushroom{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWhiteMushroomLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWhiteMushroomLine5",
+   "en": "never attacks, and may{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWhiteMushroomLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWhiteMushroomLine6",
+   "en": "even reward someone{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWhiteMushroomLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWhiteMushroomLine7",
+   "en": "who comes to its aid.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine0",
+   "en": "An aggressive,{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine1",
+   "en": "poisonous Heartless,{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine2",
+   "en": "not to be confused with{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine3",
+   "en": "the White Mushroom.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine4",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine5",
+   "en": "The Black Fungus likes{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine6",
+   "en": "to paralyze its foes{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine7",
+   "en": "and toy with them.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine8",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine9",
+   "en": "It’s tough to beat, but{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine10",
+   "en": "victory doesn’t go{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessBlackFungusLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessBlackFungusLine11",
+   "en": "unrewarded…{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCreeperPlantLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCreeperPlantLine0",
+   "en": "A flower-like Heartless.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCreeperPlantLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCreeperPlantLine1",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCreeperPlantLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCreeperPlantLine2",
+   "en": "It’s rooted in one place,{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCreeperPlantLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCreeperPlantLine3",
+   "en": "but staying far away{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCreeperPlantLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCreeperPlantLine4",
+   "en": "isn’t enough, since it{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCreeperPlantLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCreeperPlantLine5",
+   "en": "can spit seeds or{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCreeperPlantLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCreeperPlantLine6",
+   "en": "attack from below with{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCreeperPlantLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCreeperPlantLine7",
+   "en": "its sharp roots.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessTornadoStepLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessTornadoStepLine0",
+   "en": "A Heartless that flies{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessTornadoStepLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessTornadoStepLine1",
+   "en": "about using its arms like{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessTornadoStepLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessTornadoStepLine2",
+   "en": "propeller blades.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessTornadoStepLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessTornadoStepLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessTornadoStepLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessTornadoStepLine4",
+   "en": "Whether moving or{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessTornadoStepLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessTornadoStepLine5",
+   "en": "attacking, it’s always{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessTornadoStepLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessTornadoStepLine6",
+   "en": "spin, spin, spinning―{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessTornadoStepLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessTornadoStepLine7",
+   "en": "but never seems to get{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessTornadoStepLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessTornadoStepLine8",
+   "en": "dizzy.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCrescendoLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCrescendoLine0",
+   "en": "A hopping, horn-like{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCrescendoLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCrescendoLine1",
+   "en": "Heartless.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCrescendoLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCrescendoLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCrescendoLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCrescendoLine3",
+   "en": "It’s a bothersome foe{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCrescendoLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCrescendoLine4",
+   "en": "that can honk and call{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessCrescendoLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessCrescendoLine5",
+   "en": "other Heartless.{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine0",
+   "en": "Riku’s boyhood friend,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine1",
+   "en": "and the hero of light{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine2",
+   "en": "chosen by the Keyblade{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine3",
+   "en": "to stand against the{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine4",
+   "en": "darkness.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine6",
+   "en": "Riku fought Sora while{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine7",
+   "en": "bridled by darkness,{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine8",
+   "en": "but their friendship{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine9",
+   "en": "proved stronger, and{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine10",
+   "en": "they ultimately worked{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine11",
+   "en": "together to close the{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterSoraLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterSoraLine12",
+   "en": "door to darkness.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine0",
+   "en": "A young witch who can{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine1",
+   "en": "manipulate memories.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine3",
+   "en": "Under orders from the{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine4",
+   "en": "Organization, Naminé{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine5",
+   "en": "shadowed Kairi and{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine6",
+   "en": "altered Sora’s memory.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine7",
+   "en": "But the forgiveness in{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

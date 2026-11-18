@@ -1,0 +1,848 @@
+{
+ "chunk": 83,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine23",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine23",
+   "en": "quick thinking pacified{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine24",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine24",
+   "en": "the Queen and no one{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryWonderlandLine25",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryWonderlandLine25",
+   "en": "had to lose their head.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line0",
+   "en": "Sora pressed on in his{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line1",
+   "en": "search for Naminé, and{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line2",
+   "en": "can you believe it?  He{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line3",
+   "en": "found Riku, his best{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line4",
+   "en": "friend whom we thought{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line5",
+   "en": "was lost.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line7",
+   "en": "Sora was so happy, but{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line8",
+   "en": "Riku attacked him just{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line9",
+   "en": "like that, saying, “I’ll{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line10",
+   "en": "protect Naminé!”{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line11",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line12",
+   "en": "What could he mean?{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line13",
+   "en": "Will something happen if{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line14",
+   "en": "Sora finds Naminé?{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line15",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line16",
+   "en": "Sora is chasing after{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryTale3Line17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryTale3Line17",
+   "en": "Riku…and the answers.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine0",
+   "en": "Dr. Finkelstein invented{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine1",
+   "en": "a potion that restores{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine2",
+   "en": "true memories, but it{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine3",
+   "en": "drew the Heartless to{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine4",
+   "en": "Halloween Town.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine5",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine6",
+   "en": "Intrigued, Sora went{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine7",
+   "en": "with Jack to look for{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine8",
+   "en": "Sally, who had nabbed{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine9",
+   "en": "the potion because she{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine10",
+   "en": "was scared of what it{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine11",
+   "en": "could do.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine12",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine13",
+   "en": "Oogie Boogie swiped the{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine14",
+   "en": "potion and downed it in{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine15",
+   "en": "a single gulp.  But his{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine16",
+   "en": "true memories drove{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine17",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine17",
+   "en": "him mad with fear.{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine18",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine18",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine19",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine19",
+   "en": "What if true memories{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine20",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine20",
+   "en": "do that to everyone’s{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryHalloweenTownLine21",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryHalloweenTownLine21",
+   "en": "heart?  Scary.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine0",
+   "en": "The last card led to{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine1",
+   "en": "the place where Sora{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine2",
+   "en": "grew up.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine4",
+   "en": "Sora wandered the{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine5",
+   "en": "islet that was once his{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine6",
+   "en": "playground, wading{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine7",
+   "en": "through his memories to{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine8",
+   "en": "find the girl he cared{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine9",
+   "en": "for.{END}",
+   "max_units": 22,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine10",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine11",
+   "en": "But when he found{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine12",
+   "en": "Naminé, she told him the{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine13",
+   "en": "bitter truth―nothing{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine14",
+   "en": "he remembered of her{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyStoryDestinyIslandsLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyStoryDestinyIslandsLine15",
+   "en": "ever happened.{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine0",
+   "en": "Sora’s childhood friend.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine1",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine2",
+   "en": "Sora’s journey began{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine3",
+   "en": "as a search for Kairi,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine4",
+   "en": "who disappeared when{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine5",
+   "en": "their island home was{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine6",
+   "en": "swallowed by darkness.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine7",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine8",
+   "en": "Kairi was held captive{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine9",
+   "en": "by the Heartless, but{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyCharacterKairiLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyCharacterKairiLine10",
+   "en": "thanks to Sora she and{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

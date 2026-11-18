@@ -1,0 +1,848 @@
+{
+ "chunk": 44,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 126,
+ "items": [
+  {
+   "id": "event_text:gEvent066Text11",
+   "pool": "event_text",
+   "symbol": "gEvent066Text11",
+   "en": "Do it, Naminé!\nObliterate his memory!{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text12",
+   "pool": "event_text",
+   "symbol": "gEvent066Text12",
+   "en": "No.{END}",
+   "max_units": 52,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text13",
+   "pool": "event_text",
+   "symbol": "gEvent066Text13",
+   "en": "Sora forgave me even though\nI deceived him.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text14",
+   "pool": "event_text",
+   "symbol": "gEvent066Text14",
+   "en": "I could never break his heart!{END}",
+   "max_units": 52,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text15",
+   "pool": "event_text",
+   "symbol": "gEvent066Text15",
+   "en": "I don’t care what you do to\nme.  I won’t hurt Sora!{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text16",
+   "pool": "event_text",
+   "symbol": "gEvent066Text16",
+   "en": "Then you’ll pay the price―{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text17",
+   "pool": "event_text",
+   "symbol": "gEvent066Text17",
+   "en": "Do what he says, Naminé!{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text18",
+   "pool": "event_text",
+   "symbol": "gEvent066Text18",
+   "en": "I don’t care!\nErase my memory!{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text19",
+   "pool": "event_text",
+   "symbol": "gEvent066Text19",
+   "en": "Sora, what are you saying?{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text20",
+   "pool": "event_text",
+   "symbol": "gEvent066Text20",
+   "en": "Who am I going to look after if\nI don’t have you? {END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text21",
+   "pool": "event_text",
+   "symbol": "gEvent066Text21",
+   "en": "Do it, Naminé!\nErase my memories, break my\nheart…{END}",
+   "max_units": 56,
+   "units": 56,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent066Text22",
+   "pool": "event_text",
+   "symbol": "gEvent066Text22",
+   "en": "I’ll still have my promise.\nI’ll still protect you!{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text23",
+   "pool": "event_text",
+   "symbol": "gEvent066Text23",
+   "en": "Sora…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text24",
+   "pool": "event_text",
+   "symbol": "gEvent066Text24",
+   "en": "I don’t need my memory to\ntake on Marluxia.{END}",
+   "max_units": 52,
+   "units": 49,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text25",
+   "pool": "event_text",
+   "symbol": "gEvent066Text25",
+   "en": "Yeah!  Even if Sora forgets,\nwe won’t!{END}",
+   "max_units": 52,
+   "units": 44,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text26",
+   "pool": "event_text",
+   "symbol": "gEvent066Text26",
+   "en": "All we gotta do is remember\nfor him!{END}",
+   "max_units": 52,
+   "units": 42,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text27",
+   "pool": "event_text",
+   "symbol": "gEvent066Text27",
+   "en": "With everyone else’s memories,\nI can piece my own together\nagain in no time!{END}",
+   "max_units": 83,
+   "units": 83,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent066Text28",
+   "pool": "event_text",
+   "symbol": "gEvent066Text28",
+   "en": "Ignorant fool!  If Naminé\ndestroys your memory, you’ll\nbe naught but a lifeless shell.{END}",
+   "max_units": 93,
+   "units": 93,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent066Text29",
+   "pool": "event_text",
+   "symbol": "gEvent066Text29",
+   "en": "Your heart will be unable to\nfeel, to care!  Just like that\npathetic imitation of Riku.{END}",
+   "max_units": 94,
+   "units": 94,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent066Text30",
+   "pool": "event_text",
+   "symbol": "gEvent066Text30",
+   "en": "Guess again.{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text31",
+   "pool": "event_text",
+   "symbol": "gEvent066Text31",
+   "en": "It cannot be!{END}",
+   "max_units": 52,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text32",
+   "pool": "event_text",
+   "symbol": "gEvent066Text32",
+   "en": "Riku!{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text33",
+   "pool": "event_text",
+   "symbol": "gEvent066Text33",
+   "en": "No, not Riku.\nJust someone’s pet project.{END}",
+   "max_units": 52,
+   "units": 47,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text34",
+   "pool": "event_text",
+   "symbol": "gEvent066Text34",
+   "en": "But…you’re an empty shell!\nYou’ve been stripped of all\nyou had!{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent066Text35",
+   "pool": "event_text",
+   "symbol": "gEvent066Text35",
+   "en": "What did I ever have?\nMy body and heart are fake.{END}",
+   "max_units": 55,
+   "units": 55,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent066Text36",
+   "pool": "event_text",
+   "symbol": "gEvent066Text36",
+   "en": "But there’s one thing you\ncan’t take from me anyway…\neven if it is a lie!{END}",
+   "max_units": 80,
+   "units": 80,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent066Text37",
+   "pool": "event_text",
+   "symbol": "gEvent066Text37",
+   "en": "I will protect Naminé.\nPhantom promise or not, it's\nMY promise!{END}",
+   "max_units": 70,
+   "units": 70,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent066Text38",
+   "pool": "event_text",
+   "symbol": "gEvent066Text38",
+   "en": "Know your place!{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent066Text39",
+   "pool": "event_text",
+   "symbol": "gEvent066Text39",
+   "en": "You would chain your heart\nwith false memories?  Cast\nyour heart’s freedom aside?{END}",
+   "max_units": 88,
+   "units": 88,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent066Text40",
+   "pool": "event_text",
+   "symbol": "gEvent066Text40",
+   "en": "You turn from the truth\nbecause your heart is weak.\n\nYou cannot defeat me!{END}",
+   "max_units": 82,
+   "units": 82,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 4
+  },
+  {
+   "id": "event_text:gEvent067Text00",
+   "pool": "event_text",
+   "symbol": "gEvent067Text00",
+   "en": "We…we got him?!{END}",
+   "max_units": 52,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent067Text01",
+   "pool": "event_text",
+   "symbol": "gEvent067Text01",
+   "en": "You could say that.{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent067Text02",
+   "pool": "event_text",
+   "symbol": "gEvent067Text02",
+   "en": "But what you destroyed was\njust an image of me.  No more\nthan a petty imitation.{END}",
+   "max_units": 87,
+   "units": 87,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent067Text03",
+   "pool": "event_text",
+   "symbol": "gEvent067Text03",
+   "en": "So what!{END}",
+   "max_units": 52,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent067Text04",
+   "pool": "event_text",
+   "symbol": "gEvent067Text04",
+   "en": "Grrr…\nAnother trick.{END}",
+   "max_units": 52,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent067Text05",
+   "pool": "event_text",
+   "symbol": "gEvent067Text05",
+   "en": "The real Marluxia’s in there?{END}",
+   "max_units": 52,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent067Text06",
+   "pool": "event_text",
+   "symbol": "gEvent067Text06",
+   "en": "Yes.{END}",
+   "max_units": 52,
+   "units": 9,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent067Text07",
+   "pool": "event_text",
+   "symbol": "gEvent067Text07",
+   "en": "Whatever's on the other side\nis powerful…  I can feel it.{END}",
+   "max_units": 63,
+   "units": 63,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent067Text08",
+   "pool": "event_text",
+   "symbol": "gEvent067Text08",
+   "en": "Well then, we'd better hurry\nup and stop it!{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent067Text09",
+   "pool": "event_text",
+   "symbol": "gEvent067Text09",
+   "en": "Let’s do this!{END}",
+   "max_units": 52,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent067Text10",
+   "pool": "event_text",
+   "symbol": "gEvent067Text10",
+   "en": "Riku…\nKeep Naminé safe.{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent067Text11",
+   "pool": "event_text",
+   "symbol": "gEvent067Text11",
+   "en": "Me?{END}",
+   "max_units": 52,
+   "units": 8,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent067Text12",
+   "pool": "event_text",
+   "symbol": "gEvent067Text12",
+   "en": "You don’t want to?{END}",
+   "max_units": 52,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent067Text13",
+   "pool": "event_text",
+   "symbol": "gEvent067Text13",
+   "en": "All right.{END}",
+   "max_units": 52,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent068Text00",
+   "pool": "event_text",
+   "symbol": "gEvent068Text00",
+   "en": "This is it, Sora!\nThe final battle!{END}",
+   "max_units": 52,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent068Text01",
+   "pool": "event_text",
+   "symbol": "gEvent068Text01",
+   "en": "You ready to go?{END}",
+   "max_units": 52,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent069Text00",
+   "pool": "event_text",
+   "symbol": "gEvent069Text00",
+   "en": "開いた扉へ歩き出すソラ…{END}",
+   "max_units": 52,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent070Text00",
+   "pool": "event_text",
+   "symbol": "gEvent070Text00",
+   "en": "Drown in the heart-lorn world\nof nothingness!\n\nI shall scatter your heart to\nthe empty winds!{END}",
+   "max_units": 102,
+   "units": 102,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 5
+  },
+  {
+   "id": "event_text:gEvent071Text00",
+   "pool": "event_text",
+   "symbol": "gEvent071Text00",
+   "en": "扉を封印。{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text00",
+   "pool": "event_text",
+   "symbol": "gEvent072Text00",
+   "en": "Are you okay, Riku?{END}",
+   "max_units": 52,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text01",
+   "pool": "event_text",
+   "symbol": "gEvent072Text01",
+   "en": "I’m not Riku.\nI’m fake.{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text02",
+   "pool": "event_text",
+   "symbol": "gEvent072Text02",
+   "en": "I can’t remember when I was\ncreated, or why…{END}",
+   "max_units": 52,
+   "units": 50,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text03",
+   "pool": "event_text",
+   "symbol": "gEvent072Text03",
+   "en": "All I’ve got left is you and\nNaminé.  But those memories\naren’t real…{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text04",
+   "pool": "event_text",
+   "symbol": "gEvent072Text04",
+   "en": "Naminé, can’t you put Riku’s\nmemory back to normal?{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text05",
+   "pool": "event_text",
+   "symbol": "gEvent072Text05",
+   "en": "It…It doesn’t work that way.{END}",
+   "max_units": 52,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text06",
+   "pool": "event_text",
+   "symbol": "gEvent072Text06",
+   "en": "It’s all right.\nDon’t worry about me.{END}",
+   "max_units": 52,
+   "units": 43,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text07",
+   "pool": "event_text",
+   "symbol": "gEvent072Text07",
+   "en": "Wait!{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text08",
+   "pool": "event_text",
+   "symbol": "gEvent072Text08",
+   "en": "Who cares if someone made\nyou?{END}",
+   "max_units": 52,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text09",
+   "pool": "event_text",
+   "symbol": "gEvent072Text09",
+   "en": "You have your own heart.{END}",
+   "max_units": 52,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text10",
+   "pool": "event_text",
+   "symbol": "gEvent072Text10",
+   "en": "Those feelings and memories\nare yours and yours alone.\nThey’re special!{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text11",
+   "pool": "event_text",
+   "symbol": "gEvent072Text11",
+   "en": "Sora, you’re a good person.{END}",
+   "max_units": 52,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text12",
+   "pool": "event_text",
+   "symbol": "gEvent072Text12",
+   "en": "I don’t have to be real to see\nhow real your feelings are.{END}",
+   "max_units": 64,
+   "units": 64,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  },
+  {
+   "id": "event_text:gEvent072Text13",
+   "pool": "event_text",
+   "symbol": "gEvent072Text13",
+   "en": "That’s good enough for me.{END}",
+   "max_units": 52,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text14",
+   "pool": "event_text",
+   "symbol": "gEvent072Text14",
+   "en": "Riku!{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text15",
+   "pool": "event_text",
+   "symbol": "gEvent072Text15",
+   "en": "Riku…{END}",
+   "max_units": 52,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text16",
+   "pool": "event_text",
+   "symbol": "gEvent072Text16",
+   "en": "Can you fix our memories?{END}",
+   "max_units": 52,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text17",
+   "pool": "event_text",
+   "symbol": "gEvent072Text17",
+   "en": "Yes.  Just because you can’t\nremember something doesn’t\nmean it’s gone.{END}",
+   "max_units": 78,
+   "units": 78,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text18",
+   "pool": "event_text",
+   "symbol": "gEvent072Text18",
+   "en": "What do you mean?{END}",
+   "max_units": 52,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "event_text:gEvent072Text19",
+   "pool": "event_text",
+   "symbol": "gEvent072Text19",
+   "en": "Remembering one thing leads\nto remembering another, and\nthen another…{END}",
+   "max_units": 76,
+   "units": 76,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 3
+  },
+  {
+   "id": "event_text:gEvent072Text20",
+   "pool": "event_text",
+   "symbol": "gEvent072Text20",
+   "en": "Your memories are connected,\nlike links in a chain.{END}",
+   "max_units": 57,
+   "units": 57,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 2
+  }
+ ]
+}

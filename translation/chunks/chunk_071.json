@@ -1,0 +1,848 @@
+{
+ "chunk": 71,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyHeartlessAquatankLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAquatankLine4",
+   "en": "The Aquatank attacks{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAquatankLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAquatankLine5",
+   "en": "with Thunder or by{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAquatankLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAquatankLine6",
+   "en": "whirling its sizable body{END}",
+   "max_units": 30,
+   "units": 30,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAquatankLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAquatankLine7",
+   "en": "about.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWightKnightLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWightKnightLine0",
+   "en": "A Heartless that calls{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWightKnightLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWightKnightLine1",
+   "en": "Halloween Town its{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWightKnightLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWightKnightLine2",
+   "en": "main haunt.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWightKnightLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWightKnightLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWightKnightLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWightKnightLine4",
+   "en": "The Wight Knight’s long{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWightKnightLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWightKnightLine5",
+   "en": "appendages make it{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWightKnightLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWightKnightLine6",
+   "en": "dangerous to approach.{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGargoyleLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGargoyleLine0",
+   "en": "A winged Heartless{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGargoyleLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGargoyleLine1",
+   "en": "that mainly appears in{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGargoyleLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGargoyleLine2",
+   "en": "Halloween Town.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGargoyleLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGargoyleLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGargoyleLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGargoyleLine4",
+   "en": "It pelts its stunned{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGargoyleLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGargoyleLine5",
+   "en": "opponents with{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessGargoyleLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessGargoyleLine6",
+   "en": "fireballs.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessPirateLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessPirateLine0",
+   "en": "A Heartless that mostly{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessPirateLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessPirateLine1",
+   "en": "sticks to Never Land.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessPirateLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessPirateLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessPirateLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessPirateLine3",
+   "en": "A skilled swordsman,{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessPirateLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessPirateLine4",
+   "en": "the Pirate can knock its{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessPirateLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessPirateLine5",
+   "en": "enemies out cold and{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessPirateLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessPirateLine6",
+   "en": "then finish them off{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessPirateLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessPirateLine7",
+   "en": "with a vicious combo.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessPirateLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessPirateLine8",
+   "en": "If its sword flashes,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessPirateLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessPirateLine9",
+   "en": "watch out!{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAirPirateLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAirPirateLine0",
+   "en": "A winged Heartless{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAirPirateLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAirPirateLine1",
+   "en": "that mostly sticks to{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAirPirateLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAirPirateLine2",
+   "en": "Never Land.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAirPirateLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAirPirateLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAirPirateLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAirPirateLine4",
+   "en": "It’s not armed, but it{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAirPirateLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAirPirateLine5",
+   "en": "doesn’t need to be.{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAirPirateLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAirPirateLine6",
+   "en": "The Air Pirate deals a{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAirPirateLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAirPirateLine7",
+   "en": "brutal punch right{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessAirPirateLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessAirPirateLine8",
+   "en": "after its fist flashes.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarkballLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarkballLine0",
+   "en": "A Heartless made from{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarkballLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarkballLine1",
+   "en": "the very shadows of{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarkballLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarkballLine2",
+   "en": "darkness.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarkballLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarkballLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarkballLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarkballLine4",
+   "en": "The Darkball mostly{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarkballLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarkballLine5",
+   "en": "just bobs through the{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarkballLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarkballLine6",
+   "en": "air, but its random{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarkballLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarkballLine7",
+   "en": "weaving and biting are{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDarkballLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDarkballLine8",
+   "en": "a nuisance.{END}",
+   "max_units": 22,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine0",
+   "en": "A Heartless that{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine1",
+   "en": "primarily resides in{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine2",
+   "en": "Hollow Bastion.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine4",
+   "en": "Its shield stops head-{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine5",
+   "en": "on physical and magical{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine6",
+   "en": "attacks, and can launch{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine7",
+   "en": "fireballs.{END}",
+   "max_units": 22,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine8",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine9",
+   "en": "The Defender is also a{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine10",
+   "en": "skilled card user, and{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine11",
+   "en": "will break the cards of{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessDefenderLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessDefenderLine12",
+   "en": "unprepared opponents.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWyvernLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWyvernLine0",
+   "en": "An enormous Heartless{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWyvernLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWyvernLine1",
+   "en": "that hunts its enemies{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWyvernLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWyvernLine2",
+   "en": "from the skies.{END}",
+   "max_units": 22,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWyvernLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWyvernLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWyvernLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWyvernLine4",
+   "en": "The Wyvern is agile{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWyvernLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWyvernLine5",
+   "en": "despite its size.  Upon{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWyvernLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWyvernLine6",
+   "en": "sighting its prey, it{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWyvernLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWyvernLine7",
+   "en": "rushes forward and{END}",
+   "max_units": 23,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWyvernLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWyvernLine8",
+   "en": "attacks with a flurry{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWyvernLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWyvernLine9",
+   "en": "of kicks.{END}",
+   "max_units": 22,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyHeartlessWizardLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyHeartlessWizardLine0",
+   "en": "A Heartless proficient{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

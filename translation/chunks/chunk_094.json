@@ -1,0 +1,848 @@
+{
+ "chunk": 94,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "staff_roll_script_text:gStaffRollAssistantQaManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAssistantQaManagerNamesText",
+   "en": "Mohammed A.C. Wright{END}",
+   "max_units": 27,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAssistantQaManagerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAssistantQaManagerText",
+   "en": "@Assistant QA Manager{END}",
+   "max_units": 27,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQualityAssuranceManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQualityAssuranceManagerNamesText",
+   "en": "David ”Ribs” Carrillo{END}",
+   "max_units": 27,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQualityAssuranceManagerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQualityAssuranceManagerText",
+   "en": "@Quality Assurance Manager{END}",
+   "max_units": 31,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnSquareEnixIncText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnSquareEnixIncText",
+   "en": "<Square Enix, Inc.>{END}",
+   "max_units": 27,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLocalizationAssistantNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLocalizationAssistantNamesText",
+   "en": "Junko Momoi{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLocalizationAssistantText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLocalizationAssistantText",
+   "en": "@Localization Assistant{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLocalizationSpecialistNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLocalizationSpecialistNamesText",
+   "en": "Brian Gray{END}",
+   "max_units": 27,
+   "units": 15,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLocalizationSpecialistText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLocalizationSpecialistText",
+   "en": "@Localization Specialist{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLocalizationDirectorNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLocalizationDirectorNamesText",
+   "en": "Takuya Shiraiwa{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLocalizationDirectorText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLocalizationDirectorText",
+   "en": "@Localization Director{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLocalizationTeamGeneralManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLocalizationTeamGeneralManagerNamesText",
+   "en": "Akira Kashiwagi{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnLocalizationTeamText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnLocalizationTeamText",
+   "en": "<Localization Team>{END}",
+   "max_units": 27,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollPatentDepartmentStaffNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollPatentDepartmentStaffNamesText",
+   "en": "Takahiro Fujii{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollPatentDepartmentStaffText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollPatentDepartmentStaffText",
+   "en": "@Patent Department Staff{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLegalAffairsCoordinatorsNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLegalAffairsCoordinatorsNamesText",
+   "en": "Hiroshi Harada   Ayako Hino{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLegalAffairsCoordinatorsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLegalAffairsCoordinatorsText",
+   "en": "@Legal Affairs Coordinators{END}",
+   "max_units": 32,
+   "units": 32,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLegalManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLegalManagerNamesText",
+   "en": "Michihiro Sasaki{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollLegalManagerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollLegalManagerText",
+   "en": "@Legal Manager{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnLegalAffairsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnLegalAffairsText",
+   "en": "<Legal Affairs & Patent Department>{END}",
+   "max_units": 40,
+   "units": 40,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAllQaStaffText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAllQaStaffText",
+   "en": "...and ALL QA STAFF{END}",
+   "max_units": 27,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaStaffNames3Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaStaffNames3Text",
+   "en": "Takashi Goto   Takuma Tadokoro{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaStaffNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaStaffNames2Text",
+   "en": "Satomi Goto   Shozo Shindate{END}",
+   "max_units": 33,
+   "units": 33,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaStaffNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaStaffNames1Text",
+   "en": "Akitoshi Yukawa   Hiroshi Kondo{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaStaffText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaStaffText",
+   "en": "@QA Staff{END}",
+   "max_units": 27,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaAssistantCoordinatorsNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaAssistantCoordinatorsNames2Text",
+   "en": "Yusuke Sadamasa   Hisato Iwatsuki{END}",
+   "max_units": 38,
+   "units": 38,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaAssistantCoordinatorsNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaAssistantCoordinatorsNames1Text",
+   "en": "Yasuhito Suzuki   Hiroki Sato{END}",
+   "max_units": 34,
+   "units": 34,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaAssistantCoordinatorsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaAssistantCoordinatorsText",
+   "en": "@QA Assistant Coordinators{END}",
+   "max_units": 31,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQualityAssuranceQaCoordinatorsNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQualityAssuranceQaCoordinatorsNamesText",
+   "en": "Tetsuya Hiraoka   Madoka Asano{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaCoordinatorsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaCoordinatorsText",
+   "en": "@QA Coordinators{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaDirectorNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaDirectorNamesText",
+   "en": "Yukihiro Shibuya{END}",
+   "max_units": 27,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQaDirectorText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQaDirectorText",
+   "en": "@QA Director{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollQualityAssuranceGeneralManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollQualityAssuranceGeneralManagerNamesText",
+   "en": "Akihito Shoji{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnQualityAssuranceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnQualityAssuranceText",
+   "en": "<Quality Assurance>{END}",
+   "max_units": 27,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductionAssistantNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductionAssistantNamesText",
+   "en": "Eri Morimoto{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollProductionAssistantText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollProductionAssistantText",
+   "en": "@Production Assistant{END}",
+   "max_units": 27,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBusinessManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBusinessManagerNamesText",
+   "en": "Ichiro Hazama{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollBusinessManagerText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollBusinessManagerText",
+   "en": "@Business Manager{END}",
+   "max_units": 27,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollManagementProductionManagerNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollManagementProductionManagerNamesText",
+   "en": "Patrick Chen{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnManagementText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnManagementText",
+   "en": "<Management>{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollPvCmMaterialsCoordinatorNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollPvCmMaterialsCoordinatorNamesText",
+   "en": "Yukihiko Kouno (LANSDALE INC.){END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollCoordinatorText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollCoordinatorText",
+   "en": "@Coordinator{END}",
+   "max_units": 27,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollPvCmMaterialsEditorNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollPvCmMaterialsEditorNamesText",
+   "en": "Shunji Matsutani (drop in company){END}",
+   "max_units": 39,
+   "units": 39,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollEditorText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollEditorText",
+   "en": "@Editor{END}",
+   "max_units": 27,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollPvCmMaterialsDirectorNamesText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollPvCmMaterialsDirectorNamesText",
+   "en": "Isao Nakajima (SLACK KEY INC.){END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollDirectorText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollDirectorText",
+   "en": "@Director{END}",
+   "max_units": 27,
+   "units": 14,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollPvCmMaterialsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollPvCmMaterialsText",
+   "en": "@PV & CM Materials{END}",
+   "max_units": 27,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMovieCompressionNames8Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMovieCompressionNames8Text",
+   "en": "emcStudios, LLC{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMovieCompressionNames7Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMovieCompressionNames7Text",
+   "en": "Emmanuel Marquez   Pascal Urro{END}",
+   "max_units": 35,
+   "units": 35,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMovieCompressionNames6Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMovieCompressionNames6Text",
+   "en": "IMAGICA Corp.{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMovieCompressionNames5Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMovieCompressionNames5Text",
+   "en": "Shuzo Hashimoto{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMovieCompressionNames4Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMovieCompressionNames4Text",
+   "en": "MAC Inc.{END}",
+   "max_units": 27,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMovieCompressionNames3Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMovieCompressionNames3Text",
+   "en": "Shin Morita{END}",
+   "max_units": 27,
+   "units": 16,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMovieCompressionNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMovieCompressionNames2Text",
+   "en": "am3 Inc.{END}",
+   "max_units": 27,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMovieCompressionNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMovieCompressionNames1Text",
+   "en": "Takashi Saiga{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollMovieCompressionText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollMovieCompressionText",
+   "en": "@Movie Compression{END}",
+   "max_units": 27,
+   "units": 23,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollSecnOutsideContractorsText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollSecnOutsideContractorsText",
+   "en": "<Outside Contractors>{END}",
+   "max_units": 27,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollUnderTheSeaCopyright2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollUnderTheSeaCopyright2Text",
+   "en": "/Walt Disney Music Company{END}",
+   "max_units": 31,
+   "units": 31,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollUnderTheSeaCopyright1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollUnderTheSeaCopyright1Text",
+   "en": "＠1988 Wonderland Music Company, Inc.{END}",
+   "max_units": 41,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollUnderTheSeaMusicWordsByText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollUnderTheSeaMusicWordsByText",
+   "en": "Music by Alan Menken and Words by Howard Ashman{END}",
+   "max_units": 52,
+   "units": 52,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollUnderTheSeaTitleText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollUnderTheSeaTitleText",
+   "en": "”Under the Sea”{END}",
+   "max_units": 27,
+   "units": 20,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThisIsHalloweenCopyrightText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThisIsHalloweenCopyrightText",
+   "en": "＠1993 Buena Vista Music Company{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThisIsHalloweenWordsMusicByText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThisIsHalloweenWordsMusicByText",
+   "en": "Words and Music by Danny Elfman{END}",
+   "max_units": 36,
+   "units": 36,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollThisIsHalloweenTitleText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollThisIsHalloweenTitleText",
+   "en": "”This is Halloween”{END}",
+   "max_units": 27,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollWinnieThePoohCopyrightText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollWinnieThePoohCopyrightText",
+   "en": "＠1963 Wonderland Music Company, Inc.{END}",
+   "max_units": 41,
+   "units": 41,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollWinnieThePoohWordsMusicByText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollWinnieThePoohWordsMusicByText",
+   "en": "Words and Music by Richard Sherman and Robert Sherman{END}",
+   "max_units": 58,
+   "units": 58,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollWinnieThePoohTitleText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollWinnieThePoohTitleText",
+   "en": "”Winnie-the-Pooh”{END}",
+   "max_units": 27,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAndAlsoNames2Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAndAlsoNames2Text",
+   "en": "Rieko Katayama{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAndAlsoNames1Text",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAndAlsoNames1Text",
+   "en": "Tatsuya Kando{END}",
+   "max_units": 27,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "staff_roll_script_text:gStaffRollAxelVoiceText",
+   "pool": "staff_roll_script_text",
+   "symbol": "gStaffRollAxelVoiceText",
+   "en": "Keiji Fujiwara{END}",
+   "max_units": 27,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}

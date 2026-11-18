@@ -1,0 +1,848 @@
+{
+ "chunk": 73,
+ "chunks_total": 97,
+ "entries": 70,
+ "lines": 70,
+ "items": [
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine8",
+   "en": "Sora’s heart moved her{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine9",
+   "en": "to disobey those{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine10",
+   "en": "orders.{END}",
+   "max_units": 22,
+   "units": 12,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine11",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine12",
+   "en": "Now she watches over{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine13",
+   "en": "Sora until the{END}",
+   "max_units": 22,
+   "units": 19,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine14",
+   "en": "reconstruction of his{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterNamineLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterNamineLine15",
+   "en": "memories is complete.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuReplicaLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuReplicaLine0",
+   "en": "A replica of Riku{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuReplicaLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuReplicaLine1",
+   "en": "created by Vexen from{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuReplicaLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuReplicaLine2",
+   "en": "the real Riku’s data.{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuReplicaLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuReplicaLine3",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuReplicaLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuReplicaLine4",
+   "en": "Unlike the real Riku, he{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuReplicaLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuReplicaLine5",
+   "en": "wields darkness freely,{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuReplicaLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuReplicaLine6",
+   "en": "but is burdened by the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterRikuReplicaLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterRikuReplicaLine7",
+   "en": "fact he is an imitation.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine0",
+   "en": "Pursuer of darkness.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine1",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine2",
+   "en": "To open the door to{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine3",
+   "en": "darkness, Ansem used{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine4",
+   "en": "the Heartless to steal{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine5",
+   "en": "countless hearts.{END}",
+   "max_units": 22,
+   "units": 22,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine7",
+   "en": "He enslaved Riku, but{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine8",
+   "en": "met his demise at Sora’s{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine9",
+   "en": "hand.{END}",
+   "max_units": 22,
+   "units": 10,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine10",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine11",
+   "en": "Nonetheless, Ansem’s{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine12",
+   "en": "shadow lives on in the{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAnsemLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAnsemLine13",
+   "en": "depths of Riku’s heart.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine0",
+   "en": "No. 4 in the{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine1",
+   "en": "Organization.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine3",
+   "en": "He, Lexaeus, and Zexion{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine4",
+   "en": "have been in the group{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine5",
+   "en": "since its inception, and{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine6",
+   "en": "there is no love lost{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine7",
+   "en": "between them and{END}",
+   "max_units": 22,
+   "units": 21,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine8",
+   "en": "neophytes like Marluxia.{END}",
+   "max_units": 29,
+   "units": 29,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine9",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine10",
+   "en": "After battling Riku,{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine11",
+   "en": "Vexen turns to events{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine12",
+   "en": "unfolding aboveground,{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine13",
+   "en": "but successive failures{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine14",
+   "en": "lead to his termination{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterVexenLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterVexenLine15",
+   "en": "by Axel.{END}",
+   "max_units": 22,
+   "units": 13,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine0",
+   "en": "No. 6 in the{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine1",
+   "en": "Organization.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine3",
+   "en": "Zexion generally avoids{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine4",
+   "en": "dirtying his own hands{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine5",
+   "en": "when there are deeds{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine6",
+   "en": "to be done.  However,{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine7",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine7",
+   "en": "with the destruction of{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine8",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine8",
+   "en": "Vexen and Lexaeus, he{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine9",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine9",
+   "en": "was forced into action.{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine10",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine10",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine11",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine11",
+   "en": "Zexion confronted Riku{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine12",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine12",
+   "en": "disguised as Sora.  But{END}",
+   "max_units": 28,
+   "units": 28,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine13",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine13",
+   "en": "Riku no longer feared{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine14",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine14",
+   "en": "the dark, and victory{END}",
+   "max_units": 26,
+   "units": 26,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine15",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine15",
+   "en": "was beyond Zexion’s{END}",
+   "max_units": 24,
+   "units": 24,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterZexionLine16",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterZexionLine16",
+   "en": "reach.{END}",
+   "max_units": 22,
+   "units": 11,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine0",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine0",
+   "en": "No. 8 in the{END}",
+   "max_units": 22,
+   "units": 17,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine1",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine1",
+   "en": "Organization.{END}",
+   "max_units": 22,
+   "units": 18,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine2",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine2",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine3",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine3",
+   "en": "He is a shadow whose{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine4",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine4",
+   "en": "intentions and secrets{END}",
+   "max_units": 27,
+   "units": 27,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine5",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine5",
+   "en": "are hidden from all.{END}",
+   "max_units": 25,
+   "units": 25,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  },
+  {
+   "id": "jiminy_text:gJiminyRikuCharacterAxelLine6",
+   "pool": "jiminy_text",
+   "symbol": "gJiminyRikuCharacterAxelLine6",
+   "en": " {END}",
+   "max_units": 22,
+   "units": 6,
+   "controls": [
+    "{END}"
+   ],
+   "lines": 1
+  }
+ ]
+}
