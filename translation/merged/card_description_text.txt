@@ -210,7 +210,7 @@
 @gCardDescriptionTextUs_0904440A
 حلبة أسطورية يختبر فيها الأبطال قوتهم.{END}
 @gCardDescriptionTextUs_0904446C
-مدينة صحراوية busy بقصر كبير.{END}
+مدينة صحراوية عامرة بقصر كبير.{END}
 @gCardDescriptionTextUs_090444C4
 بلدة مرعبة مليئة بالحيل والحلوى.{END}
 @gCardDescriptionTextUs_09044514
@@ -232,7 +232,7 @@
 @gCardDescriptionTextUs_090447B6
 ملاذ لمن سقطت بيوتهم في الظلام.{END}
 @gCardDescriptionTextUs_09044816
-حيث يتحرر ظلام قلب ريكو―وأنسيم―.{END}
+حيث يتحرر ظلام قلب ريكو... وأنسيم....{END}
 @gCardDescriptionTextUs_09044886
 غرفة يظهر فيها كثير من فاقدي القلوب.{END}
 @gCardDescriptionTextUs_090448CE

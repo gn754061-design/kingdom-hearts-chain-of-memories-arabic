@@ -18,7 +18,7 @@
     "event_text:gEvent011Text19": "هل تريد تلميحاً؟{END}",
     "event_text:gEvent011Text20": "حسناً يا سورا؟{END}",
     "event_text:gEvent011Text21": "لا، أريد أن أحل الأمر بنفسي.{END}",
-    "event_text:gEvent011Text22": "وإن اعترضت طريقي―{END}",
+    "event_text:gEvent011Text22": "وإن اعترضت طريقي...{END}",
     "event_text:gEvent011Text23": "لن يفعل!\nلن ندعه!{END}",
     "event_text:gEvent011Text24": "هذا هو نوع الإجابة الذي يعجبني.\nتماماً كما أتوقع من أستاذ مفتاح القلب.{END}",
     "event_text:gEvent011Text25": "لكن كن محذراً...{END}",

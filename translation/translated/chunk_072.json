@@ -1,6 +1,6 @@
 {
   "translations": {
-    "jiminy_text:gJiminyHeartlessWizardLine1": "in magic.{END}",
+    "jiminy_text:gJiminyHeartlessWizardLine1": "في استخدام السحر.{END}",
     "jiminy_text:gJiminyHeartlessWizardLine2": " {END}",
     "jiminy_text:gJiminyHeartlessWizardLine3": "الساحر خصم هائل{END}",
     "jiminy_text:gJiminyHeartlessWizardLine4": "يهاجم{END}",
@@ -20,8 +20,8 @@
     "jiminy_text:gJiminyHeartlessBlackFungusLine2": "من يساعده.{END}",
     "jiminy_text:gJiminyHeartlessBlackFungusLine3": "{END}",
     "jiminy_text:gJiminyHeartlessBlackFungusLine4": " {END}",
-    "jiminy_text:gJiminyHeartlessBlackFungusLine5": "الفطر الأسود يحب أن يصيب{END}",
-    "jiminy_text:gJiminyHeartlessBlackFungusLine6": "foes بالشلل ويلعب معهم.{END}",
+    "jiminy_text:gJiminyHeartlessBlackFungusLine5": "ليشل حركة أعدائه.{END}",
+    "jiminy_text:gJiminyHeartlessBlackFungusLine6": "أعدائه بالشلل ويعبث بهم.{END}",
     "jiminy_text:gJiminyHeartlessBlackFungusLine7": "{END}",
     "jiminy_text:gJiminyHeartlessBlackFungusLine8": " {END}",
     "jiminy_text:gJiminyHeartlessBlackFungusLine9": "من الصعب التغلب عليه، لكن{END}",
@@ -44,7 +44,7 @@
     "jiminy_text:gJiminyHeartlessTornadoStepLine6": "أو{END}",
     "jiminy_text:gJiminyHeartlessTornadoStepLine7": "يهاجم،{END}",
     "jiminy_text:gJiminyHeartlessTornadoStepLine8": "إنه{END}",
-    "jiminy_text:gJiminyHeartlessCrescendoLine0": "يدور دائماً—{END}",
+    "jiminy_text:gJiminyHeartlessCrescendoLine0": "يدور دائماً...{END}",
     "jiminy_text:gJiminyHeartlessCrescendoLine1": "{END}",
     "jiminy_text:gJiminyHeartlessCrescendoLine2": " {END}",
     "jiminy_text:gJiminyHeartlessCrescendoLine3": "إنه{END}",

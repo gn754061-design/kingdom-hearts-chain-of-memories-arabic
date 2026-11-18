@@ -1,7 +1,7 @@
 @gMovieSubTextUs_0886A6D4
-أمامك شيء تحتاجه―{END}
+أمامك شيء تحتاجه...{END}
 @gMovieSubTextUs_0886A712
-―لكن لتحصل عليه، يجب أن تفقد{END}
+...لكن لتحصل عليه، يجب أن تفقد{END}
 @gMovieSubTextUs_0886A752
 شيئاً عزيزاً.{END}
 @gMovieSubTextUs_0886A78A
@@ -37,9 +37,9 @@
 @gMovieSubTextUs_0886A9E8
 أختار الآن؟{END}
 @gMovieSubTextUs_0886AA00
-هل ستأخذ طريق النور―{END}
+هل ستأخذ طريق النور...{END}
 @gMovieSubTextUs_0886AA42
-―أم طريق الظلام؟{END}
+...أم طريق الظلام؟{END}
 @gMovieSubTextUs_0886AA76
 لا هذا ولا ذاك.{END}
 @gMovieSubTextUs_0886AA88

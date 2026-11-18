@@ -61,7 +61,7 @@ NO TEXT{END}
 @gJiminyStoryTale2Line6
 يتذكر أشياء أخرى{END}
 @gJiminyStoryTale2Line7
-لا بد أنه نسيها حتى الآن―{END}
+لا بد أنه نسيها حتى الآن.{END}
 @gJiminyStoryTale2Line8
 مثل فتاة كان يعرفها{END}
 @gJiminyStoryTale2Line9
@@ -109,7 +109,7 @@ NO TEXT{END}
 @gJiminyStoryTale4Line11
  {END}
 @gJiminyStoryTale4Line12
-وسورا― يريد الوفاء بالوعد{END}
+وسورا... يريد الوفاء بالوعد{END}
 @gJiminyStoryTale4Line13
 الذي يتذكره. ناميني قد{END}
 @gJiminyStoryTale4Line14
@@ -117,7 +117,7 @@ NO TEXT{END}
 @gJiminyStoryTale4Line15
 قلبه، حمايتها كل شيء.{END}
 @gJiminyStoryTale4Line16
-وسورا― يريد{END}
+وسورا... يريد{END}
 @gJiminyStoryTale4Line17
 الوفاء بالوعد{END}
 @gJiminyStoryTale4Line18
@@ -497,13 +497,13 @@ NO TEXT{END}
 @gJiminyRikuStoryTale3Line16
 السبب في سيطرتهم على{END}
 @gJiminyRikuStoryTale3Line17
-القلعة— لكن لماذا؟{END}
+القلعة... لكن لماذا؟{END}
 @gJiminyRikuStoryTale3Line18
 واحداً تلو الآخر، سقط{END}
 @gJiminyRikuStoryTale3Line19
 أعضاء المنظمة على يدي{END}
 @gJiminyRikuStoryTale5Line0
-ريكو وسورا—{END}
+ريكو وسورا...{END}
 @gJiminyRikuStoryTale5Line1
 حتى{END}
 @gJiminyRikuStoryTale5Line2
@@ -841,13 +841,13 @@ NO TEXT{END}
 @gJiminyCharacterCidLine0
 {END}
 @gJiminyCharacterCidLine1
-saved Leon and the{END}
+أنقذ ليون والآخرين{END}
 @gJiminyCharacterCidLine2
-others from the{END}
+من عديمي القلوب عندما{END}
 @gJiminyCharacterCidLine3
-Heartless when they{END}
+كانوا مجرد أطفال.{END}
 @gJiminyCharacterCidLine4
-were just children.{END}
+{END}
 @gJiminyCharacterCidLine5
  {END}
 @gJiminyCharacterCidLine6
@@ -1121,9 +1121,9 @@ were just children.{END}
 @gJiminyCharacterSallyLine1
 {END}
 @gJiminyCharacterSallyLine2
-her from various odds{END}
+من بقايا وأشياء متفرقة.{END}
 @gJiminyCharacterSallyLine3
-and ends.{END}
+{END}
 @gJiminyCharacterSallyLine4
  {END}
 @gJiminyCharacterSallyLine5
@@ -1541,9 +1541,9 @@ and ends.{END}
 @gJiminyCharacterMaleficentLine2
 {END}
 @gJiminyCharacterMaleficentLine3
-her Heartless once{END}
+عديم قلبها من قبل.{END}
 @gJiminyCharacterMaleficentLine4
-before.{END}
+{END}
 @gJiminyCharacterMaleficentLine5
  {END}
 @gJiminyCharacterMaleficentLine6
@@ -1681,23 +1681,23 @@ before.{END}
 @gJiminyHeartlessParasiteCageLine4
 ويأكل كل شيء في طريقه.{END}
 @gJiminyHeartlessParasiteCageLine5
-eats anything in its{END}
+يلتهم كل ما في طريقه.{END}
 @gJiminyHeartlessParasiteCageLine6
-path.  Pinocchio figured{END}
+وقد استطاع بينوكيو الهرب{END}
 @gJiminyHeartlessParasiteCageLine7
-out how to escape{END}
+من بطن مونسترو.{END}
 @gJiminyHeartlessParasiteCageLine8
-Monstro after getting{END}
+عديم قلب في بلاد العجائب{END}
 @gJiminyHeartlessParasiteCageLine9
-gobbled up by it.{END}
+سرق ذاكرة الملكة.{END}
 @gJiminyHeartlessTrickmasterLine0
-The Heartless in{END}
+عديم قلب بالعجائب{END}
 @gJiminyHeartlessTrickmasterLine1
-Wonderland that stole{END}
+الذي سرق ذاكرة ملكة{END}
 @gJiminyHeartlessTrickmasterLine2
-the Queen of Hearts’s{END}
+القلوب وتلاعب بها.{END}
 @gJiminyHeartlessTrickmasterLine3
-memory.{END}
+{END}
 @gJiminyHeartlessTrickmasterLine4
  {END}
 @gJiminyHeartlessTrickmasterLine5
@@ -2101,7 +2101,7 @@ memory.{END}
 @gJiminyHeartlessWizardLine0
 {END}
 @gJiminyHeartlessWizardLine1
-in magic.{END}
+في استخدام السحر.{END}
 @gJiminyHeartlessWizardLine2
  {END}
 @gJiminyHeartlessWizardLine3
@@ -2141,9 +2141,9 @@ in magic.{END}
 @gJiminyHeartlessBlackFungusLine4
  {END}
 @gJiminyHeartlessBlackFungusLine5
-الفطر الأسود يحب أن يصيب{END}
+ليشل حركة أعدائه.{END}
 @gJiminyHeartlessBlackFungusLine6
-foes بالشلل ويلعب معهم.{END}
+أعدائه بالشلل ويعبث بهم.{END}
 @gJiminyHeartlessBlackFungusLine7
 {END}
 @gJiminyHeartlessBlackFungusLine8
@@ -2189,7 +2189,7 @@ foes بالشلل ويلعب معهم.{END}
 @gJiminyHeartlessTornadoStepLine8
 إنه{END}
 @gJiminyHeartlessCrescendoLine0
-يدور دائماً—{END}
+يدور دائماً...{END}
 @gJiminyHeartlessCrescendoLine1
 {END}
 @gJiminyHeartlessCrescendoLine2
@@ -2521,7 +2521,7 @@ foes بالشلل ويلعب معهم.{END}
 @gJiminyRikuCharacterJafarGenieLine1
 {END}
 @gJiminyRikuCharacterJafarGenieLine2
-transformed by magic.{END}
+تحول بقوة السحر.{END}
 @gJiminyRikuCharacterJafarGenieLine3
  {END}
 @gJiminyRikuCharacterJafarGenieLine4
@@ -2801,139 +2801,139 @@ transformed by magic.{END}
 @gJiminyItemCardHiPotionLine2
 {END}
 @gJiminyItemCardHiPotionLine3
-normally unreloadable{END}
+حتى البطاقات غير القابلة{END}
 @gJiminyItemCardHiPotionLine4
-cards are restored.{END}
+للتعبئة يتم استعادتها.{END}
 @gJiminyItemCardMegaPotionLine0
-Quickly reloads attack{END}
+يعيد تعبئة بطاقات الهجوم{END}
 @gJiminyItemCardMegaPotionLine1
-cards with no charge{END}
+فوراً بلا وقت انتظار،{END}
 @gJiminyItemCardMegaPotionLine2
-time and resets the{END}
+ويصفّر عدّاد التعبئة.{END}
 @gJiminyItemCardMegaPotionLine3
-reload counter.  Even{END}
+كما يستعيد البطاقات غير{END}
 @gJiminyItemCardMegaPotionLine4
-normally unreloadable{END}
+القابلة للتعبئة{END}
 @gJiminyItemCardMegaPotionLine5
-cards are restored.{END}
+عادةً.{END}
 @gJiminyItemCardEtherLine0
-Quickly reloads magic{END}
+يعيد تعبئة بطاقات السحر{END}
 @gJiminyItemCardEtherLine1
-cards with no charge{END}
+فوراً بلا انتظار.{END}
 @gJiminyItemCardEtherLine2
-time required.  It does{END}
+ولا يعمل على البطاقات{END}
 @gJiminyItemCardEtherLine3
-not work on cards that{END}
+التي لا يمكن{END}
 @gJiminyItemCardEtherLine4
-cannot be reloaded.{END}
+تعبئتها أصلاً.{END}
 @gJiminyItemCardMegaEtherLine0
-Quickly reloads magic{END}
+يعيد تعبئة بطاقات السحر{END}
 @gJiminyItemCardMegaEtherLine1
-cards with no charge{END}
+فوراً بلا انتظار،{END}
 @gJiminyItemCardMegaEtherLine2
-time and resets the{END}
+ويصفّر عدّاد التعبئة.{END}
 @gJiminyItemCardMegaEtherLine3
-reload counter.  Even{END}
+كما يستعيد البطاقات غير{END}
 @gJiminyItemCardMegaEtherLine4
-normally unreloadable{END}
+القابلة للتعبئة{END}
 @gJiminyItemCardMegaEtherLine5
-cards are restored.{END}
+عادةً.{END}
 @gJiminyItemCardElixirLine0
-Quickly reloads attack{END}
+يعيد تعبئة بطاقات الهجوم{END}
 @gJiminyItemCardElixirLine1
-cards and magic cards,{END}
+والسحر فوراً، بما فيها{END}
 @gJiminyItemCardElixirLine2
-including normally{END}
+البطاقات غير القابلة{END}
 @gJiminyItemCardElixirLine3
-unreloadable cards.{END}
+للتعبئة عادةً.{END}
 @gJiminyItemCardMegalixirLine0
-Quickly reloads attack{END}
+يعيد تعبئة بطاقات الهجوم{END}
 @gJiminyItemCardMegalixirLine1
-cards and magic cards,{END}
+والسحر فوراً، بما فيها{END}
 @gJiminyItemCardMegalixirLine2
-including normally{END}
+غير القابلة للتعبئة.{END}
 @gJiminyItemCardMegalixirLine3
-unreloadable cards.{END}
+كما يعيد تصفير{END}
 @gJiminyItemCardMegalixirLine4
-The reload counter is{END}
+عدّاد التعبئة{END}
 @gJiminyItemCardMegalixirLine5
-also reset.{END}
+بالكامل.{END}
 @gJiminyFriendCardDonaldDuckLine0
-Donald randomly casts{END}
+يلقي دونالد سحراً منوعاً{END}
 @gJiminyFriendCardDonaldDuckLine1
-Fire, Blizzard, Thunder,{END}
+نار أو جليد أو رعد أو علاج.{END}
 @gJiminyFriendCardDonaldDuckLine2
-or Cure.  Stock more{END}
+خزّن أكثر من بطاقة{END}
 @gJiminyFriendCardDonaldDuckLine3
-than one to power up{END}
+لتقوية سحر{END}
 @gJiminyFriendCardDonaldDuckLine4
-Donald's magic.{END}
+دونالد.{END}
 @gJiminyFriendCardGoofyLine0
-Goofy swings his shield{END}
+يلوح غوفي بدرعه نحو العدو.{END}
 @gJiminyFriendCardGoofyLine1
-at the enemy.  Stock{END}
+خزّن أكثر من بطاقة{END}
 @gJiminyFriendCardGoofyLine2
-more than one to power{END}
+لزيادة قوة هجوم{END}
 @gJiminyFriendCardGoofyLine3
-up Goofy's attack.{END}
+غوفي.{END}
 @gJiminyFriendCardAladdinLine0
-Aladdin swings his{END}
+يلوح علاء الدين بسيفه{END}
 @gJiminyFriendCardAladdinLine1
-sword at the enemy{END}
+نحو العدو مراراً.{END}
 @gJiminyFriendCardAladdinLine2
-repeatedly.  Stock more{END}
+خزّن أكثر من بطاقة{END}
 @gJiminyFriendCardAladdinLine3
-than one to power up{END}
+لتقوية هجوم{END}
 @gJiminyFriendCardAladdinLine4
-Aladdin's attack.{END}
+علاء الدين.{END}
 @gJiminyFriendCardJackLine0
-Jack casts Fire,{END}
+يلقي جاك ناراً وثلجاً{END}
 @gJiminyFriendCardJackLine1
-Blizzard, Thunder, or{END}
+أو رعداً أو جاذبية.{END}
 @gJiminyFriendCardJackLine2
-Gravity.  Stock more{END}
+خزّن أكثر من بطاقة{END}
 @gJiminyFriendCardJackLine3
-than one to power up{END}
+لتقوية سحر{END}
 @gJiminyFriendCardJackLine4
-Jack's magic.{END}
+جاك.{END}
 @gJiminyFriendCardArielLine0
-Ariel whirls across the{END}
+تدور آريل عبر الميدان لتضرب{END}
 @gJiminyFriendCardArielLine1
-field, striking many{END}
+العديد من الأعداء.{END}
 @gJiminyFriendCardArielLine2
-enemies.  Stock more{END}
+خزّن أكثر من بطاقة{END}
 @gJiminyFriendCardArielLine3
-than one to power up{END}
+لتقوية هجوم{END}
 @gJiminyFriendCardArielLine4
-Ariel's attack.{END}
+آريل.{END}
 @gJiminyFriendCardPeterPanLine0
-Peter Pan attacks with{END}
+يهاجم بيتر بان بخنجره.{END}
 @gJiminyFriendCardPeterPanLine1
-his dagger.  Stock more{END}
+خزّن أكثر من بطاقة{END}
 @gJiminyFriendCardPeterPanLine2
-than one to power up{END}
+لتقوية هجوم{END}
 @gJiminyFriendCardPeterPanLine3
-Peter's attack.{END}
+بيتر بان.{END}
 @gJiminyFriendCardBeastLine0
-The Beast mows down{END}
+يطيح الوحش بكل من يقف{END}
 @gJiminyFriendCardBeastLine1
-anyone in Sora's path.{END}
+في طريق سورا.{END}
 @gJiminyFriendCardBeastLine2
-Stock more than one to{END}
+خزّن أكثر من بطاقة{END}
 @gJiminyFriendCardBeastLine3
-power up the Beast's{END}
+لتقوية هجوم{END}
 @gJiminyFriendCardBeastLine4
-attack.{END}
+الوحش.{END}
 @gJiminyEnemyCardShadowLine0
-■ Incrementor{END}
+■ زيادة القيمة{END}
 @gJiminyEnemyCardShadowLine1
-Increase the value of{END}
+تزيد قيمة كل{END}
 @gJiminyEnemyCardShadowLine2
-all cards by 1.{END}
+البطاقات بمقدار 1.{END}
 @gJiminyEnemyCardShadowLine3
  {END}
 @gJiminyEnemyCardShadowLine4
-المدة:{END}
+■ زيادة القيمة{END}
 @gJiminyEnemyCardSoldierLine0
 تعبئتان{END}
 @gJiminyEnemyCardSoldierLine1
@@ -2943,19 +2943,19 @@ all cards by 1.{END}
 @gJiminyEnemyCardSoldierLine3
  {END}
 @gJiminyEnemyCardSoldierLine4
-Duration:  3 reloads{END}
+المدة: 3 تعبئات{END}
 @gJiminyEnemyCardLargeBodyLine0
-■ Guard{END}
+■ حراسة{END}
 @gJiminyEnemyCardLargeBodyLine1
-Deflect frontal physical{END}
+تصد الهجمات الجسدية{END}
 @gJiminyEnemyCardLargeBodyLine2
-attacks and completely{END}
+الأمامية وتبطل{END}
 @gJiminyEnemyCardLargeBodyLine3
-nullify damage.{END}
+الضرر تماماً.{END}
 @gJiminyEnemyCardLargeBodyLine4
  {END}
 @gJiminyEnemyCardLargeBodyLine5
-المدة:{END}
+■ حراسة{END}
 @gJiminyEnemyCardRedNocturneLine0
 تعبئة{END}
 @gJiminyEnemyCardRedNocturneLine1
@@ -3011,15 +3011,15 @@ nullify damage.{END}
 @gJiminyEnemyCardPowerwildLine6
  {END}
 @gJiminyEnemyCardPowerwildLine7
-Duration:  1 reload{END}
+المدة: تعبئة واحدة{END}
 @gJiminyEnemyCardBouncywildLine0
-■ Draw{END}
+■ جذب{END}
 @gJiminyEnemyCardBouncywildLine1
-Attract fallen cards{END}
+تجذب البطاقات والعناصر{END}
 @gJiminyEnemyCardBouncywildLine2
-and items for easy{END}
+الساقطة لسهولة{END}
 @gJiminyEnemyCardBouncywildLine3
-retrieval.{END}
+جمعها.{END}
 @gJiminyEnemyCardBouncywildLine4
  {END}
 @gJiminyEnemyCardBouncywildLine5
@@ -3175,51 +3175,51 @@ retrieval.{END}
 @gJiminyEnemyCardWizardLine4
  {END}
 @gJiminyEnemyCardWizardLine5
-Duration:  1 reload{END}
+المدة: تعبئة واحدة{END}
 @gJiminyEnemyCardNeoshadowLine0
-■ Bio{END}
+■ سم حيوي{END}
 @gJiminyEnemyCardNeoshadowLine1
-Cause enemies' HP to{END}
+تجعل صحة العدو{END}
 @gJiminyEnemyCardNeoshadowLine2
-gradually drop.{END}
+تنقص تدريجياً.{END}
 @gJiminyEnemyCardNeoshadowLine3
  {END}
 @gJiminyEnemyCardNeoshadowLine4
-Duration:  1 reload{END}
+■ سم حيوي{END}
 @gJiminyEnemyCardWhiteMushroomLine0
-■ Hyper Healing{END}
+■ علاج فائق{END}
 @gJiminyEnemyCardWhiteMushroomLine1
-Restore some HP every{END}
+تستعيد صحة عند{END}
 @gJiminyEnemyCardWhiteMushroomLine2
-time you use a friend{END}
+استخدام بطاقة صديق.{END}
 @gJiminyEnemyCardWhiteMushroomLine3
-card.{END}
+{END}
 @gJiminyEnemyCardWhiteMushroomLine4
  {END}
 @gJiminyEnemyCardWhiteMushroomLine5
-Duration:  3 reloads{END}
+■ علاج فائق{END}
 @gJiminyEnemyCardBlackFungusLine0
-■ Random Flush{END}
+■ تأثير عشوائي{END}
 @gJiminyEnemyCardBlackFungusLine1
-Activate a random{END}
+تفعّل أثراً عشوائياً{END}
 @gJiminyEnemyCardBlackFungusLine2
-enemy card effect.{END}
+لبطاقات الأعداء.{END}
 @gJiminyEnemyCardBlackFungusLine3
  {END}
 @gJiminyEnemyCardBlackFungusLine4
-Duration:  1 reload{END}
+■ تأثير عشوائي{END}
 @gJiminyEnemyCardCreeperPlantLine0
-■ Leaf Bracer{END}
+■ حماية الشفاء{END}
 @gJiminyEnemyCardCreeperPlantLine1
-Stop enemies from{END}
+تمنع الأعداء من{END}
 @gJiminyEnemyCardCreeperPlantLine2
-breaking Cure abilities{END}
+كسر قدرات العلاج{END}
 @gJiminyEnemyCardCreeperPlantLine3
-you use.{END}
+التي تستخدمها.{END}
 @gJiminyEnemyCardCreeperPlantLine4
  {END}
 @gJiminyEnemyCardCreeperPlantLine5
-Duration:  1 reload{END}
+المدة: تعبئة واحدة{END}
 @gJiminyEnemyCardCrescendoLine0
 ■{END}
 @gJiminyEnemyCardCrescendoLine1
@@ -3231,17 +3231,17 @@ Duration:  1 reload{END}
 @gJiminyEnemyCardCrescendoLine4
  {END}
 @gJiminyEnemyCardCrescendoLine5
-Duration:  1 reload{END}
+المدة: تعبئة واحدة{END}
 @gJiminyEnemyCardGuardArmorLine0
-■ Wide Attack{END}
+■ هجوم واسع{END}
 @gJiminyEnemyCardGuardArmorLine1
-Slightly extend the{END}
+تزيد مدى بطاقات{END}
 @gJiminyEnemyCardGuardArmorLine2
-range of attack cards.{END}
+الهجوم قليلاً.{END}
 @gJiminyEnemyCardGuardArmorLine3
  {END}
 @gJiminyEnemyCardGuardArmorLine4
-بطاقات{END}
+■ هجوم واسع{END}
 @gJiminyEnemyCardHadesLine0
 الهجوم{END}
 @gJiminyEnemyCardHadesLine1
@@ -3255,41 +3255,41 @@ range of attack cards.{END}
 @gJiminyEnemyCardHadesLine5
  {END}
 @gJiminyEnemyCardHadesLine6
-Duration:  30 attacks{END}
+المدة: 30 ضربة{END}
 @gJiminyEnemyCardHadesLine7
-· Resistant to fire{END}
+· مقاوم للنار{END}
 @gJiminyEnemyCardHadesLine8
-· Stunned by ice{END}
+· يتأثر بالجليد{END}
 @gJiminyEnemyCardUrsulaLine0
-■ Shell{END}
+■ درع واقٍ{END}
 @gJiminyEnemyCardUrsulaLine1
-Halve the damage from{END}
+تنصف الضرر السحري{END}
 @gJiminyEnemyCardUrsulaLine2
-magical attacks by the{END}
+من الخصم. وسحر{END}
 @gJiminyEnemyCardUrsulaLine3
-enemy.  Summon magic{END}
+الاستدعاء ضرره{END}
 @gJiminyEnemyCardUrsulaLine4
-does normal damage.{END}
+عادي تماماً.{END}
 @gJiminyEnemyCardUrsulaLine5
  {END}
 @gJiminyEnemyCardUrsulaLine6
-Duration:  5 hits taken{END}
+■ درع واقٍ{END}
 @gJiminyEnemyCardHookLine0
-■ Second Chance{END}
+■ فرصة ثانية{END}
 @gJiminyEnemyCardHookLine1
-Retain 1 HP after a{END}
+تبقي نقطة صحة{END}
 @gJiminyEnemyCardHookLine2
-critical hit, provided you{END}
+بعد ضربة قاضية إن{END}
 @gJiminyEnemyCardHookLine3
-have 2 or more HP left.{END}
+بقيت نقطتان فأكثر.{END}
 @gJiminyEnemyCardHookLine4
  {END}
 @gJiminyEnemyCardHookLine5
 تكون قد{END}
 @gJiminyEnemyCardHookLine6
-بقيت{END}
+■ فرصة ثانية{END}
 @gJiminyEnemyCardHookLine7
-لك{END}
+تبقي صحة بضربة قاضية{END}
 @gJiminyEnemyCardDragonMaleficentLine0
 2{END}
 @gJiminyEnemyCardDragonMaleficentLine1
@@ -3301,15 +3301,15 @@ have 2 or more HP left.{END}
 @gJiminyEnemyCardDragonMaleficentLine4
  {END}
 @gJiminyEnemyCardDragonMaleficentLine5
-Duration:  30 attacks{END}
+■ قفل الحيلة{END}
 @gJiminyEnemyCardRikuLine0
-■ Sleight Lock{END}
+■ قفل الحيلة{END}
 @gJiminyEnemyCardRikuLine1
-Keep cards used in{END}
+تبقي بطاقات الحيل{END}
 @gJiminyEnemyCardRikuLine2
-sleights available for{END}
+متاحة لإعادة{END}
 @gJiminyEnemyCardRikuLine3
-reloading.{END}
+التعبئة مجدداً.{END}
 @gJiminyEnemyCardRikuLine4
  {END}
 @gJiminyEnemyCardRikuLine5
@@ -3327,39 +3327,39 @@ reloading.{END}
 @gJiminyEnemyCardAxelLine3
  {END}
 @gJiminyEnemyCardAxelLine4
-Duration:  10 hits taken{END}
+المدة: 10 ضربات متلقاة{END}
 @gJiminyEnemyCardAxelLine5
-· Immune to fire{END}
+· منيع ضد النار{END}
 @gJiminyEnemyCardAxelLine6
-· Stunned by ice{END}
+· يتأثر بالجليد{END}
 @gJiminyEnemyCardLarxeneLine0
-■ Dash{END}
+■ اندفاع سريع{END}
 @gJiminyEnemyCardLarxeneLine1
-Increase running speed.{END}
+تزيد سرعة الركض.{END}
 @gJiminyEnemyCardLarxeneLine2
  {END}
 @gJiminyEnemyCardLarxeneLine3
-Duration:  15 cards{END}
+المدة: 15 بطاقة{END}
 @gJiminyEnemyCardLarxeneLine4
-· Immune to lightning{END}
+· منيع ضد البرق{END}
 @gJiminyEnemyCardLarxeneLine5
-· Weak against special{END}
+· ضعيف أمام الهجمات الخاصة{END}
 @gJiminyEnemyCardLarxeneLine6
-  attacks{END}
+■ نجاة تلقائية{END}
 @gJiminyEnemyCardVexenLine0
-■ Auto-Life{END}
+■ نجاة تلقائية{END}
 @gJiminyEnemyCardVexenLine1
-Revive automatically{END}
+تنعش فوراً عند{END}
 @gJiminyEnemyCardVexenLine2
-when your HP reach 0.{END}
+نفاد نقاط الصحة.{END}
 @gJiminyEnemyCardVexenLine3
-Only a small amount of{END}
+يستعاد قدر قليل{END}
 @gJiminyEnemyCardVexenLine4
-HP is restored.{END}
+من الصحة فقط.{END}
 @gJiminyEnemyCardVexenLine5
  {END}
 @gJiminyEnemyCardVexenLine6
-Duration:  1 use{END}
+المدة: استخدام واحد{END}
 @gJiminyEnemyCardVexenLine7
 ·{END}
 @gJiminyEnemyCardVexenLine8
@@ -3617,13 +3617,13 @@ Duration:  1 use{END}
 @gJiminyStoryWonderlandLine10
  {END}
 @gJiminyStoryWonderlandLine11
-Angered by the shoddy{END}
+غاضباً من الحكم الجائر،{END}
 @gJiminyStoryWonderlandLine12
-trial, Sora freed Alice{END}
+حرر سورا أليس وطارد{END}
 @gJiminyStoryWonderlandLine13
-and hunted down the{END}
+الجاني الحقيقي.{END}
 @gJiminyStoryWonderlandLine14
-real culprit.{END}
+{END}
 @gJiminyStoryWonderlandLine15
  {END}
 @gJiminyStoryWonderlandLine16
@@ -3661,13 +3661,13 @@ real culprit.{END}
 @gJiminyStoryTale3Line6
  {END}
 @gJiminyStoryTale3Line7
-Sora was so happy, but{END}
+سعد سورا جداً، لكن ريكو{END}
 @gJiminyStoryTale3Line8
-Riku attacked him just{END}
+هاجمه فجأة قائلاً:{END}
 @gJiminyStoryTale3Line9
-like that, saying, “I’ll{END}
+«سأحمي ناميني!»{END}
 @gJiminyStoryTale3Line10
-protect Naminé!”{END}
+{END}
 @gJiminyStoryTale3Line11
  {END}
 @gJiminyStoryTale3Line12
@@ -3709,29 +3709,29 @@ protect Naminé!”{END}
 @gJiminyStoryHalloweenTownLine12
  {END}
 @gJiminyStoryHalloweenTownLine13
-Oogie Boogie swiped the{END}
+اختطف أوجي بوجي الجرعة{END}
 @gJiminyStoryHalloweenTownLine14
-potion and downed it in{END}
+وتجرعها دفعة واحدة. لكن{END}
 @gJiminyStoryHalloweenTownLine15
-a single gulp.  But his{END}
+خوفه تحول إلى كوابيس حية،{END}
 @gJiminyStoryHalloweenTownLine16
-true memories drove{END}
+فهزمناه واستعدنا الجرعة{END}
 @gJiminyStoryHalloweenTownLine17
-him mad with fear.{END}
+{END}
 @gJiminyStoryHalloweenTownLine18
  {END}
 @gJiminyStoryHalloweenTownLine19
-What if true memories{END}
+ماذا لو فعلت الذكريات{END}
 @gJiminyStoryHalloweenTownLine20
-do that to everyone’s{END}
+الحقيقية ذلك بقلب{END}
 @gJiminyStoryHalloweenTownLine21
-heart?  Scary.{END}
+الجميع؟ أمر مخيف.{END}
 @gJiminyStoryDestinyIslandsLine0
-The last card led to{END}
+قادت آخر بطاقة إلى{END}
 @gJiminyStoryDestinyIslandsLine1
-the place where Sora{END}
+المكان الذي نشأ فيه{END}
 @gJiminyStoryDestinyIslandsLine2
-grew up.{END}
+سورا في طفولته.{END}
 @gJiminyStoryDestinyIslandsLine3
  {END}
 @gJiminyStoryDestinyIslandsLine4
@@ -3747,29 +3747,29 @@ grew up.{END}
 @gJiminyStoryDestinyIslandsLine9
 {END}
 @gJiminyStoryDestinyIslandsLine10
- {END}
+تصادم سورا وريكو بقوة{END}
 @gJiminyStoryDestinyIslandsLine11
-But when he found{END}
+قاتل ريكو بوهم الذكرى{END}
 @gJiminyStoryDestinyIslandsLine12
-Naminé, she told him the{END}
+بوهم الذكريات، لكن سورا{END}
 @gJiminyStoryDestinyIslandsLine13
-bitter truth―nothing{END}
+أوضح له الحقيقة المرة.{END}
 @gJiminyStoryDestinyIslandsLine14
-he remembered of her{END}
+لا شيء يستطيع تفريق{END}
 @gJiminyStoryDestinyIslandsLine15
-ever happened.{END}
+الصداقة الحقيقية.{END}
 @gJiminyCharacterKairiLine0
-Sora’s childhood friend.{END}
+صديقة طفولة سورا وريكو.{END}
 @gJiminyCharacterKairiLine1
- {END}
+اختفت عند دمار الجزر،{END}
 @gJiminyCharacterKairiLine2
-بدأت{END}
+وسورا يبحث عنها دوماً.{END}
 @gJiminyCharacterKairiLine3
-رحلة{END}
+صديقة طفولة سورا وريكو.{END}
 @gJiminyCharacterKairiLine4
-سورا{END}
+اختفت عند دمار جزرهم،{END}
 @gJiminyCharacterKairiLine5
-{END}
+وسورا يبحث عنها دوماً.{END}
 @gJiminyCharacterKairiLine6
 {END}
 @gJiminyCharacterKairiLine7
@@ -3781,95 +3781,95 @@ Sora’s childhood friend.{END}
 @gJiminyCharacterKairiLine10
 {END}
 @gJiminyCharacterKairiLine11
-the islands were saved.{END}
+أُنقذت الجزر بسلام.{END}
 @gJiminyCharacterKairiLine12
  {END}
 @gJiminyCharacterKairiLine13
-She waits there for{END}
+تنتظر هناك عودة{END}
 @gJiminyCharacterKairiLine14
-Sora and Riku’s return.{END}
+سورا وريكو إليها.{END}
 @gJiminyCharacterTidusLine0
-A young boy from{END}
+فتى من جزر المصير.{END}
 @gJiminyCharacterTidusLine1
-Sora’s islands with a{END}
+فتى نشيط من جزر المصير.{END}
 @gJiminyCharacterTidusLine2
-sunny personality and{END}
+يتدرب بجد مع سورا.{END}
 @gJiminyCharacterTidusLine3
-lots of energy.{END}
+مرح ومليء بالحيوية.{END}
 @gJiminyCharacterTidusLine4
- {END}
+{END}
 @gJiminyCharacterTidusLine5
-Tidus has no shortage{END}
+{END}
 @gJiminyCharacterTidusLine6
-of confidence either,{END}
+{END}
 @gJiminyCharacterTidusLine7
-and considers himself a{END}
+{END}
 @gJiminyCharacterTidusLine8
-champ at everything.{END}
+بطل في كل شيء.{END}
 @gJiminyCharacterWakkaLine0
-A boy from Sora’s{END}
+صبي من جزر المصير.{END}
 @gJiminyCharacterWakkaLine1
-islands.{END}
+صبي من جزر المصير.{END}
 @gJiminyCharacterWakkaLine2
- {END}
+يقود رفاقه ويثق بسورا{END}
 @gJiminyCharacterWakkaLine3
-Despite being the{END}
+ودود وماهر بالكرة.{END}
 @gJiminyCharacterWakkaLine4
-oldest, Wakka is modest{END}
+{END}
 @gJiminyCharacterWakkaLine5
-and takes good care of{END}
+{END}
 @gJiminyCharacterWakkaLine6
-his friends.{END}
+{END}
 @gJiminyCharacterSelphieLine0
-A perky girl from Sora’s{END}
+فتاة مرحة من جزر المصير.{END}
 @gJiminyCharacterSelphieLine1
-islands.{END}
+فتاة من جزر المصير.{END}
 @gJiminyCharacterSelphieLine2
- {END}
+نشأت مع سورا وريكو.{END}
 @gJiminyCharacterSelphieLine3
-Selphie is assertive{END}
+تملك روحاً حرة.{END}
 @gJiminyCharacterSelphieLine4
-and tends to leap{END}
+{END}
 @gJiminyCharacterSelphieLine5
-before she looks, and{END}
+{END}
 @gJiminyCharacterSelphieLine6
-she also has a romantic{END}
+{END}
 @gJiminyCharacterSelphieLine7
-side.{END}
+{END}
 @gJiminyCharacterLarxeneLine0
-A member of the group{END}
+عضو في الجماعة التي{END}
 @gJiminyCharacterLarxeneLine1
-that controls Castle{END}
+تسيطر على القلعة.{END}
 @gJiminyCharacterLarxeneLine2
-Oblivion.{END}
+العضو 12 بالمنظمة.{END}
 @gJiminyCharacterLarxeneLine3
- {END}
+تتلاعب بالبرق وتسخر{END}
 @gJiminyCharacterLarxeneLine4
-تسيطر{END}
+من مشاعر الآخرين بقسوة.{END}
 @gJiminyCharacterLarxeneLine5
-على{END}
+{END}
 @gJiminyCharacterLarxeneLine6
 {END}
 @gJiminyCharacterLarxeneLine7
 {END}
 @gJiminyCharacterLarxeneLine8
- {END}
+{END}
 @gJiminyCharacterLarxeneLine9
-She is on good terms{END}
+علاقتها جيدة مع أكسل{END}
 @gJiminyCharacterLarxeneLine10
-with Axel but still{END}
+لكنها تسخر من الجميع{END}
 @gJiminyCharacterLarxeneLine11
-mocks everyone and{END}
+ولا تثق بأحد.{END}
 @gJiminyCharacterLarxeneLine12
-trusts no one.{END}
+{END}
 @gJiminyCharacterArielLine0
-The daughter of King{END}
+ابنة الملك تريتون.{END}
 @gJiminyCharacterArielLine1
-Triton who longs to{END}
+حورية بحر فضولية تعشق{END}
 @gJiminyCharacterArielLine2
-see the outside world.{END}
+عالم البشر ورفاقها كنزها.{END}
 @gJiminyCharacterArielLine3
- {END}
+{END}
 @gJiminyCharacterArielLine4
 تتوق{END}
 @gJiminyCharacterArielLine5
@@ -3945,31 +3945,31 @@ see the outside world.{END}
 @gJiminyRikuStoryTale1Line9
  {END}
 @gJiminyRikuStoryTale1Line10
-عندما{END}
+صحا ريكو في قبو القلعة،{END}
 @gJiminyRikuStoryTale1Line11
-التهم{END}
+ليخوض رحلة شاقة في مواجهة{END}
 @gJiminyRikuStoryTale1Line12
-{END}
+الظلام في قلبه.{END}
 @gJiminyRikuStoryTale1Line13
-{END}
+عليه تجاوز أوهام ماضيه{END}
 @gJiminyRikuStoryTale1Line14
- {END}
+ليصل لحقيقته الخاصة.{END}
 @gJiminyRikuStoryTale1Line15
-But Maleficent had her{END}
+{END}
 @gJiminyRikuStoryTale1Line16
-eyes on Riku’s strength{END}
+{END}
 @gJiminyRikuStoryTale1Line17
-and was working to{END}
+{END}
 @gJiminyRikuStoryTale1Line18
-make him her underling.{END}
+{END}
 @gJiminyRikuStoryTale1Line19
-She gave Riku the{END}
+{END}
 @gJiminyRikuStoryTale1Line20
-power of darkness, but{END}
+قوة الظلام، ولكن كلما{END}
 @gJiminyRikuStoryTale1Line21
-as he used it, it gained{END}
+استخدمها زادت سطوتها{END}
 @gJiminyRikuStoryTale1Line22
-power over him.{END}
+على قلبه.{END}
 @gJiminyRikuStoryTale1Line23
  {END}
 @gJiminyRikuStoryTale1Line24
@@ -4003,27 +4003,27 @@ power over him.{END}
 @gJiminyRikuStoryTale1Line38
  {END}
 @gJiminyRikuStoryTale1Line39
-Will he see the realm of{END}
+فهل سيرى عالم النور{END}
 @gJiminyRikuStoryTale1Line40
-light again?{END}
+مجدداً؟{END}
 @gJiminyRikuStoryTale4Line0
-Vexen took his replica{END}
+أخذ فاكسين نسخته{END}
 @gJiminyRikuStoryTale4Line1
-of Riku and headed for{END}
+أخذ فاكسين نسخته من ريكو{END}
 @gJiminyRikuStoryTale4Line2
-the surface, but finally{END}
+واتجه إلى السطح، لكنه سقط{END}
 @gJiminyRikuStoryTale4Line3
-fell at Sora’s hands.{END}
+في النهاية على يد سورا.{END}
 @gJiminyRikuStoryTale4Line4
- {END}
+واجه ليكسيوس ريكو{END}
 @gJiminyRikuStoryTale4Line5
-Lexaeus confronted{END}
+ليكسيوس واجه ريكو،{END}
 @gJiminyRikuStoryTale4Line6
-Riku, meaning to bring{END}
+ساعياً لإخضاعه للظلام.{END}
 @gJiminyRikuStoryTale4Line7
-him to submission using{END}
+لكن ريكو صمد وثبت.{END}
 @gJiminyRikuStoryTale4Line8
-all force necessary.{END}
+{END}
 @gJiminyRikuStoryTale4Line9
  {END}
 @gJiminyRikuStoryTale4Line10
@@ -4057,25 +4057,25 @@ all force necessary.{END}
 @gJiminyRikuStoryTale6Line4
  {END}
 @gJiminyRikuStoryTale6Line5
-Guided by the enigmatic{END}
+بتوجيه من ديز الغامض،{END}
 @gJiminyRikuStoryTale6Line6
-DiZ, Riku made his way{END}
+شق ريكو طريقه عبر{END}
 @gJiminyRikuStoryTale6Line7
-through Twilight Town,{END}
+بلدة الشفق، هازماً نسخته{END}
 @gJiminyRikuStoryTale6Line8
-defeating his copy and{END}
+وعاثراً على ناميني.{END}
 @gJiminyRikuStoryTale6Line9
-locating Naminé.{END}
+ومعها وجد سورا ورفاقه{END}
 @gJiminyRikuStoryTale6Line10
- {END}
+في سبات عميق،{END}
 @gJiminyRikuStoryTale6Line11
-With her he found Sora{END}
+بانتظار استعادة ذكرياتهم.{END}
 @gJiminyRikuStoryTale6Line12
-and friends in a deep{END}
+{END}
 @gJiminyRikuStoryTale6Line13
-slumber, waiting to get{END}
+{END}
 @gJiminyRikuStoryTale6Line14
-their lost memories back.{END}
+استعادة ذكرياتهم.{END}
 @gJiminyRikuStoryTale6Line15
  {END}
 @gJiminyRikuStoryTale6Line16
@@ -4131,49 +4131,49 @@ their lost memories back.{END}
 @gJiminyRikuCharacterRikuLine10
  {END}
 @gJiminyRikuCharacterRikuLine11
-Enslaved by Ansem,{END}
+بعد أن أسره أنسيم{END}
 @gJiminyRikuCharacterRikuLine12
-pursuer of darkness,{END}
+تصادم ريكو مع سورا.{END}
 @gJiminyRikuCharacterRikuLine13
-Riku clashed with his{END}
+لكنه استعاد نفسه أخيراً،{END}
 @gJiminyRikuCharacterRikuLine14
-childhood friend Sora.{END}
+وأغلق مع سورا باب الظلام.{END}
 @gJiminyRikuCharacterRikuLine15
-But in the end he was{END}
+وجراح الظلام في قلبه{END}
 @gJiminyRikuCharacterRikuLine16
-able to regain himself,{END}
+لم تلتئم تماماً بعد.{END}
 @gJiminyRikuCharacterRikuLine17
-and together with Sora{END}
+{END}
 @gJiminyRikuCharacterRikuLine18
-closed the door to{END}
+{END}
 @gJiminyRikuCharacterRikuLine19
-darkness.{END}
+{END}
 @gJiminyRikuCharacterRikuLine20
- {END}
+{END}
 @gJiminyRikuCharacterRikuLine21
-Still, the dark wounds{END}
+{END}
 @gJiminyRikuCharacterRikuLine22
-in Riku’s heart have yet{END}
+{END}
 @gJiminyRikuCharacterRikuLine23
-to mend.{END}
+أن تلتئم.{END}
 @gJiminyRikuCharacterKingLine0
-The king who reigns{END}
+الملك الذي يحكم{END}
 @gJiminyRikuCharacterKingLine1
-over Disney Castle.{END}
+قلعة ديزني.{END}
 @gJiminyRikuCharacterKingLine2
  {END}
 @gJiminyRikuCharacterKingLine3
-He set off alone to{END}
+ملك قلعة ديزني.{END}
 @gJiminyRikuCharacterKingLine4
-protect his world and{END}
+انطلق لحماية العوالم{END}
 @gJiminyRikuCharacterKingLine5
-all worlds from the{END}
+كلها من سيطرة الظلام.{END}
 @gJiminyRikuCharacterKingLine6
-dominion of the dark.{END}
+{END}
 @gJiminyRikuCharacterKingLine7
- {END}
+{END}
 @gJiminyRikuCharacterKingLine8
-وحده{END}
+{END}
 @gJiminyRikuCharacterKingLine9
 لحماية{END}
 @gJiminyRikuCharacterKingLine10
@@ -4193,25 +4193,25 @@ dominion of the dark.{END}
 @gJiminyRikuCharacterKairiLine2
  {END}
 @gJiminyRikuCharacterKairiLine3
-Kairi vanished when{END}
+اختفت كايري حين ابتلع{END}
 @gJiminyRikuCharacterKairiLine4
-their home islands were{END}
+الظلام جزرهم.{END}
 @gJiminyRikuCharacterKairiLine5
-devoured by darkness.{END}
+سافر ريكو وسورا لبحثها.{END}
 @gJiminyRikuCharacterKairiLine6
-Riku and Sora both{END}
+احتجزها عديمو القلوب،{END}
 @gJiminyRikuCharacterKairiLine7
-journeyed to find her.{END}
+لكن بفضل سورا أُنقذت.{END}
 @gJiminyRikuCharacterKairiLine8
- {END}
+{END}
 @gJiminyRikuCharacterKairiLine9
-Kairi was held captive{END}
+{END}
 @gJiminyRikuCharacterKairiLine10
-by the Heartless, but{END}
+{END}
 @gJiminyRikuCharacterKairiLine11
-thanks to Sora she and{END}
+{END}
 @gJiminyRikuCharacterKairiLine12
-the islands were saved.{END}
+أُنقذت الجزر.{END}
 @gJiminyRikuCharacterKairiLine13
  {END}
 @gJiminyRikuCharacterKairiLine14
@@ -4225,121 +4225,121 @@ the islands were saved.{END}
 @gJiminyRikuCharacterLexaeusLine2
  {END}
 @gJiminyRikuCharacterLexaeusLine3
-A born warrior,{END}
+محارب يلوح بفأس ضخمة{END}
 @gJiminyRikuCharacterLexaeusLine4
-Lexaeus effortlessly{END}
+عملاقة بلا عناء.{END}
 @gJiminyRikuCharacterLexaeusLine5
-brandishes a gigantic{END}
+فشل في إخضاع ريكو، وسقط{END}
 @gJiminyRikuCharacterLexaeusLine6
-tomahawk.{END}
+في قاع الظلام.{END}
 @gJiminyRikuCharacterLexaeusLine7
- {END}
+{END}
 @gJiminyRikuCharacterLexaeusLine8
-يحمل{END}
+{END}
 @gJiminyRikuCharacterLexaeusLine9
-بلا{END}
+{END}
 @gJiminyRikuCharacterLexaeusLine10
-جهد{END}
+{END}
 @gJiminyRikuCharacterLexaeusLine11
 {END}
 @gJiminyRikuCharacterLexaeusLine12
  {END}
 @gJiminyRikuCharacterLexaeusLine13
-He failed, but with his{END}
+فشل، ولكن بأنفاسه{END}
 @gJiminyRikuCharacterLexaeusLine14
-dying strength dragged{END}
+الأخيرة جرّ ريكو{END}
 @gJiminyRikuCharacterLexaeusLine15
-Riku into the realm of{END}
+إلى عالم الظلام.{END}
 @gJiminyRikuCharacterLexaeusLine16
-darkness.{END}
+{END}
 @gJiminyAttackCardKingdomKeyLine0
-Strike:  D+{END}
+الضربة: D+{END}
 @gJiminyAttackCardKingdomKeyLine1
-Thrust:  D+{END}
+الاندفاع: D+{END}
 @gJiminyAttackCardKingdomKeyLine2
-Combo Finish:  D+{END}
+إنهاء الكومبو: D+{END}
 @gJiminyAttackCardKingdomKeyLine3
-Swing Speed:  B{END}
+سرعة التلويح: B{END}
 @gJiminyAttackCardKingdomKeyLine4
-Element:  Physical{END}
+العنصر: جسدي{END}
 @gJiminyAttackCardKingdomKeyLine5
-Break Recovery:  B{END}
+استعادة الكسر: B{END}
 @gJiminyAttackCardKingdomKeyLine6
-Required CP:  ★{END}
+نقاط CP: ★{END}
 @gJiminyAttackCardKingdomKeyLine7
- {END}
+السلاح الافتراضي.{END}
 @gJiminyAttackCardKingdomKeyLine8
-The default weapon.{END}
+ليس قوياً جداً، لكنه{END}
 @gJiminyAttackCardKingdomKeyLine9
-Not very powerful, but{END}
+موثوق وسهل الاستخدام.{END}
 @gJiminyAttackCardKingdomKeyLine10
-reliable and easy to{END}
+{END}
 @gJiminyAttackCardKingdomKeyLine11
-handle.{END}
+وسهل الاستخدام.{END}
 @gJiminyAttackCardThreeWishesLine0
-Strike:  C+{END}
+الضربة: C+{END}
 @gJiminyAttackCardThreeWishesLine1
-Thrust:  D+{END}
+الاندفاع: D+{END}
 @gJiminyAttackCardThreeWishesLine2
-Combo Finish:  B{END}
+إنهاء الكومبو: B{END}
 @gJiminyAttackCardThreeWishesLine3
-Swing Speed:  A{END}
+سرعة التلويح: A{END}
 @gJiminyAttackCardThreeWishesLine4
-Element:  Physical{END}
+العنصر: جسدي{END}
 @gJiminyAttackCardThreeWishesLine5
-Break Recovery:  B{END}
+استعادة الكسر: B{END}
 @gJiminyAttackCardThreeWishesLine6
-Required CP:  A{END}
+نقاط CP: A{END}
 @gJiminyAttackCardThreeWishesLine7
- {END}
+سلاح من أغربة.{END}
 @gJiminyAttackCardThreeWishesLine8
-Obtained in Agrabah.{END}
+قوي إلى حد ما وسريع.{END}
 @gJiminyAttackCardThreeWishesLine9
-Fairly strong with a{END}
+{END}
 @gJiminyAttackCardThreeWishesLine10
-fast swing.{END}
+بتلويح سريع.{END}
 @gJiminyAttackCardCrabclawLine0
-Strike:  C{END}
+الضربة: C{END}
 @gJiminyAttackCardCrabclawLine1
-Thrust:  C{END}
+الاندفاع: C{END}
 @gJiminyAttackCardCrabclawLine2
-Combo Finish:  B+{END}
+إنهاء الكومبو: B+{END}
 @gJiminyAttackCardCrabclawLine3
-Swing Speed:  B{END}
+سرعة التلويح: B{END}
 @gJiminyAttackCardCrabclawLine4
-Element:  Physical{END}
+العنصر: جسدي{END}
 @gJiminyAttackCardCrabclawLine5
-Break Recovery:  ★{END}
+استعادة الكسر: ★{END}
 @gJiminyAttackCardCrabclawLine6
-Required CP:  B{END}
+نقاط CP: B{END}
 @gJiminyAttackCardCrabclawLine7
- {END}
+سلاح من أطلانتيكا.{END}
 @gJiminyAttackCardCrabclawLine8
-Obtained in Atlantica.{END}
+سهل الاستخدام مع سرعة{END}
 @gJiminyAttackCardCrabclawLine9
-Easy to handle with an{END}
+استعادة رائعة للكسر.{END}
 @gJiminyAttackCardCrabclawLine10
-impressive recovery{END}
+{END}
 @gJiminyAttackCardCrabclawLine11
-time after card breaks.{END}
+بعد كسر البطاقات.{END}
 @gJiminyAttackCardPumpkinheadLine0
-Strike:  C+{END}
+الضربة: C+{END}
 @gJiminyAttackCardPumpkinheadLine1
-Thrust:  C+{END}
+الاندفاع: C+{END}
 @gJiminyAttackCardPumpkinheadLine2
-Combo Finish:  D+{END}
+إنهاء الكومبو: D+{END}
 @gJiminyAttackCardPumpkinheadLine3
-Swing Speed:  B{END}
+سرعة التلويح: B{END}
 @gJiminyAttackCardPumpkinheadLine4
-Element:  Physical{END}
+العنصر: جسدي{END}
 @gJiminyAttackCardPumpkinheadLine5
-Break Recovery:  A{END}
+استعادة الكسر: A{END}
 @gJiminyAttackCardPumpkinheadLine6
-Required CP:  A{END}
+نقاط CP: A{END}
 @gJiminyAttackCardPumpkinheadLine7
- {END}
+سلاح بلدة الهالوين.{END}
 @gJiminyAttackCardPumpkinheadLine8
-Obtained in Halloween{END}
+سلاح بلدة الهالوين.{END}
 @gJiminyAttackCardPumpkinheadLine9
 بلدة{END}
 @gJiminyAttackCardPumpkinheadLine10
@@ -4621,31 +4621,31 @@ Obtained in Halloween{END}
 @gJiminyAttackCardOneWingedAngelLine10
 {END}
 @gJiminyAttackCardOneWingedAngelLine11
-combo finish.{END}
+ضربة الكومبو.{END}
 @gJiminyEnemyCardDarksideLine0
-■ Mimic{END}
+■ تقليد{END}
 @gJiminyEnemyCardDarksideLine1
-Copy the enemy card{END}
+تنسخ بطاقة العدو{END}
 @gJiminyEnemyCardDarksideLine2
-your opponent is using.{END}
+التي يستخدمها الخصم.{END}
 @gJiminyEnemyCardDarksideLine3
-Nothing happens if{END}
+ولا يحدث شيء إن لم{END}
 @gJiminyEnemyCardDarksideLine4
-your opponent has no{END}
+تكن هناك بطاقة.{END}
 @gJiminyEnemyCardDarksideLine5
-enemy card in play.{END}
+■ تقليد{END}
 @gJiminyEnemyCardOogieBoogieLine0
-■ Regen{END}
+■ تجديد الصحة{END}
 @gJiminyEnemyCardOogieBoogieLine1
-Gradually restore HP.{END}
+تستعيد الصحة تدريجياً{END}
 @gJiminyEnemyCardOogieBoogieLine2
-HP return more quickly{END}
+وبسرعة أكبر عندما{END}
 @gJiminyEnemyCardOogieBoogieLine3
-when low.{END}
+تكون منخفضة.{END}
 @gJiminyEnemyCardOogieBoogieLine4
- {END}
+■ تجديد الصحة{END}
 @gJiminyEnemyCardOogieBoogieLine5
-المدة:{END}
+تستعيد الصحة تدريجياً{END}
 @gJiminyEnemyCardParasiteCageLine0
 10{END}
 @gJiminyEnemyCardParasiteCageLine1
@@ -4745,21 +4745,21 @@ when low.{END}
 @gJiminyPremiumCardsLine2
  {END}
 @gJiminyPremiumCardsLine3
-Premium cards require{END}
+بطاقات ممتازة بنقاط CP{END}
 @gJiminyPremiumCardsLine4
-very little CP, but can{END}
+قليلة، وتُستخدم مرة بالقتال{END}
 @gJiminyPremiumCardsLine5
-only be used once per{END}
+في القتال بلا تعبئة.{END}
 @gJiminyPremiumCardsLine6
-battle―no reloads{END}
+بطاقات الهجوم والسحر{END}
 @gJiminyPremiumCardsLine7
-allowed.{END}
+يمكن تحويلها لممتازة.{END}
 @gJiminyPremiumCardsLine8
- {END}
+{END}
 @gJiminyPremiumCardsLine9
-Only attack cards and{END}
+{END}
 @gJiminyPremiumCardsLine10
-magic cards can be{END}
+يمكن تحويلها لممتازة.{END}
 @gJiminyPremiumCardsLine11
 تُرقى إلى{END}
 @gJiminyPremiumCardsLine12
@@ -4807,73 +4807,73 @@ magic cards can be{END}
 @gJiminyStoryAtlanticaLine12
  {END}
 @gJiminyStoryAtlanticaLine13
-Ariel was so worried,{END}
+سرقت آريل الرمح لأورسولا{END}
 @gJiminyStoryAtlanticaLine14
-she stole the trident{END}
+لكنها كانت خدعة بحرية.{END}
 @gJiminyStoryAtlanticaLine15
-for Ursula,  but it was{END}
+وبقوة الرمح تضخمت أورسولا،{END}
 @gJiminyStoryAtlanticaLine16
-all a trick―Ursula had{END}
+أوقفناها واعتذرت آريل{END}
 @gJiminyStoryAtlanticaLine17
-Flounder all along.{END}
+لوالدها الملك.{END}
 @gJiminyStoryAtlanticaLine18
- {END}
+{END}
 @gJiminyStoryAtlanticaLine19
-With the trident’s{END}
+{END}
 @gJiminyStoryAtlanticaLine20
-power Ursula became a{END}
+{END}
 @gJiminyStoryAtlanticaLine21
-giant, but we stopped{END}
+{END}
 @gJiminyStoryAtlanticaLine22
-her and Ariel resolved{END}
+{END}
 @gJiminyStoryAtlanticaLine23
-to apologize to her{END}
+{END}
 @gJiminyStoryAtlanticaLine24
-father, the king.{END}
+والدها الملك.{END}
 @gJiminyStory100AcreWoodLine0
-Pooh seemed to have{END}
+بدا أن بو قد{END}
 @gJiminyStory100AcreWoodLine1
-lost his friends, so{END}
+فقد أصدقاءه،{END}
 @gJiminyStory100AcreWoodLine2
-Sora stopped to help{END}
+فتوقف سورا{END}
 @gJiminyStory100AcreWoodLine3
-him look.{END}
+ليساعده في البحث.{END}
 @gJiminyStory100AcreWoodLine4
  {END}
 @gJiminyStory100AcreWoodLine5
-Maybe Sora saw{END}
+فقد بو أصدقاءه، فتوقف{END}
 @gJiminyStory100AcreWoodLine6
-something of himself in{END}
+سورا لمساعدته في البحث.{END}
 @gJiminyStory100AcreWoodLine7
-Pooh, since he’s looking{END}
+رأى سورا في بو بعض نفسه،{END}
 @gJiminyStory100AcreWoodLine8
-for friends too.{END}
+فهو يبحث عن رفاقه.{END}
 @gJiminyEnemyCardSearchGhostLine0
-■ Drain{END}
+■ امتصاص{END}
 @gJiminyEnemyCardSearchGhostLine1
-Absorb enemy HP when{END}
+تمتص صحة العدو{END}
 @gJiminyEnemyCardSearchGhostLine2
-striking with attack{END}
+عند الهجوم ببطاقات،{END}
 @gJiminyEnemyCardSearchGhostLine3
-cards, but enemies will{END}
+لكن الأعداء يسقطون{END}
 @gJiminyEnemyCardSearchGhostLine4
-drop fewer items.{END}
+عناصر أقل.{END}
 @gJiminyEnemyCardSearchGhostLine5
  {END}
 @gJiminyEnemyCardSearchGhostLine6
-Duration:  1 reload{END}
+■ امتصاص{END}
 @gJiminyEnemyCardWyvernLine0
-■ Reload Lock{END}
+■ قفل التعبئة{END}
 @gJiminyEnemyCardWyvernLine1
-Reload without{END}
+تعبئ البطاقات بلا{END}
 @gJiminyEnemyCardWyvernLine2
-incrementing the reload{END}
+زيادة في عدّاد{END}
 @gJiminyEnemyCardWyvernLine3
-counter.{END}
+التعبئة.{END}
 @gJiminyEnemyCardWyvernLine4
- {END}
+■ قفل التعبئة{END}
 @gJiminyEnemyCardWyvernLine5
-زيادة{END}
+تعبئ بلا زيادة بالعدّاد.{END}
 @gJiminyEnemyCardTornadoStepLine0
 {END}
 @gJiminyEnemyCardTornadoStepLine1
@@ -4883,23 +4883,23 @@ counter.{END}
 @gJiminyEnemyCardTornadoStepLine3
  {END}
 @gJiminyEnemyCardTornadoStepLine4
-Duration:  1 reload{END}
+المدة: تعبئة واحدة{END}
 @gJiminyHeartlessSeaNeonLine0
-A jellyfish-like{END}
+عديم قلب يشبه{END}
 @gJiminyHeartlessSeaNeonLine1
-Heartless.{END}
+قنديل البحر.{END}
 @gJiminyHeartlessSeaNeonLine2
  {END}
 @gJiminyHeartlessSeaNeonLine3
-It might look laid back,{END}
+عديم قلب يشبه قنديل البحر.{END}
 @gJiminyHeartlessSeaNeonLine4
-but the Sea Neon’s long{END}
+يبدو هادئاً، لكن لوامسه{END}
 @gJiminyHeartlessSeaNeonLine5
-tentacles can propel it{END}
+تدفعه نحو العدو بهجوم شرس.{END}
 @gJiminyHeartlessSeaNeonLine6
-toward enemies for a{END}
+{END}
 @gJiminyHeartlessSeaNeonLine7
-ferocious attack.{END}
+{END}
 @gJiminyStoryCastleOblivionLine0
 حسناً،{END}
 @gJiminyStoryCastleOblivionLine1
@@ -4915,21 +4915,21 @@ ferocious attack.{END}
 @gJiminyStoryCastleOblivionLine6
  {END}
 @gJiminyStoryCastleOblivionLine7
-But we’ve made a{END}
+قطعنا وعداً بلا مسافة{END}
 @gJiminyStoryCastleOblivionLine8
-promise.  No distance{END}
+تفرقنا، وسنبقى أصدقاء لو{END}
 @gJiminyStoryCastleOblivionLine9
-can separate us, and{END}
+لم نتذكر ذلك.{END}
 @gJiminyStoryCastleOblivionLine10
-we’ll be friends even if{END}
+فسورا يعلم أن العهود لا تفنى{END}
 @gJiminyStoryCastleOblivionLine11
-we can’t remember it to{END}
+كما تتلاشى الذكريات.{END}
 @gJiminyStoryCastleOblivionLine12
-be so.{END}
+{END}
 @gJiminyStoryCastleOblivionLine13
- {END}
+{END}
 @gJiminyStoryCastleOblivionLine14
-اختفت.{END}
+{END}
 @gJiminyStoryCastleOblivionLine15
 {END}
 @gJiminyStoryCastleOblivionLine16
@@ -4943,25 +4943,25 @@ be so.{END}
 @gJiminyStoryCastleOblivionLine20
  {END}
 @gJiminyStoryCastleOblivionLine21
-Sora knows that{END}
+يعلم سورا أن{END}
 @gJiminyStoryCastleOblivionLine22
-promises don’t fade as{END}
+العهود لا تتلاشى{END}
 @gJiminyStoryCastleOblivionLine23
-easily as memories.{END}
+بسهولة الذكريات.{END}
 @gJiminyAttackCardUltimaWeaponLine0
-Strike:  ★{END}
+الضربة: ★{END}
 @gJiminyAttackCardUltimaWeaponLine1
-Thrust:  ★{END}
+الاندفاع: ★{END}
 @gJiminyAttackCardUltimaWeaponLine2
-Combo Finish:  A{END}
+إنهاء الكومبو: A{END}
 @gJiminyAttackCardUltimaWeaponLine3
-Swing Speed:  B{END}
+سرعة التلويح: B{END}
 @gJiminyAttackCardUltimaWeaponLine4
-Element:  Physical{END}
+العنصر: جسدي{END}
 @gJiminyAttackCardUltimaWeaponLine5
-Break Recovery:  B{END}
+استعادة الكسر: B{END}
 @gJiminyAttackCardUltimaWeaponLine6
-Required CP:  D{END}
+نقاط CP: D{END}
 @gJiminyAttackCardUltimaWeaponLine7
  {END}
 @gJiminyAttackCardUltimaWeaponLine8
